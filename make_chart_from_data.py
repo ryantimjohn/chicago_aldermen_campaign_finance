@@ -8,16 +8,23 @@ import matplotlib.cbook as cbook
 from matplotlib import gridspec
 from matplotlib import rc
 from matplotlib import lines
+from matplotlib import font_manager as fm, rcParams
 import os
 
 def make_infographic(df, ward, alderman):
     matplotlib.rcParams['pdf.fonttype']= 42
     matplotlib.rcParams['ps.fonttype']=42
+    plt.rc('text', usetex=True)
 
     font = {'weight' : 'normal',
-            'size'   : 6}
+            'size'   : 10}
 
     matplotlib.rc('font', **font)
+
+    fpath = "Raleway-Regular.ttf"
+    prop = fm.FontProperties(fname = fpath, weight='regular')
+    fpath = "Raleway-Black.ttf"
+    prop = fm.FontProperties(fname = fpath, weight='bold')
 
     """
     #Code to put everything on one chart
@@ -46,7 +53,7 @@ def make_infographic(df, ward, alderman):
     total_donors = df['amount'].count()
 
     # The slices will be ordered and plotted counter-clockwise.
-    labels = ["${:,d}\n{} Donors".format(list(pie_df['amount']['sum'])[x],list(pie_df['donor_type_size']['count'])[x]) for x in range(len(pie_df.index))]
+    labels = ["\\bf \Large \sffamily \${:,d}\n{} Donors".format(list(pie_df['amount']['sum'])[x],list(pie_df['donor_type_size']['count'])[x]) for x in range(len(pie_df.index))]
     sizes = list(pie_df['amount']['sum'])
     colors = ['#122547','#0190EF','#6C0A0C','#D62259','#00865B','#00D9B8']
 
@@ -60,7 +67,7 @@ def make_infographic(df, ward, alderman):
     # Set aspect ratio to be equal so that pie is drawn as a circle.
     plt.axis('equal')
 
-    pie_chart.text(0, 0,'Total\n${:,d}\n{} Donors'.format(total_amount, total_donors),
+    pie_chart.text(0, 0,'Total\n\\bf \Huge \sffamily \${:,d}\n{} Donors'.format(total_amount, total_donors),
          horizontalalignment='center',
          verticalalignment='center')
 
@@ -208,7 +215,7 @@ def make_infographic(df, ward, alderman):
 
     # Y axis
     ax = plt.gca()
-    fmt = '${x:,.0f}'
+    fmt = '\${x:,.0f}'
     tick = ticker.StrMethodFormatter(fmt)
     ax.yaxis.set_major_formatter(tick)
 
@@ -232,7 +239,7 @@ def make_infographic(df, ward, alderman):
     #put labels on top of bars
     heights = np.array([large_org_amt, small_org_amt, large_bus_amt, small_bus_amt, small_ind_amt, large_ind_amt]).sum(axis=0)
     donor_numbers = np.array([small_ind_cnt, large_ind_cnt,small_bus_cnt,large_bus_cnt,small_org_cnt, large_org_cnt]).sum(axis=0)
-    labels = ["${:,.0f}\n{} Donors".format(heights[i],donor_numbers[i]) for i in range(len(heights))]
+    labels = ["\\bf \Large \sffamily \${:,.0f}\n{} Donors".format(heights[i],donor_numbers[i]) for i in range(len(heights))]
     xs = [0,1,2,3]
     for height, label, x in zip(heights, labels, xs):
         ax.text(x, height+10, label, ha='center', va='bottom')
