@@ -3,7 +3,11 @@ import numpy as np
 import datetime as dt
 import requests
 import json
-from api_key import api_key
+try:
+        from api_key import api_key
+except Exception: #fallback if the user doesn't have an API key
+        print("Warning no Cityscape API key was found, location lookups will not work")
+        api_key=None
 
 def preprocess_data(df):
 	#loading the data frame and converting received_date to datetime
