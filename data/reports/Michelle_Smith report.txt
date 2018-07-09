@@ -1,0 +1,179 @@
+FEO ITEMIZED:6328.0
+SECTORS
+SECTOR financial:$24400.0, 1.0% of total income. Higher than 52.0% of aldermen in dollars and higher than 18.0% in percent of funding
+SECTOR candidate:$49624.0, 2.0% of total income. Higher than 48.0% of aldermen in dollars and higher than 18.0% in percent of funding
+SECTOR propertyman:$43960.0, 2.0% of total income. Higher than 64.0% of aldermen in dollars and higher than 28.0% in percent of funding
+SECTOR small donors:$106039.32, 4.0% of total income. Higher than 62.0% of aldermen in dollars and higher than 26.0% in percent of funding
+SECTOR developer:$26100.0, 1.0% of total income. Higher than 60.0% of aldermen in dollars and higher than 28.0% in percent of funding
+SECTOR realestate:$27877.58, 1.0% of total income. Higher than 74.0% of aldermen in dollars and higher than 50.0% in percent of funding
+SECTOR local individual :$1159152.1, 44.0% of total income. Higher than 96.0% of aldermen in dollars and higher than 98.0% in percent of funding
+SECTOR pac:$15250.0, 1.0% of total income. Higher than 32.0% of aldermen in dollars and higher than 8.0% in percent of funding
+SECTOR construction:$2750.0, 0.0% of total income. Higher than 10.0% of aldermen in dollars and higher than 8.0% in percent of funding
+SECTOR retail:$55362.8, 2.0% of total income. Higher than 34.0% of aldermen in dollars and higher than 8.0% in percent of funding
+SECTOR unclassified local business:$291509.04, 11.0% of total income. Higher than 70.0% of aldermen in dollars and higher than 28.0% in percent of funding
+SECTOR nonlocal individual :$695150.0, 27.0% of total income. Higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+SECTOR union:$56500.0, 2.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 14.0% in percent of funding
+SECTOR unclassified nonlocal business:$57550.18, 2.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 6.0% in percent of funding
+INTERESTING DONATIONS
+$5000.0 from chicago land operators joint labormanagement pac. (0.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 62.0% in percent of funding
+$1000.0 from bmo harris government affairs fund. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$3500.0 from chicago association of realtors political action committee. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$1250.0 from schain banks kenny  schwartz. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 84.0% in percent of funding
+$1250.0 from anderson and moore pc. (0.0% of total income. This is higher than 86.0% of aldermen in dollars and higher than 76.0% in percent of funding
+$3000.0 from dla piper llp us. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$1000.0 from PERSON:steans heather. (0.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 88.0% in percent of funding
+$1500.0 from PERSON:vaughan kevin. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1750.0 from PERSON:jann james. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$1500.0 from icm properties inc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$15200.0 from PERSON:eychaner fred. (1.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$2500.0 from chicagoland apartment association caa pac. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2500.0 from friends of michael alvarez. (0.0% of total income. This is higher than 76.0% of aldermen in dollars and higher than 66.0% in percent of funding
+$2000.0 from quigley for congress. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$1000.0 from PERSON:hayes harold. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2000.0 from citizens for tunney. (0.0% of total income. This is higher than 88.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$2500.0 from afscme illinois council no 31. (0.0% of total income. This is higher than 84.0% of aldermen in dollars and higher than 78.0% in percent of funding
+$5500.0 from illinois merchants political action committee team. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1500.0 from areas usa inc. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1000.0 from clayton residential home inc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from 315 w north ave lp. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$3989.32 from gibsons llc. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$10000.0 from chicago for rahm emanuel. (0.0% of total income. This is higher than 82.0% of aldermen in dollars and higher than 76.0% in percent of funding
+$1000.0 from illinois governmental consulting group llc. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$13500.0 from chicagoland chamber of commerce pac. (1.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$5000.0 from PERSON:labkon howard. (0.0% of total income. This is higher than 90.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$4500.0 from comcast financial agency corporation. (0.0% of total income. This is higher than 84.0% of aldermen in dollars and higher than 84.0% in percent of funding
+$2250.0 from nixon peabody. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1750.0 from daley and georges ltd. (0.0% of total income. This is higher than 84.0% of aldermen in dollars and higher than 74.0% in percent of funding
+$22677.58 from chicago federation of labor  iuc. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from 2230 elston llc. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 90.0% in percent of funding
+$6500.0 from general metals llc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2500.0 from PERSON:bucksbaum john. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$3500.0 from PERSON:singer william s. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:sanchez sam. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$5500.0 from hubbard house restaurant llc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from PERSON:pedemonte g daniel. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2500.0 from PERSON:rooney phillip b. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$2500.0 from christopoulos law group llc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from belgravia group ltd. (0.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 90.0% in percent of funding
+$17800.0 from PERSON:melman richard. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from leopardo companies inc. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$4000.0 from illinois restaurateurs pac. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 88.0% in percent of funding
+$15800.0 from lettuce entertain you enterprises inc. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from shapack partners. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1000.0 from PERSON:rocha alicia. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$3500.0 from PERSON:labkon marilyn. (0.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$1350.0 from lodge management corporation. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$3000.0 from citizens for tully. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$12000.0 from general iron industries inc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$10700.0 from PERSON:parrillo richard. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$3000.0 from group fox inc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2000.0 from PERSON:levy lawrence f. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2166.0 from ungaretti  harris. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from PERSON:malkin judd. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1000.0 from the illinois chamber political action committee. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2500.0 from is chicago management llc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2000.0 from PERSON:cooper carey. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$7500.0 from lester quam family 1997 irrevocable trust. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1000.0 from crown imports. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$1500.0 from stefani management services. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from heneghan wrecking company inc. (0.0% of total income. This is higher than 90.0% of aldermen in dollars and higher than 90.0% in percent of funding
+$1500.0 from PERSON:labkon mark. (0.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$1500.0 from PERSON:stowell mary. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$4000.0 from PERSON:karavites nicholas. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from PERSON:george john. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 88.0% in percent of funding
+$1000.0 from PERSON:kamin malcolm. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2500.0 from PERSON:fifield randy. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2750.0 from PERSON:brodsky william. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from 154153 partners lp. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$7500.0 from PERSON:levin jonathan. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from PERSON:leopardo gary. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1000.0 from the second city inc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from elston development llc. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$5600.0 from pritzker. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:deporter grant. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$5400.0 from PERSON:sacks cari. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$2284.0 from PERSON:bernardini charles. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1250.0 from anderson and moore. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$5000.0 from rose worldwide inc. (0.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$10500.0 from newsweb corporation. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1250.0 from PERSON:kass gary. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$5000.0 from committee for john cullerton. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1802.8 from pj wells inc dba obriens restaurant. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$6225.0 from citizens for sara feigenholtz. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2000.0 from quam ii limited partnership. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1250.0 from aabbitt adhesives inc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:tully thomas m. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$13800.0 from PERSON:gidwitz james. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from roosevelt group. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from loma management services llc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2500.0 from PERSON:casey daniel. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$3500.0 from PERSON:labkon adam. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$1000.0 from peak properties llc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$9000.0 from PERSON:bross john. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2750.0 from PERSON:epstein sidney. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from foran otoole  burke llc. (0.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$10700.0 from PERSON:sacks michael j. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 94.0% in percent of funding
+$5000.0 from barton management inc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$3000.0 from PERSON:webb dan. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$4000.0 from PERSON:burleson bobby. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1000.0 from PERSON:simpson john. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from grace mmc llc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$10000.0 from PERSON:heller david. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$12700.0 from vestian group inc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$18300.0 from PERSON:silver michael l. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$5000.0 from iuoe local 150 local area pac. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from PERSON:shapack jeff. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$3000.0 from PERSON:mclinden john. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1500.0 from illinois restaurant association. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 90.0% in percent of funding
+$1500.0 from citizens to elect committeeman william j p banks. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1000.0 from PERSON:campise francis. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1500.0 from PERSON:pritzker susan. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from anderson  moore. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1000.0 from PERSON:buford robert. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from PERSON:zoller lois. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1250.0 from PERSON:goldman scott. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$3000.0 from PERSON:baskin sheldon. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from PERSON:kennedy robert. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$4500.0 from PERSON:schivarelli peter. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$3000.0 from PERSON:weglarz mark. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$12304.45 from PERSON:smith michele. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2000.0 from PERSON:whitfield britt. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$31394.34 from PERSON:hall tom. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$5000.0 from PERSON:feinberg henry. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1750.0 from PERSON:barrett john. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:berkowitz steven. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$3000.0 from PERSON:krehbiel fred. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$5800.0 from PERSON:lundgren mark. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from PERSON:lang scott. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$38500.0 from PERSON:pritzker jb. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1250.0 from PERSON:steinmeyer randall. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$37657.21 from PERSON:grahamhenry diane. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from elston development signs llc. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$6000.0 from PERSON:hodes scott. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from w  a baker building trust. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$6500.0 from four corners tavern group. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$5000.0 from seiu local 880. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from PERSON:oberman justin. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from john barleycorn. (0.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$134846.36 from 43rd ward democrats. (5.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:meagher mike. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$5600.0 from mon ami gabi. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2300.0 from PERSON:eastwood stephen. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$367800.0 from PERSON:meier helen. (14.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1300.0 from PERSON:miller john. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1750.0 from hansen property investments. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2250.0 from PERSON:paris arthur. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$30000.0 from PERSON:horne john. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2000.0 from friends of ann williams. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+Michelle_Smith:1282
+Brendan_Reilly:120
+Thomas_Tunney:90
+Ed_Burke:84
+Brian_Hopkins:74
+
+OTHER INTERESTING THINGS
+Alderman is in the 96.0th percentile for  percent individual donors SLE with a value of 0.494372653857
+Alderman is in the 100.0th percentile for  percent from ward SLE with a value of 0.842163857606
+Alderman is in the 100.0th percentile for  percent from chicago SLE with a value of 0.893591919469

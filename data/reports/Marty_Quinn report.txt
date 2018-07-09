@@ -1,0 +1,32 @@
+FEO ITEMIZED:0.0
+SECTORS
+SECTOR candidate:$49897.13, 73.0% of total income. Higher than 54.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR small donors:$0.0, 0.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 4.0% in percent of funding
+SECTOR pac:$5000.0, 7.0% of total income. Higher than 10.0% of aldermen in dollars and higher than 96.0% in percent of funding
+SECTOR construction:$3000.0, 4.0% of total income. Higher than 12.0% of aldermen in dollars and higher than 84.0% in percent of funding
+SECTOR retail:$500.0, 1.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 4.0% in percent of funding
+SECTOR unclassified local business:$500.0, 1.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 4.0% in percent of funding
+SECTOR union:$2250.0, 3.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 30.0% in percent of funding
+SECTOR unclassified nonlocal business:$500.0, 1.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 4.0% in percent of funding
+SECTOR party:$6274.0, 9.0% of total income. Higher than 54.0% of aldermen in dollars and higher than 98.0% in percent of funding
+INTERESTING DONATIONS
+$5000.0 from chicago land operators joint labormanagement pac. (7.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from peoples gas light and coke co. (1.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from iuoe local 150 local area political action committee. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$49897.13 from madigan friends of michael  j. (73.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$6274.0 from 13th ward democratic organization. (9.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+Marty_Quinn:20
+Matthew_O'Shea:12
+Margaret_Laurino:12
+Joseph_Moore:12
+George_Cardenas:12
+
+OTHER INTERESTING THINGS
+Alderman is in the 4.0th percentile for Total donations SLE with a value of 7750.0
+Alderman is in the 100.0th percentile for percent itemized with a value of 1.0
+Alderman is in the 6.0th percentile for  total not itemized with a value of 0.0
+Alderman is in the 2.0th percentile for  percent individual donors SLE with a value of 1.29032258065e-17
+Alderman is in the 4.0th percentile for  percent from ward SLE with a value of 0.0645161290323
+Alderman is in the 4.0th percentile for  percent from chicago SLE with a value of 0.161290322581

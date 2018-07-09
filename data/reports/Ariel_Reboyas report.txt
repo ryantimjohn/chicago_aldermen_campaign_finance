@@ -1,0 +1,50 @@
+FEO ITEMIZED:304.69
+SECTORS
+SECTOR small donors:$169448.14, 19.0% of total income. Higher than 100.0% of aldermen in dollars and higher than 80.0% in percent of funding
+SECTOR financial:$33300.0, 4.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR developer:$7150.0, 1.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 20.0% in percent of funding
+SECTOR retail:$169050.42, 19.0% of total income. Higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR party:$4843.22, 1.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR nonlocal individual :$34975.0, 4.0% of total income. Higher than 60.0% of aldermen in dollars and higher than 20.0% in percent of funding
+SECTOR unclassified local business:$135729.69, 15.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+SECTOR union:$31510.0, 4.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 40.0% in percent of funding
+SECTOR local individual :$73420.0, 8.0% of total income. Higher than 60.0% of aldermen in dollars and higher than 20.0% in percent of funding
+SECTOR candidate:$52730.0, 6.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 60.0% in percent of funding
+SECTOR unclassified nonlocal business:$65150.0, 7.0% of total income. Higher than 60.0% of aldermen in dollars and higher than 60.0% in percent of funding
+SECTOR propertyman:$18800.0, 2.0% of total income. Higher than 60.0% of aldermen in dollars and higher than 40.0% in percent of funding
+SECTOR realestate:$18600.0, 2.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 60.0% in percent of funding
+SECTOR pac:$39900.0, 4.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR construction:$39530.0, 4.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+INTERESTING DONATIONS
+$3800.0 from tonys finer foods. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$2200.0 from volunteers for delgado. (0.0% of total income. This is higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$1550.0 from union pacific railroad. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$7000.0 from comcast. (1.0% of total income. This is higher than 60.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$1000.0 from car political action committee. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$1500.0 from chicagoland chamber of commerce. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$7000.0 from chicago association of realtors. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2500.0 from ufcw local 881. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$2650.0 from global parking management. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1750.0 from bomachicago pac. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$6000.0 from att illinois employee pac. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from citizens for tunney. (0.0% of total income. This is higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$3000.0 from afscme illinois council no 31. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$1500.0 from digbys detective  security agency inc. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from service employees illinois council. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$16400.0 from maragos  maragos ltd. (2.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from local 726 political action committee. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1250.0 from teamsters volunteers in politics. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$14980.0 from chicago for rahm emanuel. (2.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2000.0 from iuoe local 150. (0.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from PERSON:doerrer john a. (0.0% of total income. This is higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$4500.0 from taxpayers for quinn incorporated. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from seiu illinois council pac fund. (0.0% of total income. This is higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+
+SIMILAR PEOPLE
+Ariel_Reboyas:624
+Anthony_Beale:41
+Ameya_Pawar:28
+Anthony_Napolitano:24
+aCarlos_Ramirez-Rosa:18
+
+OTHER INTERESTING THINGS
