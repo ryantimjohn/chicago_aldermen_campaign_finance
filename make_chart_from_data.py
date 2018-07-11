@@ -108,90 +108,90 @@ def make_infographic(df, ward, alderman):
     		if row[11] == 'Individual':
     			if row[12] == 'under 500':
     				small_ind_cnt[0] += 1
-    				small_ind_amt[0] += row[3]
+    				small_ind_amt[0] += float(row[3])
     			elif row[12] == 'over 500':
     				large_ind_cnt[0] += 1
-    				large_ind_amt[0] += row[3]
+    				large_ind_amt[0] += float(row[3])
     		elif row[11] == 'Business':
     			if row[12] == 'under 500':
     				small_bus_cnt[0] += 1
-    				small_bus_amt[0] += row[3]
+    				small_bus_amt[0] += float(row[3])
     			elif row[12] == 'over 500':
     				large_bus_cnt[0] += 1
-    				large_bus_amt[0] += row[3]
+    				large_bus_amt[0] += float(row[3])
     		elif row[11] == 'Political Group':
     			if row[12] == 'under 500':
     				small_org_cnt[0] += 1
-    				small_org_amt[0] += row[3]
+    				small_org_amt[0] += float(row[3])
     			elif row[12] == 'over 500':
     				large_org_cnt[0] += 1
-    				large_org_amt[0] += row[3]
+    				large_org_amt[0] += float(row[3])
     	elif row[13] == 'in_Chicago_outside_ward':
     		if row[11] == 'Individual':
     			if row[12] == 'under 500':
     				small_ind_cnt[1] += 1
-    				small_ind_amt[1] += row[3]
+    				small_ind_amt[1] += float(row[3])
     			elif row[12] == 'over 500':
     				large_ind_cnt[1] += 1
-    				large_ind_amt[1] += row[3]
+    				large_ind_amt[1] += float(row[3])
     		elif row[11] == 'Business':
     			if row[12] == 'under 500':
     				small_bus_cnt[1] += 1
-    				small_bus_amt[1] += row[3]
+    				small_bus_amt[1] += float(row[3])
     			elif row[12] == 'over 500':
     				large_bus_cnt[1] += 1
-    				large_bus_amt[1] += row[3]
+    				large_bus_amt[1] += float(row[3])
     		elif row[11] == 'Political Group':
     			if row[12] == 'under 500':
     				small_org_cnt[1] += 1
-    				small_org_amt[1] += row[3]
+    				small_org_amt[1] += float(row[3])
     			elif row[12] == 'over 500':
     				large_org_cnt[1] += 1
-    				large_org_amt[1] += row[3]
+    				large_org_amt[1] += float(row[3])
     	elif row[13] == 'in_IL_outside_Chicago':
     		if row[11] == 'Individual':
     			if row[12] == 'under 500':
     				small_ind_cnt[2] += 1
-    				small_ind_amt[2] += row[3]
+    				small_ind_amt[2] += float(row[3])
     			elif row[12] == 'over 500':
     				large_ind_cnt[2] += 1
-    				large_ind_amt[2] += row[3]
+    				large_ind_amt[2] += float(row[3])
     		elif row[11] == 'Business':
     			if row[12] == 'under 500':
     				small_bus_cnt[2] += 1
-    				small_bus_amt[2] += row[3]
+    				small_bus_amt[2] += float(row[3])
     			elif row[12] == 'over 500':
     				large_bus_cnt[2] += 1
-    				large_bus_amt[2] += row[3]
+    				large_bus_amt[2] += float(row[3])
     		elif row[11] == 'Political Group':
     			if row[12] == 'under 500':
     				small_org_cnt[2] += 1
-    				small_org_amt[2] += row[3]
+    				small_org_amt[2] += float(row[3])
     			elif row[12] == 'over 500':
     				large_org_cnt[2] += 1
-    				large_org_amt[2] += row[3]
+    				large_org_amt[2] += float(row[3])
     	elif row[13] == 'outside_IL':
     		if row[11] == 'Individual':
     			if row[12] == 'under 500':
     				small_ind_cnt[3] += 1
-    				small_ind_amt[3] += row[3]
+    				small_ind_amt[3] += float(row[3])
     			elif row[12] == 'over 500':
     				large_ind_cnt[3] += 1
-    				large_ind_amt[3] += row[3]
+    				large_ind_amt[3] += float(row[3])
     		elif row[11] == 'Business':
     			if row[12] == 'under 500':
     				small_bus_cnt[3] += 1
-    				small_bus_amt[3] += row[3]
+    				small_bus_amt[3] += float(row[3])
     			elif row[12] == 'over 500':
     				large_bus_cnt[3] += 1
-    				large_bus_amt[3] += row[3]
+    				large_bus_amt[3] += float(row[3])
     		elif row[11] == 'Political Group':
     			if row[12] == 'under 500':
     				small_org_cnt[3] += 1
-    				small_org_amt[3] += row[3]
+    				small_org_amt[3] += float(row[3])
     			elif row[12] == 'over 500':
     				large_org_cnt[3] += 1
-    				large_org_amt[3] += row[3]
+    				large_org_amt[3] += float(row[3])
 
 
     # The position of the bars on the x-axis
