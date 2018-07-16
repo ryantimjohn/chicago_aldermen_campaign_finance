@@ -117,6 +117,43 @@ def make_small_donor_chart(donation_data, alderman):
     plt.tight_layout()
     plt.savefig(os.path.join('infographics', (alderman+' donation overview')), dpi=1000)
     plt.close()
+
+
+
+def make_sector_chart(donation_data, alderman):
+    #set plot parameters
+    matplotlib.rcParams['pdf.fonttype']= 42
+    matplotlib.rcParams['ps.fonttype']=42
+    plt.rc('text', usetex=True)
+    font = {'weight' : 'normal',
+            'size'   : 10}
+    matplotlib.rc('font', **font)
+    fpath = "Raleway-Black.ttf"
+    prop = fm.FontProperties(fname = fpath, weight='bold')
+
+    pie_chart=plt.gca()
+
+    label_list=[]
+    #create the labels
+    for item in list(donation_data.keys()):
+        label_list.append("\\bf \Large \sffamily \${:,.0f}".format(donation_data[item])+"\n"+item)
+
+    #dict for how to aggregate data, grouping with a count, aggregating
+    
+    pie_chart.pie(list(donation_data.values()), labels=label_list)
+
+    #draw a circle at the center of pie to make it look like a donut
+    centre_circle = plt.Circle((0,0),0.50,color='white', fc='white',linewidth=1.25)
+    pie_chart.add_artist(centre_circle)
+
+
+    # Set aspect ratio to be equal so that pie is drawn as a circle.
+    plt.axis('equal')
+
+    plt.tight_layout()
+    plt.savefig(os.path.join('infographics', (alderman+' sector chart')), dpi=1000)
+    plt.close()
+    
 def get_donation_data(alder_data): #parse the report file to get small donaitons, donations from inside ward, and total
     feo_itemized=float(alder_data[alder_data.find("FEO ITEMIZED:")+13:].split("\n")[0].replace("$","")) #parse out the total for itemized contributions that would still be under the FEO limit. Small donaitons=non itemized contributions + itemized contributions less than 175
     #non_itemized=float(alder_data[alder_data.find("SECTOR small donors:")+19:].split("\n")[0].replace("$",""))
@@ -135,7 +172,15 @@ def get_donation_data(alder_data): #parse the report file to get small donaitons
         total=total+sectors[item]
     return [total, nonitemized+feo_itemized, individual_in_ward]
 
-
+def get_sector_data(alder_data): #parse the report file to get contributions from all sectors
+    sector_chunk=alder_data.split("SECTORS")[1].split("INTERESTING DONATIONS")[0] #get the chunk of the file containing sectors
+    sector_donations={}#list to hold the money donated by each sector
+    for item in sector_chunk.split("\n"):
+        if len(item) > 2: #make sure this is an actual line with text not just a blank
+            donation_temp=item.split(":")[1]
+            donation_temp=donation_temp[:donation_temp.find(",")]
+            sector_donations[item.split(":")[0]]=float(donation_temp.replace("$",""))
+    return sector_donations
 
 for alderman in all_aldermen:
     print(alderman)
@@ -143,7 +188,9 @@ for alderman in all_aldermen:
         alder_file=open(os.path.join("data","reports",alderman.replace(" ","_")+" report.txt"),'r')
         alder_file_lines=alder_file.read()
         alder_file.close()
-        make_small_donor_chart((get_donation_data(alder_file_lines)),alderman)
+        #make_small_donor_chart((get_donation_data(alder_file_lines)),alderman)
+        #print(str(get_sector_data(alder_file_lines)))
+        make_sector_chart((get_sector_data(alder_file_lines)),alderman)
     except FileNotFoundError:
         print("Couldn't load file")
         
