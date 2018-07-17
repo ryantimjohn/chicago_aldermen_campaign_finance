@@ -121,10 +121,12 @@ def make_small_donor_chart(donation_data, alderman):
 
 
 def make_sector_chart(donation_data, alderman):
+    print(str(donation_data))
     #set plot parameters
     matplotlib.rcParams['pdf.fonttype']= 42
     matplotlib.rcParams['ps.fonttype']=42
     plt.rc('text', usetex=True)
+    plt.rc('figure', autolayout=True)
     font = {'weight' : 'normal',
             'size'   : 10}
     matplotlib.rc('font', **font)
@@ -132,16 +134,16 @@ def make_sector_chart(donation_data, alderman):
     prop = fm.FontProperties(fname = fpath, weight='bold')
 
     pie_chart=plt.gca()
-
+    
     label_list=[]
     #create the labels
     for item in list(donation_data.keys()):
-        label_list.append("\\bf \Large \sffamily \${:,.0f}".format(donation_data[item])+"\n"+item)
-
+        label_list.append("\\bf \sffamily \${:,.0f}".format(donation_data[item])+"\n"+item)
+ 
     #dict for how to aggregate data, grouping with a count, aggregating
     
     pie_chart.pie(list(donation_data.values()), labels=label_list)
-
+   # plt.gcf().set_size_inches(8,8)
     #draw a circle at the center of pie to make it look like a donut
     centre_circle = plt.Circle((0,0),0.50,color='white', fc='white',linewidth=1.25)
     pie_chart.add_artist(centre_circle)
@@ -151,7 +153,7 @@ def make_sector_chart(donation_data, alderman):
     plt.axis('equal')
 
     plt.tight_layout()
-    plt.savefig(os.path.join('infographics', (alderman+' sector chart')), dpi=1000)
+    plt.savefig(os.path.join('infographics', (alderman+' sector chart')), dpi=1000,bbox_inches='tight')
     plt.close()
     
 def get_donation_data(alder_data): #parse the report file to get small donaitons, donations from inside ward, and total
