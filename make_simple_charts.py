@@ -13,6 +13,7 @@ import numpy as np
 import os
 
 sector_colors={'SECTOR financial':'#122547','SECTOR candidate':'#0190EF','SECTOR propertyman':'#6C0A0C','SECTOR small donors':'#D62259','SECTOR developer':'#00865B','SECTOR realestate':'#00D9B8','SECTOR local individual ':'#0f5cd8','SECTOR pac':'#600956','SECTOR construction':'#0a3d03','SECTOR retail':'#015954','SECTOR unclassified local business':'#41421e','SECTOR nonlocal individual ':'#5fba5b','SECTOR union':'#915252','SECTOR unclassified nonlocal business':'#a57804','SECTOR party':'#ef02ef'}
+sector_name_remap={'SECTOR financial':'Financial','SECTOR candidate':'Political candidate','SECTOR propertyman':'Property management','SECTOR small donors':'Small donors','SECTOR developer':'Developer','SECTOR realestate':'Real estate','SECTOR local individual ':'People within ward','SECTOR pac':'Political action committee\n(PAC)','SECTOR construction':'Construction','SECTOR retail':'Retail','SECTOR unclassified local business':'Other business inside ward','SECTOR nonlocal individual ':'Person not from ward','SECTOR union':'Labor union','SECTOR unclassified nonlocal business':'Other business outside ward','SECTOR party':'Political party'}
 
 all_aldermen='''Joe Moreno
 Brian Hopkins
@@ -142,7 +143,7 @@ def make_sector_chart(donation_data, alderman):
     #create the labels
     colors=[]
     for item in list(donation_data.keys()):
-        label_list.append("\\bf \sffamily \${:,.0f}".format(donation_data[item])+"\n"+item)
+        label_list.append("\\bf \sffamily \${:,.0f}".format(donation_data[item])+"\n"+sector_name_remap[item]) #create a label using the human readable descrption of the sector
         colors.append(sector_colors[item]) #get the color associated with this type of donation
     
     pie_chart.pie(list(donation_data.values()), labels=label_list,colors=colors)
