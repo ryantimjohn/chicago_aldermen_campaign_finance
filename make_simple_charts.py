@@ -13,7 +13,7 @@ import numpy as np
 import os
 
 sector_colors={'SECTOR financial':'#122547','SECTOR candidate':'#0190EF','SECTOR propertyman':'#6C0A0C','SECTOR small donors':'#D62259','SECTOR developer':'#00865B','SECTOR realestate':'#00D9B8','SECTOR local individual ':'#0f5cd8','SECTOR pac':'#600956','SECTOR construction':'#0a3d03','SECTOR retail':'#015954','SECTOR unclassified local business':'#41421e','SECTOR nonlocal individual ':'#5fba5b','SECTOR union':'#915252','SECTOR unclassified nonlocal business':'#a57804','SECTOR party':'#ef02ef'}
-sector_name_remap={'SECTOR financial':'Financial','SECTOR candidate':'Political candidate','SECTOR propertyman':'Property management','SECTOR small donors':'Small donors','SECTOR developer':'Developer','SECTOR realestate':'Real estate','SECTOR local individual ':'People within ward','SECTOR pac':'Political action committee\n(PAC)','SECTOR construction':'Construction','SECTOR retail':'Retail','SECTOR unclassified local business':'Other business inside ward','SECTOR nonlocal individual ':'Person not from ward','SECTOR union':'Labor union','SECTOR unclassified nonlocal business':'Other business outside ward','SECTOR party':'Political party'}
+sector_name_remap={'SECTOR financial':'Financial','SECTOR candidate':'Political candidate','SECTOR propertyman':'Property management','SECTOR small donors':'Donations less than \$ 150','SECTOR developer':'Developer','SECTOR realestate':'Real estate','SECTOR local individual ':'People within ward','SECTOR pac':'Political action committee\n(PAC)','SECTOR construction':'Construction','SECTOR retail':'Retail','SECTOR unclassified local business':'Other business inside ward','SECTOR nonlocal individual ':'Person not from ward','SECTOR union':'Labor union','SECTOR unclassified nonlocal business':'Other business outside ward','SECTOR party':'Political party'}
 
 all_aldermen='''Joe Moreno
 Brian Hopkins
@@ -142,7 +142,9 @@ def make_sector_chart(donation_data, alderman):
     label_list=[]
     #create the labels
     colors=[]
+    total_amount=0
     for item in list(donation_data.keys()):
+        total_amount=total_amount+donation_data[item]
         label_list.append("\\bf \sffamily \${:,.0f}".format(donation_data[item])+"\n"+sector_name_remap[item]) #create a label using the human readable descrption of the sector
         colors.append(sector_colors[item]) #get the color associated with this type of donation
     
@@ -155,7 +157,10 @@ def make_sector_chart(donation_data, alderman):
 
     # Set aspect ratio to be equal so that pie is drawn as a circle.
     plt.axis('equal')
-
+    # Put the total in the middle
+    pie_chart.text(0, 0,'\b Total\n\\bf \Huge \sffamily \$ {:,d}'.format(round(total_amount)),
+         horizontalalignment='center',
+         verticalalignment='center')
     plt.tight_layout()
     plt.savefig(os.path.join('infographics', (alderman+' sector chart')), dpi=1000,bbox_inches='tight')
     plt.close()
