@@ -1,0 +1,40 @@
+FEO ITEMIZED:1147.23
+SECTORS
+SECTOR financial:$4700.0, 3.0% of total income. Higher than 24.0% of aldermen in dollars and higher than 76.0% in percent of funding
+SECTOR candidate:$5750.0, 4.0% of total income. Higher than 18.0% of aldermen in dollars and higher than 78.0% in percent of funding
+SECTOR propertyman:$6150.0, 5.0% of total income. Higher than 20.0% of aldermen in dollars and higher than 84.0% in percent of funding
+SECTOR small donors:$144214.0, 107.0% of total income. Higher than 24.0% of aldermen in dollars and higher than 74.0% in percent of funding
+SECTOR developer:$3247.16, 2.0% of total income. Higher than 26.0% of aldermen in dollars and higher than 62.0% in percent of funding
+SECTOR realestate:$1250.0, 1.0% of total income. Higher than 18.0% of aldermen in dollars and higher than 42.0% in percent of funding
+SECTOR local individual :$22650.0, 17.0% of total income. Higher than 18.0% of aldermen in dollars and higher than 48.0% in percent of funding
+SECTOR pac:$1000.0, 1.0% of total income. Higher than 12.0% of aldermen in dollars and higher than 22.0% in percent of funding
+SECTOR construction:$4850.0, 4.0% of total income. Higher than 24.0% of aldermen in dollars and higher than 64.0% in percent of funding
+SECTOR retail:$13500.0, 10.0% of total income. Higher than 22.0% of aldermen in dollars and higher than 72.0% in percent of funding
+SECTOR unclassified local business:$14150.0, 10.0% of total income. Higher than 16.0% of aldermen in dollars and higher than 28.0% in percent of funding
+SECTOR nonlocal individual :$18350.0, 14.0% of total income. Higher than 22.0% of aldermen in dollars and higher than 90.0% in percent of funding
+SECTOR union:$10250.0, 8.0% of total income. Higher than 16.0% of aldermen in dollars and higher than 62.0% in percent of funding
+SECTOR unclassified nonlocal business:$8923.89, 7.0% of total income. Higher than 16.0% of aldermen in dollars and higher than 48.0% in percent of funding
+INTERESTING DONATIONS
+$1500.0 from PERSON:nunes marcus. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from kutak rock llp. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1997.16 from the roosevelt group. (1.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from preckwinkle for president. (1.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2000.0 from chicagoland chamber of commerce political action committee. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from dentons us llp. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1300.0 from PERSON:descoto federico. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from rockwell construction llc. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from reyes kurson. (1.0% of total income. This is higher than 82.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from PERSON:tully thomas. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from ufcw local 881 political action committee. (1.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1500.0 from infrastructure engineering. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from agb investigative services. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2500.0 from 4630 harris building. (2.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from PERSON:bobins norman. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from PERSON:mcguire john. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:taylor william. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from friends for harris. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+
+OTHER INTERESTING THINGS
+Alderman is in the 100.0th percentile for  median donation SLE with a value of 500.0

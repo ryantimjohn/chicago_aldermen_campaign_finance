@@ -196,12 +196,17 @@ def get_sector_data(alder_data): #parse the report file to get contributions fro
 for alderman in all_aldermen:
     print(alderman)
     try:
+        #load data for charts--both original (actual data) and projection under the feo
         alder_file=open(os.path.join("data","reports",alderman.replace(" ","_")+" report.txt"),'r')
+        alder_file_feo=open(os.path.join("data","reports",alderman.replace(" ","_")+" report feo.txt"),'r') #projection under the feo
         alder_file_lines=alder_file.read()
+        alder_file_feo_lines=alder_file_feo.read()
         alder_file.close()
-        #make_small_donor_chart((get_donation_data(alder_file_lines)),alderman)
-        #print(str(get_sector_data(alder_file_lines)))
+        alder_file_feo.close()
+        make_small_donor_chart((get_donation_data(alder_file_lines)),alderman)
+        make_small_donor_chart((get_donation_data(alder_file_feo_lines)),alderman+" FEO")
         make_sector_chart((get_sector_data(alder_file_lines)),alderman)
+        make_sector_chart((get_sector_data(alder_file_feo_lines)),alderman+" FEO")
     except FileNotFoundError:
         print("Couldn't load file")
         

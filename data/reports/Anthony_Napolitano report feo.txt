@@ -1,0 +1,38 @@
+FEO ITEMIZED:0
+SECTORS
+SECTOR financial:$200.0, 0.0% of total income. Higher than 6.0% of aldermen in dollars and higher than 6.0% in percent of funding
+SECTOR candidate:$2130.0, 1.0% of total income. Higher than 8.0% of aldermen in dollars and higher than 12.0% in percent of funding
+SECTOR propertyman:$3175.0, 2.0% of total income. Higher than 16.0% of aldermen in dollars and higher than 26.0% in percent of funding
+SECTOR small donors:$364086.65, 198.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 98.0% in percent of funding
+SECTOR developer:$1950.0, 1.0% of total income. Higher than 14.0% of aldermen in dollars and higher than 28.0% in percent of funding
+SECTOR realestate:$4650.0, 3.0% of total income. Higher than 44.0% of aldermen in dollars and higher than 98.0% in percent of funding
+SECTOR local individual :$31485.65, 17.0% of total income. Higher than 26.0% of aldermen in dollars and higher than 58.0% in percent of funding
+SECTOR pac:$2500.0, 1.0% of total income. Higher than 20.0% of aldermen in dollars and higher than 64.0% in percent of funding
+SECTOR construction:$6750.0, 4.0% of total income. Higher than 32.0% of aldermen in dollars and higher than 68.0% in percent of funding
+SECTOR retail:$12375.0, 7.0% of total income. Higher than 18.0% of aldermen in dollars and higher than 26.0% in percent of funding
+SECTOR unclassified local business:$8410.0, 5.0% of total income. Higher than 14.0% of aldermen in dollars and higher than 6.0% in percent of funding
+SECTOR nonlocal individual :$11545.01, 6.0% of total income. Higher than 16.0% of aldermen in dollars and higher than 26.0% in percent of funding
+SECTOR union:$19500.0, 11.0% of total income. Higher than 32.0% of aldermen in dollars and higher than 82.0% in percent of funding
+SECTOR unclassified nonlocal business:$14550.0, 8.0% of total income. Higher than 22.0% of aldermen in dollars and higher than 58.0% in percent of funding
+SECTOR party:$500.0, 0.0% of total income. Higher than 36.0% of aldermen in dollars and higher than 60.0% in percent of funding
+INTERESTING DONATIONS
+$1000.0 from the burnham committee. (1.0% of total income. This is higher than 70.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1500.0 from wight  company. (1.0% of total income. This is higher than 96.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from afscme illinois council no 31. (1.0% of total income. This is higher than 86.0% of aldermen in dollars and higher than 92.0% in percent of funding
+$1000.0 from chicago painters inc. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from chicago teachers union pac. (1.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 90.0% in percent of funding
+$1650.0 from ibew pac voluntary fund. (1.0% of total income. This is higher than 82.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2950.0 from zitella development corp. (2.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1200.0 from PERSON:mullarkey terrence. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from seiu illinois council pac fund. (1.0% of total income. This is higher than 84.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1500.0 from chicago fire fighters union local 2. (1.0% of total income. This is higher than 88.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from kolpak and lerner attorneys at law. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1200.0 from fraternal order of police chicago lodge no 7. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1800.0 from daley and georges ltd. (1.0% of total income. This is higher than 94.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1450.0 from cuda law offices ltd. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+
+OTHER INTERESTING THINGS
+Alderman is in the 4.0th percentile for percent itemized with a value of 0.723764545066
+Alderman is in the 92.0th percentile for  total not itemized with a value of 40772.32

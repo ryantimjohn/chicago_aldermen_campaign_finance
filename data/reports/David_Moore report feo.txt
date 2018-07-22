@@ -1,0 +1,35 @@
+FEO ITEMIZED:0
+SECTORS
+SECTOR financial:$500.0, 1.0% of total income. Higher than 10.0% of aldermen in dollars and higher than 14.0% in percent of funding
+SECTOR candidate:$7650.0, 9.0% of total income. Higher than 30.0% of aldermen in dollars and higher than 96.0% in percent of funding
+SECTOR propertyman:$6500.0, 8.0% of total income. Higher than 26.0% of aldermen in dollars and higher than 98.0% in percent of funding
+SECTOR small donors:$98595.0, 120.0% of total income. Higher than 12.0% of aldermen in dollars and higher than 82.0% in percent of funding
+SECTOR developer:$300.0, 0.0% of total income. Higher than 8.0% of aldermen in dollars and higher than 8.0% in percent of funding
+SECTOR local individual :$12716.76, 16.0% of total income. Higher than 8.0% of aldermen in dollars and higher than 40.0% in percent of funding
+SECTOR pac:$2750.0, 3.0% of total income. Higher than 22.0% of aldermen in dollars and higher than 98.0% in percent of funding
+SECTOR construction:$3750.0, 5.0% of total income. Higher than 18.0% of aldermen in dollars and higher than 92.0% in percent of funding
+SECTOR retail:$5445.0, 7.0% of total income. Higher than 10.0% of aldermen in dollars and higher than 24.0% in percent of funding
+SECTOR unclassified local business:$8110.0, 10.0% of total income. Higher than 12.0% of aldermen in dollars and higher than 22.0% in percent of funding
+SECTOR nonlocal individual :$7000.0, 9.0% of total income. Higher than 10.0% of aldermen in dollars and higher than 50.0% in percent of funding
+SECTOR union:$8568.44, 10.0% of total income. Higher than 14.0% of aldermen in dollars and higher than 80.0% in percent of funding
+SECTOR unclassified nonlocal business:$4600.0, 6.0% of total income. Higher than 14.0% of aldermen in dollars and higher than 26.0% in percent of funding
+INTERESTING DONATIONS
+$2000.0 from ufcw local 881. (2.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from att illinois employee pac. (1.0% of total income. This is higher than 54.0% of aldermen in dollars and higher than 96.0% in percent of funding
+$1000.0 from afscme illinois council no 31. (1.0% of total income. This is higher than 86.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2000.0 from kutak rock llp. (2.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from cook county college teachers unioncope. (1.0% of total income. This is higher than 90.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$2537.19 from seiu healthcare il in pac. (3.0% of total income. This is higher than 90.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from ujamaa construction inc. (1.0% of total income. This is higher than 84.0% of aldermen in dollars and higher than 98.0% in percent of funding
+$1200.0 from nia architects inc. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from jb for governor. (2.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:davis stephen. (2.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from mako properties inc. (1.0% of total income. This is higher than 98.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1000.0 from lincoln south central. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from PERSON:rogers jr larry. (2.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$4500.0 from committe to elect larry rogers jr. (5.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+
+OTHER INTERESTING THINGS
+Alderman is in the 100.0th percentile for  median donation SLE with a value of 500.0

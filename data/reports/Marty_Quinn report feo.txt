@@ -1,0 +1,25 @@
+FEO ITEMIZED:0.0
+SECTORS
+SECTOR candidate:$3797.5, 36.0% of total income. Higher than 10.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR small donors:$0.0, 0.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 4.0% in percent of funding
+SECTOR pac:$500.0, 5.0% of total income. Higher than 6.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR construction:$1750.0, 17.0% of total income. Higher than 12.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR retail:$500.0, 5.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 18.0% in percent of funding
+SECTOR unclassified local business:$500.0, 5.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 8.0% in percent of funding
+SECTOR union:$1500.0, 14.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 94.0% in percent of funding
+SECTOR unclassified nonlocal business:$500.0, 5.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 18.0% in percent of funding
+SECTOR party:$1500.0, 14.0% of total income. Higher than 54.0% of aldermen in dollars and higher than 100.0% in percent of funding
+INTERESTING DONATIONS
+$3797.5 from madigan friends of michael  j. (36.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from 13th ward democratic organization. (14.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+
+OTHER INTERESTING THINGS
+Alderman is in the 4.0th percentile for Total donations SLE with a value of 2750.0
+Alderman is in the 100.0th percentile for  median donation SLE with a value of 500.0
+Alderman is in the 100.0th percentile for percent itemized with a value of 1.0
+Alderman is in the 6.0th percentile for  total not itemized with a value of 0.0
+Alderman is in the 2.0th percentile for  percent individual donors SLE with a value of 3.63636363636e-17
+Alderman is in the 4.0th percentile for  percent from ward SLE with a value of 0.181818181818
+Alderman is in the 4.0th percentile for  percent from chicago SLE with a value of 0.363636363636
