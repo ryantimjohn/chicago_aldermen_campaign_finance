@@ -14,7 +14,7 @@ for ward, alderman in enumerate(alderman_list, 1):
 
     last_campaign = pis.group_and_aggregate(last_campaign)
     last_campaign = pis.add_donor_type_size(last_campaign)
-    #last_campaign = pis.ward_lookup(last_campaign)
+    last_campaign = pis.ward_lookup(last_campaign)
     last_campaign = pis.add_donation_location(last_campaign, ward)
 
     mcfd.make_infographic(last_campaign, ward, alderman)
