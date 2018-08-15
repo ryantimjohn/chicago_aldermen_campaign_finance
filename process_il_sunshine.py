@@ -14,7 +14,7 @@ def preprocess_data(df):
 	df['received_date'] = pd.to_datetime(df['received_date'])
 
 	#selecting for the last_campaign
-	last_campaign = df[(df['received_date'] >= dt.date(2015, 2, 24))]
+	last_campaign = df[(df['received_date'] >= dt.datetime(2015, 2, 24))]
 
 	#replacing nan with empty string
 	last_campaign = last_campaign.fillna('')
@@ -63,13 +63,15 @@ def ward_lookup(last_campaign):
 			print("Looking up row {} of {}".format(counts, total))
 			response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(row[6], api_key))
 			result = json.loads(response.text)
-			#print(result)
 			try:
-				ward = result["properties"]["boundaries"]["ward"][0]["slug"].split('-')[1]
-				print("Ward: ".format(ward))
-				last_campaign.loc[index, 'ward_if_chicago'] = str(ward)
-			except (TypeError, KeyError) as e:
-				pass
+				for entry in result["properties"]["boundaries"]:
+					if entry['type'] == 'ward':
+						ward = entry['slug'].split('-')[1]
+						print("Ward: {}".format(ward))
+						last_campaign.loc[index, 'ward_if_chicago'] = str(ward)
+						break
+			except (TypeError, KeyError, AssertionError) as e:
+				print("Error, here are the results: {}".format(result["properties"]["boundaries"]))
 
 	return last_campaign
 
@@ -108,7 +110,7 @@ alderman_list = ["Joe Moreno",
 "Toni Foulkes",
 "David Moore",
 "Derrick Curtis",
-"Matthew O’Shea",
+"Matthew O'Shea",
 "Willie B. Cochran",
 "Howard Brookins Jr.",
 "Ricardo Munoz",
