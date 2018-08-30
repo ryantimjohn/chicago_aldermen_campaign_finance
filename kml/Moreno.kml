@@ -13,7 +13,11 @@
       <styleUrl>#defaultStyle</styleUrl>
 
       <ExtendedData>
-        <Data name="ward"><value>1</value></Data><Data name="shape_area"><value>69757593.8542</value></Data><Data name="shape_leng"><value>102569.70148</value></Data>
+        <Data name="string">
+          <displayName>
+          <h1>Ward 1</h1><p>Alderman Proco Joe Moreno</p>
+          </displayName>
+        </Data>
       </ExtendedData>
       <MultiGeometry>
       <Polygon>
