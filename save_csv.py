@@ -4,8 +4,8 @@ import os
 
 def save_csv(last_campaign, ward, name):
     last_campaign = last_campaign.reset_index(drop=True)
-    if not os.path.isdir("json"):
-        os.mkdir("json")
-    last_campaign.to_json(os.path.join(
-                            "json",
-                            "{} - {}.json".format(ward, name)), orient='index')
+    if not os.path.isdir("csv"):
+        os.mkdir("csv")
+    last_campaign.to_csv(os.path.join(
+                            "csv",
+                            "{} - {}.csv".format(ward, name)), sep = '\t')
