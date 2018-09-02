@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup
 import os
+import io
 
 def make_kml():
     kml = ""
-    with open(os.path.join('kml', 'Boundaries - Wards (2015-).kml'),
-              encoding='utf8') as f:
+    with io.open(os.path.join('kml', 'Boundaries - Wards (2015-).kml'), 'rb') as f:
         kml = f.read()
     soup = BeautifulSoup(kml, "lxml-xml")
     placemarks = soup.findAll('Placemark')
@@ -20,20 +20,20 @@ def make_kml():
     <color>7d8a30c4</color>
   </PolyStyle>
 </Style>
-  <Folder>'''
+  <Folder>'''.encode('utf-8')
 
-    end_template='''</Folder>  </Document>
-    </kml>'''
+    end_template='''</Folder>
+    </Document>
+    </kml>'''.encode('utf-8')
 
     for placemark in placemarks:
         ward = placemark.select('ExtendedData Data value')[0].string
         name = "<name>Ward {}</name>".format(ward)
         name = BeautifulSoup(name, "lxml-xml")
         placemark.find('ExtendedData').replaceWith(name.find('name'))
-        placemark = str(placemark)
+        placemark = str(placemark).encode('utf-8')
 
-        with open(os.path.join('kml', '{}.kml'.format(ward)), 'w',
-                  encoding='utf8') as f:
+        with io.open(os.path.join('kml', '{}.kml'.format(ward)), 'wb') as f:
             f.write(start_template + placemark + end_template)
 
 make_kml()
