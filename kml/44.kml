@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns:kml="http://earth.google.com/kml/2.2">
-  <Document id="featureCollection">
-<Style id="defaultStyle">
-  <LineStyle>
-    <width>1.5</width>
-  </LineStyle>
-  <PolyStyle>
-    <color>7d8a30c4</color>
-  </PolyStyle>
-</Style>
-  <Folder><placemark>
-<styleurl>#defaultStyle</styleurl>
+    <kml xmlns:kml="http://earth.google.com/kml/2.2">
+      <Document id="featureCollection">
+    <Style id="defaultStyle">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d8a30c4</color>
+      </PolyStyle>
+    </Style>
+      <Folder><Placemark>
+<styleUrl>#defaultStyle</styleUrl>
 <name>Ward 44</name>
-<multigeometry>
-<polygon>
-<outerboundaryis>
-<linearring><coordinates>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
       -87.76192932195755,41.948748036476275 
 -87.76192753492715,41.948681150904015 
 -87.76119077926016,41.94868950125397 
@@ -1345,9 +1345,9 @@
 -87.7629147407187,41.94880353968652 
 -87.76193153910451,41.948814566756454 
 -87.76192932195755,41.948748036476275
-    </coordinates></linearring>
-</outerboundaryis>
-</polygon>
-</multigeometry>
-</placemark></Folder>  </Document>
-</kml>
+    </coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark></Folder>  </Document>
+    </kml>

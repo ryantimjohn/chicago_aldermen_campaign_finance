@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns:kml="http://earth.google.com/kml/2.2">
-  <Document id="featureCollection">
-<Style id="defaultStyle">
-  <LineStyle>
-    <width>1.5</width>
-  </LineStyle>
-  <PolyStyle>
-    <color>7d8a30c4</color>
-  </PolyStyle>
-</Style>
-  <Folder><placemark>
-<styleurl>#defaultStyle</styleurl>
+    <kml xmlns:kml="http://earth.google.com/kml/2.2">
+      <Document id="featureCollection">
+    <Style id="defaultStyle">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d8a30c4</color>
+      </PolyStyle>
+    </Style>
+      <Folder><Placemark>
+<styleUrl>#defaultStyle</styleUrl>
 <name>Ward 29</name>
-<multigeometry>
-<polygon>
-<outerboundaryis>
-<linearring><coordinates>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
       -87.80655165776021,42.01871833793815 
 -87.80655479847444,42.01851041847155 
 -87.8065598164795,42.01817831267867 
@@ -3690,10 +3690,10 @@
 -87.80655028701236,42.01880615716127 
 -87.80655048913081,42.01879571165239 
 -87.80655165776021,42.01871833793815
-    </coordinates></linearring>
-</outerboundaryis>
-<innerboundaryis>
-<linearring><coordinates>
+    </coordinates></LinearRing>
+</outerBoundaryIs>
+<innerBoundaryIs>
+<LinearRing><coordinates>
       -87.83321075754573,41.98359213429531 
 -87.83321106299906,41.98356790600088 
 -87.8332491934883,41.983568235069114 
@@ -4156,11 +4156,11 @@
 -87.83321006216647,41.98364722143092 
 -87.83321044375853,41.98361696487268 
 -87.83321075754573,41.98359213429531
-    </coordinates></linearring>
-</innerboundaryis>
-</polygon><polygon>
-<outerboundaryis>
-<linearring><coordinates>
+    </coordinates></LinearRing>
+</innerBoundaryIs>
+</Polygon><Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
       -87.93521102658208,42.00081664230784 
 -87.93526014562833,42.00076182340407 
 -87.93529133984097,42.00072700970567 
@@ -4235,11 +4235,11 @@
 -87.93519477927543,42.000834173837866 
 -87.9352028944275,42.00082541659675 
 -87.93521102658208,42.00081664230784
-    </coordinates></linearring>
-</outerboundaryis>
-</polygon><polygon>
-<outerboundaryis>
-<linearring><coordinates>
+    </coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon><Polygon>
+<outerBoundaryIs>
+<LinearRing><coordinates>
       -87.93348486830662,42.00542371425375 
 -87.93361196136527,42.00488466721331 
 -87.93397746761173,42.00493026602416 
@@ -4335,9 +4335,9 @@
 -87.93350555989592,42.00556497181968 
 -87.93349995690922,42.00552672446995 
 -87.93348486830662,42.00542371425375
-    </coordinates></linearring>
-</outerboundaryis>
-</polygon>
-</multigeometry>
-</placemark></Folder>  </Document>
-</kml>
+    </coordinates></LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+</Placemark></Folder>  </Document>
+    </kml>

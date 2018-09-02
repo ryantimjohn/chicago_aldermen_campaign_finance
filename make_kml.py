@@ -5,8 +5,8 @@ def make_kml():
     kml = ""
     with open(os.path.join('kml', 'Boundaries - Wards (2015-).kml')) as f:
         kml = f.read()
-    soup = BeautifulSoup(kml, "lxml")
-    placemarks = soup.findAll('placemark')
+    soup = BeautifulSoup(kml, "lxml-xml")
+    placemarks = soup.findAll('Placemark')
 
     start_template = '''<?xml version='1.0' encoding='UTF-8'?>
     <kml xmlns:kml="http://earth.google.com/kml/2.2">
@@ -25,9 +25,13 @@ def make_kml():
     </kml>'''
 
     for ward, placemark in enumerate(placemarks, 1):
+        print(ward)
         name = "<name>Ward {}</name>".format(ward)
-        name = BeautifulSoup(name, 'xml')
-        placemark.find('extendeddata').replaceWith(name.find('name'))
+        name = BeautifulSoup(name, "lxml-xml")
+        placemark.find('ExtendedData').replaceWith(name.find('name'))
         placemark = str(placemark)
+
         with open(os.path.join('kml', '{}.kml'.format(ward)), 'w') as f:
             f.write(start_template + placemark + end_template)
+
+make_kml()
