@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-    <kml xmlns:kml="http://earth.google.com/kml/2.2">
-      <Document id="featureCollection">
-    <Style id="defaultStyle">
-      <LineStyle>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>7d8a30c4</color>
-      </PolyStyle>
-    </Style>
-      <Folder><Placemark>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder><Placemark>
 <styleUrl>#defaultStyle</styleUrl>
 <name>Ward 1</name>
 <MultiGeometry>
