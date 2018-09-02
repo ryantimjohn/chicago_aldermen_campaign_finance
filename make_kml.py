@@ -24,8 +24,8 @@ def make_kml():
     end_template='''</Folder>  </Document>
     </kml>'''
 
-    for ward, placemark in enumerate(placemarks, 1):
-        print(ward)
+    for placemark in placemarks:
+        ward = placemark.select('ExtendedData Data value')[0].string
         name = "<name>Ward {}</name>".format(ward)
         name = BeautifulSoup(name, "lxml-xml")
         placemark.find('ExtendedData').replaceWith(name.find('name'))
