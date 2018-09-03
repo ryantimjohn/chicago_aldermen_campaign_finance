@@ -1,39 +1,35 @@
 from bs4 import BeautifulSoup
 import os
 import io
+import re
 
 def make_kml():
-    kml = ""
-    with io.open(os.path.join('kml', 'Boundaries - Wards (2015-).kml'), 'rb') as f:
-        kml = f.read()
-    soup = BeautifulSoup(kml, "lxml-xml")
-    placemarks = soup.findAll('Placemark')
+    with io.open(os.path.join('kml', 'allwards.kml'), 'rb') as f:
+        allwards = f.read()
+    with io.open(os.path.join('kml', 'start.kml'), 'rb') as f:
+        start = f.read()
+    with io.open(os.path.join('kml', 'end.kml'), 'rb') as f:
+        end = f.read()
 
-    start_template = '''<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns:kml="http://earth.google.com/kml/2.2">
-  <Document id="featureCollection">
-<Style id="defaultStyle">
-  <LineStyle>
-    <width>1.5</width>
-  </LineStyle>
-  <PolyStyle>
-    <color>7d8a30c4</color>
-  </PolyStyle>
-</Style>
-  <Folder>'''.encode('utf-8')
-
-    end_template='''</Folder>
-    </Document>
-    </kml>'''.encode('utf-8')
-
+    placemarkre = re.compile('\<Placemark\>[\S\s]*?\<\/Placemark\>'.encode(encoding='utf_8'))
+    placemarks = re.findall(pattern=placemarkre, string=allwards)
     for placemark in placemarks:
-        ward = placemark.select('ExtendedData Data value')[0].string
-        name = "<name>Ward {}</name>".format(ward)
-        name = BeautifulSoup(name, "lxml-xml")
-        placemark.find('ExtendedData').replaceWith(name.find('name'))
-        placemark = str(placemark).encode('utf-8')
-
+        wardre = re.compile('\<value\>(.*?)\<\/value\>'.encode(encoding='utf_8'))
+        ward = wardre.search(placemark).group(1)
+        ward = str(ward, encoding='utf_8')
         with io.open(os.path.join('kml', '{}.kml'.format(ward)), 'wb') as f:
-            f.write(start_template + placemark + end_template)
+            f.write(start + placemark + end)
+    # soup = BeautifulSoup(kml, "lxml-xml")
+    # placemarks = soup.findAll('Placemark')
+    #
+    # for placemark in placemarks:
+    #     ward = placemark.select('ExtendedData Data value')[0].string
+    #     name = "<name>Ward {}</name>".format(ward)
+    #     name = BeautifulSoup(name, "lxml-xml")
+    #     placemark.find('ExtendedData').replaceWith(name.find('name'))
+    #     placemark = str(placemark).encode('utf-8')
+    #
+    #     with io.open(os.path.join('kml', '{}.kml'.format(ward)), 'wb') as f:
+    #         f.write(start_template + placemark + end_template)
 
 make_kml()
