@@ -70,7 +70,6 @@ function loadMap(ward, request) {
       var infowindow = new google.maps.InfoWindow({maxWidth : 400});
 
       var kmlURL = 'https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/kml/Ward' + ward + '.kml';
-      console.log(kmlURL);
       var wardLayer = new google.maps.KmlLayer({
           url: kmlURL,
           map: map
@@ -82,13 +81,13 @@ function loadMap(ward, request) {
 
         switch (obj[line]["donor_type"]) {
           case "Business":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/bo.png";
+            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/b.svg";
             break;
           case "Individual":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/io.png";
+            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/i.svg";
             break;
           case "Political Group":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/bo.png";
+            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/g.svg";
             break;
         }
 
