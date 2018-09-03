@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 import os
 import io
 import re
@@ -16,8 +15,8 @@ def make_kml():
     for placemark in placemarks:
         wardre = re.compile('\<value\>(.*?)\<\/value\>'.encode(encoding='utf_8'))
         ward = wardre.search(placemark).group(1)
-        ward = str(ward, encoding='utf_8')
-        with io.open(os.path.join('kml', '{}.kml'.format(ward)), 'wb') as f:
+        ward = int(str(ward, encoding='utf_8'))
+        with io.open(os.path.join('kml', 'Ward{}.kml'.format(ward)), 'wb') as f:
             f.write(start + placemark + end)
     # soup = BeautifulSoup(kml, "lxml-xml")
     # placemarks = soup.findAll('Placemark')
