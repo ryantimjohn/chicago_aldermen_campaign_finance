@@ -9,8 +9,7 @@
     <color>7d8a30c4</color>
   </PolyStyle>
 </Style>
-  <Folder>
-<Placemark>
+  <Folder><Placemark>
       <styleUrl>#defaultStyle</styleUrl>
       
       <ExtendedData>
