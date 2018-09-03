@@ -11,14 +11,15 @@
 </Style>
   <Folder>
 <Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>12</value></Data><Data name="shape_area"><value>116096507.849</value></Data><Data name="shape_leng"><value>93073.3408379</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>12</value></Data><Data name="shape_area"><value>116096507.849</value></Data><Data name="shape_leng"><value>93073.3408379</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.69623470134458,41.857554952383886 
 -87.69625217761623,41.85737837458125 
 -87.69580667908144,41.85738556231649 
@@ -1305,18 +1306,20 @@
 -87.69622205270437,41.85771240301518 
 -87.69623470134458,41.857554952383886
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>16</value></Data><Data name="shape_area"><value>103143638.546</value></Data><Data name="shape_leng"><value>97901.3238332</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>16</value></Data><Data name="shape_area"><value>103143638.546</value></Data><Data name="shape_leng"><value>97901.3238332</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.66288923669032,41.79883809868242 
 -87.662885919721,41.79873094263844 
 -87.66287957133825,41.79855538163402 
@@ -2691,18 +2694,20 @@
 -87.6628899885086,41.798861320490204 
 -87.66288923669032,41.79883809868242
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>15</value></Data><Data name="shape_area"><value>65588297.917</value></Data><Data name="shape_leng"><value>82183.6948197</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>15</value></Data><Data name="shape_area"><value>65588297.917</value></Data><Data name="shape_leng"><value>82183.6948197</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.69817510963803,41.81729440755995 
 -87.69817113986741,41.81728835595502 
 -87.69800446817871,41.81729159294446 
@@ -3839,18 +3844,20 @@
 -87.6981790806129,41.81730045917141 
 -87.69817510963803,41.81729440755995
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>20</value></Data><Data name="shape_area"><value>137290356.97</value></Data><Data name="shape_leng"><value>90105.1956185</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>20</value></Data><Data name="shape_area"><value>137290356.97</value></Data><Data name="shape_leng"><value>90105.1956185</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.65524133440029,41.80883316182794 
 -87.65524046477007,41.80873418550485 
 -87.65491001717484,41.80873954432315 
@@ -5259,18 +5266,20 @@
 -87.65524173173246,41.80887844467382 
 -87.65524133440029,41.80883316182794
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>49</value></Data><Data name="shape_area"><value>49733459.1385</value></Data><Data name="shape_leng"><value>38122.6928259</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>49</value></Data><Data name="shape_area"><value>49733459.1385</value></Data><Data name="shape_leng"><value>38122.6928259</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.66420403810295,42.02126158052747 
 -87.6641858299526,42.021252172282345 
 -87.66417611945012,42.021256594760075 
@@ -6100,18 +6109,20 @@
 -87.66426435510401,42.021297793648 
 -87.66420403810295,42.02126158052747
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>23</value></Data><Data name="shape_area"><value>142982293.923</value></Data><Data name="shape_leng"><value>125226.472414</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>23</value></Data><Data name="shape_area"><value>142982293.923</value></Data><Data name="shape_leng"><value>125226.472414</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.71361112161641,41.8005356863147 
 -87.713598423291,41.80011350283048 
 -87.71359223386706,41.799907691617065 
@@ -8156,18 +8167,20 @@
 -87.71361429909017,41.80068770218811 
 -87.71361112161641,41.8005356863147
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>29</value></Data><Data name="shape_area"><value>128819108.627</value></Data><Data name="shape_leng"><value>107529.243573</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>29</value></Data><Data name="shape_area"><value>128819108.627</value></Data><Data name="shape_leng"><value>107529.243573</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.80310674705102,41.94000768032016 
 -87.80310180197405,41.93987038711744 
 -87.80296345336941,41.939872771454645 
@@ -9909,18 +9922,20 @@
 -87.80311138129935,41.94013154900071 
 -87.80310674705102,41.94000768032016
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>14</value></Data><Data name="shape_area"><value>143011018.899</value></Data><Data name="shape_leng"><value>90165.7974072</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>14</value></Data><Data name="shape_area"><value>143011018.899</value></Data><Data name="shape_leng"><value>90165.7974072</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.71438187841963,41.82673338806539 
 -87.71437446212632,41.8263211064671 
 -87.71436936590818,41.82604237642425 
@@ -11195,18 +11210,20 @@
 -87.71439191917544,41.82728886738261 
 -87.71438187841963,41.82673338806539
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>3</value></Data><Data name="shape_area"><value>123341548.953</value></Data><Data name="shape_leng"><value>81530.2751668</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>3</value></Data><Data name="shape_area"><value>123341548.953</value></Data><Data name="shape_leng"><value>81530.2751668</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.61821536534679,41.85542351168404 
 -87.61721126833932,41.853008013645564 
 -87.61729648821142,41.85300872414787 
@@ -12178,18 +12195,20 @@
 -87.61824347640446,41.85549113418054 
 -87.61821536534679,41.85542351168404
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>4</value></Data><Data name="shape_area"><value>126006901.096</value></Data><Data name="shape_leng"><value>119468.403755</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>4</value></Data><Data name="shape_area"><value>126006901.096</value></Data><Data name="shape_leng"><value>119468.403755</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.6259709739332,41.87335745800833 
 -87.62596609558291,41.873125595465254 
 -87.62550610316077,41.87313760697012 
@@ -14778,18 +14797,20 @@
 -87.62597663296344,41.8735868025942 
 -87.6259709739332,41.87335745800833
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>2</value></Data><Data name="shape_area"><value>53934808.8716</value></Data><Data name="shape_leng"><value>110739.852187</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>2</value></Data><Data name="shape_area"><value>53934808.8716</value></Data><Data name="shape_leng"><value>110739.852187</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.66136715149712,41.92723211736206 
 -87.66138636854716,41.92706365493941 
 -87.66120971742765,41.92706632498577 
@@ -16313,18 +16334,20 @@
 -87.66135651441533,41.927370295947775 
 -87.66136715149712,41.92723211736206
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>35</value></Data><Data name="shape_area"><value>57297718.519</value></Data><Data name="shape_leng"><value>67016.6379392</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>35</value></Data><Data name="shape_area"><value>57297718.519</value></Data><Data name="shape_leng"><value>67016.6379392</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.7182670339195,41.968802949553 
 -87.71825495938624,41.96834840810137 
 -87.71824503091874,41.967974657382584 
@@ -17165,18 +17188,20 @@
 -87.7182711892776,41.968959418267886 
 -87.7182670339195,41.968802949553
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>21</value></Data><Data name="shape_area"><value>142463997.962</value></Data><Data name="shape_leng"><value>53846.7782943</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>21</value></Data><Data name="shape_area"><value>142463997.962</value></Data><Data name="shape_leng"><value>53846.7782943</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.66281697970368,41.750023255430094 
 -87.66281526692978,41.749954692830045 
 -87.66251391510657,41.74995954784858 
@@ -17854,18 +17879,20 @@
 -87.66282635540415,41.75036858876479 
 -87.66281697970368,41.750023255430094
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>24</value></Data><Data name="shape_area"><value>104690374.815</value></Data><Data name="shape_leng"><value>75191.5803706</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>24</value></Data><Data name="shape_area"><value>104690374.815</value></Data><Data name="shape_leng"><value>75191.5803706</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.74003920512416,41.872002440176956 
 -87.74003561721804,41.87190285622145 
 -87.7400047373429,41.87190558769326 
@@ -18941,18 +18968,20 @@
 -87.74005121436214,41.87233793699366 
 -87.74003920512416,41.872002440176956
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>13</value></Data><Data name="shape_area"><value>117333021.721</value></Data><Data name="shape_leng"><value>91758.1670663</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>13</value></Data><Data name="shape_area"><value>117333021.721</value></Data><Data name="shape_leng"><value>91758.1670663</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.7316702423166,41.78037536101778 
 -87.73193908830667,41.780372652246626 
 -87.73196084080641,41.7803732171935 
@@ -20194,18 +20223,20 @@
 -87.73135751779446,41.78037893588725 
 -87.7316702423166,41.78037536101778
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>48</value></Data><Data name="shape_area"><value>44838916.158</value></Data><Data name="shape_leng"><value>34831.9936751</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>48</value></Data><Data name="shape_area"><value>44838916.158</value></Data><Data name="shape_leng"><value>34831.9936751</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.65577334687676,41.99819571115308 
 -87.65573692659333,41.99817521010578 
 -87.65540869440491,41.99817269321447 
@@ -20978,18 +21009,20 @@
 -87.6558042912278,41.99820914834895 
 -87.65577334687676,41.99819571115308
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>31</value></Data><Data name="shape_area"><value>69739758.4303</value></Data><Data name="shape_leng"><value>50635.7831536</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>31</value></Data><Data name="shape_area"><value>69739758.4303</value></Data><Data name="shape_leng"><value>50635.7831536</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.7468767639261,41.939274637382944 
 -87.74687318536583,41.938825548969625 
 -87.74663728244978,41.938828136888375 
@@ -21580,18 +21613,20 @@
 -87.7468813186217,41.93945545030155 
 -87.7468767639261,41.939274637382944
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>47</value></Data><Data name="shape_area"><value>87363636.3844</value></Data><Data name="shape_leng"><value>53371.3055095</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>47</value></Data><Data name="shape_area"><value>87363636.3844</value></Data><Data name="shape_leng"><value>53371.3055095</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.6597679100119,41.97267625333504 
 -87.66024835135796,41.972667709965144 
 -87.66053482502865,41.97266289695858 
@@ -22551,18 +22586,20 @@
 -87.65977160627283,41.972814966735825 
 -87.6597679100119,41.97267625333504
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>38</value></Data><Data name="shape_area"><value>174307429.474</value></Data><Data name="shape_leng"><value>89794.4594966</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>38</value></Data><Data name="shape_area"><value>174307429.474</value></Data><Data name="shape_leng"><value>89794.4594966</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.77717155649792,41.96512977602147 
 -87.77716530134178,41.9649157796058 
 -87.77656157458125,41.964923665383765 
@@ -24044,18 +24081,20 @@
 -87.77718129871772,41.96537254855917 
 -87.77717155649792,41.96512977602147
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>33</value></Data><Data name="shape_area"><value>70214893.3538</value></Data><Data name="shape_leng"><value>47062.4200753</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>33</value></Data><Data name="shape_area"><value>70214893.3538</value></Data><Data name="shape_leng"><value>47062.4200753</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.70353186083463,41.971863500300394 
 -87.70344284240433,41.97169446248328 
 -87.70337369280314,41.97155418294733 
@@ -25137,18 +25176,20 @@
 -87.70356940706075,41.97195297465217 
 -87.70353186083463,41.971863500300394
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>30</value></Data><Data name="shape_area"><value>73730115.3644</value></Data><Data name="shape_leng"><value>81026.9888174</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>30</value></Data><Data name="shape_area"><value>73730115.3644</value></Data><Data name="shape_leng"><value>81026.9888174</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.72406088853256,41.94972395249093 
 -87.7240348214106,41.94970880473242 
 -87.72402710607255,41.9497043881767 
@@ -26130,18 +26171,20 @@
 -87.72471882922791,41.950106287149026 
 -87.72406088853256,41.94972395249093
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>34</value></Data><Data name="shape_area"><value>175928766.112</value></Data><Data name="shape_leng"><value>78608.6539809</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>34</value></Data><Data name="shape_area"><value>175928766.112</value></Data><Data name="shape_leng"><value>78608.6539809</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.63703614720717,41.71745565523348 
 -87.6370286431814,41.717153899001204 
 -87.63701508990408,41.71663149035647 
@@ -27312,18 +27355,20 @@
 -87.63704391698363,41.71776808779546 
 -87.63703614720717,41.71745565523348
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>28</value></Data><Data name="shape_area"><value>142879662.243</value></Data><Data name="shape_leng"><value>119977.208819</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>28</value></Data><Data name="shape_area"><value>142879662.243</value></Data><Data name="shape_leng"><value>119977.208819</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.72098294925175,41.88805384406347 
 -87.71986619240644,41.88806834488268 
 -87.71976177251136,41.88806966783216 
@@ -29076,18 +29121,20 @@
 -87.72098038054123,41.88795769015792 
 -87.72098294925175,41.88805384406347
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>40</value></Data><Data name="shape_area"><value>95929056.6812</value></Data><Data name="shape_leng"><value>48374.9136177</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>40</value></Data><Data name="shape_area"><value>95929056.6812</value></Data><Data name="shape_leng"><value>48374.9136177</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.66796195069065,41.99810895090827 
 -87.668211523323,41.99810555891697 
 -87.66837480964458,41.99810387056885 
@@ -29970,18 +30017,20 @@
 -87.66797175581343,41.99855888194183 
 -87.66796195069065,41.99810895090827
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>44</value></Data><Data name="shape_area"><value>49422863.0048</value></Data><Data name="shape_leng"><value>46466.2721725</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>44</value></Data><Data name="shape_area"><value>49422863.0048</value></Data><Data name="shape_leng"><value>46466.2721725</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.65682137887512,41.95160461112019 
 -87.6568064529078,41.95108673175098 
 -87.65670405478456,41.951088337727285 
@@ -30608,10 +30657,11 @@
 -87.65683150820882,41.951967839543244 
 -87.65682137887512,41.95160461112019
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon><Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon><Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.63708004929292,41.94681869402632 
 -87.63696734337421,41.94666718987558 
 -87.63688469732362,41.94655570667002 
@@ -30789,18 +30839,20 @@
 -87.6371853497659,41.94695023335659 
 -87.63708004929292,41.94681869402632
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>25</value></Data><Data name="shape_area"><value>124734729.578</value></Data><Data name="shape_leng"><value>105358.092147</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>25</value></Data><Data name="shape_area"><value>124734729.578</value></Data><Data name="shape_leng"><value>105358.092147</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.64972416765514,41.88268423806737 
 -87.6497182080382,41.88247509132972 
 -87.64971331334903,41.88230382104359 
@@ -32153,18 +32205,20 @@
 -87.6497243175039,41.88268950775133 
 -87.64972416765514,41.88268423806737
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>50</value></Data><Data name="shape_area"><value>80692979.8113</value></Data><Data name="shape_leng"><value>46116.3788804</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>50</value></Data><Data name="shape_area"><value>80692979.8113</value></Data><Data name="shape_leng"><value>46116.3788804</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.69017699368844,42.01929375525469 
 -87.69017865139247,42.0191292508729 
 -87.69017973034238,42.01902217915914 
@@ -32704,18 +32758,20 @@
 -87.69017500950513,42.01942499818285 
 -87.69017699368844,42.01929375525469
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>22</value></Data><Data name="shape_area"><value>106633676.288</value></Data><Data name="shape_leng"><value>63985.118325</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>22</value></Data><Data name="shape_area"><value>106633676.288</value></Data><Data name="shape_leng"><value>63985.118325</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.71098300412447,41.851743161104125 
 -87.71088964595299,41.8516451359677 
 -87.7107698894738,41.85166729716393 
@@ -33470,18 +33526,20 @@
 -87.71101154508925,41.85177312892526 
 -87.71098300412447,41.851743161104125
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>41</value></Data><Data name="shape_area"><value>484238238.97</value></Data><Data name="shape_leng"><value>252516.011482</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>41</value></Data><Data name="shape_area"><value>484238238.97</value></Data><Data name="shape_leng"><value>252516.011482</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.80655165776021,42.01871833793815 
 -87.80655479847444,42.01851041847155 
 -87.8065598164795,42.01817831267867 
@@ -37157,9 +37215,9 @@
 -87.80655048913081,42.01879571165239 
 -87.80655165776021,42.01871833793815
     </coordinates></LinearRing>
-</outerBoundaryIs>
-<innerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      <innerBoundaryIs>
+              <LinearRing><coordinates>
       -87.83321075754573,41.98359213429531 
 -87.83321106299906,41.98356790600088 
 -87.8332491934883,41.983568235069114 
@@ -37623,10 +37681,10 @@
 -87.83321044375853,41.98361696487268 
 -87.83321075754573,41.98359213429531
     </coordinates></LinearRing>
-</innerBoundaryIs>
-</Polygon><Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+            </innerBoundaryIs>
+    </Polygon><Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.93521102658208,42.00081664230784 
 -87.93526014562833,42.00076182340407 
 -87.93529133984097,42.00072700970567 
@@ -37702,10 +37760,11 @@
 -87.9352028944275,42.00082541659675 
 -87.93521102658208,42.00081664230784
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon><Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon><Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.93348486830662,42.00542371425375 
 -87.93361196136527,42.00488466721331 
 -87.93397746761173,42.00493026602416 
@@ -37802,18 +37861,20 @@
 -87.93349995690922,42.00552672446995 
 -87.93348486830662,42.00542371425375
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>18</value></Data><Data name="shape_area"><value>183256966.765</value></Data><Data name="shape_leng"><value>65699.143324</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>18</value></Data><Data name="shape_area"><value>183256966.765</value></Data><Data name="shape_leng"><value>65699.143324</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.67861975935111,41.7608125057485 
 -87.67860730826274,41.7604217929342 
 -87.6785934818069,41.75984214430769 
@@ -38596,18 +38657,20 @@
 -87.67862048082532,41.76083510439131 
 -87.67861975935111,41.7608125057485
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>17</value></Data><Data name="shape_area"><value>113383616.514</value></Data><Data name="shape_leng"><value>100910.871779</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>17</value></Data><Data name="shape_area"><value>113383616.514</value></Data><Data name="shape_leng"><value>100910.871779</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.69092514943505,41.77800272753484 
 -87.69092200501103,41.77784389769543 
 -87.69092006012343,41.777700826314046 
@@ -40067,18 +40130,20 @@
 -87.69092996548261,41.7781336295257 
 -87.69092514943505,41.77800272753484
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>6</value></Data><Data name="shape_area"><value>120539114.428</value></Data><Data name="shape_leng"><value>69925.2023858</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>6</value></Data><Data name="shape_area"><value>120539114.428</value></Data><Data name="shape_leng"><value>69925.2023858</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.64586542634953,41.77443576711342 
 -87.64586096566025,41.77427331690008 
 -87.64554428612463,41.774277392630694 
@@ -41091,18 +41156,20 @@
 -87.64586932717913,41.77456831221341 
 -87.64586542634953,41.77443576711342
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>5</value></Data><Data name="shape_area"><value>115196005.523</value></Data><Data name="shape_leng"><value>102271.665896</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>5</value></Data><Data name="shape_area"><value>115196005.523</value></Data><Data name="shape_leng"><value>102271.665896</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.58336532818058,41.80585071412596 
 -87.583314347972,41.80581924534292 
 -87.58325072978177,41.805786984537995 
@@ -43146,18 +43213,20 @@
 -87.58341693211347,41.80588256690621 
 -87.58336532818058,41.80585071412596
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>43</value></Data><Data name="shape_area"><value>65206365.4153</value></Data><Data name="shape_leng"><value>48544.5349075</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>43</value></Data><Data name="shape_area"><value>65206365.4153</value></Data><Data name="shape_leng"><value>48544.5349075</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.63393002737043,41.93301293422752 
 -87.63392613985782,41.93290622927684 
 -87.63282239324361,41.9329331171351 
@@ -44340,18 +44409,20 @@
 -87.6339984568306,41.93301472314748 
 -87.63393002737043,41.93301293422752
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>8</value></Data><Data name="shape_area"><value>162845783.237</value></Data><Data name="shape_leng"><value>89830.3932001</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>8</value></Data><Data name="shape_area"><value>162845783.237</value></Data><Data name="shape_leng"><value>89830.3932001</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.59014917312479,41.76598133614585 
 -87.58957544222739,41.76593341225413 
 -87.58944297698054,41.765935812123786 
@@ -45338,18 +45409,20 @@
 -87.59023762149096,41.76598780830261 
 -87.59014917312479,41.76598133614585
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>42</value></Data><Data name="shape_area"><value>71494714.6921</value></Data><Data name="shape_leng"><value>62491.4598917</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>42</value></Data><Data name="shape_area"><value>71494714.6921</value></Data><Data name="shape_leng"><value>62491.4598917</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.62412741777725,41.899210134736904 
 -87.62412483704998,41.89905172245736 
 -87.62412051650465,41.898897744393544 
@@ -46536,18 +46609,20 @@
 -87.6241293653111,41.89932960351482 
 -87.62412741777725,41.899210134736904
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>7</value></Data><Data name="shape_area"><value>124077234.808</value></Data><Data name="shape_leng"><value>112151.646919</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>7</value></Data><Data name="shape_area"><value>124077234.808</value></Data><Data name="shape_leng"><value>112151.646919</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.56039187082088,41.76629077639512 
 -87.56044323342837,41.7662504924584 
 -87.56051602336346,41.7661713951145 
@@ -48468,18 +48543,20 @@
 -87.56037370739931,41.76630502838354 
 -87.56039187082088,41.76629077639512
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>39</value></Data><Data name="shape_area"><value>175096482.287</value></Data><Data name="shape_leng"><value>73079.9934303</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>39</value></Data><Data name="shape_area"><value>175096482.287</value></Data><Data name="shape_leng"><value>73079.9934303</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.70909331045486,41.990384729293766 
 -87.70907907022989,41.990345413900016 
 -87.7090594154378,41.990301481904055 
@@ -49574,18 +49651,20 @@
 -87.70914483142249,41.990383970471925 
 -87.70909331045486,41.990384729293766
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>46</value></Data><Data name="shape_area"><value>53665279.3293</value></Data><Data name="shape_leng"><value>47937.9510595</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>46</value></Data><Data name="shape_area"><value>53665279.3293</value></Data><Data name="shape_leng"><value>47937.9510595</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.64427010850973,41.96986390183122 
 -87.64424033701462,41.96982820794416 
 -87.64397292005226,41.96954241343374 
@@ -50602,18 +50681,20 @@
 -87.64491798433554,41.9697270946009 
 -87.64427010850973,41.96986390183122
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>32</value></Data><Data name="shape_area"><value>85458138.8521</value></Data><Data name="shape_leng"><value>79455.8112626</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>32</value></Data><Data name="shape_area"><value>85458138.8521</value></Data><Data name="shape_leng"><value>79455.8112626</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.67593594113153,41.93976338829106 
 -87.6759312783634,41.9396015755219 
 -87.67538684326271,41.93960730810453 
@@ -51791,18 +51872,20 @@
 -87.67594101581733,41.93994920086396 
 -87.67593594113153,41.93976338829106
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>1</value></Data><Data name="shape_area"><value>69757593.8542</value></Data><Data name="shape_leng"><value>102569.70148</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>1</value></Data><Data name="shape_area"><value>69757593.8542</value></Data><Data name="shape_leng"><value>102569.70148</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.67817792430289,41.92863165050658 
 -87.67816743312886,41.92858222984173 
 -87.67815776546102,41.92853669521374 
@@ -53345,18 +53428,20 @@
 -87.67819415959525,41.92868469357595 
 -87.67817792430289,41.92863165050658
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>19</value></Data><Data name="shape_area"><value>214115105.843</value></Data><Data name="shape_leng"><value>102339.878771</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>19</value></Data><Data name="shape_area"><value>214115105.843</value></Data><Data name="shape_leng"><value>102339.878771</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.67307937168411,41.735656700356564 
 -87.67268452199801,41.73521270786492 
 -87.67233536543746,41.73482009320935 
@@ -54603,9 +54688,9 @@
 -87.67327528856228,41.73565824283097 
 -87.67307937168411,41.735656700356564
     </coordinates></LinearRing>
-</outerBoundaryIs>
-<innerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      <innerBoundaryIs>
+              <LinearRing><coordinates>
       -87.69576609901462,41.69181030262633 
 -87.6957625008841,41.691715342147894 
 -87.69571920097894,41.69171586453486 
@@ -54698,18 +54783,19 @@
 -87.69577003123135,41.69192021201453 
 -87.69576609901462,41.69181030262633
     </coordinates></LinearRing>
-</innerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>9</value></Data><Data name="shape_area"><value>257088769.485</value></Data><Data name="shape_leng"><value>111742.641889</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+            </innerBoundaryIs>
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>9</value></Data><Data name="shape_area"><value>257088769.485</value></Data><Data name="shape_leng"><value>111742.641889</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.60954755561103,41.731566129963774 
 -87.60954586405629,41.73149774664844 
 -87.60953525172829,41.73110010742817 
@@ -56344,18 +56430,20 @@
 -87.60954783034339,41.7315772043575 
 -87.60954755561103,41.731566129963774
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>36</value></Data><Data name="shape_area"><value>88624184.1876</value></Data><Data name="shape_leng"><value>91959.9836412</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>36</value></Data><Data name="shape_area"><value>88624184.1876</value></Data><Data name="shape_leng"><value>91959.9836412</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.76192932195755,41.948748036476275 
 -87.76192753492715,41.948681150904015 
 -87.76119077926016,41.94868950125397 
@@ -57686,18 +57774,20 @@
 -87.76193153910451,41.948814566756454 
 -87.76192932195755,41.948748036476275
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>37</value></Data><Data name="shape_area"><value>96123627.3494</value></Data><Data name="shape_leng"><value>54306.074303</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>37</value></Data><Data name="shape_area"><value>96123627.3494</value></Data><Data name="shape_leng"><value>54306.074303</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.73626311129362,41.90975556207695 
 -87.73627649627365,41.90969761570254 
 -87.73631518651983,41.90953012533658 
@@ -58519,18 +58609,20 @@
 -87.7362480571355,41.90982072948271 
 -87.73626311129362,41.90975556207695
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>27</value></Data><Data name="shape_area"><value>163221187.276</value></Data><Data name="shape_leng"><value>130222.911895</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>27</value></Data><Data name="shape_area"><value>163221187.276</value></Data><Data name="shape_leng"><value>130222.911895</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.63666399945781,41.911196577525686 
 -87.63666242076414,41.911142236289514 
 -87.63570119388959,41.911153560750435 
@@ -60270,18 +60362,20 @@
 -87.63666948916232,41.9113855138625 
 -87.63666399945781,41.911196577525686
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>10</value></Data><Data name="shape_area"><value>548958842.58</value></Data><Data name="shape_leng"><value>144026.595563</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>10</value></Data><Data name="shape_area"><value>548958842.58</value></Data><Data name="shape_leng"><value>144026.595563</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.57837706871902,41.64469462938092 
 -87.57842169172264,41.645173829526485 
 -87.5784463645372,41.645518373495506 
@@ -62024,18 +62118,20 @@
 -87.57725062923308,41.644708750563574 
 -87.57837706871902,41.64469462938092
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>11</value></Data><Data name="shape_area"><value>142093459.943</value></Data><Data name="shape_leng"><value>82824.4632842</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>11</value></Data><Data name="shape_area"><value>142093459.943</value></Data><Data name="shape_leng"><value>82824.4632842</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.64671844681739,41.87432424118853 
 -87.64653153250622,41.87432284891624 
 -87.6464530862741,41.87432362762399 
@@ -63122,18 +63218,20 @@
 -87.64712663763906,41.87433932533616 
 -87.64671844681739,41.87432424118853
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>26</value></Data><Data name="shape_area"><value>70391187.5645</value></Data><Data name="shape_leng"><value>69089.8822547</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>26</value></Data><Data name="shape_area"><value>70391187.5645</value></Data><Data name="shape_leng"><value>69089.8822547</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.70703442704107,41.91922502533209 
 -87.70700204570154,41.918355384412955 
 -87.70700187294949,41.918350614390945 
@@ -63999,18 +64097,20 @@
 -87.70704067984981,41.9193929423588 
 -87.70703442704107,41.91922502533209
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark><Placemark>
-<styleUrl>#defaultStyle</styleUrl>
-<ExtendedData>
-<Data name="ward"><value>45</value></Data><Data name="shape_area"><value>125334245.511</value></Data><Data name="shape_leng"><value>76714.8413866</value></Data>
-</ExtendedData>
-<MultiGeometry>
-<Polygon>
-<outerBoundaryIs>
-<LinearRing><coordinates>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="ward"><value>45</value></Data><Data name="shape_area"><value>125334245.511</value></Data><Data name="shape_leng"><value>76714.8413866</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+      <outerBoundaryIs>
+        <LinearRing><coordinates>
       -87.77835411517722,41.99020308168118 
 -87.77807710456368,41.99005505562078 
 -87.77789518053562,41.98996147795701 
@@ -65114,8 +65214,9 @@
 -87.778356596203,41.99020310628022 
 -87.77835411517722,41.99020308168118
     </coordinates></LinearRing>
-</outerBoundaryIs>
-</Polygon>
-</MultiGeometry>
-</Placemark></Folder>  </Document>
+      </outerBoundaryIs>
+      
+    </Polygon>
+    </MultiGeometry>
+    </Placemark></Folder>  </Document>
   </kml>
