@@ -81,13 +81,13 @@ function loadMap(ward, request) {
 
         switch (obj[line]["donor_type"]) {
           case "Business":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/jojo.svg";
+            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/i.svg";
             break;
           case "Individual":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/jojo.svg";
+            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/jojo.svg";
             break;
           case "Political Group":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/jojo.svg";
+            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/jojo.svg";
             break;
         }
 
