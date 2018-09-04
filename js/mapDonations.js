@@ -49,6 +49,106 @@ var committee_url_list = [[1, 'Joe Moreno', 'https://illinoissunshine.org/commit
  [49, 'Joseph Moore', 'https://illinoissunshine.org/committees/6380/'],
  [50, 'Debra Silverstein', 'https://illinoissunshine.org/committees/22982/']];
 
+var icons = {
+  i: 'data:image/svg+xml;utf-8, \
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"\
+	 viewBox="0 0 132 135" style="enable-background:new 0 0 132 135;" xml:space="preserve">\
+<style type="text/css">\
+	.st0{fill:rgb(108,1,13);}\
+	.st1{fill:rgb(255,255,255);}\
+</style>\
+<title>i</title>\
+<g id="Ellipse_2">\
+	<ellipse class="st0" cx="66" cy="67.5" rx="66" ry="67.5"/>\
+</g>\
+<g>\
+	<path class="st1" d="M66,66.7c8.4,0,15.3-8.3,15.3-18.6c0-10.2-2.2-18.6-15.3-18.6s-15.3,8.3-15.3,18.6\
+		C50.7,58.4,57.6,66.7,66,66.7z"/>\
+	<path class="st1" d="M37.1,95C37.1,94.4,37.1,94.8,37.1,95L37.1,95z"/>\
+	<path class="st1" d="M94.9,95.5C94.9,95.3,94.9,94.3,94.9,95.5L94.9,95.5z"/>\
+	<path class="st1" d="M94.8,94.3c-0.3-17.9-2.6-22.9-20.5-26.2c0,0-2.5,3.2-8.4,3.2c-5.9,0-8.4-3.2-8.4-3.2\
+		C40,71.3,37.5,76.3,37.2,93.7c0,1.4,0,1.5,0,1.3c0,0.3,0,0.9,0,1.9c0,0,4.2,8.6,28.9,8.6c24.6,0,28.9-8.6,28.9-8.6\
+		c0-0.6,0-1.1,0-1.4C94.8,95.6,94.8,95.4,94.8,94.3z"/>\
+</g>\
+</svg>',
+  b: 'data:image/svg+xml;utf-8, \
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"\
+  	 viewBox="0 0 132 135" style="enable-background:new 0 0 132 135;" xml:space="preserve">\
+  <style type="text/css">\
+  	.st0{fill:rgb(108,1,13);}\
+  	.st1{fill:rgb(255,255,255);}\
+  </style>\
+  <title>i</title>\
+  <g id="Ellipse_2">\
+  	<ellipse class="st0" cx="66" cy="67.5" rx="66" ry="67.5"/>\
+  </g>\
+  <g>\
+  	<path class="st1" d="M66,66.7c8.4,0,15.3-8.3,15.3-18.6c0-10.2-2.2-18.6-15.3-18.6s-15.3,8.3-15.3,18.6\
+  		C50.7,58.4,57.6,66.7,66,66.7z"/>\
+  	<path class="st1" d="M37.1,95C37.1,94.4,37.1,94.8,37.1,95L37.1,95z"/>\
+  	<path class="st1" d="M94.9,95.5C94.9,95.3,94.9,94.3,94.9,95.5L94.9,95.5z"/>\
+  	<path class="st1" d="M94.8,94.3c-0.3-17.9-2.6-22.9-20.5-26.2c0,0-2.5,3.2-8.4,3.2c-5.9,0-8.4-3.2-8.4-3.2\
+  		C40,71.3,37.5,76.3,37.2,93.7c0,1.4,0,1.5,0,1.3c0,0.3,0,0.9,0,1.9c0,0,4.2,8.6,28.9,8.6c24.6,0,28.9-8.6,28.9-8.6\
+  		c0-0.6,0-1.1,0-1.4C94.8,95.6,94.8,95.4,94.8,94.3z"/>\
+  </g>\
+  </svg>',
+  g: 'data:image/svg+xml;utf-8, \
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"\
+  	 viewBox="0 0 132 135" style="enable-background:new 0 0 132 135;" xml:space="preserve">\
+  <style type="text/css">\
+  	.st0{fill:#02865C;}\
+  	.st1{fill:#FFFFFF;}\
+  </style>\
+  <title>g</title>\
+  <g id="Ellipse_2">\
+  	<ellipse class="st0" cx="66" cy="67.5" rx="66" ry="67.5"/>\
+  </g>\
+  <g>\
+  	<g>\
+  		<g>\
+  			<path class="st1" d="M92.7,89.1c0.9-1.2,1.5-2.8,1.5-4.4c0-4.1-3.4-7.5-7.5-7.5s-7.5,3.4-7.5,7.5c0,1.7,0.5,3.2,1.5,4.5\
+  				c-1.7,0.8-3.2,2-4.3,3.5c-1.1-1.5-2.6-2.8-4.4-3.5c0.9-1.2,1.5-2.8,1.5-4.4c0-4.1-3.4-7.5-7.5-7.5c-4.1,0-7.5,3.4-7.5,7.5\
+  				c0,1.7,0.5,3.2,1.5,4.5c-1.7,0.8-3.2,2-4.3,3.5c-1.1-1.5-2.6-2.8-4.4-3.5c0.9-1.2,1.5-2.8,1.5-4.4c0-4.1-3.4-7.5-7.5-7.5\
+  				s-7.5,3.4-7.5,7.5c0,1.7,0.5,3.2,1.5,4.5c-3.7,1.6-6.3,5.3-6.3,9.6v1.9h66v-1.9C99,94.4,96.4,90.7,92.7,89.1z"/>\
+  		</g>\
+  	</g>\
+  	<g>\
+  		<g>\
+  			<polygon class="st1" points="79.3,56.8 71,54.2 66,47.1 60.9,54.2 52.7,56.8 57.8,63.7 57.8,72.4 66,69.7 74.2,72.4 74.1,63.7 \
+  							"/>\
+  		</g>\
+  	</g>\
+  	<g>\
+  		<g>\
+  			<rect x="64.1" y="34.4" class="st1" width="3.9" height="5.6"/>\
+  		</g>\
+  	</g>\
+  	<g>\
+  		<g>\
+  			<rect x="87.5" y="57.8" class="st1" width="5.6" height="3.9"/>\
+  		</g>\
+  	</g>\
+  	<g>\
+  		<g>\
+  			<rect x="38.9" y="57.8" class="st1" width="5.6" height="3.9"/>\
+  		</g>\
+  	</g>\
+  	<g>\
+  		<g>\
+  			\
+  				<rect x="81.1" y="41.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.1043 72.4296)" class="st1" width="6.5" height="3.9"/>\
+  		</g>\
+  	</g>\
+  	<g>\
+  		<g>\
+  			\
+  				<rect x="45.7" y="40.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -16.8555 46.4214)" class="st1" width="3.9" height="6.5"/>\
+  		</g>\
+  	</g>\
+  </g>\
+  </svg>'
+}
+
 function makeRequest(ward){
   var requestURL = 'https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/json/Ward' + ward + '.json';
   var request = new XMLHttpRequest();
@@ -81,13 +181,13 @@ function loadMap(ward, request) {
 
         switch (obj[line]["donor_type"]) {
           case "Business":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/b.svg";
+            url = icons.b;
             break;
           case "Individual":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/i.svg";
+            url = icons.i;
             break;
           case "Political Group":
-            url = "https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/g.svg";
+            url = icons.g;
             break;
         }
 
