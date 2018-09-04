@@ -98,6 +98,7 @@ function loadMap(ward, request) {
           origin: new google.maps.Point(0, 0),
           anchor: new google.maps.Point(0, 0),
           scaledSize: new google.maps.Size(size, size),
+          size = new google.maps.Size(132, 135),
         }
 
         var content = '<div id="content">' +
