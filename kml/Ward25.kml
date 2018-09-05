@@ -12,9 +12,7 @@
   <Folder><Placemark>
       <styleUrl>#defaultStyle</styleUrl>
 
-      <ExtendedData>
-        <Data name="ward"><value>25</value></Data><Data name="shape_area"><value>124734729.578</value></Data><Data name="shape_leng"><value>105358.092147</value></Data>
-      </ExtendedData>
+      <name>Ward 25</name>
       <MultiGeometry>
       <Polygon>
       <outerBoundaryIs>

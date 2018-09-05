@@ -16,6 +16,9 @@ def make_kml():
         wardre = re.compile('\<value\>(.*?)\<\/value\>'.encode(encoding='utf_8'))
         ward = wardre.search(placemark).group(1)
         ward = int(str(ward, encoding='utf_8'))
+        placemark = re.sub('\<ExtendedData\>[\S\s]*?\<\/ExtendedData\>'.encode(encoding='utf_8'),
+                           '<name>Ward {}</name>'.format(ward).encode(encoding='utf_8'),
+                           placemark)
         with io.open(os.path.join('kml', 'Ward{}.kml'.format(ward)), 'wb') as f:
             f.write(start + placemark + end)
     # soup = BeautifulSoup(kml, "lxml-xml")
