@@ -92,13 +92,13 @@ function loadMap(ward, request) {
 
         switch (obj[line]["donor_type"]) {
           case "Business":
-            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/i.svg";
+            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/b.svg";
             break;
           case "Individual":
-            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/jojo.svg";
+            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/i.svg";
             break;
           case "Political Group":
-            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/jojo.svg";
+            url = "https://rawgit.com/ryantimjohn/chicago_aldermen_campaign_finance/master/icons/g.svg";
             break;
         }
 
@@ -106,10 +106,8 @@ function loadMap(ward, request) {
 
         var image = {
           url: url,
-          origin: new google.maps.Point(0, 0),
-          anchor: new google.maps.Point(0, 0),
+          // size: new google.maps.Size(132, 135),
           scaledSize: new google.maps.Size(size, size),
-          size = new google.maps.Size(132, 135),
         }
 
         var content = '<div id="content">' +
@@ -129,9 +127,9 @@ function loadMap(ward, request) {
         if (obj[line]["coord"]) {
           var marker = new google.maps.Marker({
             position: new google.maps.LatLng(obj[line]["coord"][0], obj[line]["coord"][1]),
-            icon: image,
             title: obj[line]["first_name"] + " " + obj[line]["last_name"],
             map: map,
+            icon: image,
           });
           google.maps.event.addListener(marker, 'click', (function(marker, content, infowindow) {
             return function() {
