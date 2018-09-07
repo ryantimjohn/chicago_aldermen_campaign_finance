@@ -61,19 +61,23 @@ function makeRequest(ward){
 function loadMap(ward, request) {
 
       var myStyles =[
-      {
+        {
           featureType: "poi",
           elementType: "labels",
           stylers: [
                 { visibility: "off" }
           ]
-      }
+        }
       ]
-      
+
       var mapOptions = {
         center: new google.maps.LatLng(41.8781, -87.6298),
         zoom: 7,
         styles: myStyles,
+      }
+
+      while (request.readyState != 4) {
+        
       }
 
       var obj = request.response;
