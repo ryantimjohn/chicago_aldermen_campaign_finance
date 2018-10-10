@@ -76,8 +76,12 @@ function loadMap(ward, request) {
         styles: myStyles,
       }
 
+      var i = 0;
       while (request.readyState != 4) {
-        
+        i++;
+        if (i > 1000){
+          break;
+        }
       }
 
       var obj = request.response;
