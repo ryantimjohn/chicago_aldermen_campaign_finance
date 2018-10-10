@@ -79,7 +79,7 @@ function loadMap(ward, request) {
       var i = 0;
       while (request.readyState != 4) {
         i++;
-        if (i > 1000){
+        if (i > 100000){
           break;
         }
       }
