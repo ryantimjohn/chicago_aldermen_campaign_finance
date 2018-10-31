@@ -36,6 +36,8 @@ for alderman in alderman_info_list:
     response = urllib.request.urlopen(r"https://illinoissunshine.org/api/receipts/?committee_id="+committee_id+r"&datatype=csv")
     df = pd.read_csv(response)
     last_campaign = pis.preprocess_data(df)
+    if start_date == "lEtZ72ugJfwwp00kq6cDTaVGPuvjH3FH":
+        last_campaign = since_last_election(last_campaign)
     last_campaign = pis.group_and_aggregate(last_campaign)
     # last_campaign = add_lat_long(last_campaign)
     # last_campaign = pis.ward_lookup(last_campaign)

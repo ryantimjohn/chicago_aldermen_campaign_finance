@@ -13,9 +13,6 @@ def preprocess_data(df):
     #loading the data frame and converting received_date to datetime
     df['received_date'] = pd.to_datetime(df['received_date'])
 
-    #selecting for the last_campaign
-    last_campaign = df[(df['received_date'] >= dt.datetime(2015, 2, 24))]
-
     #replacing nan with empty string
     last_campaign = last_campaign.fillna('')
 
