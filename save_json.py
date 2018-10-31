@@ -8,4 +8,4 @@ def save_json(last_campaign, ward, name):
         os.mkdir("json")
     last_campaign.to_json(os.path.join(
                             "json",
-                            "{} - {}.json".format(ward, name)), orient='index')
+                            "{} - {}.json".format(ward, name)), orient='records')

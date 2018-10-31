@@ -46,9 +46,12 @@ def add_donor_type_size(last_campaign):
 
     #creating and assigning <= 500 >500
     last_campaign['donation_size'] = pd.Series('' * len(last_campaign['received_date']), index = last_campaign.index)
-    last_campaign.loc[last_campaign['amount'] > 500.0, 'donation_size'] = 'over 500'
-    last_campaign['donation_size'] = last_campaign['donation_size'].replace('','under 500')
-
+    last_campaign.loc[last_campaign['amount'] > 500.0, 'donation_size'] = 'over $500'
+    last_campaign.loc[last_campaign['amount'] < 176.0, 'donation_size'] = 'under $175'
+    last_campaign['donation_size'] = last_campaign['donation_size'].replace('','between $175 and $500')
+    last_campaign['donor_type_size'] = pd.Series('' * len(last_campaign['received_date']), index = last_campaign.index)
+    last_campaign.loc[last_campaign['donation_size'] == 'under 175', 'donor_type_size'] = 'Donations under $175'
+    last_campaign['donor_type_size'] = last_campaign['donor_type_size'].replace('', last_campaign['donor_type'] + ' ' + last_campaign['donation_size'])
     return last_campaign
 
 def ward_lookup(last_campaign):
