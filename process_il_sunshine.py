@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import datetime as dt
 import requests
 import json
 try:
@@ -13,6 +12,7 @@ def preprocess_data(df):
     #loading the data frame and converting received_date to datetime
     df['received_date'] = pd.to_datetime(df['received_date'])
 
+    last_campaign = df
     #replacing nan with empty string
     last_campaign = last_campaign.fillna('')
 

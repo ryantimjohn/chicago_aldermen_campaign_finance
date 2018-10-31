@@ -4,8 +4,8 @@ from add_lat_long import add_lat_long
 from save_json import save_json
 from save_csv import save_csv
 from html_safe import html_safe
-from make_kml import make_kml
 from alderman_info_list import alderman_info_list
+from since_last_election import since_last_election
 from add_not_itemized import add_not_itemized
 import urllib
 import pandas as pd
