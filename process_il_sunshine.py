@@ -33,26 +33,34 @@ def group_and_aggregate(last_campaign):
 def ward_geo_lookup(last_campaign):
     # TODO: pull out lat long data from cityscape API request (properties[parcels_other][0][lat or lng])
     #ward stuff
-    last_campaign['ward_if_chicago'] = pd.Series('' * len(last_campaign['received_date']), index = last_campaign.index)
+    last_campaign['ward_if_chicago'] = ''
+    last_campaign['lat'] = -87.66063
+    last_campaign['lng'] = 41.87897
 
     total = len(last_campaign.index)
     counts = 0
 
     for index, row in last_campaign.iterrows():
         counts += 1
-    if row[8].strip() == "Chicago":
-        print("Looking up row {} of {}".format(counts, total))
-    response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(row[6], api_key))
-    result = json.loads(response.text)
-    try:
-        for entry in result["properties"]["boundaries"]:
-            if entry['type'] == 'ward':
-                ward = entry['slug'].split('-')[1]
-                print("Ward: {}".format(ward))
-                last_campaign.loc[index, 'ward_if_chicago'] = str(ward)
-                break
-    except (TypeError, KeyError, AssertionError) as e:
-        print("Error, here are the results: {}".format(result["properties"]["boundaries"]))
+        if row[8].strip() == "Chicago":
+            print("Looking up row {} of {}".format(counts, total))
+        response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(row[6], api_key))
+        result = json.loads(response.text)
+
+
+        try:
+            for entry in result["properties"]["boundaries"]:
+                if entry['type'] == 'ward':
+                    ward = entry['slug'].split('-')[1]
+                    print("Ward: {}".format(ward))
+                    last_campaign.loc[index, 'ward_if_chicago'] = str(ward)
+                    break
+        except (TypeError, KeyError, AssertionError) as e:
+            print("Error, here are the results: {}".format(result["properties"]["boundaries"]))
+        last_campaign.loc[index, 'lat'] = result["geometry"]["coordinates"][0]
+        last_campaign.loc[index, 'lng'] = result["geometry"]["coordinates"][1]
+        if last_campaign.loc[index, 'lat'] == -87.66063 and last_campaign.loc[index, 'lng'] == 41.87897:
+            last_campaign.loc[index, 'ward_if_chicago'] = ''
 
     return last_campaign
 
