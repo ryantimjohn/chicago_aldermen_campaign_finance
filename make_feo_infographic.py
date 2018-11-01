@@ -12,7 +12,7 @@ import pandas as pd
 import re
 
 # TODO: get lat and long from chicago Cityscape, make a thing that puts only the totals into two JSONS, one before one after FEO ordinance
-# TODO: ask "since last election or all time"
+# TODO: investigate marker clustering Google Maps API: https://developers.google.com/maps/documentation/javascript/marker-clustering https://developers.google.com/maps/solutions/store-locator/nyc-subway-locator
 
 print("Welcome to the Chicago Fair Elections Alderman Lookup Program!\n\nPlease enter a search here with the 'End Date:' field set to the most recent date it'll do:\n\nhttps://www.elections.il.gov/CampaignDisclosure/SumCommitteeTotalsbyLatest.aspx\n\nInput this number for Committee ID:\n20808\n\nNow copy and paste the URL here (use your mouse instead of a keyboard shortcut or you'll break the program)\n\n")
 url = input("Please past the URL here: ")
@@ -40,7 +40,7 @@ for alderman in alderman_info_list:
         last_campaign = since_last_election(last_campaign)
     last_campaign = pis.group_and_aggregate(last_campaign)
     # last_campaign = add_lat_long(last_campaign)
-    # last_campaign = pis.ward_lookup(last_campaign)
+    last_campaign = pis.ward_geo_lookup(last_campaign)
     # last_campaign = pis.add_donation_location(last_campaign, ward)
     last_campaign = add_not_itemized(last_campaign, boe_encrypted_committee_id, start_date, end_date)
     save_csv(last_campaign, ward, alderman_name)
