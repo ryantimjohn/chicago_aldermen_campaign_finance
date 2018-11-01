@@ -30,8 +30,28 @@ def group_and_aggregate(last_campaign):
     last_campaign = grouped.agg(dict)
     return last_campaign
 
-def ward_geo_lookup(last_campaign):
-    # TODO: pull out lat long data from cityscape API request (properties[parcels_other][0][lat or lng])
+def add_donor_type_size(last_campaign):
+    #creating a donor_type column, filling all individuals
+    last_campaign['donor_type'] = pd.Series('' * len(last_campaign['received_date']), index = last_campaign.index)
+    last_campaign['donor_type'] = np.where((last_campaign['first_name'] != '') , 'Individual', '')
+
+    #assigning Political Group and business
+    political_words = ["PAC", "Friends", "Union", "Committee", "Orgn", " for ", "Local", "Citizen", "Elect", "Political", "LU", "Ward", "Democratic", "Organization"]
+    for word in political_words:
+        last_campaign.loc[last_campaign['last_name'].str.contains(word), 'donor_type'] = 'Political Group'
+    last_campaign['donor_type'] = last_campaign['donor_type'].replace('', 'Business')
+
+    #creating and assigning <= 500 >500
+    last_campaign['donation_size'] = pd.Series('' * len(last_campaign['received_date']), index = last_campaign.index)
+    last_campaign.loc[last_campaign['amount'] > 500.0, 'donation_size'] = 'over $500'
+    last_campaign.loc[last_campaign['amount'] < 176.0, 'donation_size'] = 'under $175'
+    last_campaign['donation_size'] = last_campaign['donation_size'].replace('','between $175 and $500')
+    last_campaign['donor_type_size'] = pd.Series('' * len(last_campaign['received_date']), index = last_campaign.index)
+    last_campaign.loc[last_campaign['donation_size'] == 'under 175', 'donor_type_size'] = 'Donations under $175'
+    last_campaign['donor_type_size'] = last_campaign['donor_type_size'].replace('', last_campaign['donor_type'] + ' ' + last_campaign['donation_size'])
+    return last_campaign
+
+def ward_lookup(last_campaign):
     #ward stuff
     last_campaign['ward_if_chicago'] = ''
     last_campaign['lat'] = -87.66063
