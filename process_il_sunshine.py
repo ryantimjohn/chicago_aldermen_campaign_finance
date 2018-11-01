@@ -51,7 +51,7 @@ def add_donor_type_size(last_campaign):
     last_campaign['donor_type_size'] = last_campaign['donor_type_size'].replace('', last_campaign['donor_type'] + ' ' + last_campaign['donation_size'])
     return last_campaign
 
-def ward_lookup(last_campaign):
+def ward_geo_lookup(last_campaign):
     #ward stuff
     last_campaign['ward_if_chicago'] = ''
     last_campaign['lat'] = -87.66063
@@ -64,23 +64,23 @@ def ward_lookup(last_campaign):
         counts += 1
         if row[8].strip() == "Chicago":
             print("Looking up row {} of {}".format(counts, total))
-        response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(row[6], api_key))
-        result = json.loads(response.text)
+            response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(row[6], api_key))
+            result = json.loads(response.text)
 
 
-        try:
-            for entry in result["properties"]["boundaries"]:
-                if entry['type'] == 'ward':
-                    ward = entry['slug'].split('-')[1]
-                    print("Ward: {}".format(ward))
-                    last_campaign.loc[index, 'ward_if_chicago'] = str(ward)
-                    break
-        except (TypeError, KeyError, AssertionError) as e:
-            print("Error, here are the results: {}".format(result["properties"]["boundaries"]))
-        last_campaign.loc[index, 'lat'] = result["geometry"]["coordinates"][0]
-        last_campaign.loc[index, 'lng'] = result["geometry"]["coordinates"][1]
-        if last_campaign.loc[index, 'lat'] == -87.66063 and last_campaign.loc[index, 'lng'] == 41.87897:
-            last_campaign.loc[index, 'ward_if_chicago'] = ''
+            try:
+                for entry in result["properties"]["boundaries"]:
+                    if entry['type'] == 'ward':
+                        ward = entry['slug'].split('-')[1]
+                        print("Ward: {}".format(ward))
+                        last_campaign.loc[index, 'ward_if_chicago'] = str(ward)
+                        break
+            except (TypeError, KeyError, AssertionError) as e:
+                print("Error, here are the results: {}".format(result["properties"]["boundaries"]))
+            last_campaign.loc[index, 'lat'] = result["geometry"]["coordinates"][0]
+            last_campaign.loc[index, 'lng'] = result["geometry"]["coordinates"][1]
+            if last_campaign.loc[index, 'lat'] == -87.66063 and last_campaign.loc[index, 'lng'] == 41.87897:
+                last_campaign.loc[index, 'ward_if_chicago'] = ''
 
     return last_campaign
 

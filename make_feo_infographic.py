@@ -39,9 +39,10 @@ for alderman in alderman_info_list:
     if start_date == "lEtZ72ugJfwwp00kq6cDTaVGPuvjH3FH":
         last_campaign = since_last_election(last_campaign)
     last_campaign = pis.group_and_aggregate(last_campaign)
-    # last_campaign = add_lat_long(last_campaign)
     last_campaign = pis.ward_geo_lookup(last_campaign)
-    # last_campaign = pis.add_donation_location(last_campaign, ward)
+    last_campaign = add_lat_long(last_campaign)
+    last_campaign['coord'] = tuple(zip(last_campaign['lng'],  last_campaign['lat']))
+    last_campaign = pis.add_donation_location(last_campaign, ward)
     last_campaign = add_not_itemized(last_campaign, boe_encrypted_committee_id, start_date, end_date)
     save_csv(last_campaign, ward, alderman_name)
     last_campaign = html_safe(last_campaign)
