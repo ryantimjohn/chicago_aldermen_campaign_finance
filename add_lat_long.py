@@ -18,6 +18,7 @@ def add_lat_long(last_campaign):
 
     for index, row in last_campaign.iterrows():
         counts += 1
+        #if the coord is default, look up in Nominatim
         try:
             if last_campaign.loc[index, 'lat'] == -87.66063 and last_campaign.loc[index, 'lng'] == 41.87897:
                 print("Looking up row {} of {}".format(counts, total))
@@ -26,6 +27,8 @@ def add_lat_long(last_campaign):
                 last_campaign.loc[index, 'lng'] = location.longitude
         except AttributeError:
             print("This address not found: {}".format(last_campaign.loc[index, 'full_address']))
+
+            #if Openmaps doesn't have it, look up in GoogleV3
             try:
                 location = geolocator2.geocode(last_campaign.loc[index, 'full_address'])
                 last_campaign.loc[index, 'lat'] = location.latitude
@@ -38,14 +41,5 @@ def add_lat_long(last_campaign):
                 print("Even Google couldn't find this address!")
                 last_campaign.loc[index, 'lat'] = last_campaign.loc[index, 'lat'] + (((random.random()*2)-1)*.01)
                 last_campaign.loc[index, 'lng'] = last_campaign.loc[index, 'lng'] + (((random.random()*2)-1)*.01)
-        # location = geolocator.geocode(full_address)
-        # try:
-        #     last_campaign.loc[index, 'lat'] = location.latitude
-        #     last_campaign.loc[index, 'long'] = location.longitude
-        # except AttributeError as e:
-        #     pass
-        # if last_campaign.loc[index, 'lat']:
-        #     print(last_campaign.loc[index, 'lat'])
-        # else:
-        #     print(full_address)
+
     return(last_campaign)
