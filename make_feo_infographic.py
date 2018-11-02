@@ -10,6 +10,7 @@ from add_not_itemized import add_not_itemized
 import urllib
 import pandas as pd
 import re
+from make_low_vs_high import make_low_vs_high
 
 # TODO: get lat and long from chicago Cityscape, make a thing that puts only the totals into two JSONS, one before one after FEO ordinance
 # TODO: investigate marker clustering Google Maps API: https://developers.google.com/maps/documentation/javascript/marker-clustering https://developers.google.com/maps/solutions/store-locator/nyc-subway-locator
@@ -39,6 +40,7 @@ for alderman in alderman_info_list:
     if start_date == "lEtZ72ugJfwwp00kq6cDTaVGPuvjH3FH":
         last_campaign = since_last_election(last_campaign)
     last_campaign = pis.group_and_aggregate(last_campaign)
+    make_low_vs_high(last_campaign, boe_encrypted_committee_id, start_date, end_date, ward)
     last_campaign = pis.ward_geo_lookup(last_campaign)
     last_campaign = add_lat_long(last_campaign)
     last_campaign['coord'] = tuple(zip(last_campaign['lng'],  last_campaign['lat']))
