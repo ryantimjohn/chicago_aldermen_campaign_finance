@@ -14,7 +14,11 @@ from make_low_vs_high import make_low_vs_high
 
 # TODO: get lat and long from chicago Cityscape, make a thing that puts only the totals into two JSONS, one before one after FEO ordinance
 # TODO: investigate marker clustering Google Maps API: https://developers.google.com/maps/documentation/javascript/marker-clustering https://developers.google.com/maps/solutions/store-locator/nyc-subway-locator
+<<<<<<< HEAD
 # TODO: update dimple script to only use JSON totals
+=======
+# TODO: output all entries with exactly the same address
+>>>>>>> e3a29d2ff2aba4f8d8c7b5b1dbd89af5160644a5
 
 print("Welcome to the Chicago Fair Elections Alderman Lookup Program!\n\nPlease enter a search here with the 'End Date:' field set to the most recent date it'll do:\n\nhttps://www.elections.il.gov/CampaignDisclosure/SumCommitteeTotalsbyLatest.aspx\n\nInput this number for Committee ID:\n20808\n\nNow copy and paste the URL here (use your mouse instead of a keyboard shortcut or you'll break the program)\n\n")
 url = input("Please past the URL here: ")
