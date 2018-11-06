@@ -46,9 +46,21 @@ def make_web_json(donations,ward):
     if not os.path.isdir("web_json"):
         os.mkdir("web_json")
     before_feo=feo_effects[[0,1]]
+    before_feo.columns=["type","amount"]
     before_feo.to_json(os.path.join("web_json","Ward{}_sector_before.json".format(ward)), orient='records')
     after_feo=feo_effects[[0,2]]
+    after_feo.columns=["type","amount"]
     after_feo.to_json(os.path.join("web_json","Ward{}_sector_after.json".format(ward)), orient='records')
+
+
+#now create JSONS for the totals
+    before_feo_total = [['under_175', under_175_sum], ['over_500', over_500_sum]]
+    df_before = pd.DataFrame(before_feo_total, columns = ['type', 'amount'])
+    df_before.to_json(os.path.join( "web_json","Ward{}_totals_before.json".format(ward)), orient='records')
+    
+    after_feo_total = [['under_175', under_175_sum_after_feo], ['over_500', over_500_sum_after_feo]]
+    df_after = pd.DataFrame(after_feo_total, columns = ['type', 'amount'])
+    df_after.to_json(os.path.join( "web_json","Ward{}_totals_after.json".format(ward)), orient='records')
 
     
         

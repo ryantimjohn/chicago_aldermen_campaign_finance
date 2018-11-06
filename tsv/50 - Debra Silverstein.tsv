@@ -1,162 +1,162 @@
-employer	city	state	last_name	amount	address1	address2	occupation	first_name	zipcode	received_date	donor_type_size	donation_location	classified_type
-	Chicago	IL	1543/51 Partners, LP	1500	1541 N Wells				60610-1037	2015-02-24			propertyman
-	Chicago	IL	2700-04 W. Peterson Corp	500	2704 W Peterson				60659	2018-09-17			unclassified
-	Chicago	IL	50th Ward Regular Democratic Organization	2650	2949 W Devon				60659	2018-09-28			party
-	Skokie	IL	AA Healthcare Management LLC	1000	8150 Central Park				60076	2018-09-17			propertyman
-	Oakbrook Terrace	IL	AAIM Howard & Western LLC,   c/o MId-America Asset Mgmt	1500	One Parkview Plaza, 9th Fl.				60181	2018-06-19			unclassified
-	Springfield	IL	AFSME illinois Council No. 31	1000	615 S. Second St	PO Box 2328			62705-2328	2018-07-19			union
-	Oakbrook Terrace	IL	AIMM Howard & Western LLC	500	One Parkview Plaza	9th Floor			60181	2016-09-11			unclassified
-	Chicago	IL	AJ Patel Food Service Inc.	2500	3132 W. Devon				60645	2018-06-19			retail
-	Chicago	IL	AT&T Illinois Employee PAC	2000	225 W Randolph 27b				60606	2018-10-08			pac
-self	Skokie	IL	Aaron	2300	4024 Grove St		administrator	Maurice & Ora	60076	2018-08-10			Individual
-	Chicago	IL	Ader	250	645 W Briar PL #3			Bradley	60657	2018-08-14			Individual
-	Maitland	FL	Akerman LLP	500	495 N Keller Rd	Ste 300			32751	2018-06-25			propertyman
-	Chicago	IL	Amjed & Majed, Inc.	200	2401 W. Devon Ave				60659	2018-08-21			retail
-	Chicago	IL	Anmol Barbecue Restaurant	250	2858 W Devon				60659	2018-08-23			retail
-	Lincolnwood	IL	Aperion Care Inc	5500	4655 W. Chase				60712	2018-09-17			unclassified
-	Chicago	IL	Aryeh	500	6616 N Monticello			M. David	60659	2016-09-22			Individual
-	Springfield	IL	Associated Beer Distributors of IL	3500	100 W Cook				62704	2018-06-20			construction
-	Rolling Meadows	IL	Avalon Equities Western LLC	250	3315 Algonquin Rd	Ste 600			60008	2018-06-25			unclassified
-	Niles	IL	BDJ Trucking, Inc.	1000	7400 N. Waukegan Rd #208				60714	2018-08-19			retail
-	Chicago	IL	Banks	250	1838 N Neva			William	60707	2018-06-21			Individual
-	Northbrook	IL	Banner Storage GroupLLC	1500	500 Skokie Blvd Suite 600				60062	2018-08-14			unclassified
-	Chicago	IL	Barr Management, Lt	1250	2400 W. Devon				60659	2018-06-19			propertyman
-	Chicago	IL	Berger	500	6244 N Central Park			"Menachem ""Mark"""	60659	2016-09-11			Individual
-Crescent Heights	Chicago	IL	Bitton	2360	2949 Greenleaf		Managing Director	Tomer	60645	2018-08-14			Individual
-	Chicago	IL	Broude	200	6430 N Artesian  #1			Alexander	60645	2018-09-14			Individual
-	Chicago	IL	Bundoo Khan Taste of Tradition	200	2539 W Devon				60659	2018-08-23			unclassified
-	Morton Grove	IL	Butt	500	6822 Beckwith			Mohammed	60053	2018-08-14			Individual
-	Chicago	IL	Cermak Produce No. 15, Inc	2000	6623 N Damen				60645	2016-12-12			financial
-	Chicago	IL	Cermak Produce No. 6 Inc.	2000	4234 N. Kedzie				60618	2018-06-20			financial
-	Skokie	IL	Cheder Lubavitch Hebrew Day School Inc.	180	5201 Howard				60077	2018-06-21			retail
-	Chicago	IL	Chicago Acceptance	1000	6231 N. Western Ave				60659	2018-06-20			unclassified
-	Chicago	IL	Chicago Fire Fighters Union Local 2 PAC	1250	440 W. 43rd Stret				60609	2018-07-19			union
-	Chicago	IL	Chicago Journeymen Plumber's LU130 PAC	1000	1340 W Washington				60607	2017-12-18			union
-	Countryside	IL	Chicago Land Operations Joint Labor-Management PAC	10092	6200 Joliet Rd				60525	2018-10-13			pac
-	Chicago	IL	Chicago Regional Council of Carpenters PAC	500	12 E Erie Street				60609	2018-06-19			union
-	Chicago	IL	Chicago for Rahm Emanuel	20000	PO Box 101121				60610-8902	2018-10-12			candidate
-	Skokie	IL	Citizens for Lou Lang	1300	PO Box 1815				60076-1815	2017-07-26			candidate
-	Chicago	IL	City Fresh Market Inc	1000	3201 W Devpm				60659	2018-09-17			retail
-	Chicago	IL	City Fresh Market, Inc.	200	3201 W. Devon				60659	2017-12-18			retail
-	Northbrook	IL	Clark Street Investors LLC	750	c/o Next Property	400 Skokie Blvd Ste 800			60062	2016-09-11			unclassified
-	Philadelphia	PA	Comcast Financial Agency Corporation	4500	1701 JFK Blvd				19103-2838	2018-08-27			financial
-	Chicago	IL	Davis	1000	6124 N Bernard			Eli	60659	2018-06-25			unclassified
-	Chicago	IL	Diversey Rockwell LLC	200	6348 N Cicero				60646	2018-06-19			unclassified
-	Chicago	IL	Doerner	500	1705 N Rutherford			John	60607-3942	2018-06-19			Individual
-	Chicago	IL	Doerrer	1000	1705 N Rutherford		Lobyist	John	60607-3942	2018-10-09			Individual
-	Chicago	IL	Doerrer	500	1705 N Rutherford			John	60707	2017-08-04			Individual
-	Chicago	IL	Eagle Insurance Agency	180	3517 N Spaulding				60618	2018-08-14			unclassified
-	Chicago	IL	F2NS LLC  dba Karahi Corner	500	2658 W Devon Ave				60659-1811	2018-08-23			unclassified
-	Villa Park	IL	Farooqui	500	1142 N  Yale	9th Floor		Sana Khatoon	60181	2017-08-29			Individual
-	Chicago	IL	Fatima	500	2529 W Jerome B			Asma	60645	2017-08-25			Individual
-	Chicago	IL	Fletcher, O'Brien, Kasper & Nottage PC	500	222 N LaSalle	300			60601	2018-08-23			unclassified
-	Lincolnwood	IL	Gefen Property Group LLC	500	4600 W Touhy	Ste 200			60712	2018-06-19			developer
-	Chicago	IL	Glencrest Nursing & Rehabiitation Center LTD	500	2451 W. Touhy				60645	2016-09-11			unclassified
-self	Chicago	IL	Glenner	3500	2959 W Glenlake		businessman	Sidney	60645	2018-09-26			Individual
-	Chicago	IL	Goldfeder	1250	6030 N. Bernard			Avrom	60659	2018-06-19			Individual
-	Chicago	IL	Green Management Inc.	500	23 Rolling Hills Dr				60659	2018-08-23			financial
-	Skokie	IL	Greystone Associates, Inc	2000	7247 St Louis				60076	2016-10-06			retail
-	Palatine	IL	Grossinger Chevrolet	300	151 E. :Lake Cook Rd				60074	2017-07-27			unclassified
-	Chicago	IL	Grossinger Honda	900	6600 N Western				60645	2016-09-11			unclassified
-	skokie	IL	Haq	200	5106 Jarlath			Riaz UL	60077	2018-08-23			Individual
-	Chicago	IL	Haque	1500	7207 N. Greenview			Mohammad W.	60626	2018-09-17			Individual
-	Chicago	IL	Haque	500	7207 N. Greenview			Soofia	60626	2015-11-12			Individual
-	Countryside	IL	I.U.O.E. Local 150 LAPAC	2500	6200 Joliet Rd				60625-2957	2018-08-19			union
-	Chicago	IL	IILPCC Inc	500	6359 N. Maplewood				60659	2016-12-12			retail
-	Chicago	IL	IPLCC Inc	600	6359 N Maplewood Ave				60659	2018-06-25			retail
-	Springield	IL	Illinois AFL-CIO Committee on Political Education	500	534 S 2nd St	#200			62701-1764	2018-05-29			unclassified
-	Orland Park	IL	Illinois Fire Sprinkler Contractors PAC	500	62 Orland Square Drive				60462-6559	2015-11-24			union
-	Springfield	IL	Illinois Hotel-Motel PAC	1500	5A Lawrence Square				62704	2018-08-14			union
-	Chicago	IL	J.K. Kabab House	400	6412 N Rockwell				60659	2016-09-11			unclassified
-	Chicago	IL	JD Sales Inc	750	221 N LaSalle St	Ste 3800			60601	2018-06-25			retail
-	Lincolnwood	IL	KFT Services LLC	1000	6633 N  Lincoln				60712	2018-08-14			unclassified
-	Skokie	IL	Kalish	250	8707 Skokie Blvd  #204			Yehiel Mark	60077	2015-12-15			Individual
-	Chicago	IL	Khan	200	6340 N Mplewood,			M. Hameedulla	60659	2015-11-25			Individual
-	Chicago	IL	Khan	1000	2805 W Rosemont	205		Mazher	60659	2018-09-17			Individual
-Studio Elite	Barrington	IL	Khan	1000	23 Rolling Hills Dr		Store Owner	Shahida	60010	2018-08-19			Individual
-	Chicago	IL	Klein	300	2715 W Birchwood			Michael	60645	2017-07-26			Individual
-self	Lincolnwood	IL	Kohn	3000	6311 W. Gross Point Rd		businessman	Asher	60714	2018-10-08			Individual
-	Niles	IL	Kolpak, Lerner & Grcic	1800	6767 N Milwaukee #202				60714	2018-06-19			unclassified
-	Chicago	IL	Lake Shore Healthcare	1000	7200 N Sheridan				60626	2018-09-17			unclassified
-	Chicago	IL	Lakha Enterprises	500	2244 W. Devon				60659	2018-08-23			unclassified
-	Lincolnwood	IL	Legacy HealthCare	1000	7040 N Ridgeway				60712	2018-09-17			unclassified
-	Chicago	IL	Limrah Inc	650	2241 W Devon				50569	2018-06-25			retail
-	Chicago	IL	Local 134 State & Municipal PAC, IBEW	1000	2722 S Martin Luther King Drive				60616	2018-06-20			union
-retired	Chicago	IL	Loskov	1000	6833 N Kedzie	#115	accountant	Marvin	60645	2018-06-20			Individual
-	Lincolnwood	IL	Lyon Financial Services LLC	500	7383 N Lincoln Ave				60712	2016-09-22			financial
-	Skokie	IL	M Y Investment Inc.	500	8060 Lawndale				60076	2018-08-23			retail
-	Chicago	IL	MM Business Enterprises Inc	200	2805 W Division				60622	2018-08-23			retail
-	Chicago	IL	MR 6834 Western LLC	500	55 E Jackson Blvd, 5th Fl				60604	2018-06-25			propertyman
-	Forest Park	IL	Mary Kay Minaghan d/b/a MKM Services	500	308 Circle Ave				60130	2018-06-25			unclassified
-	Chicago	IL	Mashiach	500	2841 W Chase			Shmuel & Talia	60645	2015-12-05			Individual
-	chicago	IL	Matanky & Matanky, Ltd	500	200 N. LaSalle #2350				60601-1044	2016-12-12			unclassified
-	Chicago	IL	Matanky Realty Group, Inc.	750	200 N LaSalle	#2350			60601	2018-08-14			unclassified
-	Richmond	VA	McGuire Woods Federal PAC Fund	250	One James Center	901 East Cary Street			23219-4030	2018-06-25			union
-	Chicago	IL	Miguel A. Santiago Consulting Inc.	300	7414 N Octavia Ave				60631-4335	2018-06-29			unclassified
-	Chicago	IL	Musa	500	6535 N Hoyne #2S			Wasim	60645	2017-08-29			Individual
-	Northbrook	IL	Next Parrot Plaza, LLC	1250	c/o Next Property	400 Skokie; Ste 800			60062	2017-08-10			unclassified
-Mado Realty	Chicago	IL	O'Brien	1500	1541 N Wells		manager	Peter J SR	60610	2015-02-24			Individual
-	Chicago	IL	Orange Management Inc.	500	2312 W Devon				60659	2018-08-23			financial
-	Lincolnwood	IL	Patel	1000	4842 W. Sherwin			Sarfaraz	60712	2018-09-17			Individual
-Village of Schiller Park	Schiller Park	IL	Patel	2000	9833 Garden Ct.		Police Officer	Shabbir	60176	2018-09-17			Individual
-CPS	Lincolnwood	IL	Patel	2000	4842 W. Sherwin		Teacher	Yusuf	60712	2018-09-17			Individual
-	Lincolnwood	IL	Patel	1000	4842 W. Sherwin			Zaheer	60712	2018-09-17			Individual
-	Chicago	IL	Peoples Gas	500	130 E Randolph,#300				60601-6302	2016-12-13			unclassified
-	Milwaukee	WI	Peoples Gas Light & Coke	250	PO Box 12179				53201	2018-07-19			unclassified
-	Green Bay	WI	Peoples Gas Light & Coke	250	PO Box 19800				54307-9004	2017-12-05			unclassified
-	Washington	DC	Pepsico Inc.	500	325 7th NW, Suite 400				20004	2018-03-29			retail
-	Chicago	IL	Perillo BMW	300	1035 N Clark				60610	2017-08-01			unclassified
-	Memphis	TN	Pfizer Inc	500	6730 Lennox Center				38115	2017-12-28			retail
-	Skokie	IL	Prospect Resources, Inc.	750	8170 McCormick, #107				60076	2018-06-21			retail
-	Chicago	IL	Qureshi	1000	6234 N Paulina			Fazel	60660	2017-08-09			Individual
-	Chicago	IL	Qureshi	500	6234 N Paulina			Jazal	60660	2018-09-17			Individual
-	Chicago	IL	Radio Advertising, Inc.	1000	3312 W Peterson				60659	2018-06-25			retail
-self employed	Chicago	IL	Rajchenbach	1000	6301 N Central Park		Manager	J L	60659	2018-09-17			unclassified
-	Chicago	IL	Raucci & Sulluvan Strategies, LLC	500	3000 N. Sheridan Rd Suite 18C				60657	2016-09-11			unclassified
-	Chicago	IL	Regal Jewels Inc	818	2625 W Devon				60659	2018-09-14			retail
-	Niles	IL	Richard's Body Shop of Niles	180	5759 Touhy				60714	2015-12-14			retail
-Capital One	Chicago	IL	Rosen	1800	2938 W Jarvis			Joshua	60645	2018-09-01			Individual
-Extended Care	Chicago	IL	Rothner	6800	3125 W. Sherwin		Manager	Eric	60645	2018-09-28			Individual
-	Chicago	IL	S&C Electric Company	4000	6601 N Ridge				60626	2018-06-20			unclassified
-	Skokie	IL	S4 PAC	1000	8707 Skokie Blvd	Ste 204			60077	2018-08-14			unclassified
-	Joliet	IL	Salem Village Nursing & Rehab Center	250	1314 Rowell Ave				60433	2017-07-27			unclassified
-	Chicago	IL	Schain Banks Kenny  & Schwartz	250	70 W Madison	Ste 5300			60602	2018-06-21			unclassified
-self	Skokie	IL	Schur	3000	7315 St Louis		attorney	Baruch	60076	2018-10-30			Individual
-	Chicago	IL	Seleski	1150	2908 W. Lunt			Samuel	60645	2018-06-19			Individual
-	Chicago	IL	Service Employees Local 1 PEC	500	111 E, Wacker, 21st Fl				60601-3713	2017-02-15			union
-	Cincinnati	OH	Seymour	500	8130 Margaret Lan			Kyle	45242	2016-09-11			Individual
-	Chicago	IL	Shapiro	910	3150 N Lake Shgore Drive	15C		Gail	60657	2017-07-24			Individual
-	SKOKIE	IL	Shapiro	250	7410 Lincoln			Maura	60076	2018-06-19			Individual
-	Chicago	IL	Siavelis	200	2100 W Lunt			Wiliam	60645	2018-06-19			Individual
-	Lincolnwood	IL	Spuropoulos	700	6955 N Karlov			Peter	60712	2017-08-16			Individual
-	Skokie	IL	Stern	1250	9049 Karlov			Abraham	60076	2018-09-26			Individual
-	Chicago	IL	Stern	500	7415 Washtenaw			Rena	60645	2017-08-11			Individual
-	Chicago	IL	Stern	500	7415 N Washtenaw			Sheldon	60645	2018-06-19			Individual
-	Chicago	IL	TCB- Lincoln Village LLC	500	350 N LaSalle #700				60654	2018-08-14			unclassified
-	Chicago	IL	Taft Stettinius & Hollister LLP	500	111 E. Wacker Suite 2800				60601	2018-06-29			propertyman
-	Chicago	IL	Tahoora Sweets & Bakery	350	2345 W Devon				60659	2015-11-25			unclassified
-	Psark Ridge	IL	Teamsters Local Union No. 700 PAC	500	1300 W Higgins #2301				60048	2016-09-11			union
-	Chicago	IL	Thomas J. Murphy P.C.	200	111 W Washington				60602	2018-06-19			unclassified
-	Chicago	IL	Thomas R. Raines Attorney At Law LLC	1500	20 N Wabash #556				60606	2018-08-10			unclassified
-	St Louis	MO	Thompson Coburn LLP	500	One US Bank Plaza				63101-1693	2018-03-29			propertyman
-	Chicago	IL	Trachman	250	3401 W. Devon			Samuel	60659	2018-06-29			Individual
-	Lombard	IL	U&F Sons Inc.	250	1210 S Highland Ave				60148	2018-06-25			retail
-	Chicago	IL	United Airlines Inc. PAC	250	233 S. Wacker, 11th Fl				60606	2018-06-29			unclassified
-	Chicago	IL	Unitek Service	1650	2459 W Devon				60659	2018-09-17			unclassified
-	Chicago	IL	Usmania Fine Dining	500	2244 W Devon				60659	2018-08-23			unclassified
-	Chicago	IL	Vaishnav Dhaba Inc. DBA Punjabi Dhabha	600	2525 W Devon				60659	2018-07-19			retail
-	Skokie	IL	Vasilj	500	4910 Conrad #2C			Nathalie & Davor	60077	2018-06-25			Individual
-	Deerfield	IL	Walgreens  (Corporate)	1000	104 Wilmot Rd	MS1444			60015	2018-09-14			unclassified
-	Chicago	IL	Weiss	500	6256 N. Central Park			Isaac	60659	2018-08-23			Individual
-	Chicago	IL	Weiss	250	6256 N Central Park			Isaac Jacob	60659	2018-06-25			Individual
-	Chicago	IL	Weiss Properties Inc	500	PO Box 597875				60659	2017-08-11			unclassified
-	Dublin	OH	Wendy's International LLC	3500	One Dave Thomas Blvd.				430147-545	2017-08-08			unclassified
-	Chicago	IL	Wengrow	3000	7400 N Francisco			Heshy	60645	2018-10-30			Individual
-	Chicago	IL	Wheels of Chicago, Inc.	1600	6229 N Western				60659	2017-07-26			realestate
-	Chicago	IL	Wine and Spirits Distributors of IL	500	27 E Monroe	ste 1200			60603	2016-01-12			construction
-	Chicago	IL	Wolf	250	6521 N Mozart			Isaac	60645	2015-12-14			Individual
-	Chicago	IL	Wreck Roll Auto Body, Inc.	1700	6652 N Western				60645	2018-06-19			retail
-	Chicago	IL	Yafai	400	6129 N Karlov			Nasser	60646	2018-06-25			Individual
-	Chicago	IL	Yaqoob	500	6412 Oakley			Mohammad	60645	2018-08-23			Individual
-Usmania	Skokie	IL	Yaqoob N.	1000	4800 Fargo		Restaurant owner	Mohamad	60077	2018-08-20			Individual
-			Non-itemized donations	3775							Donations under $175	Non-itemized donations under $150	unclassified
+received_date	last_name	first_name	address1	zipcode	amount	state	occupation	city	employer	address2	donation_location	donor_type_size	classified_type
+2015-02-24	1543/51 Partners, LP		1541 N Wells	60610-1037	1500	IL		Chicago					propertyman
+2018-09-17	2700-04 W. Peterson Corp		2704 W Peterson	60659	500	IL		Chicago					unclassified
+2018-09-28	50th Ward Regular Democratic Organization		2949 W Devon	60659	2650	IL		Chicago					party
+2018-09-17	AA Healthcare Management LLC		8150 Central Park	60076	1000	IL		Skokie					propertyman
+2018-06-19	AAIM Howard & Western LLC,   c/o MId-America Asset Mgmt		One Parkview Plaza, 9th Fl.	60181	1500	IL		Oakbrook Terrace					unclassified
+2018-07-19	AFSME illinois Council No. 31		615 S. Second St	62705-2328	1000	IL		Springfield		PO Box 2328			union
+2016-09-11	AIMM Howard & Western LLC		One Parkview Plaza	60181	500	IL		Oakbrook Terrace		9th Floor			unclassified
+2018-06-19	AJ Patel Food Service Inc.		3132 W. Devon	60645	2500	IL		Chicago					retail
+2018-10-08	AT&T Illinois Employee PAC		225 W Randolph 27b	60606	2000	IL		Chicago					pac
+2018-08-10	Aaron	Maurice & Ora	4024 Grove St	60076	2300	IL	administrator	Skokie	self				Individual
+2018-08-14	Ader	Bradley	645 W Briar PL #3	60657	250	IL		Chicago					Individual
+2018-06-25	Akerman LLP		495 N Keller Rd	32751	500	FL		Maitland		Ste 300			propertyman
+2018-08-21	Amjed & Majed, Inc.		2401 W. Devon Ave	60659	200	IL		Chicago					retail
+2018-08-23	Anmol Barbecue Restaurant		2858 W Devon	60659	250	IL		Chicago					retail
+2018-09-17	Aperion Care Inc		4655 W. Chase	60712	5500	IL		Lincolnwood					unclassified
+2016-09-22	Aryeh	M. David	6616 N Monticello	60659	500	IL		Chicago					Individual
+2018-06-20	Associated Beer Distributors of IL		100 W Cook	62704	3500	IL		Springfield					construction
+2018-06-25	Avalon Equities Western LLC		3315 Algonquin Rd	60008	250	IL		Rolling Meadows		Ste 600			unclassified
+2018-08-19	BDJ Trucking, Inc.		7400 N. Waukegan Rd #208	60714	1000	IL		Niles					retail
+2018-06-21	Banks	William	1838 N Neva	60707	250	IL		Chicago					Individual
+2018-08-14	Banner Storage GroupLLC		500 Skokie Blvd Suite 600	60062	1500	IL		Northbrook					unclassified
+2018-06-19	Barr Management, Lt		2400 W. Devon	60659	1250	IL		Chicago					propertyman
+2016-09-11	Berger	"Menachem ""Mark"""	6244 N Central Park	60659	500	IL		Chicago					Individual
+2018-08-14	Bitton	Tomer	2949 Greenleaf	60645	2360	IL	Managing Director	Chicago	Crescent Heights				Individual
+2018-09-14	Broude	Alexander	6430 N Artesian  #1	60645	200	IL		Chicago					Individual
+2018-08-23	Bundoo Khan Taste of Tradition		2539 W Devon	60659	200	IL		Chicago					unclassified
+2018-08-14	Butt	Mohammed	6822 Beckwith	60053	500	IL		Morton Grove					Individual
+2016-12-12	Cermak Produce No. 15, Inc		6623 N Damen	60645	2000	IL		Chicago					financial
+2018-06-20	Cermak Produce No. 6 Inc.		4234 N. Kedzie	60618	2000	IL		Chicago					financial
+2018-06-21	Cheder Lubavitch Hebrew Day School Inc.		5201 Howard	60077	180	IL		Skokie					retail
+2018-06-20	Chicago Acceptance		6231 N. Western Ave	60659	1000	IL		Chicago					unclassified
+2018-07-19	Chicago Fire Fighters Union Local 2 PAC		440 W. 43rd Stret	60609	1250	IL		Chicago					union
+2017-12-18	Chicago Journeymen Plumber's LU130 PAC		1340 W Washington	60607	1000	IL		Chicago					union
+2018-10-13	Chicago Land Operations Joint Labor-Management PAC		6200 Joliet Rd	60525	10092	IL		Countryside					pac
+2018-06-19	Chicago Regional Council of Carpenters PAC		12 E Erie Street	60609	500	IL		Chicago					union
+2018-10-12	Chicago for Rahm Emanuel		PO Box 101121	60610-8902	20000	IL		Chicago					candidate
+2017-07-26	Citizens for Lou Lang		PO Box 1815	60076-1815	1300	IL		Skokie					candidate
+2018-09-17	City Fresh Market Inc		3201 W Devpm	60659	1000	IL		Chicago					retail
+2017-12-18	City Fresh Market, Inc.		3201 W. Devon	60659	200	IL		Chicago					retail
+2016-09-11	Clark Street Investors LLC		c/o Next Property	60062	750	IL		Northbrook		400 Skokie Blvd Ste 800			unclassified
+2018-08-27	Comcast Financial Agency Corporation		1701 JFK Blvd	19103-2838	4500	PA		Philadelphia					financial
+2018-06-25	Davis	Eli	6124 N Bernard	60659	1000	IL		Chicago					unclassified
+2018-06-19	Diversey Rockwell LLC		6348 N Cicero	60646	200	IL		Chicago					unclassified
+2018-06-19	Doerner	John	1705 N Rutherford	60607-3942	500	IL		Chicago					Individual
+2018-10-09	Doerrer	John	1705 N Rutherford	60607-3942	1000	IL	Lobyist	Chicago					Individual
+2017-08-04	Doerrer	John	1705 N Rutherford	60707	500	IL		Chicago					Individual
+2018-08-14	Eagle Insurance Agency		3517 N Spaulding	60618	180	IL		Chicago					unclassified
+2018-08-23	F2NS LLC  dba Karahi Corner		2658 W Devon Ave	60659-1811	500	IL		Chicago					unclassified
+2017-08-29	Farooqui	Sana Khatoon	1142 N  Yale	60181	500	IL		Villa Park		9th Floor			Individual
+2017-08-25	Fatima	Asma	2529 W Jerome B	60645	500	IL		Chicago					Individual
+2018-08-23	Fletcher, O'Brien, Kasper & Nottage PC		222 N LaSalle	60601	500	IL		Chicago		300			unclassified
+2018-06-19	Gefen Property Group LLC		4600 W Touhy	60712	500	IL		Lincolnwood		Ste 200			developer
+2016-09-11	Glencrest Nursing & Rehabiitation Center LTD		2451 W. Touhy	60645	500	IL		Chicago					unclassified
+2018-09-26	Glenner	Sidney	2959 W Glenlake	60645	3500	IL	businessman	Chicago	self				Individual
+2018-06-19	Goldfeder	Avrom	6030 N. Bernard	60659	1250	IL		Chicago					Individual
+2018-08-23	Green Management Inc.		23 Rolling Hills Dr	60659	500	IL		Chicago					financial
+2016-10-06	Greystone Associates, Inc		7247 St Louis	60076	2000	IL		Skokie					retail
+2017-07-27	Grossinger Chevrolet		151 E. :Lake Cook Rd	60074	300	IL		Palatine					unclassified
+2016-09-11	Grossinger Honda		6600 N Western	60645	900	IL		Chicago					unclassified
+2018-08-23	Haq	Riaz UL	5106 Jarlath	60077	200	IL		skokie					Individual
+2018-09-17	Haque	Mohammad W.	7207 N. Greenview	60626	1500	IL		Chicago					Individual
+2015-11-12	Haque	Soofia	7207 N. Greenview	60626	500	IL		Chicago					Individual
+2018-08-19	I.U.O.E. Local 150 LAPAC		6200 Joliet Rd	60625-2957	2500	IL		Countryside					union
+2016-12-12	IILPCC Inc		6359 N. Maplewood	60659	500	IL		Chicago					retail
+2018-06-25	IPLCC Inc		6359 N Maplewood Ave	60659	600	IL		Chicago					retail
+2018-05-29	Illinois AFL-CIO Committee on Political Education		534 S 2nd St	62701-1764	500	IL		Springield		#200			unclassified
+2015-11-24	Illinois Fire Sprinkler Contractors PAC		62 Orland Square Drive	60462-6559	500	IL		Orland Park					union
+2018-08-14	Illinois Hotel-Motel PAC		5A Lawrence Square	62704	1500	IL		Springfield					union
+2016-09-11	J.K. Kabab House		6412 N Rockwell	60659	400	IL		Chicago					unclassified
+2018-06-25	JD Sales Inc		221 N LaSalle St	60601	750	IL		Chicago		Ste 3800			retail
+2018-08-14	KFT Services LLC		6633 N  Lincoln	60712	1000	IL		Lincolnwood					unclassified
+2015-12-15	Kalish	Yehiel Mark	8707 Skokie Blvd  #204	60077	250	IL		Skokie					Individual
+2015-11-25	Khan	M. Hameedulla	6340 N Mplewood,	60659	200	IL		Chicago					Individual
+2018-09-17	Khan	Mazher	2805 W Rosemont	60659	1000	IL		Chicago		205			Individual
+2018-08-19	Khan	Shahida	23 Rolling Hills Dr	60010	1000	IL	Store Owner	Barrington	Studio Elite				Individual
+2017-07-26	Klein	Michael	2715 W Birchwood	60645	300	IL		Chicago					Individual
+2018-10-08	Kohn	Asher	6311 W. Gross Point Rd	60714	3000	IL	businessman	Lincolnwood	self				Individual
+2018-06-19	Kolpak, Lerner & Grcic		6767 N Milwaukee #202	60714	1800	IL		Niles					unclassified
+2018-09-17	Lake Shore Healthcare		7200 N Sheridan	60626	1000	IL		Chicago					unclassified
+2018-08-23	Lakha Enterprises		2244 W. Devon	60659	500	IL		Chicago					unclassified
+2018-09-17	Legacy HealthCare		7040 N Ridgeway	60712	1000	IL		Lincolnwood					unclassified
+2018-06-25	Limrah Inc		2241 W Devon	50569	650	IL		Chicago					retail
+2018-06-20	Local 134 State & Municipal PAC, IBEW		2722 S Martin Luther King Drive	60616	1000	IL		Chicago					union
+2018-06-20	Loskov	Marvin	6833 N Kedzie	60645	1000	IL	accountant	Chicago	retired	#115			Individual
+2016-09-22	Lyon Financial Services LLC		7383 N Lincoln Ave	60712	500	IL		Lincolnwood					financial
+2018-08-23	M Y Investment Inc.		8060 Lawndale	60076	500	IL		Skokie					retail
+2018-08-23	MM Business Enterprises Inc		2805 W Division	60622	200	IL		Chicago					retail
+2018-06-25	MR 6834 Western LLC		55 E Jackson Blvd, 5th Fl	60604	500	IL		Chicago					propertyman
+2018-06-25	Mary Kay Minaghan d/b/a MKM Services		308 Circle Ave	60130	500	IL		Forest Park					unclassified
+2015-12-05	Mashiach	Shmuel & Talia	2841 W Chase	60645	500	IL		Chicago					Individual
+2016-12-12	Matanky & Matanky, Ltd		200 N. LaSalle #2350	60601-1044	500	IL		chicago					unclassified
+2018-08-14	Matanky Realty Group, Inc.		200 N LaSalle	60601	750	IL		Chicago		#2350			unclassified
+2018-06-25	McGuire Woods Federal PAC Fund		One James Center	23219-4030	250	VA		Richmond		901 East Cary Street			union
+2018-06-29	Miguel A. Santiago Consulting Inc.		7414 N Octavia Ave	60631-4335	300	IL		Chicago					unclassified
+2017-08-29	Musa	Wasim	6535 N Hoyne #2S	60645	500	IL		Chicago					Individual
+2017-08-10	Next Parrot Plaza, LLC		c/o Next Property	60062	1250	IL		Northbrook		400 Skokie; Ste 800			unclassified
+2015-02-24	O'Brien	Peter J SR	1541 N Wells	60610	1500	IL	manager	Chicago	Mado Realty				Individual
+2018-08-23	Orange Management Inc.		2312 W Devon	60659	500	IL		Chicago					financial
+2018-09-17	Patel	Sarfaraz	4842 W. Sherwin	60712	1000	IL		Lincolnwood					Individual
+2018-09-17	Patel	Shabbir	9833 Garden Ct.	60176	2000	IL	Police Officer	Schiller Park	Village of Schiller Park				Individual
+2018-09-17	Patel	Yusuf	4842 W. Sherwin	60712	2000	IL	Teacher	Lincolnwood	CPS				Individual
+2018-09-17	Patel	Zaheer	4842 W. Sherwin	60712	1000	IL		Lincolnwood					Individual
+2016-12-13	Peoples Gas		130 E Randolph,#300	60601-6302	500	IL		Chicago					unclassified
+2018-07-19	Peoples Gas Light & Coke		PO Box 12179	53201	250	WI		Milwaukee					unclassified
+2017-12-05	Peoples Gas Light & Coke		PO Box 19800	54307-9004	250	WI		Green Bay					unclassified
+2018-03-29	Pepsico Inc.		325 7th NW, Suite 400	20004	500	DC		Washington					retail
+2017-08-01	Perillo BMW		1035 N Clark	60610	300	IL		Chicago					unclassified
+2017-12-28	Pfizer Inc		6730 Lennox Center	38115	500	TN		Memphis					retail
+2018-06-21	Prospect Resources, Inc.		8170 McCormick, #107	60076	750	IL		Skokie					retail
+2017-08-09	Qureshi	Fazel	6234 N Paulina	60660	1000	IL		Chicago					Individual
+2018-09-17	Qureshi	Jazal	6234 N Paulina	60660	500	IL		Chicago					Individual
+2018-06-25	Radio Advertising, Inc.		3312 W Peterson	60659	1000	IL		Chicago					retail
+2018-09-17	Rajchenbach	J L	6301 N Central Park	60659	1000	IL	Manager	Chicago	self employed				unclassified
+2016-09-11	Raucci & Sulluvan Strategies, LLC		3000 N. Sheridan Rd Suite 18C	60657	500	IL		Chicago					unclassified
+2018-09-14	Regal Jewels Inc		2625 W Devon	60659	818	IL		Chicago					retail
+2015-12-14	Richard's Body Shop of Niles		5759 Touhy	60714	180	IL		Niles					retail
+2018-09-01	Rosen	Joshua	2938 W Jarvis	60645	1800	IL		Chicago	Capital One				Individual
+2018-09-28	Rothner	Eric	3125 W. Sherwin	60645	6800	IL	Manager	Chicago	Extended Care				Individual
+2018-06-20	S&C Electric Company		6601 N Ridge	60626	4000	IL		Chicago					unclassified
+2018-08-14	S4 PAC		8707 Skokie Blvd	60077	1000	IL		Skokie		Ste 204			unclassified
+2017-07-27	Salem Village Nursing & Rehab Center		1314 Rowell Ave	60433	250	IL		Joliet					unclassified
+2018-06-21	Schain Banks Kenny  & Schwartz		70 W Madison	60602	250	IL		Chicago		Ste 5300			unclassified
+2018-10-30	Schur	Baruch	7315 St Louis	60076	3000	IL	attorney	Skokie	self				Individual
+2018-06-19	Seleski	Samuel	2908 W. Lunt	60645	1150	IL		Chicago					Individual
+2017-02-15	Service Employees Local 1 PEC		111 E, Wacker, 21st Fl	60601-3713	500	IL		Chicago					union
+2016-09-11	Seymour	Kyle	8130 Margaret Lan	45242	500	OH		Cincinnati					Individual
+2017-07-24	Shapiro	Gail	3150 N Lake Shgore Drive	60657	910	IL		Chicago		15C			Individual
+2018-06-19	Shapiro	Maura	7410 Lincoln	60076	250	IL		SKOKIE					Individual
+2018-06-19	Siavelis	Wiliam	2100 W Lunt	60645	200	IL		Chicago					Individual
+2017-08-16	Spuropoulos	Peter	6955 N Karlov	60712	700	IL		Lincolnwood					Individual
+2018-09-26	Stern	Abraham	9049 Karlov	60076	1250	IL		Skokie					Individual
+2017-08-11	Stern	Rena	7415 Washtenaw	60645	500	IL		Chicago					Individual
+2018-06-19	Stern	Sheldon	7415 N Washtenaw	60645	500	IL		Chicago					Individual
+2018-08-14	TCB- Lincoln Village LLC		350 N LaSalle #700	60654	500	IL		Chicago					unclassified
+2018-06-29	Taft Stettinius & Hollister LLP		111 E. Wacker Suite 2800	60601	500	IL		Chicago					propertyman
+2015-11-25	Tahoora Sweets & Bakery		2345 W Devon	60659	350	IL		Chicago					unclassified
+2016-09-11	Teamsters Local Union No. 700 PAC		1300 W Higgins #2301	60048	500	IL		Psark Ridge					union
+2018-06-19	Thomas J. Murphy P.C.		111 W Washington	60602	200	IL		Chicago					unclassified
+2018-08-10	Thomas R. Raines Attorney At Law LLC		20 N Wabash #556	60606	1500	IL		Chicago					unclassified
+2018-03-29	Thompson Coburn LLP		One US Bank Plaza	63101-1693	500	MO		St Louis					propertyman
+2018-06-29	Trachman	Samuel	3401 W. Devon	60659	250	IL		Chicago					Individual
+2018-06-25	U&F Sons Inc.		1210 S Highland Ave	60148	250	IL		Lombard					retail
+2018-06-29	United Airlines Inc. PAC		233 S. Wacker, 11th Fl	60606	250	IL		Chicago					unclassified
+2018-09-17	Unitek Service		2459 W Devon	60659	1650	IL		Chicago					unclassified
+2018-08-23	Usmania Fine Dining		2244 W Devon	60659	500	IL		Chicago					unclassified
+2018-07-19	Vaishnav Dhaba Inc. DBA Punjabi Dhabha		2525 W Devon	60659	600	IL		Chicago					retail
+2018-06-25	Vasilj	Nathalie & Davor	4910 Conrad #2C	60077	500	IL		Skokie					Individual
+2018-09-14	Walgreens  (Corporate)		104 Wilmot Rd	60015	1000	IL		Deerfield		MS1444			unclassified
+2018-08-23	Weiss	Isaac	6256 N. Central Park	60659	500	IL		Chicago					Individual
+2018-06-25	Weiss	Isaac Jacob	6256 N Central Park	60659	250	IL		Chicago					Individual
+2017-08-11	Weiss Properties Inc		PO Box 597875	60659	500	IL		Chicago					unclassified
+2017-08-08	Wendy's International LLC		One Dave Thomas Blvd.	430147-545	3500	OH		Dublin					unclassified
+2018-10-30	Wengrow	Heshy	7400 N Francisco	60645	3000	IL		Chicago					Individual
+2017-07-26	Wheels of Chicago, Inc.		6229 N Western	60659	1600	IL		Chicago					realestate
+2016-01-12	Wine and Spirits Distributors of IL		27 E Monroe	60603	500	IL		Chicago		ste 1200			construction
+2015-12-14	Wolf	Isaac	6521 N Mozart	60645	250	IL		Chicago					Individual
+2018-06-19	Wreck Roll Auto Body, Inc.		6652 N Western	60645	1700	IL		Chicago					retail
+2018-06-25	Yafai	Nasser	6129 N Karlov	60646	400	IL		Chicago					Individual
+2018-08-23	Yaqoob	Mohammad	6412 Oakley	60645	500	IL		Chicago					Individual
+2018-08-20	Yaqoob N.	Mohamad	4800 Fargo	60077	1000	IL	Restaurant owner	Skokie	Usmania				Individual
+	Non-itemized donations				3775						Non-itemized donations under $150	Donations under $175	unclassified

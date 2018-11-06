@@ -1,1 +1,1 @@
-[{"0":"Political candidates","1":42065},{"0":"PACs","1":22500},{"0":"Real estate companies","1":10000},{"0":"Small donors","1":8258}]
+[{"type":"Political candidates","amount":42065},{"type":"PACs","amount":22500},{"type":"Real estate companies","amount":10000},{"type":"Small donors","amount":8258}]

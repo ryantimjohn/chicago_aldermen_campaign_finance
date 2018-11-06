@@ -1,207 +1,207 @@
-employer	city	state	last_name	amount	address1	address2	occupation	first_name	zipcode	received_date	donor_type_size	donation_location	classified_type
-	Chicago	IL	1572 N Milwaukee Ave. Bldg Corp	250	5943 N Elston Ave.				60646.0	2017-06-02			propertyman
-	Chicago	IL	2800-04 75th Ave. LLC	500	3009 W Montrose				60618.0	2015-10-27			propertyman
-	Chicago	IL	312 Restaurant	400	136 N La Salle				60602.0	2018-09-28			unclassified
-	Irving	TX	7 Eleven, Inc.	1000	3200 Hackberry Rd.				75063.0	2018-06-29			financial
-	Dallas	TX	7-Eleven Inc.	4000	1722 Routh Street				75201.0	2017-05-25			financial
-	Springfield	IL	AFSCME Council # 31	3250	615 S. Second Street				62705.0	2018-08-22			union
-	Chicago	IL	Agostino's Restaurant	850	2817 N. Harlem Ave.				60707.0	2018-09-28			retail
-	Chicago	IL	Al's Pizza	1000	6344 W Irving Park Rd.				60634.0	2016-09-30			unclassified
-	Chicago	IL	Allegretti	200	3657 N Sayre			Anthony	60634.0	2015-08-24			Individual
-	New Lenox	IL	Alliance COnstruction and Maintenance	700	601 Heartland Dr.				60451.0	2018-09-28			construction
-	Park Ridge	IL	Amelio	250	310 Busse Hwy			Anthony	60068.0	2015-10-27			Individual
-	Chicago	IL	Amelio	250	5317 N Meade			Tina	60630.0	2015-11-24			Individual
-	Chicago	IL	Aviles	250	3845 N Sayre			Daniel	60634.0	2017-06-02			Individual
-	Chicago	IL	Axios Architects & Consultants, LLC	250	188 N Wells				60606.0	2015-10-27			unclassified
-	Harwood Heights	IL	BZ on Harlem Ave	250	4970 N Harlem Ave				60706.0	2017-12-27			retail
-good faith effort made	Chicago	IL	Banks	1000	221 N. LaSalle		good faith effort made	Samual VP	60601.0	2015-11-24			Individual
-	Chicago	IL	Belmont Bank & Trust	250	8250 W Belmont				60634.0	2016-09-30			financial
-	Chicago	IL	Belmont Funeral Home	500	7120 W. Belmont Avenue				60634.0	2016-09-30			unclassified
-	Chicago	IL	Bezazian	450	6952 W. Wolfram			Paul	60634.0	2017-09-29			Individual
-	Chicago	IL	Biancalana	750	2138 N Sayre			Joseph	60707.0	2016-09-30			Individual
-	Chicago	IL	Bisceglie	250	3316 N New England			John	60634.0	2015-10-27			Individual
-	Chicago	IL	Bisceglie	250	3316 N New England			Phyliss	60634.0	2015-10-27			Individual
-	Chicago	IL	Boilmakers -Blacksmiths Local #1	250	2941 S Archer				60608.0	2015-09-26			union
-	Chicago	IL	Bosco	550	5556 W. Rosedale			Michael	60646.0	2018-06-29			Individual
-	Forest Park	IL	Bridge Structural & Reinforcing	1600	7720 Industrial Drive				60130.0	2018-06-29			unclassified
-	Chicago	IL	Buske	200	5208 N McVicker			Richard	60630.0	2017-09-29			Individual
-	Chicago	IL	CAR PAC	1000	200 S Michigan Avenue				60604.0	2016-11-14			unclassified
-	Hoffman Estates	IL	Castiglione	220	155 Chandler Ln			Frank	60169.0	2016-09-30			Individual
-	Chicago	IL	Chicago & Cook COunty Building & Construction Trades Council	2000	150 N Wacker Dr				60606.0	2018-09-28			union
-	Chicago	IL	Chicago Federation of Labor	2000	130 E. Randolph				60601.0	2018-09-28			realestate
-	Chicago	IL	Chicago Fire Department Engine 78	750	1052 W Waveland				60613.0	2016-09-30			union
-	Chicago	IL	Chicago Fire Dept Engine 112	500	3801 N Damen Ae				60618.0	2016-09-30			union
-	Chicago	IL	Chicago Firefighters Union Local 2	12000	440 W. 43rd Street				60609.0	2018-10-19			union
-	Chicago	IL	Chicago Journeymen Plumbers L.U. 130	1250	1340 West Washington Blvd				60601.0	2017-09-29			union
-	Chicago	IL	Chicago Police Sergeants Assocaition PAC	2000	1616 W. Pershing				60609.0	2018-07-20			pac
-	Chicago	IL	Chicago Teachers union PAC	1000	222 Merchandise Mart Plaza				60654.0	2016-08-02			union
-	Chicago	IL	Chicago regional Council of Carpenters PAC	3200	12 E. Erie				60611.0	2018-06-29			union
-	Countryside	IL	Chicagoland Operators Joint Labor Management PAC	5000	6200 Joliet Road				60525.0	2017-12-05			pac
-	good faith effort ma	IL	Ciezki	250	good faith effort made			Patrick		2015-10-27			Individual
-	Chicago	IL	Collins	240	1747 N Pulaski			Theodore	60639.0	2015-09-26			Individual
-	Chicago	IL	Columbia Metal Spinning Co.	2250	4351 N Normandy				60634.0	2017-09-29			unclassified
-	Chicago	IL	Committee to Elect Colleen Reardon Daly	250	PO Box 46563				60646.0	2017-09-29			candidate
-	Chicago	IL	Committee to Elect Richard Cooke	500	2653 N Kedzie				60647.0	2015-09-26			candidate
-	Burr Ridge	IL	Construction & General Laborers District Council	3100	999 McClintock Drive				60527.0	2017-05-31			union
-	Chicago	IL	Cook County College Teachers Union-Cope	2000	208 W. Kinzie				60610.0	2017-07-21			union
-	Oak Park	IL	Cuda Law Offices	1000	6525 North Avenue				60302.0	2018-07-20			unclassified
-	Chicago	IL	Cullen	500	6320 N. Niagra			Raymond	60646.0	2017-06-02			Individual
-	Chicago	IL	Cunningham	500	4557 N McVicker			Catherine	60630.0	2018-06-29			Individual
-self	Chicago	IL	Cwik	8000	6968 W. North Avenue		attorney	David	60707.0	2017-07-21			Individual
-	Chicago	IL	Dagley	250	1420 N Cleveland Ave.			David	60610.0	2015-10-27			Individual
-	Chicago	IL	David Rasmussen Ins. Agency	250	7148 W Addison				60634.0	2016-09-30			unclassified
-self	Chicago	IL	Davis	1000	225 W Washington		attorney	MC	60606.0	2018-06-29			unclassified
-good faith effort made	Chicago	IL	Dean	750	7425 N Ottawa		good faith effort made	Roy	60631.0	2015-09-26			unclassified
-	Burlington	VT	Democracy for America	1761	PO Box 1717				5402.0	2015-02-26			candidate
-	Chicago	IL	Doerrer	1000	1705 N Rutherford			John	60707.0	2018-07-20			Individual
-	Chicago	IL	Dom Developments	250	5946 N Neva				60618.0	2015-10-27			unclassified
-	Chicago	IL	Don Val Corporation	250	8221 W Irving Park Rd				60634.0	2016-11-14			financial
-	Chicago	IL	Draft	450	8221 W Irving Park Rd				60607.0	2015-10-22			unclassified
-	Park Ridge	IL	Dudlak	500	19 Ottawa			John	60068.0	2018-06-29			Individual
-	Chicago	IL	Edelman and Partners	250	77 W Washington				60602.0	2017-06-02			unclassified
-	Oak Park	IL	Elect Judge Marc Martin	500	1011 W Lake St				60301.0	2015-06-30			candidate
-	Chicago	IL	Engine 117	250	1150 W 15th St				60608.0	2015-09-26			unclassified
-	Chicago	IL	Engine 84/Truck 51	250	21 West 59th St				60637.0	2018-08-22			unclassified
-	Chicago	IL	Fabrizio	250	6081 N Nassau Ave.			Nicholas	60631.0	2016-11-14			Individual
-	Chicago	IL	Fire Fighters Union Local 2 Political Committee	1500	440 West 43rd Street				60609.0	2018-03-13			union
-	Elmwood Park	IL	First Security Trust and Savings	1600	7315 W. Grand Ave.				60707.0	2018-09-28			unclassified
-	Chicago	IL	Fleischacker	250	3053 N New England			Michael	60634.0	2015-06-30			Individual
-	Chicago	IL	Flood Brothers	850	4827 N. Harrison				60644.0	2015-09-26			unclassified
-	Sebring	FL	Flosi	175	10809 US Highway 27 S			Thomas	33876.0	2018-09-28			Individual
-	Chicago	IL	Flowers of Paradise	600	1757 N Harlem				60707.0	2016-09-30			unclassified
-	Chicago	IL	Fodor	1250	3634 Nottingham			Joseph	60634.0	2017-06-02			Individual
-	Chicago	IL	Franksville	500	3550 N. Harlem Ave				60634.0	2016-06-28			unclassified
-	Chicago	IL	Fraternal Order of Police	3750	1412 W. Washington				60606.0	2018-09-28			unclassified
-	Chicago	IL	Friends of Anthony Napolitano	600	7144 N Harlem Ave.				60631.0	2017-09-29			candidate
-	Chicago	IL	GD Gazis LLC	500	3701 W Irving Park Rd				60618.0	2018-06-29			unclassified
-	Berwyn	IL	Gallagher	500	3517 S Wenonah			Donna	60402.0	2016-11-14			Individual
-	Niles	IL	Gessek	250	9118 W Elmwood Drive			Dorota	60714.0	2015-11-24			Individual
-	Chicago	IL	Giannini	250	3327 N Pacific			Teresa	60634.0	2017-09-29			Individual
-	Park Ridge	IL	Gillespie	250	419 Leonard St			Michael	60068.0	2016-06-28			Individual
-	Bloomingdale	IL	Goverdarica	250	181  Ring  Neck Lane			Melissa	60108.0	2015-10-27			Individual
-	Chicago	IL	Grace Sergio, Inc	500	8206 W Belmont				60634.0	2015-10-27			retail
-	Elmwood Park	IL	Grand Corridor Chamber of Commerce	750	11 W Conti Pkwy				60707.0	2017-09-29			unclassified
-good faith effort made	Addison	IL	Griff	600	749 N 9th Avenue		good faith effort made	Lawrence	60101.0	2015-09-26			Individual
-	Oak Park	IL	Guda Law Offices	250	6825 North Ave.				60302.0	2016-09-30			unclassified
-	Chicago	IL	Guy Aloisio Inc.	500	7062 W Diversey				60707.0	2017-09-29			retail
-	Glenview	IL	Heneghan	500	1737 E Ridgewood Ln			Patrick	60025.0	2015-08-24			Individual
-	Chicago	IL	Hernandez	450	2707 N Rutherford			Joseph	60707.0	2017-09-29			Individual
-	Chicago	IL	Hetland	200	3429 N Nottingham			William	60634.0	2015-09-26			Individual
-	Chicago	IL	Hiawatha Park Youth Program	1600	8029 Forest Preserve Drive				60634.0	2017-05-25			unclassified
-	Chicago	IL	Howell	500	1747 N. Rutherford Ave.			George	60707.0	2018-06-29			Individual
-	Countryside	IL	I.U.O.E Local 150 PAC	3000	6200 Joliet Rd				60525.0	2018-08-22			union
-	Chicago	IL	I.U.O.E. Local 399	3950	2260 S Grove				60616.0	2018-09-28			union
-	Downers Grove	IL	IBEW Local 21	500	1307 W Butterfield				60515.0	2016-02-15			union
-	Washington	DC	IBEW PAC	6050	900 Seventh St NW				20001.0	2018-09-28			unclassified
-	Chicago	IL	ISLS Inc.	250	8227 W Irving Park Rd				60634.0	2015-10-27			retail
-	Chicago	IL	IUOE Local 399 Political Education Fund	750	2260 S. Grove St				60616.0	2015-11-24			union
-	Chicago	IL	Idea Furniture	250	654 W Irving Pk Rd				60634.0	2015-08-24			unclassified
-	Springfield	IL	Illinois Hotel Motel PAC	500	5A Lorenz Square				62704.0	2016-11-14			union
-	Chicago	IL	Innovative Markets, Inc	250	77 W Washington				60602.0	2017-09-29			retail
-	Chicago	IL	International Brotherhood of Electrical workers	500	600 W Washington				60661.0	2016-09-30			unclassified
-	Chicago	IL	Irving Narragansett Partnership	3250	6348 N Cicero				60646.0	2017-09-29			unclassified
-	Chicago	IL	JD Sales, Inc	2000	221 N LaSalle				60601.0	2018-06-29			retail
-	Chicago	IL	Jablonowski	250	6157 N Legette			James	60646.0	2017-06-02			Individual
-	Chicago	IL	Jacob	250	3840 N Damen,apt 3			Andres	60618.0	2017-06-02			Individual
-	Chicago	IL	Jimenez	750	6121 W Byron			Luis	60634.0	2017-06-02			Individual
-	Chicago	IL	Joseph's Finest Meats	250	7101 W Addison				60634.0	2017-06-02			unclassified
-	Chicago	IL	Joyce	700	4157 N. Plainfield			John	60634.0	2018-06-29			Individual
-	Chicago	IL	KMS Group, Inc	250	3611 N Harlem				60634.0	2016-09-30			unclassified
-	Chicago	IL	Keating	250	10225 S Springfield			Ed	60655.0	2018-09-28			unclassified
-good faith effort made	Chicago	IL	Kitowski	900	6325 N. Sayre		g	Ron	60631.0	2016-09-30			unclassified
-	Chicago	IL	Klasek	250	3428 N Nordica			Jay	60634.0	2017-06-02			unclassified
-good faith effort made	Chicago	IL	Kluge	600	6617 W. Foster		good faith effort made	Paul	60656.0	2015-09-26			Individual
-	Chicago	IL	Kownacki	2100	5654 W. Forest Glen			John	60646.0	2018-06-29			Individual
-	Chicago	IL	Kupiec	850	77 W. Washington			Mark	60602.0	2016-06-28			Individual
-	Willow Springs	IL	Lapkus	500	8695 S Archer Ave			Danas	60480.0	2016-11-14			Individual
-	Chicago	IL	Laszio Simovic Architects	250	6512 N Artesian				60645.0	2015-10-27			unclassified
-	Chicago	IL	Law Offices of Rascia A Himel, Ltd.	1000	650 N Dearborn				60654.0	2018-08-22			construction
-	Chicago	IL	Lawsuit Lending LLC	500	221 N LaSalle				60601.0	2015-10-27			unclassified
-	Chicago	IL	Lee	250	4140 N Moody Ave.			Jafden	60634.0	2016-06-28			Individual
-	Burr Ridge	IL	Liuna Chicago Laborers District Council PAC	1000	999 McClintock Drive				60527.0	2018-10-19			union
-	Hinsdale	IL	Local 126	250	120 E Ogden				60521.0	2017-10-17			union
-	Chicago	IL	Local 134 PAC Intl Brotherhood of Electrical Workers	3250	600 W. Washington				60661.0	2018-10-19			union
-	Chicago	IL	Local 399	5000	2260 S. Grove				60616.0	2016-03-22			union
-	Chicago	IL	Los Arcos Dorados, Ltd.	1000	7105 W Higgins Rd				60656.0	2018-06-29			unclassified
-	Chicago	IL	Luke's On Harlem Corp.	250	3130 N Harlem Avenue				60634.0	2018-06-29			retail
-	Chicago	IL	MMT Demolition	300	6972 W North Ave				60707.0	2016-09-30			unclassified
-good faith effort made	Palatine	IL	Manfreda	8100	230 Park Dr.		good faith effort made	Steve & Terri	60067.0	2018-09-01			Individual
-	Chicago	IL	Marchese	450	8754 W Wilson ave			Vito	60656.0	2016-06-28			Individual
-	Chicago	IL	Mason	1500	9829 S. Hoyne			James	60643.0	2018-06-29			Individual
-	Winnetka	IL	McCarty	250	920 Greenwood			William	60093.0	2015-10-27			Individual
-	Chicago	IL	McMahon	500	6757 N Loleta			Brian	60646.0	2018-06-29			Individual
-	RIver Grove	IL	Mia Passione Restaurant	250	8347 Grand Avenue				60171.0	2016-09-27			retail
-	Chicago	IL	Mia Property Acquisitions LLC	750	3009 W Montrose				60618.0	2016-09-30			propertyman
-	Chicago	IL	Midtown LLC	500	1833 N Milwaukee				60647.0	2017-09-29			unclassified
-	Chicago	IL	Milano	500	1928 N Rutherford			Dean	60707.0	2015-10-27			Individual
-	Chicago	IL	Millennium Advisors LLC	250	321 N Clark				60654.0	2018-06-29			unclassified
-	Wood Dale	IL	Mini	250	211 Jessica Drive			Barbara	60191.0	2018-06-29			Individual
-	Chicago	IL	Montrose Deli	900	5411 W Montrose				60641.0	2018-06-29			unclassified
-	Northbrook	IL	Morrison	250	2428 Auburn Ln			Brian	60062.0	2016-09-30			Individual
-	Chciago	IL	Mr. B's Stuffed PIzza, Inc.	500	4250 N Central				60634.0	2015-03-31			retail
-	Chicago	IL	Mr. Beef, Ltd.	1000	3917 N. Harlem				60634.0	2017-09-29			unclassified
-	Chicago	IL	Muir	500	4055 N Mason Avenue			Michael	60634.0	2015-09-26			Individual
-	Chicago	IL	Newcomer	200	3540 N Oriole Ave.			Edward	60634.0	2016-06-28			Individual
-	Chicago	IL	Niles	250	5367 N Nordica			Gregory	60656.0	2015-03-03			Individual
-	Chicago	IL	Nilles	450	5367 N Nordica			Gregory	60656.0	2018-06-29			Individual
-	Chicago	IL	Noble Development Group LLC	250	1332 N Halsted				60642.0	2015-11-24			developer
-	Chicago	IL	North and Kedzie Service	200	3142 W North Ave.				60647.0	2016-09-30			unclassified
-	Chicago	IL	Nuzzo Plumbing	3550	8319 Leland				60656.0	2018-09-28			unclassified
-	Chicago	IL	Old 41 Saloon	750	7718 Addison St				60634.0	2018-06-29			unclassified
-	Sleepy Hollow	IL	Olszynski	250	9 Plum Court			Lesley	60188.0	2016-06-28			Individual
-	Chicago	IL	PCG Consulting, Inc.	5150	100 N. LaSalle				60602.0	2017-09-29			retail
-	good faith effort ma	IL	PK Quality Home Inspections	250	good faith effort made					2015-10-27			unclassified
-good faith effort made	Chicago	IL	Pacocha	700	3348 N Orange		good faith effort made	Richard	60634.0	2018-09-28			Individual
-	Chicago	IL	Painters District Council #14	1000	1456 W Adams				60607.0	2016-07-19			union
-	Green Bay	WI	Peoples Gas Light and Coke Co.	250	PO Box 19800				56307.0	2017-12-27			construction
-	Chicago	IL	Porrettas Banquet Hall	650	3718 N. Central				60607.0	2018-09-28			unclassified
-	River Grove	IL	Pucillo	500	2664 Julian Ter			Ronald	60171.0	2015-10-27			Individual
-	Chicago	IL	Radio FLyer	475	6515 W. Grand Avenue				60707.0	2015-09-01			unclassified
-	Chicago	IL	Rascia	250	8424 W. Agatite Ave.			Ronald	60656.0	2015-10-27			Individual
-	Chicago	IL	Rialmo	200	6922 N Oleander			Robert	60631.0	2018-06-29			Individual
-	Park Ridge	IL	Rolled Edge	500	719 Ottawa Ave.				60068.0	2016-06-28			unclassified
-	Chicago	IL	Rosas	700	7547 W Hortense			Jesse	60631.0	2018-08-22			Individual
-	Plainfield	IL	Rouse	250	21021 W Hazelnut Ln			Joseph	60544.0	2015-10-27			Individual
-	Chicago	IL	SEIU Illinois Council PAC Fund	5636	111 E. Wacker				60601.0	2017-02-15			union
-	Chicago	IL	SO Holdings, LLC	250	5339 W Belmont				60641.0	2015-10-27			unclassified
-	Chicago	IL	Schiller Contracting & Management	1000	3324 E 136th St				60633.0	2018-06-29			propertyman
-	Chicago	IL	Scottfreda Company	1375	1714 N Nordica				60607.0	2018-06-29			unclassified
-	Chicago	IL	Seize Inc.	500	6351 W Montrose				60634.0	2018-06-29			retail
-	Norridge	IL	Serpico	500	7843 W Lawrence			Vincent	60706.0	2015-10-27			Individual
-	Chicago	IL	Service Employees Local No. 1	500	111 East Wacker				60601.0	2017-02-15			union
-	Irving	TX	Seven Eleven	400	3200 Hackberry Rd.				75063.0	2017-04-15			unclassified
-	Hillside	IL	Sheetmetal Workers Intl. #73	1700	4550 Roosevelt Road				60162.0	2017-10-17			union
-	Chicago	IL	Sloma	250	111 W Maple St			Izabela	60610.0	2015-11-24			Individual
-	Forest Park	IL	Smokey Joels Red Hots, Inc	500	810 South Beloit				60130.0	2016-09-30			retail
-	Chicago	IL	Soo	200	1736 N Newland			Kenneth	60707.0	2017-09-29			Individual
-	Chicago	IL	Spectra Merchandising Intl.	500	4230 N Normandy Ave.				60634.0	2016-06-28			unclassified
-	Chicago	IL	Spitzer	500	100 W Monroe			Addis	60603.0	2016-11-14			Individual
-City of Chicago	Chicago	IL	Sposato	6793	4608 N Forest VIew		Alderman	Nicholas	60656.0	2017-12-31			Individual
-	Alsip	IL	Sprinkler Fitters Local 281, UA	2000	11900 S. Laramie Avenue				60803.0	2018-06-29			union
-	Chicago	IL	St. Jude Oil Group Inc	500	5959 W Montrose				60634.0	2015-06-30			unclassified
-	Chicago	IL	Susman	500	200 S Clark			Arthur	60603.0	2016-11-14			Individual
-	Chicago	IL	Susman	500	PO Box 1636			Michael	60690.0	2016-11-14			Individual
-	Chicago	IL	Szymanski Bros., Inc	250	6014-16 Irving Park Rd				60634.0	2015-10-27			retail
-	Chicago	IL	TKB Bassi Funeral Services	500	7120 Belmont				60606.0	2017-09-29			unclassified
-	Park Ridge	IL	Teamsters Local Union 700	2000	1300 W. Higgins Road				60048.0	2018-08-22			union
-	Chicago	IL	Tebbens	500	6056 N Nickerson Ave			Robert	60631.0	2015-06-30			Individual
-	Bull Valley	IL	Teele	1000	10317 Country Club Road			Terry	60098.0	2018-10-19			Individual
-	Chicago	IL	The Carpet Express	750	4638 Maria Ct.				60656.0	2016-09-30			developer
-	Chicago	IL	The Eli's Cheesecake Company	500	6701 W Forest Preserve Drive				60634.0	2016-06-28			developer
-	Chicago	IL	The UPS Store Ownership, Inc.	1000	1658 N Milwaukee				60647.0	2018-09-28			retail
-	Chicago	IL	Thomas Raines Attorney at Law LLC	1500	20 N Wacker				60606.0	2018-09-28			unclassified
-	Chicago	IL	Tiano	300	8556 W Leland			John	60656.0	2015-11-24			Individual
-	Niles	IL	Torrei	250	7538 W Cleveland			Josie	60714.0	2015-10-27			Individual
-	Lisle	IL	Touch Up SpecialistsLLC	500	4518 Main St				60532.0	2016-09-30			unclassified
-	Chicago	IL	Touch of Europe, Inc.	500	5415 W Irving Park Rd				60641.0	2017-06-02			realestate
-	Oak Brook	IL	UFCW Local 881 PAC	1500	122 W. 22nd Street				60523.0	2018-08-22			union
-	Chicago	IL	Ulblasi	250	7339 W Lunt			Jamie	60631.0	2015-10-27			Individual
-	Chicago	IL	United Airlines PAC	2000	233 S Wacker Drive				60606.0	2018-06-29			pac
-	Westchester	IL	United Union of Roofers, Local 11	750	9838 W Roosevelt Rd				60154.0	2016-09-30			union
-good faith effort made	Chicago	IL	Valadez	850	4542 W. McVicker		good faith effort made	Louis	60630.0	2015-09-26			Individual
-	Chicago	IL	Volunteers in Politics	1000	1645 W. Jackson				60612.0	2015-02-24			unclassified
-	Chicago	IL	Walgreen Co.	1250	4343 N Central Ave				60634.0	2018-09-28			unclassified
-good faith effort made	Chicago	IL	Zervas	2000	5903 N Harlem		good faith effort made	George	60631.0	2018-06-29			Individual
-	Chicago	IL	Zion Gardens	450	3600 N Naragansett				60634.0	2017-12-27			unclassified
-	Harwood Hts.	IL	Zitella Development Corp.	4750	4970 N. Harlem				60707.0	2018-09-28			construction
-			Non-itemized donations	57558							Donations under $175	Non-itemized donations under $150	unclassified
+received_date	last_name	first_name	address1	zipcode	amount	state	occupation	city	employer	address2	donation_location	donor_type_size	classified_type
+2017-06-02	1572 N Milwaukee Ave. Bldg Corp		5943 N Elston Ave.	60646.0	250	IL		Chicago					propertyman
+2015-10-27	2800-04 75th Ave. LLC		3009 W Montrose	60618.0	500	IL		Chicago					propertyman
+2018-09-28	312 Restaurant		136 N La Salle	60602.0	400	IL		Chicago					unclassified
+2018-06-29	7 Eleven, Inc.		3200 Hackberry Rd.	75063.0	1000	TX		Irving					financial
+2017-05-25	7-Eleven Inc.		1722 Routh Street	75201.0	4000	TX		Dallas					financial
+2018-08-22	AFSCME Council # 31		615 S. Second Street	62705.0	3250	IL		Springfield					union
+2018-09-28	Agostino's Restaurant		2817 N. Harlem Ave.	60707.0	850	IL		Chicago					retail
+2016-09-30	Al's Pizza		6344 W Irving Park Rd.	60634.0	1000	IL		Chicago					unclassified
+2015-08-24	Allegretti	Anthony	3657 N Sayre	60634.0	200	IL		Chicago					Individual
+2018-09-28	Alliance COnstruction and Maintenance		601 Heartland Dr.	60451.0	700	IL		New Lenox					construction
+2015-10-27	Amelio	Anthony	310 Busse Hwy	60068.0	250	IL		Park Ridge					Individual
+2015-11-24	Amelio	Tina	5317 N Meade	60630.0	250	IL		Chicago					Individual
+2017-06-02	Aviles	Daniel	3845 N Sayre	60634.0	250	IL		Chicago					Individual
+2015-10-27	Axios Architects & Consultants, LLC		188 N Wells	60606.0	250	IL		Chicago					unclassified
+2017-12-27	BZ on Harlem Ave		4970 N Harlem Ave	60706.0	250	IL		Harwood Heights					retail
+2015-11-24	Banks	Samual VP	221 N. LaSalle	60601.0	1000	IL	good faith effort made	Chicago	good faith effort made				Individual
+2016-09-30	Belmont Bank & Trust		8250 W Belmont	60634.0	250	IL		Chicago					financial
+2016-09-30	Belmont Funeral Home		7120 W. Belmont Avenue	60634.0	500	IL		Chicago					unclassified
+2017-09-29	Bezazian	Paul	6952 W. Wolfram	60634.0	450	IL		Chicago					Individual
+2016-09-30	Biancalana	Joseph	2138 N Sayre	60707.0	750	IL		Chicago					Individual
+2015-10-27	Bisceglie	John	3316 N New England	60634.0	250	IL		Chicago					Individual
+2015-10-27	Bisceglie	Phyliss	3316 N New England	60634.0	250	IL		Chicago					Individual
+2015-09-26	Boilmakers -Blacksmiths Local #1		2941 S Archer	60608.0	250	IL		Chicago					union
+2018-06-29	Bosco	Michael	5556 W. Rosedale	60646.0	550	IL		Chicago					Individual
+2018-06-29	Bridge Structural & Reinforcing		7720 Industrial Drive	60130.0	1600	IL		Forest Park					unclassified
+2017-09-29	Buske	Richard	5208 N McVicker	60630.0	200	IL		Chicago					Individual
+2016-11-14	CAR PAC		200 S Michigan Avenue	60604.0	1000	IL		Chicago					unclassified
+2016-09-30	Castiglione	Frank	155 Chandler Ln	60169.0	220	IL		Hoffman Estates					Individual
+2018-09-28	Chicago & Cook COunty Building & Construction Trades Council		150 N Wacker Dr	60606.0	2000	IL		Chicago					union
+2018-09-28	Chicago Federation of Labor		130 E. Randolph	60601.0	2000	IL		Chicago					realestate
+2016-09-30	Chicago Fire Department Engine 78		1052 W Waveland	60613.0	750	IL		Chicago					union
+2016-09-30	Chicago Fire Dept Engine 112		3801 N Damen Ae	60618.0	500	IL		Chicago					union
+2018-10-19	Chicago Firefighters Union Local 2		440 W. 43rd Street	60609.0	12000	IL		Chicago					union
+2017-09-29	Chicago Journeymen Plumbers L.U. 130		1340 West Washington Blvd	60601.0	1250	IL		Chicago					union
+2018-07-20	Chicago Police Sergeants Assocaition PAC		1616 W. Pershing	60609.0	2000	IL		Chicago					pac
+2016-08-02	Chicago Teachers union PAC		222 Merchandise Mart Plaza	60654.0	1000	IL		Chicago					union
+2018-06-29	Chicago regional Council of Carpenters PAC		12 E. Erie	60611.0	3200	IL		Chicago					union
+2017-12-05	Chicagoland Operators Joint Labor Management PAC		6200 Joliet Road	60525.0	5000	IL		Countryside					pac
+2015-10-27	Ciezki	Patrick	good faith effort made		250	IL		good faith effort ma					Individual
+2015-09-26	Collins	Theodore	1747 N Pulaski	60639.0	240	IL		Chicago					Individual
+2017-09-29	Columbia Metal Spinning Co.		4351 N Normandy	60634.0	2250	IL		Chicago					unclassified
+2017-09-29	Committee to Elect Colleen Reardon Daly		PO Box 46563	60646.0	250	IL		Chicago					candidate
+2015-09-26	Committee to Elect Richard Cooke		2653 N Kedzie	60647.0	500	IL		Chicago					candidate
+2017-05-31	Construction & General Laborers District Council		999 McClintock Drive	60527.0	3100	IL		Burr Ridge					union
+2017-07-21	Cook County College Teachers Union-Cope		208 W. Kinzie	60610.0	2000	IL		Chicago					union
+2018-07-20	Cuda Law Offices		6525 North Avenue	60302.0	1000	IL		Oak Park					unclassified
+2017-06-02	Cullen	Raymond	6320 N. Niagra	60646.0	500	IL		Chicago					Individual
+2018-06-29	Cunningham	Catherine	4557 N McVicker	60630.0	500	IL		Chicago					Individual
+2017-07-21	Cwik	David	6968 W. North Avenue	60707.0	8000	IL	attorney	Chicago	self				Individual
+2015-10-27	Dagley	David	1420 N Cleveland Ave.	60610.0	250	IL		Chicago					Individual
+2016-09-30	David Rasmussen Ins. Agency		7148 W Addison	60634.0	250	IL		Chicago					unclassified
+2018-06-29	Davis	MC	225 W Washington	60606.0	1000	IL	attorney	Chicago	self				unclassified
+2015-09-26	Dean	Roy	7425 N Ottawa	60631.0	750	IL	good faith effort made	Chicago	good faith effort made				unclassified
+2015-02-26	Democracy for America		PO Box 1717	5402.0	1761	VT		Burlington					candidate
+2018-07-20	Doerrer	John	1705 N Rutherford	60707.0	1000	IL		Chicago					Individual
+2015-10-27	Dom Developments		5946 N Neva	60618.0	250	IL		Chicago					unclassified
+2016-11-14	Don Val Corporation		8221 W Irving Park Rd	60634.0	250	IL		Chicago					financial
+2015-10-22	Draft		8221 W Irving Park Rd	60607.0	450	IL		Chicago					unclassified
+2018-06-29	Dudlak	John	19 Ottawa	60068.0	500	IL		Park Ridge					Individual
+2017-06-02	Edelman and Partners		77 W Washington	60602.0	250	IL		Chicago					unclassified
+2015-06-30	Elect Judge Marc Martin		1011 W Lake St	60301.0	500	IL		Oak Park					candidate
+2015-09-26	Engine 117		1150 W 15th St	60608.0	250	IL		Chicago					unclassified
+2018-08-22	Engine 84/Truck 51		21 West 59th St	60637.0	250	IL		Chicago					unclassified
+2016-11-14	Fabrizio	Nicholas	6081 N Nassau Ave.	60631.0	250	IL		Chicago					Individual
+2018-03-13	Fire Fighters Union Local 2 Political Committee		440 West 43rd Street	60609.0	1500	IL		Chicago					union
+2018-09-28	First Security Trust and Savings		7315 W. Grand Ave.	60707.0	1600	IL		Elmwood Park					unclassified
+2015-06-30	Fleischacker	Michael	3053 N New England	60634.0	250	IL		Chicago					Individual
+2015-09-26	Flood Brothers		4827 N. Harrison	60644.0	850	IL		Chicago					unclassified
+2018-09-28	Flosi	Thomas	10809 US Highway 27 S	33876.0	175	FL		Sebring					Individual
+2016-09-30	Flowers of Paradise		1757 N Harlem	60707.0	600	IL		Chicago					unclassified
+2017-06-02	Fodor	Joseph	3634 Nottingham	60634.0	1250	IL		Chicago					Individual
+2016-06-28	Franksville		3550 N. Harlem Ave	60634.0	500	IL		Chicago					unclassified
+2018-09-28	Fraternal Order of Police		1412 W. Washington	60606.0	3750	IL		Chicago					unclassified
+2017-09-29	Friends of Anthony Napolitano		7144 N Harlem Ave.	60631.0	600	IL		Chicago					candidate
+2018-06-29	GD Gazis LLC		3701 W Irving Park Rd	60618.0	500	IL		Chicago					unclassified
+2016-11-14	Gallagher	Donna	3517 S Wenonah	60402.0	500	IL		Berwyn					Individual
+2015-11-24	Gessek	Dorota	9118 W Elmwood Drive	60714.0	250	IL		Niles					Individual
+2017-09-29	Giannini	Teresa	3327 N Pacific	60634.0	250	IL		Chicago					Individual
+2016-06-28	Gillespie	Michael	419 Leonard St	60068.0	250	IL		Park Ridge					Individual
+2015-10-27	Goverdarica	Melissa	181  Ring  Neck Lane	60108.0	250	IL		Bloomingdale					Individual
+2015-10-27	Grace Sergio, Inc		8206 W Belmont	60634.0	500	IL		Chicago					retail
+2017-09-29	Grand Corridor Chamber of Commerce		11 W Conti Pkwy	60707.0	750	IL		Elmwood Park					unclassified
+2015-09-26	Griff	Lawrence	749 N 9th Avenue	60101.0	600	IL	good faith effort made	Addison	good faith effort made				Individual
+2016-09-30	Guda Law Offices		6825 North Ave.	60302.0	250	IL		Oak Park					unclassified
+2017-09-29	Guy Aloisio Inc.		7062 W Diversey	60707.0	500	IL		Chicago					retail
+2015-08-24	Heneghan	Patrick	1737 E Ridgewood Ln	60025.0	500	IL		Glenview					Individual
+2017-09-29	Hernandez	Joseph	2707 N Rutherford	60707.0	450	IL		Chicago					Individual
+2015-09-26	Hetland	William	3429 N Nottingham	60634.0	200	IL		Chicago					Individual
+2017-05-25	Hiawatha Park Youth Program		8029 Forest Preserve Drive	60634.0	1600	IL		Chicago					unclassified
+2018-06-29	Howell	George	1747 N. Rutherford Ave.	60707.0	500	IL		Chicago					Individual
+2018-08-22	I.U.O.E Local 150 PAC		6200 Joliet Rd	60525.0	3000	IL		Countryside					union
+2018-09-28	I.U.O.E. Local 399		2260 S Grove	60616.0	3950	IL		Chicago					union
+2016-02-15	IBEW Local 21		1307 W Butterfield	60515.0	500	IL		Downers Grove					union
+2018-09-28	IBEW PAC		900 Seventh St NW	20001.0	6050	DC		Washington					unclassified
+2015-10-27	ISLS Inc.		8227 W Irving Park Rd	60634.0	250	IL		Chicago					retail
+2015-11-24	IUOE Local 399 Political Education Fund		2260 S. Grove St	60616.0	750	IL		Chicago					union
+2015-08-24	Idea Furniture		654 W Irving Pk Rd	60634.0	250	IL		Chicago					unclassified
+2016-11-14	Illinois Hotel Motel PAC		5A Lorenz Square	62704.0	500	IL		Springfield					union
+2017-09-29	Innovative Markets, Inc		77 W Washington	60602.0	250	IL		Chicago					retail
+2016-09-30	International Brotherhood of Electrical workers		600 W Washington	60661.0	500	IL		Chicago					unclassified
+2017-09-29	Irving Narragansett Partnership		6348 N Cicero	60646.0	3250	IL		Chicago					unclassified
+2018-06-29	JD Sales, Inc		221 N LaSalle	60601.0	2000	IL		Chicago					retail
+2017-06-02	Jablonowski	James	6157 N Legette	60646.0	250	IL		Chicago					Individual
+2017-06-02	Jacob	Andres	3840 N Damen,apt 3	60618.0	250	IL		Chicago					Individual
+2017-06-02	Jimenez	Luis	6121 W Byron	60634.0	750	IL		Chicago					Individual
+2017-06-02	Joseph's Finest Meats		7101 W Addison	60634.0	250	IL		Chicago					unclassified
+2018-06-29	Joyce	John	4157 N. Plainfield	60634.0	700	IL		Chicago					Individual
+2016-09-30	KMS Group, Inc		3611 N Harlem	60634.0	250	IL		Chicago					unclassified
+2018-09-28	Keating	Ed	10225 S Springfield	60655.0	250	IL		Chicago					unclassified
+2016-09-30	Kitowski	Ron	6325 N. Sayre	60631.0	900	IL	g	Chicago	good faith effort made				unclassified
+2017-06-02	Klasek	Jay	3428 N Nordica	60634.0	250	IL		Chicago					unclassified
+2015-09-26	Kluge	Paul	6617 W. Foster	60656.0	600	IL	good faith effort made	Chicago	good faith effort made				Individual
+2018-06-29	Kownacki	John	5654 W. Forest Glen	60646.0	2100	IL		Chicago					Individual
+2016-06-28	Kupiec	Mark	77 W. Washington	60602.0	850	IL		Chicago					Individual
+2016-11-14	Lapkus	Danas	8695 S Archer Ave	60480.0	500	IL		Willow Springs					Individual
+2015-10-27	Laszio Simovic Architects		6512 N Artesian	60645.0	250	IL		Chicago					unclassified
+2018-08-22	Law Offices of Rascia A Himel, Ltd.		650 N Dearborn	60654.0	1000	IL		Chicago					construction
+2015-10-27	Lawsuit Lending LLC		221 N LaSalle	60601.0	500	IL		Chicago					unclassified
+2016-06-28	Lee	Jafden	4140 N Moody Ave.	60634.0	250	IL		Chicago					Individual
+2018-10-19	Liuna Chicago Laborers District Council PAC		999 McClintock Drive	60527.0	1000	IL		Burr Ridge					union
+2017-10-17	Local 126		120 E Ogden	60521.0	250	IL		Hinsdale					union
+2018-10-19	Local 134 PAC Intl Brotherhood of Electrical Workers		600 W. Washington	60661.0	3250	IL		Chicago					union
+2016-03-22	Local 399		2260 S. Grove	60616.0	5000	IL		Chicago					union
+2018-06-29	Los Arcos Dorados, Ltd.		7105 W Higgins Rd	60656.0	1000	IL		Chicago					unclassified
+2018-06-29	Luke's On Harlem Corp.		3130 N Harlem Avenue	60634.0	250	IL		Chicago					retail
+2016-09-30	MMT Demolition		6972 W North Ave	60707.0	300	IL		Chicago					unclassified
+2018-09-01	Manfreda	Steve & Terri	230 Park Dr.	60067.0	8100	IL	good faith effort made	Palatine	good faith effort made				Individual
+2016-06-28	Marchese	Vito	8754 W Wilson ave	60656.0	450	IL		Chicago					Individual
+2018-06-29	Mason	James	9829 S. Hoyne	60643.0	1500	IL		Chicago					Individual
+2015-10-27	McCarty	William	920 Greenwood	60093.0	250	IL		Winnetka					Individual
+2018-06-29	McMahon	Brian	6757 N Loleta	60646.0	500	IL		Chicago					Individual
+2016-09-27	Mia Passione Restaurant		8347 Grand Avenue	60171.0	250	IL		RIver Grove					retail
+2016-09-30	Mia Property Acquisitions LLC		3009 W Montrose	60618.0	750	IL		Chicago					propertyman
+2017-09-29	Midtown LLC		1833 N Milwaukee	60647.0	500	IL		Chicago					unclassified
+2015-10-27	Milano	Dean	1928 N Rutherford	60707.0	500	IL		Chicago					Individual
+2018-06-29	Millennium Advisors LLC		321 N Clark	60654.0	250	IL		Chicago					unclassified
+2018-06-29	Mini	Barbara	211 Jessica Drive	60191.0	250	IL		Wood Dale					Individual
+2018-06-29	Montrose Deli		5411 W Montrose	60641.0	900	IL		Chicago					unclassified
+2016-09-30	Morrison	Brian	2428 Auburn Ln	60062.0	250	IL		Northbrook					Individual
+2015-03-31	Mr. B's Stuffed PIzza, Inc.		4250 N Central	60634.0	500	IL		Chciago					retail
+2017-09-29	Mr. Beef, Ltd.		3917 N. Harlem	60634.0	1000	IL		Chicago					unclassified
+2015-09-26	Muir	Michael	4055 N Mason Avenue	60634.0	500	IL		Chicago					Individual
+2016-06-28	Newcomer	Edward	3540 N Oriole Ave.	60634.0	200	IL		Chicago					Individual
+2015-03-03	Niles	Gregory	5367 N Nordica	60656.0	250	IL		Chicago					Individual
+2018-06-29	Nilles	Gregory	5367 N Nordica	60656.0	450	IL		Chicago					Individual
+2015-11-24	Noble Development Group LLC		1332 N Halsted	60642.0	250	IL		Chicago					developer
+2016-09-30	North and Kedzie Service		3142 W North Ave.	60647.0	200	IL		Chicago					unclassified
+2018-09-28	Nuzzo Plumbing		8319 Leland	60656.0	3550	IL		Chicago					unclassified
+2018-06-29	Old 41 Saloon		7718 Addison St	60634.0	750	IL		Chicago					unclassified
+2016-06-28	Olszynski	Lesley	9 Plum Court	60188.0	250	IL		Sleepy Hollow					Individual
+2017-09-29	PCG Consulting, Inc.		100 N. LaSalle	60602.0	5150	IL		Chicago					retail
+2015-10-27	PK Quality Home Inspections		good faith effort made		250	IL		good faith effort ma					unclassified
+2018-09-28	Pacocha	Richard	3348 N Orange	60634.0	700	IL	good faith effort made	Chicago	good faith effort made				Individual
+2016-07-19	Painters District Council #14		1456 W Adams	60607.0	1000	IL		Chicago					union
+2017-12-27	Peoples Gas Light and Coke Co.		PO Box 19800	56307.0	250	WI		Green Bay					construction
+2018-09-28	Porrettas Banquet Hall		3718 N. Central	60607.0	650	IL		Chicago					unclassified
+2015-10-27	Pucillo	Ronald	2664 Julian Ter	60171.0	500	IL		River Grove					Individual
+2015-09-01	Radio FLyer		6515 W. Grand Avenue	60707.0	475	IL		Chicago					unclassified
+2015-10-27	Rascia	Ronald	8424 W. Agatite Ave.	60656.0	250	IL		Chicago					Individual
+2018-06-29	Rialmo	Robert	6922 N Oleander	60631.0	200	IL		Chicago					Individual
+2016-06-28	Rolled Edge		719 Ottawa Ave.	60068.0	500	IL		Park Ridge					unclassified
+2018-08-22	Rosas	Jesse	7547 W Hortense	60631.0	700	IL		Chicago					Individual
+2015-10-27	Rouse	Joseph	21021 W Hazelnut Ln	60544.0	250	IL		Plainfield					Individual
+2017-02-15	SEIU Illinois Council PAC Fund		111 E. Wacker	60601.0	5636	IL		Chicago					union
+2015-10-27	SO Holdings, LLC		5339 W Belmont	60641.0	250	IL		Chicago					unclassified
+2018-06-29	Schiller Contracting & Management		3324 E 136th St	60633.0	1000	IL		Chicago					propertyman
+2018-06-29	Scottfreda Company		1714 N Nordica	60607.0	1375	IL		Chicago					unclassified
+2018-06-29	Seize Inc.		6351 W Montrose	60634.0	500	IL		Chicago					retail
+2015-10-27	Serpico	Vincent	7843 W Lawrence	60706.0	500	IL		Norridge					Individual
+2017-02-15	Service Employees Local No. 1		111 East Wacker	60601.0	500	IL		Chicago					union
+2017-04-15	Seven Eleven		3200 Hackberry Rd.	75063.0	400	TX		Irving					unclassified
+2017-10-17	Sheetmetal Workers Intl. #73		4550 Roosevelt Road	60162.0	1700	IL		Hillside					union
+2015-11-24	Sloma	Izabela	111 W Maple St	60610.0	250	IL		Chicago					Individual
+2016-09-30	Smokey Joels Red Hots, Inc		810 South Beloit	60130.0	500	IL		Forest Park					retail
+2017-09-29	Soo	Kenneth	1736 N Newland	60707.0	200	IL		Chicago					Individual
+2016-06-28	Spectra Merchandising Intl.		4230 N Normandy Ave.	60634.0	500	IL		Chicago					unclassified
+2016-11-14	Spitzer	Addis	100 W Monroe	60603.0	500	IL		Chicago					Individual
+2017-12-31	Sposato	Nicholas	4608 N Forest VIew	60656.0	6793	IL	Alderman	Chicago	City of Chicago				Individual
+2018-06-29	Sprinkler Fitters Local 281, UA		11900 S. Laramie Avenue	60803.0	2000	IL		Alsip					union
+2015-06-30	St. Jude Oil Group Inc		5959 W Montrose	60634.0	500	IL		Chicago					unclassified
+2016-11-14	Susman	Arthur	200 S Clark	60603.0	500	IL		Chicago					Individual
+2016-11-14	Susman	Michael	PO Box 1636	60690.0	500	IL		Chicago					Individual
+2015-10-27	Szymanski Bros., Inc		6014-16 Irving Park Rd	60634.0	250	IL		Chicago					retail
+2017-09-29	TKB Bassi Funeral Services		7120 Belmont	60606.0	500	IL		Chicago					unclassified
+2018-08-22	Teamsters Local Union 700		1300 W. Higgins Road	60048.0	2000	IL		Park Ridge					union
+2015-06-30	Tebbens	Robert	6056 N Nickerson Ave	60631.0	500	IL		Chicago					Individual
+2018-10-19	Teele	Terry	10317 Country Club Road	60098.0	1000	IL		Bull Valley					Individual
+2016-09-30	The Carpet Express		4638 Maria Ct.	60656.0	750	IL		Chicago					developer
+2016-06-28	The Eli's Cheesecake Company		6701 W Forest Preserve Drive	60634.0	500	IL		Chicago					developer
+2018-09-28	The UPS Store Ownership, Inc.		1658 N Milwaukee	60647.0	1000	IL		Chicago					retail
+2018-09-28	Thomas Raines Attorney at Law LLC		20 N Wacker	60606.0	1500	IL		Chicago					unclassified
+2015-11-24	Tiano	John	8556 W Leland	60656.0	300	IL		Chicago					Individual
+2015-10-27	Torrei	Josie	7538 W Cleveland	60714.0	250	IL		Niles					Individual
+2016-09-30	Touch Up SpecialistsLLC		4518 Main St	60532.0	500	IL		Lisle					unclassified
+2017-06-02	Touch of Europe, Inc.		5415 W Irving Park Rd	60641.0	500	IL		Chicago					realestate
+2018-08-22	UFCW Local 881 PAC		122 W. 22nd Street	60523.0	1500	IL		Oak Brook					union
+2015-10-27	Ulblasi	Jamie	7339 W Lunt	60631.0	250	IL		Chicago					Individual
+2018-06-29	United Airlines PAC		233 S Wacker Drive	60606.0	2000	IL		Chicago					pac
+2016-09-30	United Union of Roofers, Local 11		9838 W Roosevelt Rd	60154.0	750	IL		Westchester					union
+2015-09-26	Valadez	Louis	4542 W. McVicker	60630.0	850	IL	good faith effort made	Chicago	good faith effort made				Individual
+2015-02-24	Volunteers in Politics		1645 W. Jackson	60612.0	1000	IL		Chicago					unclassified
+2018-09-28	Walgreen Co.		4343 N Central Ave	60634.0	1250	IL		Chicago					unclassified
+2018-06-29	Zervas	George	5903 N Harlem	60631.0	2000	IL	good faith effort made	Chicago	good faith effort made				Individual
+2017-12-27	Zion Gardens		3600 N Naragansett	60634.0	450	IL		Chicago					unclassified
+2018-09-28	Zitella Development Corp.		4970 N. Harlem	60707.0	4750	IL		Harwood Hts.					construction
+	Non-itemized donations				57558						Non-itemized donations under $150	Donations under $175	unclassified

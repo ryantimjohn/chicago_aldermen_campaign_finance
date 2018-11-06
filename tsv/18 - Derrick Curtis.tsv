@@ -1,55 +1,55 @@
-employer	city	state	last_name	amount	address1	address2	occupation	first_name	zipcode	received_date	donor_type_size	donation_location	classified_type
-	Chicago	IL	13th Ward Democratic Org	2500	6500 S Pulaski				60629.0	2018-07-28			party
-	Chgo	IL	18th Ward Democratic Organization	4000	8208 S Christiana				60652.0	2016-04-13			party
-	Springfield	IL	AFSCME Illinois Council No 31	500	615 S Second				62705.0	2018-01-04			union
-	Silver Springs	MD	ATU Cope VoluntaryAccount	500	10000 New Hamphsire Ave				20903.0	2017-04-03			unclassified
-	Chicago	IL	At&t Illinois Employee Pac	1250	225 W Randolph 27B				60606.0	2018-07-30			pac
-	Chicago	IL	Billys Fountain and Grill	200	3711 W Columbus				60652.0	2015-03-19			unclassified
-	Chicago	IL	Bowers	250	2316 W 80th Pl			Clara	60620.0	2015-04-02			Individual
-	Chicago	IL	Byline Bank	1000	1101 W 35th St				60609.0	2015-03-01			financial
-	Chicago	IL	CAR Political Action Comm	250	200 S Michigan				60604.0	2016-11-07			union
-	Chicago	IL	Caribbean Jerk Palace	1000	3792 W 79th St				60652.0	2018-07-28			unclassified
-	Chicago	IL	Carroll	500	10608 S Christiana			Judge Thomas	60655.0	2015-03-19			Individual
-	Chicago	IL	Cash Loans by BMAC	500	8314 1/2 S Kedzie				60652.0	2018-07-30			unclassified
-	Chicago	IL	Chapman	300	3252 W 85th Pl			Bennie	60652.0	2015-03-19			Individual
-	Chicago	IL	Chicago Firefighters Local 2	500	440 W 43rd St				60609.0	2016-11-21			union
-	Chicago	IL	Chicago Journeyman Plumbers LU 130	250	1340 W Washington				60603.0	2015-04-06			union
-	Countryside	IL	Chicago Land Operators Joint Mangmnt	5000	6200 Joliet Rd				60525.0	2017-11-24			pac
-	Chicago	IL	Chicago for Rahm Emanuel	20000	P.O. Box 101121				60610.0	2018-10-29			candidate
-	Chicago	IL	Chicagoland Chamber of Commerce	500	410 N Michigan				60611.0	2016-11-07			unclassified
-	Chicago	IL	Citizens for Jacqueline Collins	250	P.O.Box 209054				60620.0	2015-04-02			candidate
-	Philadelphia	PA	Comcast	1000	1701 JFK Boulevard				19103.0	2017-04-01			unclassified
-	Chicago	IL	Cooke	200	3142 W North Ave			Richard	60647.0	2015-03-19			Individual
-best effort made	Chicago	IL	Culen	1000	2024 S Wabash		best effort made	Patrick	60616.0	2015-04-02			Individual
-	OakLawn	IL	Cunningham & Cunningham	250	4001 W 95th St				60453.0	2015-03-19			unclassified
-	Hillside	IL	Curtis	450	6 N Lind	Apt 2B		Rosemary	60162.0	2018-07-30			Individual
-	Chicago	IL	DMC Improvements	1000	1439 W 103rd St				60643.0	2015-04-02			unclassified
-	Chicago	IL	Doerrer	1000	1705 N Rutherford			John	60707.0	2018-07-28			Individual
-	Chicago	IL	Elim Christian Church	2000	2735 W 79th St				60652.0	2018-07-28			unclassified
-	Chicago	IL	Flannery Construction	1000	5347 S Mulligan				60638.0	2015-04-06			unclassified
-	Chicago	IL	Friends of Michael J Madigan	480	P.O. Box 3188				60654.0	2018-09-14			candidate
-	Chicago	IL	Illinois Merchants Political Action	1000	19 South LaSalle				60603.0	2015-04-06			union
-	Wilmington	IL	Illinois Transport	2000	20012 Arsenal Road				60481.0	2016-08-31			retail
-	chicago	IL	Iuoe Local 399	500	2260 Grove Street				60616.0	2018-07-30			union
-	Chicago	IL	JB For Governor Exploratory Comm	5000	P.O. Box A3801				60690.0	2018-10-23			candidate
-	Chicago	IL	JB for Governor	5000	P.O.Box A3801				60690.0	2018-03-09			candidate
-	Chicago	IL	Kates Detective Agency	1000	7810 S Claremont				60620.0	2018-07-28			unclassified
-	Chicago	IL	Kruse	200	3932 W 85th St			Noreen	60652.0	2015-03-19			Individual
-	Chicago	IL	Local 134	1500	600 West Washington				60661.0	2018-07-28			union
-	Chicago	IL	Logan	200	7736 S Jefferey			Cynthia	60649.0	2015-03-19			Individual
-	Chicago	IL	Mitchell	500	10728 S Hoyne			Bridget	60643.0	2015-03-19			Individual
-	Chicago	IL	My Choice Motors	250	7301 S Western				60636.0	2015-08-04			unclassified
-	Norfolk	VA	Norfolk Southern	1500	Three Comercial Place				23510.0	2017-12-20			unclassified
-	Norfolk	VA	Norfolk Southern Corporation	2500	Three Commercial Place				23510.0	2016-11-07			financial
-	Chicago	IL	Patterson	200	2548 W 79th Pl			Frankie	60652.0	2015-03-19			Individual
-	Chicago	IL	RK Liquors	2500	7104 S Western				60636.0	2018-07-30			unclassified
-	Chicago	IL	Reardon	200	3443 W 82nd St			Eleanor	60652.0	2015-03-19			Individual
-	Chicago	IL	Rivers	250	8748 S Bennett			Kristal	60617.0	2015-03-19			Individual
-	Chicago	IL	TGS Epsilon Inc	500	2155 W 80th St				60620.0	2018-07-30			retail
-	Chicago	IL	The Childrens Center	500	7948-58 S Western				60620.0	2018-07-30			developer
-	Chicago	IL	Tom	200	7976 S Kildare			Darwin	60652.0	2016-11-07			Individual
-	Chicago	IL	Tyse	500	8542 S Wolcott			Marie	60620.0	2015-03-19			Individual
-	Chicago	IL	Waldo Cooneys Inc	400	51st St				60632.0	2015-03-19			retail
-	Chicago	IL	Williams	200	7822 S Keeler			Christopher	60652.0	2015-03-19			Individual
-	Chicago	IL	Williams	200	9009 S Western			Paul	60643.0	2015-04-06			Individual
-			Non-itemized donations	18383							Donations under $175	Non-itemized donations under $150	unclassified
+received_date	last_name	first_name	address1	zipcode	amount	state	occupation	city	employer	address2	donation_location	donor_type_size	classified_type
+2018-07-28	13th Ward Democratic Org		6500 S Pulaski	60629.0	2500	IL		Chicago					party
+2016-04-13	18th Ward Democratic Organization		8208 S Christiana	60652.0	4000	IL		Chgo					party
+2018-01-04	AFSCME Illinois Council No 31		615 S Second	62705.0	500	IL		Springfield					union
+2017-04-03	ATU Cope VoluntaryAccount		10000 New Hamphsire Ave	20903.0	500	MD		Silver Springs					unclassified
+2018-07-30	At&t Illinois Employee Pac		225 W Randolph 27B	60606.0	1250	IL		Chicago					pac
+2015-03-19	Billys Fountain and Grill		3711 W Columbus	60652.0	200	IL		Chicago					unclassified
+2015-04-02	Bowers	Clara	2316 W 80th Pl	60620.0	250	IL		Chicago					Individual
+2015-03-01	Byline Bank		1101 W 35th St	60609.0	1000	IL		Chicago					financial
+2016-11-07	CAR Political Action Comm		200 S Michigan	60604.0	250	IL		Chicago					union
+2018-07-28	Caribbean Jerk Palace		3792 W 79th St	60652.0	1000	IL		Chicago					unclassified
+2015-03-19	Carroll	Judge Thomas	10608 S Christiana	60655.0	500	IL		Chicago					Individual
+2018-07-30	Cash Loans by BMAC		8314 1/2 S Kedzie	60652.0	500	IL		Chicago					unclassified
+2015-03-19	Chapman	Bennie	3252 W 85th Pl	60652.0	300	IL		Chicago					Individual
+2016-11-21	Chicago Firefighters Local 2		440 W 43rd St	60609.0	500	IL		Chicago					union
+2015-04-06	Chicago Journeyman Plumbers LU 130		1340 W Washington	60603.0	250	IL		Chicago					union
+2017-11-24	Chicago Land Operators Joint Mangmnt		6200 Joliet Rd	60525.0	5000	IL		Countryside					pac
+2018-10-29	Chicago for Rahm Emanuel		P.O. Box 101121	60610.0	20000	IL		Chicago					candidate
+2016-11-07	Chicagoland Chamber of Commerce		410 N Michigan	60611.0	500	IL		Chicago					unclassified
+2015-04-02	Citizens for Jacqueline Collins		P.O.Box 209054	60620.0	250	IL		Chicago					candidate
+2017-04-01	Comcast		1701 JFK Boulevard	19103.0	1000	PA		Philadelphia					unclassified
+2015-03-19	Cooke	Richard	3142 W North Ave	60647.0	200	IL		Chicago					Individual
+2015-04-02	Culen	Patrick	2024 S Wabash	60616.0	1000	IL	best effort made	Chicago	best effort made				Individual
+2015-03-19	Cunningham & Cunningham		4001 W 95th St	60453.0	250	IL		OakLawn					unclassified
+2018-07-30	Curtis	Rosemary	6 N Lind	60162.0	450	IL		Hillside		Apt 2B			Individual
+2015-04-02	DMC Improvements		1439 W 103rd St	60643.0	1000	IL		Chicago					unclassified
+2018-07-28	Doerrer	John	1705 N Rutherford	60707.0	1000	IL		Chicago					Individual
+2018-07-28	Elim Christian Church		2735 W 79th St	60652.0	2000	IL		Chicago					unclassified
+2015-04-06	Flannery Construction		5347 S Mulligan	60638.0	1000	IL		Chicago					unclassified
+2018-09-14	Friends of Michael J Madigan		P.O. Box 3188	60654.0	480	IL		Chicago					candidate
+2015-04-06	Illinois Merchants Political Action		19 South LaSalle	60603.0	1000	IL		Chicago					union
+2016-08-31	Illinois Transport		20012 Arsenal Road	60481.0	2000	IL		Wilmington					retail
+2018-07-30	Iuoe Local 399		2260 Grove Street	60616.0	500	IL		chicago					union
+2018-10-23	JB For Governor Exploratory Comm		P.O. Box A3801	60690.0	5000	IL		Chicago					candidate
+2018-03-09	JB for Governor		P.O.Box A3801	60690.0	5000	IL		Chicago					candidate
+2018-07-28	Kates Detective Agency		7810 S Claremont	60620.0	1000	IL		Chicago					unclassified
+2015-03-19	Kruse	Noreen	3932 W 85th St	60652.0	200	IL		Chicago					Individual
+2018-07-28	Local 134		600 West Washington	60661.0	1500	IL		Chicago					union
+2015-03-19	Logan	Cynthia	7736 S Jefferey	60649.0	200	IL		Chicago					Individual
+2015-03-19	Mitchell	Bridget	10728 S Hoyne	60643.0	500	IL		Chicago					Individual
+2015-08-04	My Choice Motors		7301 S Western	60636.0	250	IL		Chicago					unclassified
+2017-12-20	Norfolk Southern		Three Comercial Place	23510.0	1500	VA		Norfolk					unclassified
+2016-11-07	Norfolk Southern Corporation		Three Commercial Place	23510.0	2500	VA		Norfolk					financial
+2015-03-19	Patterson	Frankie	2548 W 79th Pl	60652.0	200	IL		Chicago					Individual
+2018-07-30	RK Liquors		7104 S Western	60636.0	2500	IL		Chicago					unclassified
+2015-03-19	Reardon	Eleanor	3443 W 82nd St	60652.0	200	IL		Chicago					Individual
+2015-03-19	Rivers	Kristal	8748 S Bennett	60617.0	250	IL		Chicago					Individual
+2018-07-30	TGS Epsilon Inc		2155 W 80th St	60620.0	500	IL		Chicago					retail
+2018-07-30	The Childrens Center		7948-58 S Western	60620.0	500	IL		Chicago					developer
+2016-11-07	Tom	Darwin	7976 S Kildare	60652.0	200	IL		Chicago					Individual
+2015-03-19	Tyse	Marie	8542 S Wolcott	60620.0	500	IL		Chicago					Individual
+2015-03-19	Waldo Cooneys Inc		51st St	60632.0	400	IL		Chicago					retail
+2015-03-19	Williams	Christopher	7822 S Keeler	60652.0	200	IL		Chicago					Individual
+2015-04-06	Williams	Paul	9009 S Western	60643.0	200	IL		Chicago					Individual
+	Non-itemized donations				18383						Non-itemized donations under $150	Donations under $175	unclassified

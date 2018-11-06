@@ -1,629 +1,629 @@
-employer	city	state	last_name	amount	address1	address2	occupation	first_name	zipcode	received_date	donor_type_size	donation_location	classified_type
-	Chicago	IL	125 S. Clark (Chicago) SPE LLC	1500	600 W Van Buren St	Ste 1000			60607-3767	2017-12-08			unclassified
-	Berwyn	IL	1419 Properties, LLC	500	6801 Roosevelt Rd				60402-1019	2017-06-02			propertyman
-	Chicago	IL	24 South Michigan, LLC	3500	24 S Michigan Ave				60603-3301	2018-05-11			propertyman
-	Chicago	IL	29 W. Hubbard Corp.	1000	29 W Hubbard St				60654-5605	2017-02-03			unclassified
-	Chicago	IL	29 W. Hubbard Corp. DBA O'Callaghan's	500	29 W Hubbard St				60654-5605	2018-03-30			unclassified
-	Chicago	IL	3505 Clark, Inc	1000	3505 N Clark St				60657-1611	2017-12-20			financial
-	Chicago	IL	35L Sportsmans, LLC	2500	680 N Lake Shore Dr	Ste 1900			60611-4548	2018-09-14			propertyman
-	Chicago	IL	4-M Enterprises, Inc. DBA Exchequer Restaurant	500	226 S Wabash Ave				60604-2322	2016-06-24			retail
-	Chicago	IL	400-410 Michigan Master Tenant LLC	1000	401 N Michigan Ave	Ste 1300			60611-4255	2018-03-30			propertyman
-	Chicago	IL	440 W Ontario St, LLC	2500	2 N Riverside Plz				60606-2600	2018-08-10			propertyman
-	Chicago	IL	5 West Hubbard Corp.	1000	5 W Hubbard St				60654-5605	2018-06-29			unclassified
-	Chicago	IL	830 NMA, LLC c/oWater Tower	1500	845 N Michigan Ave	Ste 987W			60611-2218	2018-03-30			propertyman
-	River Forest	IL	871 Rush Property	5000	1023 Ashland Ave				60305-1435	2018-07-20			propertyman
-	Northbrook	IL	9-25 W. Hubbard, LLC	1000	1010 Hillside Dr				60062-4654	2017-08-02			propertyman
-	Bensenville	IL	A.S.G. Staffing Inc	200	231 W Grand Ave	Ste 102			60106-3396	2017-09-30			retail
-	Aurora	IL	AT&T	1313	PO Box 8100				60507-8100	2016-07-22			unclassified
-	Chicago	IL	AT&T  Illinois Employee PAC	1500	225 W Randolph St	Unit 27B			60606-1838	2017-12-20			pac
-KLOA, Inc.	Rosemont	IL	Aboona	1250	9575 W Higgins Rd	Ste 400	Engineer	Luay	60018-4915	2017-02-03			Individual
-	Chicago	IL	Abu-Ghazaleh	500	1499 N Clybourn Ave	Unit A		Walid	60610-7216	2018-09-18			Individual
-	Chicago	IL	Abu-Ghazaleh	500	20 W Kinzie St	Fl 17		Walid	60654-6392	2018-05-14			Individual
-	Chicago	IL	Acosta	500	1030 W Chicago Ave	Fl 3		Rolando R	60642-5671	2018-05-14			Individual
-Acosta Ezgur, LLC	Chicago	IL	Acosta	1000	217 N Jefferson St	Fl 6	Attorney	Rolando R	60661-1103	2017-09-11			Individual
-	Chicago	IL	Acosta Ezgur, LLC	500	1030 W Chicago Ave	Fl 3			60642-5671	2016-06-24			unclassified
-	Palatine	IL	Agra	500	1242 W Northwest Hwy	Unit 1406		Holly	60067-1897	2018-05-14			Individual
-	Chicago	IL	Agra	500	860 W Blackhawk St	Unit 1406		Holly	60642-2510	2017-02-03			Individual
-	Maitland	FL	Akerman LLP	5000	495 N Keller Rd	Ste 300			32751-8656	2018-07-20			propertyman
-	Chicago	IL	Alexander	500	4113 N Kenmore Ave			Michael M.	60613-2003	2016-06-17			Individual
-	Oak Park	IL	Alfred G. Ronan, Ltd	500	328 S Oak Park Ave	Apt 1			60302-3563	2017-12-20			unclassified
-	Chicago	IL	Amalgamated Bank of Chicago	1500	30 N La Salle St	38th Fl.			60602-4536	2016-06-17			realestate
-	Tinley Park	IL	Ambulance Transport, Inc	500	8410 183rd Pl				60487-9268	2018-09-14			retail
-Focus Development	Chicago	IL	Anderson	2500	100 S Wacker Dr	Ste 2100	CEO	Timothy	60606-4030	2018-06-30			Individual
-	Chicago	IL	Anichini Brothers, Inc.	1500	545 N Wells St				60654-2628	2018-09-14			retail
-	Glencoe	IL	Ankin	500	743 Bluff St			Samuel	60022-1504	2018-09-28			Individual
-Macerich	Chicago	IL	Anunson	6500	500 N Michigan Ave	Ste 550	Sr. Property Manager	Kristin	60611-3702	2018-07-20			Individual
-	Chicago	IL	AraOn, Inc.	250	190 S La Salle St	Lbby 1			60603-3417	2016-06-24			retail
-	Broadview	IL	Architectural & Ornamentral Iron Workers Union, Local 63	500	2525 Lexington St				60155-2858	2016-06-24			union
-	Chicago	IL	Ascot	300	566 W Lake St	Ste 101		James	60661-1442	2018-01-26			Individual
-	Springfield	IL	Associated Beer Distributors of Illinois PAC	4000	PO Box 396				62705-0396	2018-06-29			union
-	Mount Prospect	IL	Axley	250	90 E Milburn Ave			Cheryl	60056-3211	2017-12-20			Individual
-	Chicago	IL	BOMA Chicago PAC	10250	115 S La Salle St	Ste 2300			60603-3862	2017-12-20			pac
-	Houston	TX	BP North America Employee PAC	1500	501 Westlake Park Blvd				77079-2604	2017-02-03			pac
-	Wheaton	IL	Bahr	250	1751 S Naperville Rd	Ste 209		Irene F.	60189-5896	2017-09-11			Individual
-None	Chicago	IL	Baker	1000	2143 N Magnolia Ave		Homemaker	Cindy	60614-4011	2017-03-10			Individual
-Baker Development Corp	Chicago	IL	Baker	3000	2143 N Magnolia Ave	Ste 100	Realtor	Warren	60614-4011	2018-09-18			Individual
-	Chicago	IL	Balourdos & Mikuzis, LLP	1500	535 N Michigan Ave	Ste 200			60611-3819	2016-12-22			propertyman
-	Chicago	IL	Bank of America Corporation PAC	3000	135 S La Salle St				60603-4177	2017-12-20			financial
-	Chicago	IL	Banks	1000	221 N La Salle St	Fl 38		Samuel V.P.	60601-1206	2017-12-20			Individual
-	Chicago	IL	Barr Management, Ltd.	500	2400 W Devon Ave				60659-1963	2018-03-30			propertyman
-	Chicago	IL	Bassiouni	500	680 N Lake Shore Dr	Apt 724T		M. Cherif	60611-4410	2017-03-31			Individual
-	Chicago	IL	Baum Realty Group	2500	1030 W Chicago Ave	Ste 200			60642-5671	2017-06-16			developer
-	Chicago	IL	Belgravia Group, LTD	3750	1101 W Monroe St	Ste 200			60607-2513	2017-08-02			developer
-	Chicago	IL	Bellrush Restaurant, LLC D/B/A Luxbar	5000	1050 N State St				60610-2855	2018-08-10			retail
-	Chicago	IL	Belmont Bank & Trust	750	8250 W Belmont Ave				60634-2809	2017-12-20			financial
-	Chicago	IL	Benefit Services Group Inc.	10000	680 N Lake Shore Dr	Ste 2050			60611-4546	2018-09-14			unclassified
-	Chicago	IL	Berg	500	640 N La Salle Dr	Ste 295		Kevin	60654-3790	2018-09-28			Individual
-	Chicago	IL	Berger Realty Group, LLC	500	40 E Oak St				60611-1229	2017-02-03			developer
-	Chicago	IL	Big Bus Chicago	1500	630 W 41st St	Unit B			60609-2642	2017-06-30			unclassified
-Bottleneck Management	Chicago	IL	Bisaillon	1500	2211 N Elston Ave	Ste 206	CEO - restaurant management company	Chris	60614-2900	2017-12-30			Individual
-GA Restaurant LLC	Chicago	IL	Bisbee	1600	642 N Clark St		Self employed	Michael	60654-3721	2018-09-30			Individual
-	Chicago	IL	Black	250	1714 W School St	# 2		Chris	60657-1037	2016-09-29			Individual
-BlitzLake	Chicago	IL	Blitz	1000	670 N Clark St	Fl 4	Real Estate	David J.	60654-3484	2018-06-30			Individual
-	Chicago	IL	Blitzlake	2000	214 W Erie St				60654-3911	2018-09-14			unclassified
-	Chicago	IL	Blk Wht Valet	500	111 N Wabash Ave	Ste 2118			60602-2939	2017-09-15			unclassified
-	Chicago	IL	Blue Star Properties	2000	600 W Van Buren St	Ste 1000			60607-3767	2017-02-03			propertyman
-Walton Street Capital	Chicago	IL	Bluhm	1500	900 N Michigan Ave	Ste 1900	President	Neil	60611-6536	2016-12-22			Individual
-	Chicago	IL	Blumenthal	250	345 E Ohio St	Apt 2003		Seth	60611-4054	2018-09-30			Individual
-	Chicago	IL	Boehm	500	4 E Elm St	12S		Kevin	60611-1039	2018-09-28			Individual
-	Chicago	IL	Bolton	500	1107 W Albion Ave			Heather R.	60626-4613	2018-01-26			Individual
-Alexander & Borovicka	Chicago	IL	Borovicka	1500	230 W Monroe St	Ste 2221	Principal	John	60606-4908	2016-06-03			Individual
-	Oak Brook	IL	Bossy	500	2803 Butterfield Rd			David	60523-1156	2018-08-13			Individual
-	Chicago	IL	Bottleneck TT, LLC	1500	DBA Howells & Hood	2211 N Elston Ave			60614-2900	2016-12-22			unclassified
-	Olympia Fields	IL	Bradford	250	21010 London Dr			Timothy	60461-1881	2017-09-08			Individual
-	Forest Park	IL	Bridge Structural and Reinforcing	250	7720 Industrial Dr	7720 Industrial Drive			60130-2520	2016-06-24			unclassified
-	Lincolnshire	IL	Broadway in Chicago	5300	7 Farrington Cir				60069-2501	2018-07-20			pac
-	Chicago	IL	Broadway in Chicago	5800	17 N State St	Ste 810			60602-3047	2016-09-30			pac
-	Chicago	IL	Broccolo	500	8725 W Higgins Rd	Ste 805		Peter	60631-2769	2018-08-13			Individual
-Lettuce Entertain You Enterprises	Kenilworth	IL	Brown	5000	431 Abbotsford Rd		President Chief Executive Officer	Kevin J.	60043-1106	2016-12-22			Individual
-	Chicago	IL	Brustin and Lundblad Ltd.	500	10 N Dearborn St	Fl 7			60602-4324	2018-09-14			construction
-	Chicago	IL	Bub City	2500	435 N Clark St				60654-4540	2016-12-22			unclassified
-Bucksbaum Retail Properties	Chicago	IL	Bucksbaum	1500	71 S Wacker Dr	Ste 2130	CEO	John	60606-4666	2018-08-13			Individual
-Magellan Development Group	La Grange Park	IL	Buell	5400	15 Elmwood Ave		Chief Marketing Officer	Laura	60526-2032	2016-12-22			Individual
-BDT & Co	Chicago	IL	Bush	750	401 N Michigan Ave	Ste 3100	Chairman	William	60611-4251	2018-03-30			Individual
-	Chicago	IL	CA Ventures	1500	130 E Randolph St	Ste 2100			60601-6223	2018-06-30			unclassified
-	Chicago	IL	CFP III, LLC	1000	225 W Hubbard St	Fl 4			60654-4916	2017-02-03			unclassified
-	Chicago	IL	CH Distillery	3000	564 W Randolph St	Fl 1E			60661-2219	2018-03-30			unclassified
-	Chicago	IL	CLPF-West Randolph Operating Company LLC	1500	171 W Randolph St				60601-3121	2016-06-17			unclassified
-MAC Management Co., Inc.	Chicago	IL	Cahan	1000	640 N La Salle Dr	Ste 285	Real Estate Professional	Dustin	60654-3783	2018-09-28			Individual
-Self Employed	Chicago	IL	Cahan	1500	640 N La Salle Dr	Ste 285	Real Estate Professional	Michael	60654-3783	2018-09-28			Individual
-President & CEO	Chicago	IL	Camins	5500	1659 W Hubbard St		President/CEO	Harvey	60622-6352	2017-09-11			Individual
-	Chicago	IL	Canellis	1000	233 E 13th St	Apt 1205		Lou	60605-3248	2018-01-26			unclassified
-	Chicago	IL	Carley	500	161 N Clark St	Ste 1600		Chris	60601-3338	2017-09-22			Individual
-	Chicago	IL	Carley	250	161 N Clark St	Ste 4700		Christopher	60601-3201	2016-06-24			Individual
-	Chicago	IL	Carley	500	161 N Clark St	Ste 1600		Christopher	60601-3338	2017-02-03			Individual
-	Chicago	IL	Carley	750	2132 W Le Moyne St	Ste 1600		Christopher J.	60622-1812	2018-01-26			Individual
-Magellan Development Group	Chicago	IL	Carlins	2900	225 N Columbus Dr	Ste 100	Real Estate Developer	David J.	60601-7981	2018-09-21			Individual
-Magellan Development	Chicago	IL	Carlins	5400	55 W Delaware Pl	Apt 1101	Co-CEO	Joel M.	60610-6076	2016-12-22			Individual
-Self	Chicago	IL	Carlins	5400	55 W Delaware Pl	Apt 1101	Homemaker	Susan	60610-6076	2016-12-22			Individual
-	Chicago	IL	Carman	500	640 N La Salle Dr	Ste 285		Richard	60654-3783	2018-09-28			Individual
-	Willow Springs	IL	Carter	500	11776 Winding Trails Dr			Melia A.	60480-1191	2017-02-03			Individual
-	Schaumburg	IL	Cataldo	250	1300 E Woodfield Rd	Ste 400		Jerome	60173-5444	2018-05-14			Individual
-	Chicago	IL	Celeste	2000	111 W Hubbard St				60654-4503	2017-03-31			unclassified
-	Chicago	IL	Centaur Construction	1600	1200 W Lake St	Ste 200			60607-1653	2016-06-24			unclassified
-	Elmwood Park	IL	Central States Transit and Leasing Corporation	2500	7315 W Grand Ave				60707-1906	2018-09-14			construction
-	Chicago	IL	Chase Bank	150	10 S Dearborn St				60603-2318	2017-09-29			financial
-	Chicago	IL	Chicago & Cook County Building Trades Council	3000	150 N Wacker Dr	Ste 1850			60606-1657	2018-08-10			union
-	Chicago	IL	Chicago Association of Realtors PAC	3000	200 S Michigan Ave	Ste 400			60604-2411	2016-12-22			realestate
-	Chicago	IL	Chicago Beverage Systems, LLC	3000	441 N Kilbourn Ave				60624-1098	2017-06-30			unclassified
-	Chicago	IL	Chicago Event Management	2750	135 S La Salle St	Ste 1160			60603-3331	2018-03-30			unclassified
-	Chicago	IL	Chicago Fire Fighters Union Local 2 Political Comm	1000	440 W 43rd St				60609-2796	2017-09-15			union
-	Chicago	IL	Chicago Gray Line Ltd.	450	27 E Monroe St	Ste 515			60603-5647	2016-12-22			unclassified
-	Chicago	IL	Chicago Journeymen Plumbers' LU 130	7500	1340 W Washington Blvd				60607-1980	2018-09-28			union
-	Countryside	IL	Chicago Land Operators Joint Labor Mgt PAC	6000	6200 Joliet Rd				60525-3957	2017-12-20			pac
-	Chicago	IL	Chicago Sightseeing Company, Inc.	500	27 E Monroe St	Ste 515			60603-5647	2017-08-02			realestate
-	Chicago	IL	Chicago Stadium Corporation	5000	680 N Lake Shore Dr				60611-4546	2018-09-14			unclassified
-	Palatine	IL	Chicago's First Lady Cruises	5000	PO Box 68				60078-0068	2018-03-30			unclassified
-	Chicago	IL	Chicago/Springfield Consultants, LLC	200	500 N Michigan Ave	Ste 600			60611-3754	2017-08-02			unclassified
-	Chicago	IL	Chicagoland Apartment Association PAC	5000	557 W Randolph St	Ste 201			60661-2220	2018-08-10			unclassified
-	Chicago	IL	Chicagoland Chamber of Commerce PAC	2000	410 N Michigan Ave	Ste 900			60611-4241	2018-09-28			union
-Christopoulos Law Group, LLC	Chicago	IL	Christopoulos	1000	414 N Orleans St	Ste 602	Attorney	Dimitri	60654-4486	2017-12-30			Individual
-	Chicago	IL	Christopoulos	500	414 N Orleans St	Ste 602		Dimitrios	60654-4486	2018-09-28			Individual
-Gene & Georgetti	Chicago	IL	Ciota	1000	500 N Franklin St		Managing Partner	Richard	60654-4604	2018-09-30			Individual
-	Chicago	IL	Citic	500	225 N Columbus Dr	Unit 5311		Shone	60601-5257	2017-09-22			Individual
-	Chicago	IL	Citic	500	444 W Fullerton Pkwy			Shone	60614-2866	2017-02-03			Individual
-	Chicago	IL	Citizens for Lindsay Huge	250	4925 N Magnolia Ave				60640-3506	2017-09-15			candidate
-	Chicago	IL	Citizens for Tully	2500	33 N Dearborn St	Ste 2450			60602-3111	2017-06-16			candidate
-	Chicago	IL	Cityfront Hotel Associations LP	5250	301 E North Water St	301 E North Water St			60611-4534	2016-09-30			unclassified
-	Northbrook	IL	Clark Street Investors, LLC	4000	400 Skokie Blvd	Ste 800			60062-7908	2018-07-20			unclassified
-	Saint Louis	MO	Clayco, Inc.	1500	2199 Innerbelt Business Center Dr				63114-5721	2018-09-14			retail
-	Chicago	IL	Clear Channel Outdoor, Inc.	1000	4000 S Morgan St				60609-2581	2017-12-08			retail
-	Chicago	IL	Cleveland Avenue, LLC	5000	161 N Clark St	Ste 4300			60601-3315	2017-09-15			unclassified
-	New York	NY	Cohen	500	201 E 42nd St	Rm 2120		Meir	10017-5737	2017-09-22			Individual
-	Chicago	IL	ComEd PAC	250	1 Financial Place	33rd Floor			60605	2016-06-03			unclassified
-	Philadelphia	PA	Comcast Financial Agency Corporation	3000	1701 John F Kennedy Blvd				19103-2838	2018-03-30			financial
-	Tampa	FL	Comprehensive Health Management Inc	1000	PO Box 31390				33631-3390	2018-03-30			financial
-	Deerfield	IL	Connell	2000	76 Riverside Dr			Joshua	60015-4868	2018-09-18			Individual
-Lakeshore Recycling Systems LLC	Morton Grove	IL	Connell	1500	6132 Oakton St		Owner	Joshua	60053-2718	2018-01-26			Individual
-	Chicago	IL	Consolidated Enterprises, Inc	2500	680 N Lake Shore Dr	Fl 19			60611-4548	2018-09-14			retail
-	Burr Ridge	IL	Construction And General Laborers' District Council of Chicago & Vicin	1500	999 McClintock Dr	Ste 300			60527-0824	2017-12-20			union
-	Highland Park	IL	Cooper	1000	150 Pine Point Dr	Ste 138		Carey	60035-5333	2018-05-14			Individual
-L3 Hospitality Group	Highland Park	IL	Cooper	2000	600 Central Ave	Ste 138	CEO	Carey	60035-5604	2017-06-17			Individual
-Home Run Inn Pizza	Chicago	IL	Costello	1500	6249 S Archer Ave		President	Daniel	60638-2609	2017-12-30			Individual
-	Chicago	IL	Crown Imports	500	1 S Dearborn St	Ste 1700			60603-2308	2017-02-03			unclassified
-	Springfield	IL	Cullen, Inc.	500	409 Jackson Pkwy				62704-1923	2016-06-03			retail
-Culloton Strategies	Chicago	IL	Culloton	1500	200 E Illinois St	2405	Public Relations Consultant	Dennis	60611-6300	2017-06-30			Individual
-Big Bus Tours	New York	NY	Curran	2000	723 7th Ave		Vice President & General MAnager	John A.	10019-6832	2018-06-30			Individual
-Cushing and Co	Chicago	IL	Cushing	1500	420 W Huron St		Executive Vice President	Joseph X	60654-8475	2016-06-24			Individual
-	Chicago	IL	Cushing	500	420 W Huron St			Joseph X.	60654-8475	2016-09-29			Individual
-	Chicago	IL	Cushing & Company	1500	420 W Huron St				60654-8475	2017-02-03			unclassified
-	Chicago	IL	D&K Real Estate Service Corp	500	55 E Monroe St	Ste 3900			60603-5710	2018-05-11			unclassified
-	Aurora	IL	D'Escoto	500	1965 N Marywood Ave			Federico	60505-1137	2017-03-31			Individual
-	Chicago	IL	D'Onofrio	500	247 W Scott St	Apt 306		Richard	60610-5978	2018-01-04			Individual
-	River Grove	IL	D.A. Realty	1000	2664 Julian Ter				60171-1639	2017-12-20			unclassified
-River North Car Wash LLC	Deerfield	IL	DEMAIO	1000	15 Estate Dr		Owner	MIKE	60015-4861	2018-09-18			Individual
-	Baltimore	MD	DLA Piper LLP (US)	4500	6225 Smith Ave				21209-3635	2018-03-30			propertyman
-	Chicago	IL	DOnofrio	950	247 W Scott St	Apt 306		Richard	60610-5978	2017-09-29			Individual
-	Chicago	IL	Daley & Georges	3000	20 S Clark St	Ste 400			60603-1835	2018-03-30			unclassified
-	Chicago	IL	Dandamudi	500	210 W Illinois St	Fl 2		Rama	60654-2686	2018-09-18			Individual
-	Chicago	IL	Dandamudi	500	2223 W Charleston St			Sandya	60647-3208	2018-05-14			Individual
-	Chicago	IL	Dangan, LLC DBA The Dearborn	1000	145 N. Dearborn street				60602-1402	2018-05-14			developer
-Quadrum Global	Miami Beach	FL	Davis	3000	407 Lincoln Rd	Ste 304	Real Estate Investor/ Developer	Bryan	33139-3038	2018-08-13			Individual
-	Chicago	IL	De Rouin	200	912 W Lake St			Mike	60607-1707	2017-03-31			Individual
-	Deerfield	IL	DeMaio	250	15 Estate Dr			Mike	60015-4861	2018-05-14			Individual
-	Downers Grove	IL	DeVry Education Group	1000	3005 Highland Pkwy				60515-5798	2017-06-16			developer
-	Chicago	IL	Debevic's LLC	5000	600 W Jackson Blvd	Ste 200			60661-5636	2017-12-29			unclassified
-	Chicago	IL	Debevic's LLC	3000	600 W Jackson Blvd	Ste 200			60661-6825	2016-12-22			unclassified
-	Chicago	IL	Deiana	500	450 E Waterside Dr	Unit 705		Dante	60601-4708	2018-06-30			Individual
-	Chicago	IL	Distillers Distributing Company	5000	680 N Lake Shore Dr	Ste 1900			60611-4548	2018-09-14			unclassified
-	Chicago	IL	Doerr	500	3023 N Clark St	# 276		Pat	60657-5200	2018-01-26			unclassified
-Lyfe Kitchen	Chicago	IL	Donahue	1000	154 W Hubbard St	Unit 502	Co-Founder/Chief Brand Officer	Michael	60654-9225	2016-09-09			Individual
-Power Construction	Western Springs	IL	Donley	1500	3921 Rose Ave		Business Development - Construction	Patrick	60558-1029	2018-01-04			Individual
-Power Construction	Chicago	IL	Donley	1500	130 N Garland Ct	Apt 1110	Manager	Patrick	60602-4757	2017-02-03			Individual
-	Chicago	IL	Donofrio	200	247 W Scott St	Apt 306		Richard	60610-5978	2018-09-30			Individual
-	Chicago	IL	Dougherty	200	8 W Monroe St	Apt 909		Chris	60603-2449	2016-06-24			Individual
-	Chicago	IL	Draper and Kramer	1500	55 E Monroe St	Fl 39			60603-5713	2016-06-29			unclassified
-	Chicago	IL	Draper and Kramer Incorporated	1500	55 E Monroe St	Ste 3900			60603-5403	2017-09-15			unclassified
-	Chicago	IL	Duarte	500	1361 N Ashland Ave	Apt 3D		Lisa	60622-2251	2018-01-26			Individual
-	Chicago	IL	Dublin #4, Inc.	500	345 E Ohio St	345 E. Ohio St.			60611-3503	2016-06-17			financial
-Optimus	Chicago	IL	Duff	1750	161 E Grand Ave		Advertising	Tom	60611-3821	2016-12-22			unclassified
-Skidmore, Owings & Merrill LLP	Chicago	IL	Duncan	1000	224 S Michigan Ave	Ste 1000	Partner	Scott	60604-2526	2017-06-02			Individual
-	Chicago	IL	East Bellevue Owner, LLC	1000	1015 N Rush St				60611-1207	2018-09-28			unclassified
-	Chicago	IL	Einoder	200	512 N McClurg Ct	Apt 4210		Camille	60611-4178	2017-09-08			Individual
-	Chicago	IL	Entertainment Cruises	1500	455 N Cityfront Plaza Dr	Ste 2600			60611-5506	2016-12-22			unclassified
-	Chicago	IL	Erie LaSalle Ventures LLC	2500	1525 W Homer St	Ste 401			60642-1296	2017-06-16			unclassified
-	Chicago	IL	Essex Hotel Owner, LLC	1500	800 S Michigan Ave				60605-2115	2018-07-20			unclassified
-	Chicago	IL	Essex Hotel Owner, LLC	1666	800 S Michigan Ave				60605-7101	2016-06-29			unclassified
-Acosta Ezgur, LLC	Chicago	IL	Ezgur	2000	1030 W Chicago Ave	Ste 300	Attorney	Michael	60642-5671	2018-01-04			Individual
-	Chicago	IL	FRC Realty	5000	600 W Jackson Blvd	Ste 600			60661-5677	2018-06-29			unclassified
-	Chicago	IL	Fado Chicago, LLC	1500	100 W Grand Ave	100 W. Grand Avenue			60654-5206	2016-07-22			unclassified
-	Chicago	IL	Faier	560	566 W Adams St	Ste 600		James	60661-3632	2018-06-30			Individual
-	Chicago	IL	Fair Chance Farm, Inc	2500	680 N Lake Shore Dr	Fl 19			60611-4548	2018-09-14			retail
-	Northbrook	IL	Fakhoury Property Management, Inc.	1500	1010 Hillside Dr				60062-4654	2018-06-29			propertyman
-	Winnetka	IL	Faloon	165	972 Pine St	Ste 4700		Donald	60093-2022	2017-06-02			Individual
-	Chicago	IL	Farzad	400	73 E Lake St			Shane	60601-4804	2018-08-13			Individual
-	Rosemont	IL	Fidelity Consulting Group	3000	9501 W Devon Ave				60018-4811	2018-05-11			developer
-	Lake Forest	IL	Fidelity Consulting Group	1400	511 Hunter Ln				60045-2788	2016-12-22			developer
-	Rosemont	IL	First Hospitality Group Inc.	5500	10275 W Higgins Rd	Ste 300			60018-3885	2017-03-31			unclassified
-	Chicago	IL	Fitness Formula LTD.	3350	619 W Jackson Blvd				60661-5606	2017-06-17			unclassified
-	Chicago	IL	FitzGerald Associates Architects	500	912 W Lake St				60607-1707	2017-12-29			unclassified
-The Georgetown Company, LLC	New York	NY	Flatto	2500	136 E 64th St	Apt 8E	President	Adam	10065-7380	2018-03-30			Individual
-	Chicago	IL	Fletcher, O'Brien, Kasper & Nottage, PC	1087	222 Merchandise Mart Plz	PO Box 3590			60654-1103	2018-10-29			unclassified
-	Chicago	IL	Flint	500	432 N Clark St	Ste 100		James	60654-4585	2016-09-30			Individual
-	Chicago	IL	Flint	250	5060 N Marine Dr	Apt D7		James W.	60640-3213	2018-09-28			Individual
-	Chicago	IL	Flint	500	436 N Clark St			James W.	60654-4517	2017-09-11			Individual
-	Chicago	IL	Forde Law Offices, LLP	750	111 W Washington St	Ste 1100			60602-2705	2018-06-29			propertyman
-	Chicago	IL	Forti	500	3530 N Lake Shore Dr	Apt 11B		Michael	60657-1837	2017-03-19			Individual
-FCE	Des Plaines	IL	Frank	5000	666 Garland Pl		Executive	Jim	60016-4725	2018-08-13			unclassified
-Kinzie Chophouse and Wine Huntress	Chicago	IL	Frasca	1750	400 N Wells St	Ste 210	President	Susan	60654-2760	2018-01-09			Individual
-	Chicago	IL	Fred B. Barbara Investments	1000	2300 S Archer Ave				60616-5426	2017-12-20			financial
-	Chicago	IL	Freiman	200	400 E Randolph St	Apt 2617		Samuel F.	60601-7307	2018-09-14			Individual
-	Chicago	IL	Friedman	250	350 N Clark St	Ste 400		Albert	60654-4980	2017-06-30			Individual
-Friedman Properties	Chicago	IL	Friedman	1500	350 N Clark St	Ste 400	Attorney	Albert M	60654-4980	2018-01-26			Individual
-	Chicago	IL	Friedman Properties	1000	350 N Clark St	Ste 400			60654-4980	2018-06-29			propertyman
-	Chicago	IL	Friends of Gilbert Villegas	500	PO Box 390644				60639-0644	2017-09-29			candidate
-	Cantrall	IL	Fuchs	200	942 W Fisher Rd			David	62625-8728	2017-06-30			Individual
-	Chicago	IL	G-A Restaurant LLC	10500	642 N Clark St				60654-3721	2018-07-20			retail
-	Chicago	IL	GNP Management Group, LLC	5000	430 N Michigan Ave				60611-4011	2018-09-28			unclassified
-	Chicago	IL	GNP Management Group, LLC	2500	430 N Michigan Ave				60611-4021	2017-09-29			unclassified
-	Chicago	IL	GNP Realty Partners, LLC	500	430 N Michigan Ave				60611-4021	2016-06-29			propertyman
-	Chicago	IL	GNP Realty Partners, LLC	5000	430 N Michigan Ave				60611-4078	2017-12-29			propertyman
-	Chicago	IL	GO Airport Express	3000	1200 W 35th St				60609-1305	2017-12-08			unclassified
-	Chicago	IL	GO1NG Places, LLC	1500	1343 N Wells St				60610-2440	2018-03-30			unclassified
-	Northbrook	IL	Gagerman	500	425 Huehl Rd			Matthew	60062-2319	2017-06-17			Individual
-	Chicago	IL	Gagerman	500	62 E Chicago Ave			Matthew	60611-2026	2018-09-30			Individual
-Millers Pub &Restaurant	Chicago	IL	Gallios	3000	400 E Randolph St	Apt 2506	Restaurant Owner	Aris	60601-5038	2018-03-30			Individual
-	Chicago	IL	Gamrath	500	300 N La Salle Dr			Rob	60654-3406	2016-09-28			unclassified
-	Chicago	IL	Gamrath	250	1200 N Lake Shore Dr	M5-M6		Robert	60610-2370	2018-05-11			Individual
-Self Employed - Quarles & Brady LLP	Chicago	IL	Gamrath	1500	300 N La Salle Dr	Ste 4000	Attorney	Robert	60654-3422	2017-03-31			Individual
-	Chicago	IL	Gavin	250	1000 W Adams St	Apt 310		John	60607-2931	2018-03-30			Individual
-ARB trading group	Chicago	IL	Gavin	1100	843 W Adams St	Apt 707	Finance	Paul	60607-3001	2018-01-04			Individual
-	Chicago	IL	Gavin	500	843 W Adams St	707		Paul	60607-3029	2017-12-30			Individual
-Executive Hedge, Inc.	Chicago	IL	Gavin	1000	843 W Adams St	707	Investment Advisor	Vince	60607-3029	2018-07-20			Individual
-	Chicago	IL	Geller Associates LLC	3250	19 S La Salle St	Ste 1100			60603-1423	2018-03-30			unclassified
-	Chicago	IL	Gene & Georgetti	2500	500 N Franklin St				60654-4669	2017-03-31			unclassified
-	Chicago	IL	Geneva Seal	1500	112 E Oak St				60611-1204	2017-12-08			unclassified
-	Naperville	IL	George	250	931 W 75th St			Anthony	60565-1294	2018-06-30			Individual
-Akerman LLP	Western Springs	IL	George	1500	709 48th St	Ste 3700	Attorney	John J	60558-1751	2017-03-31			Individual
-Circle of Friends	Western Springs	IL	George	1000	709 48th St		President	Mary Jo	60558-1751	2016-06-03			Individual
-	Chicago	IL	George	500	71 S Wacker Dr	Fl 46		Meg	60606-4637	2017-03-31			unclassified
-	New York	NY	Georgetown Investors 1, LLC	1500	500 Park Ave	Fl 10			10022-1606	2018-08-10			propertyman
-	Chicago	IL	Gerrie	1000	400 E South Water St	Apt 4304		Nancy	60601-4096	2018-01-26			Individual
-Washington Square Liquors, Inc	Chicago	IL	Ghazimoradi	10400	420 N Clark St		President	Shay	60654-4502	2018-09-30			Individual
-	Chicago	IL	Gibsons LLC	10000	1028 N Rush St				60611-1208	2017-12-08			unclassified
-	Evanston	IL	Glastris	500	1563 Sherman Ave	Ste 200		William	60201-4421	2018-01-26			Individual
-	Chicago	IL	Golant	500	30 W Oak St			Robert	60610-8721	2018-03-30			Individual
-Lakeshore Sport & Fitness	Chicago	IL	Goldman	800	211 N Stetson Ave		Health Club Operator & Investor	Peter	60601-7803	2018-09-18			Individual
-	Chicago	IL	Goldman	250	1320 W Fullerton Ave			Peter	60614-2129	2018-05-14			Individual
-	Chicago	IL	Golub & Company LLC	11000	625 N Michigan Ave	Ste 2000			60611-3179	2017-08-02			unclassified
-	Chicago	IL	Goodman	500	John Hancock Center 875 N. Michigan	Ste 2710		Mark	60611	2017-02-03			Individual
-Magellan Development Group	Lincolnshire	IL	Gordon	5400	48 Oxford Dr		Senior Vice President	Brian D	60069-3147	2016-12-22			Individual
-Erie-LaSalle Body Shops	Chicago	IL	Gottfred	3000	345 N La Salle Dr	Apt 4402	Owner	Robert B	60654-6386	2018-06-30			Individual
-	Chicago	IL	Graham	500	535 N Michigan Ave	535 N. Michigan Avenue		Matt	60611-3814	2018-01-26			Individual
-SMASHotels	Lincolnshire	IL	Greenberg	2500	250 Parkway Dr	Ste 120	Real Estate Development	Scott	60069-4340	2018-01-04			Individual
-	Doral	FL	Greenberg Traurig, LLP	3000	8400 NW 36th St	Ste 400			33166-6657	2017-09-29			propertyman
-	Chicago	IL	Grisko	250	231 W Goethe St	Ste 400		Carolyn	60610-1809	2017-06-02			Individual
-Fresh Food Management	Deerfield	IL	Grossman	1900	35 Shenandoah Rd		restaurant owners	David	60015-4430	2018-07-20			Individual
-	Chicago	IL	Group Fox, Inc	20200	411 E Illinois St	Ste 80			60611-4317	2018-09-14			unclassified
-bKL Architecture	Chicago	IL	Guevara	750	1101 W Armitage Ave	Apt 209	Associate Director	Eileen	60614-4155	2017-06-16			Individual
-	Houston	TX	HOB Entertainment, Inc.	3000	2000 West Loop St South	Suite 1300			77027	2018-06-29			retail
-	Chicago	IL	Harris & Harris, Ltd.	1500	111 W Jackson Blvd	Ste 400			60604-4135	2017-12-08			unclassified
-	Chicago	IL	Harry Caray's Restaurant	5000	33 W Kinzie St				60654-6333	2016-12-22			retail
-LG Development	Deerfield	IL	Haughney	1500	925 Beverly Pl		Real Estate	Daniel	60015-3443	2017-06-17			Individual
-none	Chicago	IL	Hauser	2000	950 N Michigan Ave	Apt 5403	Retired	Lynn E	60611-7535	2018-09-30			Individual
-	Chicago	IL	Haymes	200	640 N La Salle Dr	Ste 400		David	60654-3778	2017-06-30			Individual
-	Chicago	IL	Hebson	500	46 E Chicago Ave			Edmund	60611-2047	2018-01-26			Individual
-	Chicago	IL	Heffernan	400	2420 S Halsted St			Trevor	60608-5017	2017-09-22			Individual
-Method Construction/ Cedar Street Co.	Chicago	IL	Heffron	1500	1020 W Lawrence Ave	Ste 300	Developer	Mark	60640-5053	2018-08-13			Individual
-	Chicago	IL	Heneghan Wrecking Company, Inc.	3000	1321 W Concord Pl				60642-1507	2017-02-03			retail
-	Chicago	IL	Hines Interests Limited Partnership	3000	1 S Dearborn St	Ste 2000			60603-2307	2017-12-29			unclassified
-	Naperville	IL	Hitchcock Design Group	1500	225 W Jefferson Ave				60540-5312	2017-09-15			developer
-	Woodridge	IL	Home Run Inn	1500	1300 Internationale Pkwy				60517-4928	2016-06-24			unclassified
-	Washington	DC	Honeywell International PAC	2500	101 Constitution Ave NW	Suite 500 West			20001-2133	2018-09-14			unclassified
-	Chicago	IL	Houlihan	500	1100 N Lake Shore Dr	Apt 17B		Michael	60611-1027	2017-12-30			Individual
-All Circo	Chicago	IL	Houlihan	1000	1212 N Lake Shore Dr	Apt 28CN	Consultant	Mike	60610-6680	2017-06-02			Individual
-Optima, Inc	Glencoe	IL	Hovey	1500	630 Vernon Ave	Ste E	President	Tara	60022-1684	2017-12-30			Individual
-	Chicago	IL	Hovey	665	401 N Wabash Ave	Unit 31I		Tara	60611-3608	2017-06-02			Individual
-	Chicago	IL	Howlett	155	300 N State St	Apt 3833		Michael	60654-3034	2018-06-30			Individual
-	Chicago	IL	Hub 51	2500	51 W Hubbard St				60654-4603	2016-12-22			unclassified
-	Chicago	IL	Huge	1150	4925 N Magnolia Ave			Lindsay	60640-3506	2017-06-30			Individual
-	Moore	OK	Hyatt Shared Service Center Hyatt Regency Chicago	5250	830 City Ave				73160-3806	2016-09-09			unclassified
-	Countryside	IL	I.U.O.E. Local 150 Local Area Political Action Committee	9500	6200 Joliet Rd				60525-3992	2018-08-10			union
-	Springfield	IL	Illinois BankPac	250	524 S 2nd St	Ste 600			62701-1749	2016-06-03			retail
-	Springfield	IL	Illinois Hospital Association	2000	700 S 2nd St				62704-2516	2017-06-02			unclassified
-	Springfield	IL	Illinois Hotel-Motel PAC	10000	5 Lawrence Sq	Ste A			62704-2585	2017-08-02			union
-	Chicago	IL	Illinois Merchants PAC	1000	19 S La Salle St	Ste 300			60603-1448	2018-03-30			retail
-	Springfield	IL	Illinois Realtors	5000	PO Box 19451				62794-9451	2017-12-20			unclassified
-	Chicago	IL	Illinois Restaurateurs PAC	4500	33 W Monroe St	Ste 250			60603-5327	2018-06-29			union
-	Springfield	IL	Illinois State AFL-CIO COPE	500	534 S 2nd St				62701-1762	2016-06-24			union
-	Springfield	IL	Illinois State AFL-CIO COPE	750	534 S 2nd St	Ste 200			62701-1764	2018-09-14			union
-	Chicago	IL	Infusion Management Group, Inc.	3000	737 N Michigan Ave	Ste 1520			60611-6653	2017-12-29			financial
-	Northfield	IL	Interforum Holdings, Inc.	1000	550 W Frontage Rd	Ste 3700			60093-1221	2018-05-11			retail
-	Des Plaines	IL	Ironworkers District Council of Chicago & Vicinity - P.A.C.	1500	2700 S River Rd	Ste 118			60018-4104	2018-09-14			union
-	Forest Park	IL	Ironworkers Local Union #1	3000	7720 Industrial Dr				60130-2520	2018-09-14			union
-	Chicago	IL	Italian Village	4500	71 W Monroe St				60603-4910	2018-07-20			unclassified
-	Chicago	IL	Italian Wine Bar-626 N. State, LLC	5000	1050 N State St				60610-7829	2018-08-10			propertyman
-	Omaha	NE	Ivey	250	11128 John Galt Blvd			Brandon	68137-6309	2018-05-14			Individual
-	Chicago	IL	JB at River North LLC	1000	149 W Kinzie St				60654-4514	2018-06-29			unclassified
-	Chicago	IL	JD Sales, Inc DBA James DeLeo & Associates	1000	221 N La Salle St	Ste 3800			60601-1509	2017-12-20			retail
-	Chicago	IL	JDL Development LLC	10000	11 E Walton St				60611-5442	2017-06-17			developer
-	Washington	DC	JPMorgan Chase & Co. PAC	1500	601 Pennsylvania Ave NW	Fl 7			20004-2601	2016-06-24			unclassified
-	Chicago	IL	James DeLeo & Associates	1500	221 N La Salle St	Ste 3800			60601-1509	2016-12-22			unclassified
-	Chicago	IL	James McHugh Construction Co.	3000	1737 S Michigan Ave				60616-1211	2017-12-20			construction
-Midwest property group ltd	Chicago	IL	Javors	5500	520 W Erie St	Ste 430	Real estate	Jay	60654-7110	2018-09-18			unclassified
-	Chicago	IL	Johnson	200	17 N State St	Ste 1700		Michael R.	60602-3293	2017-09-29			Individual
-	Chicago	IL	Julmy	500	20 N Michigan Ave	Ste 400		Camille P	60602-4828	2017-02-03			Individual
-	Chicago	IL	Julmy	250	540 N State St	Apt 5306		Camille P	60654-7230	2017-09-29			Individual
-	Chicago	IL	Jupiter Realty Company, LLC	12000	401 N Michigan Ave	Ste 1300			60611-4271	2017-09-29			unclassified
-	Chicago	IL	Kadow Dougherty	200	8 W Monroe St	No 909		Christine	60603-2432	2018-09-18			Individual
-	Chicago	IL	Kadow-Dougherty	200	8 W Monroe St	Apt 909		Chris	60603-2449	2017-06-21			Individual
-Compass Group	Elmhurst	IL	Kallas	1500	216 W Diversey Ave		Division President	James	60126-1104	2018-06-30			Individual
-	Chicago	IL	Kalsi	500	630 N State St	Apt 1806		Rahul	60654-5553	2018-03-30			Individual
-HBK Engineering, LLC	Chicago	IL	Kaminski	1500	921 W Van Buren St		Owner	Ronald	60607-3542	2018-06-30			Individual
-	Chicago	IL	Kaplan	200	350 N La Salle Dr	Ste 800		Richard	60654-5136	2018-09-21			Individual
-McDonalds	Winnetka	IL	Karavites	10000	1141 Tower Rd		Owner	Nicholas	60093-1851	2018-01-08			Individual
-Lightology/PureEdge Lighting	Chicago	IL	Kay	1000	1718 W Fullerton Ave		President	Greg	60614-1922	2017-09-11			Individual
-	Chicago	IL	Keifer	500	155 N Harbor Dr	Apt 1509		Regina F	60601-5000	2018-08-10			Individual
-	Chicago	IL	Kelly	200	225 N Columbus Dr	Ste 100		Kim	60601-7981	2017-03-31			unclassified
-	Chicago	IL	Kerwin	1000	225 N Columbus Dr	Ste 100		Thomas	60601-7981	2018-09-21			Individual
-	Park Ridge	IL	Khowaja	200	150 Yost Ave			Karim	60068-5550	2017-06-30			Individual
-Flying Concessions	Chicago	IL	Kicherer	2000	5521 N Wayne Ave		Senior Advisor	Eric	60640-1318	2018-06-29			Individual
-Self Employed	Chicago	IL	Kiley	3500	130 N Garland Ct	Apt 4904	Attorney	Roger J.	60602-4856	2018-01-05			Individual
-Cookma Advisory Services	Chicago	IL	Kins	2700	530 N Lake Shore Dr	Apt 1605	M&A advisory	Arnis	60611-7430	2018-01-04			Individual
-	Chicago	IL	Kolata	1450	2432 W Iowa St			David	60622-4607	2018-09-18			Individual
-GNP Realty Partners	Chicago	IL	Kutrumanes	2000	430 N Michigan Ave		CEO	Dean	60611-4011	2017-12-30			Individual
-GNP Realty Partners	Chicago	IL	Kutrumanes	1000	430 N Michigan Ave	Frnt 2	Principal/CEO	Dean	60611-4073	2018-09-18			Individual
-	Chicago	IL	L3 Capital LLC	3000	410 N Michigan Ave	Ste 850			60611-4241	2018-07-20			financial
-	Chicago	IL	LEVI	250	19 SOUTH WABASH IWAN RIES & CO			Chuck	60603	2017-03-31			Individual
-	Chicago	IL	LG Development	11000	2234 W North Ave				60647-5443	2017-09-08			developer
-	Barrington	IL	LSC Development, LLC	5000	777 Lake Zurich Rd	Ste 200			60010-3118	2017-12-30			developer
-	Bethesda	MD	LaSalle Hotel Operating Partnership, L.P.	1500	7550 Wisconsin Ave	Fl 10			20814-3573	2016-06-24			unclassified
-	Oak Brook	IL	Labriola Cafe - Michigan Ave., LLC	1500	3021 Butterfield Rd				60523-1172	2016-06-24			unclassified
-Solomon Cordwell Buenz	Chicago	IL	Lahey	4000	1500 W Sunnyside Ave	Ste 800	Architect	John	60640-5906	2018-09-30			Individual
-	Chicago	IL	Lampert	500	7 E Huron St			Lester	60611-2290	2018-05-14			Individual
-	Chicago	IL	Landers	1000	619 W Jackson Blvd			Gale	60661-5606	2018-09-30			Individual
-The Gage	Chicago	IL	Lawless	4000	24 S Michigan Ave		Restauratuer	Billy	60603-3301	2017-12-30			Individual
-Leopardo Companies, Inc.	Chicago	IL	Leopardo	1000	333 W Wacker Dr	Ste 250	Vice President	Gary M	60606-2217	2018-01-26			Individual
-	Chicago	IL	Leopardo Companies, Inc.	1500	333 W Wacker Dr				60606-2217	2018-06-29			retail
-	Chicago	IL	LesterLampert, Inc.	1000	57 E Oak St				60611-1201	2017-08-02			retail
-JDL Development	Chicago	IL	Letchinger	5000	9 W Walton St		CEO	James	60610-7324	2018-09-30			Individual
-JDL Development, LLC	Chicago	IL	Letchinger	5000	11 E Walton St		Principal	James	60611-5442	2016-06-24			Individual
-	Chicago	IL	Lev	250	111 E Chestnut St	Apt 52H		Fred	60611-6030	2018-09-18			Individual
-DRL Enterprises	Glenview	IL	Levin	25000	2301 Ravine Way		Executive	Donald	60025-7627	2018-09-18			Individual
-Levy Restaurants	Chicago	IL	Levy	4500	444 N Michigan Ave	Ste 3500	Manager	Lawrence	60611-3902	2017-03-31			Individual
-Levy Family Partners	Chicago	IL	Levy	1000	444 W Lake St	Ste 1900	Executive	Lawrence F.	60606-0098	2018-06-30			Individual
-LFP Management LLC	Chicago	IL	Levy	1000	444 N Michigan Ave	Ste 3500	Manager	Lawrence F.	60611-3902	2017-09-29			Individual
-	Chicago	IL	Lewin	250	175 W Jackson Blvd	1404		David	60604-2615	2018-01-26			Individual
-	Chicago	IL	Lewin	250	400 E Ohio St	1404		David	60611-3322	2017-06-02			Individual
-	Chicago	IL	Lewin	250	400 E Ohio St	Apt 1404		David M.	60611-4609	2016-06-17			Individual
-	Chicago	IL	Lewin Law Group PC	250	175 W Jackson Blvd				60604-2827	2018-05-14			developer
-	Chicago	IL	Lewin Law Group PC	250	400 E Ohio St	Apt 1404			60611-4609	2017-09-11			developer
-Cosmopolitan Bob Enterprises LLC	River Forest	IL	Lewno	1805	926 Forest Ave		Self Employed	Jeremy	60305-1360	2018-06-30			Individual
-	Chicago	IL	Lightology, LLC	3000	1718 W Fullerton Ave				60614-1922	2016-10-28			unclassified
-Magellan Development	Lake Forest	IL	Linnane	5400	1843 Hackberry Ln		Senior Vice President	Sean	60045-3517	2016-12-22			Individual
-	Beverly Hills	CA	Live Nation Worldwide	1500	9348 Civic Center Dr				90210-3642	2016-06-24			unclassified
-	Chicago	IL	Lizzie McNeill's	1000	400 N McClurg Ct				60611-4323	2017-09-29			unclassified
-	Chicago	IL	Lizzie McNeill's	3000	1058 W Albion Ave				60626-4612	2016-10-28			unclassified
-	Chicago	IL	Local #399 Political Education Fund	2250	2260 S Grove St	2260 S. Grove Street			60616-1823	2018-03-30			union
-	Chicago	IL	Local 134 - PAC IBEW	2500	2722 S Dr Martin Luther King Jr Dr				60616	2018-06-29			union
-	Chicago	IL	Local 134 - PAC IBEW	3000	600 W Washington Blvd				60661-2491	2017-12-20			union
-	Chicago	IL	Lodge Management Group	5500	8 W Division St	Ste 200			60610-2217	2017-02-03			propertyman
-	Chicago	IL	Lodge Management Group	6250	8 W Division St	Ste 200			60610-2979	2018-07-20			propertyman
-Magellan Development	Chicago	IL	Loewenberg	5400	179 E Lake Shore Dr	Unit 22W	Co-CEO	James	60611-1340	2016-12-22			Individual
-None	Chicago	IL	Loewenberg	5400	179 E Lake Shore Dr	Unit 22W	Homemaker	Nancy	60611-1900	2016-12-22			Individual
-	Chicago	IL	LondonHouse Chicago LeaseCo, LLC	6500	85 E Wacker Dr				60601-3703	2018-09-21			unclassified
-	Springfield	IL	Lowder	250	2301 Dunwich Dr			John	62702-3140	2016-06-03			Individual
-Restaurant Management Corp.	Portage	IN	Lubeznik	5000	1575 Adler Cir	Ste C	CEO	Rod	46368-6408	2018-06-30			unclassified
-	Chicago	IL	Lund	500	430 W Erie St	Ste 400		Brian	60654-6918	2017-09-22			Individual
-	Chicago	IL	Lynch	200	300 N State St	Apt 2809		Brian	60654-3051	2016-06-24			Individual
-	Chicago	IL	M&R Development, L.L.C.	3500	1 N Franklin St	Ste 700			60606-3422	2017-03-31			developer
-	Chicago	IL	MD's & We're Not Doctor's Inc. d/b/a Pizano's Pizza & Pasta	5000	864 N State St				60610-8691	2016-06-29			retail
-	Chicago	IL	Macerich	1500	500 N Michigan Ave	Ste 550			60611-3702	2016-06-03			unclassified
-	Chicago	IL	Magellan Development Group LLC	3300	225 N Columbus Dr	Ste 100			60601-5228	2016-06-24			developer
-	Chicago	IL	Maher	200	1536 W Augusta Blvd	Apt 3		John	60642-3911	2018-03-30			Individual
-Malnati Organization	Chicago	IL	Malnati	3600	850 W Adams St	Apt 5A	Owner	Marc	60607-3096	2017-12-30			Individual
-Mancuso Motorsports	Chicago	IL	Mancuso	1500	833 N Clark St	Unit 3001	Automobile Dealer	Robert	60610-3425	2017-12-30			Individual
-Lettuce Entertain You Enterprises	Chicago	IL	Mann	5000	2836 N Greenview Ave		Partner	Molly	60657-4040	2017-03-17			Individual
-	Chicago	IL	Maragos & Maragos, Ltd.	6000	1 N La Salle St	Ste 2200			60602-3912	2018-06-29			unclassified
-	Chicago	IL	Maren Ronan Ltd	250	2915 N Clybourn Ave	Unit 417			60618-8281	2017-12-20			unclassified
-	Chicago	IL	Marienthal	500	2200 N Leavitt St	# 3		David	60647-3204	2018-01-26			Individual
-Mark IV Realty Group	Chicago	IL	Marks	2500	600 W Jackson Blvd	Ste 615	President	George	60661-5680	2016-06-03			Individual
-Cushman & Wakefield	Chicago	IL	Marks	2500	2231 N Clybourn Ave		Senior Director	Michael J.	60614-3011	2016-06-03			Individual
-	Chicago	IL	Martineau	250	2432 W Iowa St			Suzanne	60622-4607	2016-09-29			Individual
-	Wing	IL	Maurer	500	0S 352 Park St			Myron	60190	2017-09-22			Individual
-	Chicago	IL	Maurer	750	222 Merchandise Mart Plz			Myron	60654-1103	2018-09-18			Individual
-	Chicago	IL	McCaffery Interests, Inc	1000	875 N Michigan Ave	Ste 1800			60611-1818	2018-09-21			retail
-	Quincy	IL	McClain	250	701 Broadway St			Michael F.	62301-2708	2016-06-03			Individual
-	Chicago	IL	McDonald	500	195 N Harbor Dr	Apt 1803		John & JoAnne	60601-7529	2017-02-03			Individual
-	Chicago	IL	McKeaney	500	1360 N Dearborn St	Lodge Management Group		Lyn	60610-2006	2018-09-28			unclassified
-Lodge Managment Group	Chicago	IL	McKeaney	2000	8 W Division St	Ste 200	President	Lyn Z.	60610-2979	2018-09-18			Individual
-	Chicago	IL	McKnight, Kitzinger, & Pravdic LLC	1000	117 N Jefferson St	Ste 301			60661-2341	2018-05-11			unclassified
-	Springfield	IL	McLaughlin	250	216 Broadway			Ryan	62701-1125	2016-06-03			Individual
-Hubbard Street Group	Winnetka	IL	McLinden	1500	909 Old Green Bay Rd		Managing Partner	John T	60093-1708	2018-08-10			Individual
-D4 Irish Pub	Chicago	IL	McNeill	2500	345 E Ohio St		Restaurant Owner	Brendan F	60611-3375	2018-06-30			Individual
-	Chicago	IL	McNeill	500	345 E Ohio St	Ste 1		Brendan F	60611-3503	2017-12-30			Individual
-	Chicago	IL	McNeill	1500	441 N McClurg Ct			Brendan F	60611-4327	2018-09-18			Individual
-	Hoffman Estates	IL	Mega Consulting, Inc.	500	1500 Fox Path Ct				60192-4523	2017-03-31			retail
-Becker Ventures	Chicago	IL	Meghie	2500	230 N Michigan Ave	Fl 37	Owner	Carrie	60601-5906	2018-01-26			Individual
-Lettuce Entertain You Enterprises	Winnetka	IL	Melman	5000	21 Locust Rd		Owner	Martha	60093-3725	2016-12-22			Individual
-Lettuce Entertain You Enterprises	Chicago	IL	Melman	100000	5419 N Sheridan Rd		Founder & Chairman of the Board	Richard	60640-1964	2018-09-14			Individual
-	Palatine	IL	Mercury Sightseeing Boats Inc.	3500	PO Box 68				60078-0068	2018-06-29			retail
-	Mount Prospect	IL	Mesi	500	908 S Maple St			Philip	60056-4338	2017-02-03			Individual
-	Chicago	IL	MetraMarket Management, LLC	1500	20 N Michigan Ave	Ste 400			60602-4828	2016-06-24			propertyman
-	Chicago	IL	Metropolitan Chicago Stadium Enterprises, Inc.	1100	680 N Lake Shore Dr				60611-4546	2017-03-17			realestate
-	Chicago	IL	Metropolitan Chicago Stadium Enterprises, Inc.	5000	680 N Lake Shore Dr	Ste 1900			60611-4548	2018-09-14			realestate
-	Chicago	IL	Michael R. Johnson PC	200	17 N State St	Ste 1700			60602-3293	2017-03-31			unclassified
-	Oakbrook Terrace	IL	Mid-America Asset Management, Inc.	750	1 Parkview Plz	Fl 9			60181-4400	2017-12-20			financial
-	Oakbrook Terrace	IL	Mid-America Real Estate Corp.	750	1 Parkview Plz	Fl 9			60181-4400	2017-12-20			unclassified
-	Chicago	IL	Millennium Advisors, LLC	250	321 N Clark St	Ste 500			60654-4769	2018-09-14			unclassified
-	Milwaukee	WI	MillerCoors	4500	PO Box 482				53201-0482	2018-09-21			unclassified
-MKM Services	Forest Park	IL	Minaghan	3000	308 Circle Ave		President	Mary Kay	60130-1610	2018-03-30			Individual
-Third Millennium Group	New York	NY	Mizrachi	5000	110 E 59th St	Rm 3201	Real Estate	Adam	10022-1319	2018-01-05			Individual
-JLL	Chicago	IL	Mizrachi	1000	540 W Madison St	Ste 120	Manager	Joseph	60661-2513	2017-02-03			Individual
-	Chicago	IL	Moes River North, LLC	1000	155 W Kinzie St				60654-4514	2018-06-29			unclassified
-bKL Architecture	Western Springs	IL	Moskus	750	4557 Woodland Ave		Architect	Carl	60558-1560	2017-06-16			Individual
-	Schaumburg	IL	Motorola Solutions	2500	PO Box 68429				60168-0429	2018-07-20			unclassified
-Self	Northbrook	IL	Mullen	5000	1340 Ridgewood Dr		Semi-retired	Michael	60062-3727	2016-12-22			Individual
-	Chicago	IL	National Association of Realtors	30500	430 N Michigan Ave				60611-4087	2018-09-21			realestate
-Neal & Leroy, LLC	Chicago	IL	Neal	2100	120 N La Salle St	Ste 2600	Attorney	Langdon	60602-2465	2018-01-26			Individual
-DRW Holdings	Winnetka	IL	Nelson	1000	146 Evergreen Ln		Portfolio Manager	David B	60093-3700	2018-09-30			Individual
-	Chicago	IL	Nelson	200	300 N State St	Apt 3801		Jerry Lee	60654-5455	2016-06-24			Individual
-	Oakbrook Terrace	IL	Nelson	500	1 Parkview Plz	Fl 9		Kay	60181-4400	2018-05-14			unclassified
-	Chicago	IL	New York Jewelers, Inc.	1500	11 N Wabash Ave				60602-4717	2016-06-03			unclassified
-	Chicago	IL	Nicolay	250	680 N Green St	# 680		John D	60642-6083	2017-06-02			Individual
-	Chicago	IL	Nicolay & Dart, LLC	1500	121 W Wacker Dr	Ste 1108			60601-1781	2018-07-20			unclassified
-	Chicago	IL	Nicolay & Dart, LLC	2500	980 N Michigan Ave	Ste 1900			60611-7505	2018-06-29			unclassified
-Mid-America Real Estate Corporation	Chicago	IL	Nitzberg	1500	435 N Michigan Ave	Ste 2009	Principal	Stan	60611-4066	2016-06-24			Individual
-	Chicago	IL	Nitzberg	500	410 N Michigan Ave	Ste 1100		Stanley	60611-4213	2018-09-28			Individual
-	Chicago	IL	Nixon Peabody	1500	70 W Madison St	Ste 3500			60602-4224	2018-06-29			unclassified
-	Chicago	IL	No. 7 - Zimmies, Inc.	1000	22 E Bellevue Pl	22 E. Bellevue Pl.			60611-1111	2018-08-10			financial
-	Chicago	IL	Nora	750	332 S Michigan Ave	Ste 1120		Peter	60604-4434	2017-09-22			Individual
-	Chicago	IL	Norfolk Southern Corporation	750	111 W Washington St	Ste 1120			60602-2733	2016-09-30			financial
-	Skokie	IL	North Riverside Corporation	4000	5215 Old Orchard Rd	Ste 880			60077-1094	2018-07-20			financial
-	Chicago	IL	Nunes	250	7148 N Osceola Ave			Marcus	60631-1047	2017-08-02			Individual
-	Chicago	IL	O'Brien	250	300 W Grand Ave	Apt 311		Erin	60654-7861	2016-06-03			Individual
-JLL	Chicago	IL	O'Connor	2000	200 E Randolph St	200 East Randolph Street	Realtor	Meredith L.	60601-6436	2017-12-30			Individual
-Riverside Investment & Development CO	Chicago	IL	O'Donnell	11000	100 N Riverside Plz	Ste 2150	CEO	John	60606-1532	2018-08-10			Individual
-	Wilmette	IL	O'Malley	200	1903 Schiller Ave	Apt 2		William S	60091-2300	2017-09-29			Individual
-	Chicago	IL	OOS Investments LLC	500	1115 W Grand Ave				60642-5881	2016-06-24			financial
-	Chicago	IL	OQ 168 NM Holdco, LLC	1666	350 W Hubbard St				60654-5798	2016-06-29			propertyman
-	Chicago	IL	Oak Street Council	1500	109 E Oak St				60611-1202	2017-12-08			union
-	Chicago	IL	Onni Contracting (Chicago), Inc.	500	200 N La Salle St	Ste 300			60601-1043	2016-06-29			realestate
-	Chicago	IL	Opie	250	1479 N Clybourn Ave	Unit D		Brett	60610-7220	2016-09-30			Individual
-	Glencoe	IL	Optima Center Chicago II, LLC	2500	630 Vernon Ave	Ste E			60022-1684	2018-05-11			unclassified
-	Chicago	IL	Optimus	3000	161 E Grand Ave				60611-3821	2018-01-26			unclassified
-	Chicago	IL	Ott	200	500 W Superior St	Unit 2308		Philip M.	60654-8151	2017-06-02			Individual
-	Winnetka	IL	Owen	500	334 Ridge Ave			Jeffrey	60093-3842	2018-08-10			Individual
-	Chicago	IL	Oxford 127 Huron Hotel Venture, LLC	1666	350 W Hubbard St	Ste 440			60654-6900	2016-06-29			propertyman
-	Chicago	IL	PCG Consulting Inc.	1000	100 N La Salle St	Ste 510			60602-3507	2017-12-20			retail
-	Chicago	IL	Pacific Langham Chicago Corp	1500	330 N Wabash Ave	330 N Wabash Ave			60611-3514	2016-06-24			unclassified
-	Chicago	IL	Pacific Langham Chicago Corp	1500	330 N Wabash Ave	Lbby 1			60611-7768	2018-08-10			unclassified
-	Chicago	IL	Park One Inc.	5500	65 E Harrison St				60605-1614	2018-03-30			financial
-United Automobile Insurance Group, Inc.	Miami Gardens	FL	Parrillo	1000	1313 NW 167th St		CEO	Richard	33169-5739	2017-12-20			Individual
-	Chicago	IL	Parrinello	500	1139 W Schubert Ave			Vince	60614-1308	2018-09-28			Individual
-	Chicago	IL	Parthe	500	104 S Michigan Ave	Ste 500		Mary	60603-5958	2018-01-26			Individual
-	Chicago	IL	Patterson	250	2735 W Windsor Ave			Devon G.	60625-3821	2018-09-18			Individual
-	Chicago	IL	Peoples Energy PAC	250	130 E Randolph St	Fl 18			60601-6207	2016-09-30			unclassified
-	Chicago	IL	Pepsico	4000	555 W Monroe St	Ste 16-2			60661-3605	2018-05-11			unclassified
-	Chicago	IL	Perillo BMW, Inc.	7000	1035 N Clark St				60610-2809	2018-09-14			retail
-	Chicago	IL	Pfahler	200	116 N Aberdeen St	116 N. Abderdeen		Florian	60607-2004	2017-09-22			Individual
-	Memphis	TN	Pfizer Inc	500	6730 Lenox Center Ct				38115-4289	2017-12-29			retail
-	Chicago	IL	Pikat	200	111 W Wacker Dr	Apt 4210		Eero	60601-1666	2017-09-22			Individual
-Bank of America Chicago Marathon	Chicago	IL	Pinkowski	1500	135 S La Salle St	Ste 1160	Executive Race Director	Carey	60603-3331	2018-06-30			Individual
-	Chicago	IL	Pivot Design	5000	321 N Clark St	Ste 600			60654-4768	2016-06-03			unclassified
-	Chicago	IL	Plati	1000	110 E Delaware Pl			Enrico	60611-1481	2017-02-03			Individual
-La Quinta Hotels	Chicago	IL	Platt	1000	1 S Franklin St		General Manager	Gary	60606-4611	2017-02-03			Individual
-	Chicago	IL	Plonka	250	2528 N Fairfield Ave			Joseph	60647-1808	2017-09-18			Individual
-	Chicago	IL	Porcelli	200	55 E Erie St	Apt 4401		Charles	60611-2260	2018-09-30			Individual
-	Oak Brook	IL	Portillo's Hot Dogs, LLC	1500	2001 Spring Rd	Ste 400			60523-1903	2017-12-08			unclassified
-	Oak Brook	IL	Portillo's Hot Dogs, LLC	3000	2001 Spring Rd	Ste 500			60523-3930	2016-12-22			unclassified
-Power,Rogers&Smith	Chicago	IL	Power	2500	530 N Lake Shore Dr	Apt 1601	Attorney	Thomas M.	60611-7430	2018-03-30			Individual
-Prada Governmental Solutions, Inc	Chicago	IL	Prada	1400	405 N Wabash Ave	Unit 5002	Consultant	Philip	60611-3529	2018-09-28			Individual
-	Chicago	IL	Prairie Management & Development, Inc.	10000	333 N Michigan Ave	Ste 1700			60601-3981	2018-06-29			unclassified
-	Chicago	IL	Prestige Restaurant, Inc.	500	619 W Randolph St				60661-2203	2018-09-28			retail
-Jameson Sotheby's International Real Estate	Chicago	IL	Preuett	1250	154 W Hubbard St	Unit 304	Real Estate Broker	Ryan J.	60654-8933	2018-01-26			Individual
-	Chicago	IL	Pugh	250	57 E Delaware Pl	Apt 2105		Donna	60611-1619	2016-12-22			Individual
-	Chicago	IL	RPM Italian	2500	52 W Illinois St				60654-4805	2016-12-22			unclassified
-	Chicago	IL	RPM Steak	2500	66 W Kinzie St				60654-4627	2016-12-22			unclassified
-Broadway In Chicago	Chicago	IL	Raizin	1000	17 N State St	Ste 810	President	Lou	60602-3047	2017-03-19			unclassified
-	Chicago	IL	Rany Management	1000	1950 W Montrose Ave				60613-1036	2017-03-31			propertyman
-	Addison	IL	Razny Jewelers	1500	1501 W Lake St				60101-6704	2017-12-08			unclassified
-	Springfield	IL	Realtor Political Action Committee	9000	PO Box 19451				62794-9451	2018-06-29			union
-HBK Engineering, LLC	Chicago	IL	Rehayem	1500	921 W Van Buren St	Ste 100	President	Roger	60607-3571	2017-12-30			Individual
-City of Chicago	Chicago	IL	Reilly	100005	222 W Erie St	Apt 2501	Alderman	Brendan	60654-4839	2018-07-09			Individual
-	Chicago	IL	Remer	200	166 W Washington St	Ste 750		Marc	60602-3589	2018-05-14			Individual
-Chicago Title Insurance Company	Wheaton	IL	Rench	1000	811 N Wheaton Ave		Executive Account Manager/Vice President	Jennifer	60187-4136	2017-06-16			Individual
-	Chicago	IL	Reyes Kurson	500	328 S Jefferson St	Ste 909			60661-5634	2018-09-14			unclassified
-Lodge Management Group	Chicago	IL	Rhoads	2060	1360 N Dearborn St	Lodge Management Group	Executive Administrator	Alicia	60610-2006	2018-06-30			Individual
-Lodge Managment Group	Chicago	IL	Rhoads	2500	8 W Division St	Ste 200	Executive Administrator	Alicia	60610-2979	2018-01-05			Individual
-	Chicago	IL	Rich	250	1416 W Belmont Ave	Unit 201		Trisha	60657-2111	2016-06-24			Individual
-Retired	Lake Geneva	WI	Riley	1500	PO Box 833		Retired	James V.	53147-0833	2016-06-24			Individual
-Retired	Chicago	IL	Riley	2000	1500 N Lake Shore Dr		Retired	James V.	60610-6686	2017-09-22			Individual
-Retired	Chicago	IL	Riley	1500	1500 N Lake Shore Dr	# 1C	Retired	Jim	60610-6686	2018-06-30			unclassified
-	Chicago	IL	River North Hand Car Wash & Detailing, LLC	1000	356 W Superior St				60654-3416	2016-06-17			unclassified
-	Chicago	IL	Riverside Investment & Development Company.	10000	100 N Riverside Plz	Ste 2150			60606-1532	2018-07-20			developer
-	Chicago	IL	Riverside Investment & Development Company.	10000	155 N Wacker Dr	Ste 1690			60606-1774	2016-06-24			developer
-	Chicago	IL	Robinson	500	630 W 41st St	Unit B		Joey	60609-2642	2017-09-11			Individual
-Texas De Brazil	Dallas	TX	Rocha	1500	2952 N Stemmons Fwy	Apt 902	Executive	Alicia	75247-6113	2017-12-30			Individual
-The Signature Room at the 95th	Chicago	IL	Roman	1500	737 N Michigan Ave	Ste 1520	CEO/Chairman	Rick	60611-6653	2018-06-30			Individual
-	Chicago	IL	Ronan	300	420 W Huron St	420 W. Huron St.		John	60654-8475	2016-07-22			Individual
-Retired	Hinsdale	IL	Rooney	1000	348 E 3rd St		Retired	Phillip B	60521-4242	2017-12-20			Individual
-	Springfield	IL	Roseberry	250	3361 S 1st St			Tim	62703-4601	2016-06-03			unclassified
-New York Jewelers	Chicago	IL	Rosenwasser	1500	11 N Wabash Ave		President	Sam	60602-4717	2017-06-17			unclassified
-Retired	Chicago	IL	Ross	1000	950 N Michigan Ave	Apt 5403	Retired	Neil	60611-7535	2018-03-30			Individual
-	Glencoe	IL	Ross	450	1060 Hohlfelder Rd			Stephen C	60022-1017	2017-03-31			Individual
-New York Jewelers	Chicago	IL	Rossenwasser	1500	11 N Wabash Ave		President	Sam	60602-4717	2018-06-29			unclassified
-	Chicago	IL	Rossi's Liquors, Inc.	1000	412 N State St				60654-5608	2017-09-29			retail
-Thomas Roszak Architecture	Chicago	IL	Roszak	1500	116 W Illinois St	Ste 5E	architect/developer	Thomas	60654-2732	2018-03-02			Individual
-Litchfield Cavo, LLP	Chicago	IL	Ruberry	4000	1306 W Wrightwood Ave	Unit 2	Attorney	Patrick J	60614-1226	2018-09-14			Individual
-	Chicago	IL	Russell	500	455 N Cityfront Plaza Dr	Ste 2600		Dan	60611-5506	2017-02-03			unclassified
-Constellation Brands, Inc.	Chicago	IL	Ryan	1000	1 S Dearborn St	Ste 1700	SVP, Corporate Affairs	Jim	60603-2308	2018-01-26			unclassified
-	Chicago	IL	SP Plus Corp	1500	200 E Randolph St	Ste 7700			60601-7702	2017-12-08			unclassified
-Salvi, Schostok & Pritchard PC	Chicago	IL	Salvi	2500	468 W Huron St		Attorney	Patrick	60654-3495	2018-01-05			Individual
-Havana restaurant/ Emery medical center	Chicago	IL	Sarwar	3000	412 N Clark St		Owner/M.D	S. Saleem	60654-4750	2017-09-22			Individual
-	Chicago	IL	Sauk Development	8900	680 N Lake Shore Dr	Fl 19			60611-4548	2018-09-14			developer
-	Chicago	IL	Scadron Outdoor Advertising	500	1015 W Grand Ave	Ste 2			60642-6677	2017-09-29			unclassified
-	Chicago	IL	Scadron Outdoor Advertising	2000	1015 W Grand Ave				60642-6692	2017-06-30			unclassified
-Schain Banks Kenny & Schwartz	Chicago	IL	Schain	1000	70 W Madison St	Ste 5300	Attorney	Jerome	60602-4379	2017-02-03			Individual
-	Chicago	IL	Schain Banks Kenny & Schwartz	250	70 W Madison St	Ste 5300			60602-4379	2016-06-24			unclassified
-500 N Michigan Ave	Chicago	IL	Schapira	1500	500 N Michigan Ave		Owner	Samuel	60611-3777	2018-09-18			Individual
-L3 Capital LLC	Chicago	IL	Schreiber	1000	410 N Michigan Ave	Ste 850	Real Estate	Michael	60611-4213	2016-09-29			Individual
-	Chicago	IL	Schreyer	1000	55 E Erie St	Apt 1504		Lauren	60611-2799	2018-09-18			Individual
-	Chicago	IL	Schreyer & Associates	500	55 E Erie St	Apt 1504			60611-2799	2016-09-30			unclassified
-Magellan	South Barrington	IL	Schwengel	5400	1 Blanchard Cir		Senior Vice President of Construction	Kristopher T	60010-9515	2016-12-22			Individual
-	Chicago	IL	Seidman	200	400 E South Water St	Apt 4107		AJ	60601-4094	2017-03-19			unclassified
-	Chicago	IL	Service Employees Local 1 Political Education Committee	1500	111 E Wacker Dr	Fl 25			60601-3713	2017-12-20			union
-	Chicago	IL	Shah	500	400 N Orleans St	Unit 4C		Keyur	60654-4406	2018-06-30			Individual
-Shapack Partners	Chicago	IL	Shapack	1500	917 W Washington Blvd	308	Executive	Jeff	60607-2203	2018-08-13			Individual
-	Chicago	IL	Shapack Partners	1500	917 W Washington Blvd	Ste 308			60607-2203	2018-03-30			propertyman
-	Chicago	IL	Shoffner	950	233 E 13th St	Apt 1109		Robin	60605-3247	2018-01-26			Individual
-	Chicago	IL	Shoreline Marine Company	2500	474 N Lake Shore Dr	Apt 3511			60611-6479	2016-06-29			unclassified
-	Chicago	IL	Shoreline Sightseeing	8500	474 N Lake Shore Dr	Apt 3511			60611-6479	2018-07-20			unclassified
-Billy Goat Tavern and Grill	Park Ridge	IL	Sianis	1500	826 Park Plaine Ave		Proprietor	Sam A.	60068-2224	2017-12-08			Individual
-	Chicago	IL	Sianis	1000	430 N Michigan Ave	Lower Level		Sam A.	60611-4011	2017-09-29			Individual
-	Chicago	IL	Siegel & Moses , P.C.	500	444 N Michigan Ave	Ste 2600			60611-3903	2016-09-30			unclassified
-	Chicago	IL	Siegel & Moses , P.C.	9000	8700 W Bryn Mawr Ave	Ste 720N			60631-3512	2018-06-29			unclassified
-	Chicago	IL	Signh	500	55 e bellvue			Alpana	60605-2121	2017-02-03			Individual
-Agman	Chicago	IL	Silverman	5000	11 E Walton St		Investor	Howard Scott	60611-5442	2016-06-24			Individual
-Self Employed	Chicago	IL	Simon	2000	1550 S Indiana Ave		Owner	Richard A.	60605-2857	2017-02-07			Individual
-	Chicago	IL	Singer	500	300 N La Salle Dr	Fl 39		William S	60654-3406	2017-02-03			Individual
-Zeller Realty Group	Chicago	IL	Six	5000	222 N Columbus Dr	Apt 3310	Realtor	Robert M.	60601-7962	2018-07-20			Individual
-	Chicago	IL	Six	500	401 N Michigan Ave	Ste 1300		Robert M.	60611-4271	2016-09-29			Individual
-	Chicago	IL	Skender Construction	6500	200 W Madison St	Ste 1300			60606-3454	2017-06-16			unclassified
-	Chicago	IL	Skidmore, Owings & Merrill LLP	1500	224 S Michigan Ave	Ste 1000			60604-2526	2017-06-16			propertyman
-Shirley Ryan AbilityLab	Hinsdale	IL	Smith	1500	807 The Pnes		President and CEO	Joanne C.	60521-2846	2017-09-29			Individual
-	Boston	MA	Smith & Wollensky Restaurant Group	3000	260 Franklin St	Ste 240			02110-3143	2017-06-30			developer
-	Chicago	IL	Solis Russell	200	2 W Delaware Pl	Unit 3107		Michelle	60610-3417	2017-09-11			Individual
-Pacific Reach	Los Angeles	CA	Somji	1000	810 S Spring St		Manager, Planning & Development	Shehzad	90014-2908	2018-09-18			Individual
-	Chicago	IL	Spectrum Real Estate Properties, Inc.	10000	414 N Orleans St	Ste 610			60654-4486	2018-09-14			realestate
-	Chicago	IL	SpotHero, Inc	1500	325 W Huron St				60654-3636	2017-12-08			retail
-	Chicago	IL	Stagehands Union Local 2	1000	216 S Jefferson St	Ste 400			60661-5699	2016-09-30			union
-	Chicago	IL	Stefanini	250	21 W Goethe St	Ste 1A		Mario	60610-2251	2018-05-14			Individual
-	Chicago	IL	Steven B. Pearlman & Associates	1000	350 W Hubbard St	Ste 630			60654-6937	2017-12-20			unclassified
-Lettuce Entertain You Enterprises	Prospect Heights	IL	Stieber	2500	400 Cherry Creek Ln		Attorney	Jay	60070-1094	2016-12-22			unclassified
-Neal & Leroy	Chicago	IL	Sublett	1500	1255 W Schubert Ave		Attorney	Jeanette	60614-1246	2018-06-29			Individual
-	Rosemont	IL	Sugar Factory Rosemont, LLC	1000	5445 Park Pl				60018-3732	2017-12-20			unclassified
-	Chicago	IL	Sullivan	500	125 S Clark St	1300		Matt	60603-5200	2018-01-03			Individual
-	New York	NY	Symmetry Property Development II	1000	1 Penn Plz	Fl 50			10119-0014	2017-02-03			developer
-	New York	NY	Symmetry Property Development II	1000	1 Penn Plz	Fl 49			10119-0033	2016-10-28			developer
-	Bellevue	WA	T-Mobile USA, Inc.	3500	12920 SE 38th St				98006-7305	2018-08-10			retail
-	Cincinnati	OH	Taft Stettinius & Hollister LLP	500	425 Walnut St	Ste 1800			45202-3920	2018-03-30			propertyman
-	Chicago	IL	Take Out Inc.	250	21 W Goethe St	Ste 1A			60610-2251	2018-09-14			retail
-	Deerfield	IL	Takeda Pharmaceuticals USA, Inc	1500	1 Takeda Pkwy				60015-5713	2018-09-14			retail
-	Chicago	IL	Tavern on Rush	7000	1031 N Rush St				60611-1227	2017-12-20			retail
-Magellan	Chicago	IL	Tebbe	5400	189 E Lake Shore Dr	Ste 11E	Chief Marketing Officer	Robin L	60611-6314	2016-12-22			Individual
-	Chicago	IL	Tenner	200	1005 W Buena Ave	Apt 3W		Sean C.	60613-6407	2017-09-22			Individual
-	Highland Park	IL	Terman	500	101 Belle Ave			Jim	60035-2503	2018-01-26			unclassified
-	Chicago	IL	Terman	250	730 N Franklin St	Ste 510		Jim	60654-7226	2018-06-30			unclassified
-	Chicago	IL	Terroir Restaurant, Inc.	500	615 W Randolph St				60661-2239	2018-09-28			retail
-	Dallas	TX	Texas De Brazil	5000	3500 Maple Ave				75219-3960	2016-06-03			unclassified
-	Arlington	VA	The Boeing Company Political Action Committee	2000	929 Long Bridge Dr				22202-4208	2018-09-21			pac
-	Arlington	VA	The Boeing Company Political Action Committee	1000	1200 Wilson Blvd				22209-2300	2016-11-16			pac
-	Chicago	IL	The Eli's Cheesecake Company	500	6701 W Forest Preserve Ave				60634-1405	2016-06-24			developer
-	Chicago	IL	The Fifty/50 Restaurant Group	15000	1916 W Chicago Ave				60622-5540	2018-07-20			developer
-	Chicago	IL	The Habitat Company, LLC	4000	350 W Hubbard St	Ste 500			60654-5739	2018-05-11			developer
-	Chicago	IL	The Haymarket Group Ltd.	1000	500 N Dearborn St	Ste 1150			60654-5801	2018-09-14			developer
-	Springfield	IL	The Illinois Chamber Political Action Committee	1500	215 E Adams St				62701-1145	2017-09-15			pac
-	Chicago	IL	The Kerryman Bar and Restaurant	3000	661 N. Clark St				60654-3719	2017-06-30			retail
-	Chicago	IL	The Roosevelt Group	1000	600 W Van Buren St	Ste 909			60607-3703	2017-12-20			developer
-	Chicago	IL	The Roosevelt Group	750	328 S Jefferson St	Ste 909			60661-5634	2018-09-14			developer
-	Chicago	IL	Thomas	250	410 N Michigan Ave	Ste 700N		Daniel	60611-4213	2018-09-18			Individual
-	Chicago	IL	Thomas	500	355 E Ohio St	Unit 2007		Daniel	60611-5596	2018-03-30			Individual
-Newcastle Limited	Hinsdale	IL	Tortorello	1500	642 S Madison St		Managing Director, Acquisitions	Peter	60521-3967	2018-08-10			Individual
-	Naperville	IL	Trevino	500	931 W 75th St	Ste 137-258		Nickolas	60565-1294	2017-09-18			Individual
-BDT Capital Partners	Winnetka	IL	Trott	750	595 Sheridan Rd		Chairman & CEO	Byron D	60093-2321	2018-03-30			Individual
-	Northbrook	IL	Troyanovsky	500	1755 Braeside Ln			Alex	60062-5500	2018-09-30			Individual
-	Northbrook	IL	Troynovsky	500	1755 Braeside Ln			Alex	60062-5500	2016-06-24			Individual
-Centaur	Chicago	IL	Tsaparas	1500	1200 W Lake St	Ste 200	CEO	Spiro	60607-1653	2018-06-30			Individual
-	Chicago	IL	Tully	750	33 N Dearborn St	Ste 2450		Matthew	60602-3111	2018-06-30			Individual
-	Chicago	IL	Turner	250	1933 S Dearborn St	Ste 5W		Rick	60616-1600	2017-09-18			Individual
-	Chicago	IL	U.S. National Title Services, LLC	2250	10 S Riverside Plz	Ste 1450			60606-3879	2017-09-29			unclassified
-	Chicago	IL	UB Dogs Inc.	500	185 N Franklin St				60606-1930	2018-03-30			retail
-	Rosemont	IL	UFCW Local 881	500	10400 W Higgins Rd	Ste 110			60018-3705	2017-08-02			union
-	Atlanta	GA	UPS PAC	1000	55 Glenlake Pkwy				30328-3474	2018-09-28			unclassified
-	Cincinnati	OH	US Treasury	382	PO Box 804521				45280-4521	2017-07-24			unclassified
-	Chicago	IL	Union Pacific Railroad	1000	101 N Wacker Dr	Ste 1910			60606-1751	2017-03-17			union
-	Chicago	IL	United Airlines PAC	2250	233 S Wacker Dr	HDQGV - 11th Floor			60606-7147	2018-07-20			pac
-	Chicago	IL	United Brotherhood of Carpenters & Joiners Local 1	250	1327 W Washington Blvd	Ste 101			60607-1913	2018-09-14			union
-Attorney	Winnetka	IL	Unruh	1500	1220 Hill Rd		Pharma Cann LLC	Jeremy	60093-3717	2017-06-30			Individual
-	Chicago	IL	Valet Parking Authority Limited	200	2342 N Damen Ave				60647-3322	2017-03-31			unclassified
-	Normal	IL	Verizon Good Government Club- Illinois	1000	104 W Mulberry St				61761-2529	2018-03-30			retail
-Kimpton Hotels Chicago	Chicago	IL	Vlasic	4000	171 W Randolph St		Vice President	Ron	60601-3121	2018-06-30			unclassified
-Kimpton Hotels Chicago	Chicago	IL	Vlasic	1500	6100 N Forest Glen Ave		V.P.	Ron	60646-5016	2017-06-17			unclassified
-	Chicago	IL	Volare Associates	2000	201 E Grand Ave				60611-3311	2018-06-29			unclassified
-	Park Ridge	IL	Vorres	200	822 Rosemont Ave			Anthony	60068-5264	2017-03-31			Individual
-	Chicago	IL	W Sports Media, LLC	15000	680 N Lake Shore Dr				60611-4546	2018-09-14			unclassified
-	Green Bay	WI	WEC Business Services LLC	1250	PO Box 19800				54307-9501	2018-07-20			unclassified
-	Chicago	IL	WEC Business Services LLC	500	130 E Randolph St	Fl 18			60601-6207	2017-06-02			unclassified
-	Chicago	IL	Wabash Condominium, LLC	1750	1101 W Monroe St	Ste 200			60607-2513	2018-05-11			unclassified
-	Deerfield	IL	Walgreens	2250	104 Wilmot Rd	Ms 1444			60015-5121	2017-12-29			unclassified
-	Elgin	IL	Wanxiang America Real Estate Group, LLC	2500	88 Airport Rd				60123-9324	2017-06-16			developer
-	Chicago	IL	Washington Square Liquors, Inc.	3500	420 N Clark St				60654-4502	2018-06-30			retail
-	Chicago	IL	Water Tower LLC	1500	845 N Michigan Ave	Ste 987W			60611-2218	2016-06-24			unclassified
-Fifty/50 Management Group Inc	Chicago	IL	Weiner	1000	920 N Paulina St		Restaurant Operator	Scott	60622-7756	2017-03-19			Individual
-	Chicago	IL	Wendella Sightseeing Company	5000	400 N Michigan Ave				60611-4111	2017-06-16			unclassified
-Magellan	Chicago	IL	Wersching	5400	641 W Willow St	Apt 148	Senior Vice President of Property Manage	Renee	60614-5174	2016-12-22			Individual
-	University Park	IL	Western Utility, LLC	4500	2565 Palmer Ave				60484-3115	2017-12-08			unclassified
-Wight & Company	Darien	IL	Wight	3000	2500 N Frontage Rd		Wight & Company	Mark	60561-1515	2017-06-30			Individual
-	Chicago	IL	William Kritt & Company LLC DBA Camins Tomasz Kritt	250	1659 W Hubbard St				60622-6352	2016-06-24			unclassified
-The Clayton	Chicago	IL	Wilson	3000	212 N Canal St		Owner	Clayton	60606-1268	2018-09-30			Individual
-	Chicago	IL	Wine & Spirits Distributors of Illinois PAC	1000	27 E Monroe St	Ste 1200			60603-5672	2018-06-29			union
-	Chicago	IL	Wislow	1000	20 N Michigan Ave	Ste 400		Robert	60602-4828	2018-09-14			Individual
-Self	Chicago	IL	Wislow	4500	20 N Michigan Ave	Fl 4	Homemaker	Susan	60602-4828	2017-09-29			Individual
-The Lelyn Group, Inc.	Northbrook	IL	Wiznitzer	1000	707 Skokie Blvd	Ste 600	Real Estate Development and Investments	Leo	60062-2841	2018-08-13			unclassified
-@ Properties	Chicago	IL	Wong	1500	212 E Ohio St		Co-Founder	Thaddeus	60611-3592	2016-12-22			Individual
-	Chicago	IL	Yee	500	505 N Lake Shore Dr	Apt 811		Lisa	60611-3609	2017-02-03			Individual
-	Chicago	IL	Zec	500	108 E Superior St			Maria	60611-2508	2017-09-22			Individual
-	Chicago	IL	Zeller Realty Corporation	4300	401 N Michigan Ave	Ste 250			60611-5616	2018-07-20			financial
-	Chicago	IL	bKL Architecture	2500	225 N Columbus Dr	Ste 100			60601-7981	2018-03-30			unclassified
-			Non-itemized donations	26630							Donations under $175	Non-itemized donations under $150	unclassified
+received_date	last_name	first_name	address1	zipcode	amount	state	occupation	city	employer	address2	donation_location	donor_type_size	classified_type
+2017-12-08	125 S. Clark (Chicago) SPE LLC		600 W Van Buren St	60607-3767	1500	IL		Chicago		Ste 1000			unclassified
+2017-06-02	1419 Properties, LLC		6801 Roosevelt Rd	60402-1019	500	IL		Berwyn					propertyman
+2018-05-11	24 South Michigan, LLC		24 S Michigan Ave	60603-3301	3500	IL		Chicago					propertyman
+2017-02-03	29 W. Hubbard Corp.		29 W Hubbard St	60654-5605	1000	IL		Chicago					unclassified
+2018-03-30	29 W. Hubbard Corp. DBA O'Callaghan's		29 W Hubbard St	60654-5605	500	IL		Chicago					unclassified
+2017-12-20	3505 Clark, Inc		3505 N Clark St	60657-1611	1000	IL		Chicago					financial
+2018-09-14	35L Sportsmans, LLC		680 N Lake Shore Dr	60611-4548	2500	IL		Chicago		Ste 1900			propertyman
+2016-06-24	4-M Enterprises, Inc. DBA Exchequer Restaurant		226 S Wabash Ave	60604-2322	500	IL		Chicago					retail
+2018-03-30	400-410 Michigan Master Tenant LLC		401 N Michigan Ave	60611-4255	1000	IL		Chicago		Ste 1300			propertyman
+2018-08-10	440 W Ontario St, LLC		2 N Riverside Plz	60606-2600	2500	IL		Chicago					propertyman
+2018-06-29	5 West Hubbard Corp.		5 W Hubbard St	60654-5605	1000	IL		Chicago					unclassified
+2018-03-30	830 NMA, LLC c/oWater Tower		845 N Michigan Ave	60611-2218	1500	IL		Chicago		Ste 987W			propertyman
+2018-07-20	871 Rush Property		1023 Ashland Ave	60305-1435	5000	IL		River Forest					propertyman
+2017-08-02	9-25 W. Hubbard, LLC		1010 Hillside Dr	60062-4654	1000	IL		Northbrook					propertyman
+2017-09-30	A.S.G. Staffing Inc		231 W Grand Ave	60106-3396	200	IL		Bensenville		Ste 102			retail
+2016-07-22	AT&T		PO Box 8100	60507-8100	1313	IL		Aurora					unclassified
+2017-12-20	AT&T  Illinois Employee PAC		225 W Randolph St	60606-1838	1500	IL		Chicago		Unit 27B			pac
+2017-02-03	Aboona	Luay	9575 W Higgins Rd	60018-4915	1250	IL	Engineer	Rosemont	KLOA, Inc.	Ste 400			Individual
+2018-09-18	Abu-Ghazaleh	Walid	1499 N Clybourn Ave	60610-7216	500	IL		Chicago		Unit A			Individual
+2018-05-14	Abu-Ghazaleh	Walid	20 W Kinzie St	60654-6392	500	IL		Chicago		Fl 17			Individual
+2018-05-14	Acosta	Rolando R	1030 W Chicago Ave	60642-5671	500	IL		Chicago		Fl 3			Individual
+2017-09-11	Acosta	Rolando R	217 N Jefferson St	60661-1103	1000	IL	Attorney	Chicago	Acosta Ezgur, LLC	Fl 6			Individual
+2016-06-24	Acosta Ezgur, LLC		1030 W Chicago Ave	60642-5671	500	IL		Chicago		Fl 3			unclassified
+2018-05-14	Agra	Holly	1242 W Northwest Hwy	60067-1897	500	IL		Palatine		Unit 1406			Individual
+2017-02-03	Agra	Holly	860 W Blackhawk St	60642-2510	500	IL		Chicago		Unit 1406			Individual
+2018-07-20	Akerman LLP		495 N Keller Rd	32751-8656	5000	FL		Maitland		Ste 300			propertyman
+2016-06-17	Alexander	Michael M.	4113 N Kenmore Ave	60613-2003	500	IL		Chicago					Individual
+2017-12-20	Alfred G. Ronan, Ltd		328 S Oak Park Ave	60302-3563	500	IL		Oak Park		Apt 1			unclassified
+2016-06-17	Amalgamated Bank of Chicago		30 N La Salle St	60602-4536	1500	IL		Chicago		38th Fl.			realestate
+2018-09-14	Ambulance Transport, Inc		8410 183rd Pl	60487-9268	500	IL		Tinley Park					retail
+2018-06-30	Anderson	Timothy	100 S Wacker Dr	60606-4030	2500	IL	CEO	Chicago	Focus Development	Ste 2100			Individual
+2018-09-14	Anichini Brothers, Inc.		545 N Wells St	60654-2628	1500	IL		Chicago					retail
+2018-09-28	Ankin	Samuel	743 Bluff St	60022-1504	500	IL		Glencoe					Individual
+2018-07-20	Anunson	Kristin	500 N Michigan Ave	60611-3702	6500	IL	Sr. Property Manager	Chicago	Macerich	Ste 550			Individual
+2016-06-24	AraOn, Inc.		190 S La Salle St	60603-3417	250	IL		Chicago		Lbby 1			retail
+2016-06-24	Architectural & Ornamentral Iron Workers Union, Local 63		2525 Lexington St	60155-2858	500	IL		Broadview					union
+2018-01-26	Ascot	James	566 W Lake St	60661-1442	300	IL		Chicago		Ste 101			Individual
+2018-06-29	Associated Beer Distributors of Illinois PAC		PO Box 396	62705-0396	4000	IL		Springfield					union
+2017-12-20	Axley	Cheryl	90 E Milburn Ave	60056-3211	250	IL		Mount Prospect					Individual
+2017-12-20	BOMA Chicago PAC		115 S La Salle St	60603-3862	10250	IL		Chicago		Ste 2300			pac
+2017-02-03	BP North America Employee PAC		501 Westlake Park Blvd	77079-2604	1500	TX		Houston					pac
+2017-09-11	Bahr	Irene F.	1751 S Naperville Rd	60189-5896	250	IL		Wheaton		Ste 209			Individual
+2017-03-10	Baker	Cindy	2143 N Magnolia Ave	60614-4011	1000	IL	Homemaker	Chicago	None				Individual
+2018-09-18	Baker	Warren	2143 N Magnolia Ave	60614-4011	3000	IL	Realtor	Chicago	Baker Development Corp	Ste 100			Individual
+2016-12-22	Balourdos & Mikuzis, LLP		535 N Michigan Ave	60611-3819	1500	IL		Chicago		Ste 200			propertyman
+2017-12-20	Bank of America Corporation PAC		135 S La Salle St	60603-4177	3000	IL		Chicago					financial
+2017-12-20	Banks	Samuel V.P.	221 N La Salle St	60601-1206	1000	IL		Chicago		Fl 38			Individual
+2018-03-30	Barr Management, Ltd.		2400 W Devon Ave	60659-1963	500	IL		Chicago					propertyman
+2017-03-31	Bassiouni	M. Cherif	680 N Lake Shore Dr	60611-4410	500	IL		Chicago		Apt 724T			Individual
+2017-06-16	Baum Realty Group		1030 W Chicago Ave	60642-5671	2500	IL		Chicago		Ste 200			developer
+2017-08-02	Belgravia Group, LTD		1101 W Monroe St	60607-2513	3750	IL		Chicago		Ste 200			developer
+2018-08-10	Bellrush Restaurant, LLC D/B/A Luxbar		1050 N State St	60610-2855	5000	IL		Chicago					retail
+2017-12-20	Belmont Bank & Trust		8250 W Belmont Ave	60634-2809	750	IL		Chicago					financial
+2018-09-14	Benefit Services Group Inc.		680 N Lake Shore Dr	60611-4546	10000	IL		Chicago		Ste 2050			unclassified
+2018-09-28	Berg	Kevin	640 N La Salle Dr	60654-3790	500	IL		Chicago		Ste 295			Individual
+2017-02-03	Berger Realty Group, LLC		40 E Oak St	60611-1229	500	IL		Chicago					developer
+2017-06-30	Big Bus Chicago		630 W 41st St	60609-2642	1500	IL		Chicago		Unit B			unclassified
+2017-12-30	Bisaillon	Chris	2211 N Elston Ave	60614-2900	1500	IL	CEO - restaurant management company	Chicago	Bottleneck Management	Ste 206			Individual
+2018-09-30	Bisbee	Michael	642 N Clark St	60654-3721	1600	IL	Self employed	Chicago	GA Restaurant LLC				Individual
+2016-09-29	Black	Chris	1714 W School St	60657-1037	250	IL		Chicago		# 2			Individual
+2018-06-30	Blitz	David J.	670 N Clark St	60654-3484	1000	IL	Real Estate	Chicago	BlitzLake	Fl 4			Individual
+2018-09-14	Blitzlake		214 W Erie St	60654-3911	2000	IL		Chicago					unclassified
+2017-09-15	Blk Wht Valet		111 N Wabash Ave	60602-2939	500	IL		Chicago		Ste 2118			unclassified
+2017-02-03	Blue Star Properties		600 W Van Buren St	60607-3767	2000	IL		Chicago		Ste 1000			propertyman
+2016-12-22	Bluhm	Neil	900 N Michigan Ave	60611-6536	1500	IL	President	Chicago	Walton Street Capital	Ste 1900			Individual
+2018-09-30	Blumenthal	Seth	345 E Ohio St	60611-4054	250	IL		Chicago		Apt 2003			Individual
+2018-09-28	Boehm	Kevin	4 E Elm St	60611-1039	500	IL		Chicago		12S			Individual
+2018-01-26	Bolton	Heather R.	1107 W Albion Ave	60626-4613	500	IL		Chicago					Individual
+2016-06-03	Borovicka	John	230 W Monroe St	60606-4908	1500	IL	Principal	Chicago	Alexander & Borovicka	Ste 2221			Individual
+2018-08-13	Bossy	David	2803 Butterfield Rd	60523-1156	500	IL		Oak Brook					Individual
+2016-12-22	Bottleneck TT, LLC		DBA Howells & Hood	60614-2900	1500	IL		Chicago		2211 N Elston Ave			unclassified
+2017-09-08	Bradford	Timothy	21010 London Dr	60461-1881	250	IL		Olympia Fields					Individual
+2016-06-24	Bridge Structural and Reinforcing		7720 Industrial Dr	60130-2520	250	IL		Forest Park		7720 Industrial Drive			unclassified
+2018-07-20	Broadway in Chicago		7 Farrington Cir	60069-2501	5300	IL		Lincolnshire					pac
+2016-09-30	Broadway in Chicago		17 N State St	60602-3047	5800	IL		Chicago		Ste 810			pac
+2018-08-13	Broccolo	Peter	8725 W Higgins Rd	60631-2769	500	IL		Chicago		Ste 805			Individual
+2016-12-22	Brown	Kevin J.	431 Abbotsford Rd	60043-1106	5000	IL	President Chief Executive Officer	Kenilworth	Lettuce Entertain You Enterprises				Individual
+2018-09-14	Brustin and Lundblad Ltd.		10 N Dearborn St	60602-4324	500	IL		Chicago		Fl 7			construction
+2016-12-22	Bub City		435 N Clark St	60654-4540	2500	IL		Chicago					unclassified
+2018-08-13	Bucksbaum	John	71 S Wacker Dr	60606-4666	1500	IL	CEO	Chicago	Bucksbaum Retail Properties	Ste 2130			Individual
+2016-12-22	Buell	Laura	15 Elmwood Ave	60526-2032	5400	IL	Chief Marketing Officer	La Grange Park	Magellan Development Group				Individual
+2018-03-30	Bush	William	401 N Michigan Ave	60611-4251	750	IL	Chairman	Chicago	BDT & Co	Ste 3100			Individual
+2018-06-30	CA Ventures		130 E Randolph St	60601-6223	1500	IL		Chicago		Ste 2100			unclassified
+2017-02-03	CFP III, LLC		225 W Hubbard St	60654-4916	1000	IL		Chicago		Fl 4			unclassified
+2018-03-30	CH Distillery		564 W Randolph St	60661-2219	3000	IL		Chicago		Fl 1E			unclassified
+2016-06-17	CLPF-West Randolph Operating Company LLC		171 W Randolph St	60601-3121	1500	IL		Chicago					unclassified
+2018-09-28	Cahan	Dustin	640 N La Salle Dr	60654-3783	1000	IL	Real Estate Professional	Chicago	MAC Management Co., Inc.	Ste 285			Individual
+2018-09-28	Cahan	Michael	640 N La Salle Dr	60654-3783	1500	IL	Real Estate Professional	Chicago	Self Employed	Ste 285			Individual
+2017-09-11	Camins	Harvey	1659 W Hubbard St	60622-6352	5500	IL	President/CEO	Chicago	President & CEO				Individual
+2018-01-26	Canellis	Lou	233 E 13th St	60605-3248	1000	IL		Chicago		Apt 1205			unclassified
+2017-09-22	Carley	Chris	161 N Clark St	60601-3338	500	IL		Chicago		Ste 1600			Individual
+2016-06-24	Carley	Christopher	161 N Clark St	60601-3201	250	IL		Chicago		Ste 4700			Individual
+2017-02-03	Carley	Christopher	161 N Clark St	60601-3338	500	IL		Chicago		Ste 1600			Individual
+2018-01-26	Carley	Christopher J.	2132 W Le Moyne St	60622-1812	750	IL		Chicago		Ste 1600			Individual
+2018-09-21	Carlins	David J.	225 N Columbus Dr	60601-7981	2900	IL	Real Estate Developer	Chicago	Magellan Development Group	Ste 100			Individual
+2016-12-22	Carlins	Joel M.	55 W Delaware Pl	60610-6076	5400	IL	Co-CEO	Chicago	Magellan Development	Apt 1101			Individual
+2016-12-22	Carlins	Susan	55 W Delaware Pl	60610-6076	5400	IL	Homemaker	Chicago	Self	Apt 1101			Individual
+2018-09-28	Carman	Richard	640 N La Salle Dr	60654-3783	500	IL		Chicago		Ste 285			Individual
+2017-02-03	Carter	Melia A.	11776 Winding Trails Dr	60480-1191	500	IL		Willow Springs					Individual
+2018-05-14	Cataldo	Jerome	1300 E Woodfield Rd	60173-5444	250	IL		Schaumburg		Ste 400			Individual
+2017-03-31	Celeste		111 W Hubbard St	60654-4503	2000	IL		Chicago					unclassified
+2016-06-24	Centaur Construction		1200 W Lake St	60607-1653	1600	IL		Chicago		Ste 200			unclassified
+2018-09-14	Central States Transit and Leasing Corporation		7315 W Grand Ave	60707-1906	2500	IL		Elmwood Park					construction
+2017-09-29	Chase Bank		10 S Dearborn St	60603-2318	150	IL		Chicago					financial
+2018-08-10	Chicago & Cook County Building Trades Council		150 N Wacker Dr	60606-1657	3000	IL		Chicago		Ste 1850			union
+2016-12-22	Chicago Association of Realtors PAC		200 S Michigan Ave	60604-2411	3000	IL		Chicago		Ste 400			realestate
+2017-06-30	Chicago Beverage Systems, LLC		441 N Kilbourn Ave	60624-1098	3000	IL		Chicago					unclassified
+2018-03-30	Chicago Event Management		135 S La Salle St	60603-3331	2750	IL		Chicago		Ste 1160			unclassified
+2017-09-15	Chicago Fire Fighters Union Local 2 Political Comm		440 W 43rd St	60609-2796	1000	IL		Chicago					union
+2016-12-22	Chicago Gray Line Ltd.		27 E Monroe St	60603-5647	450	IL		Chicago		Ste 515			unclassified
+2018-09-28	Chicago Journeymen Plumbers' LU 130		1340 W Washington Blvd	60607-1980	7500	IL		Chicago					union
+2017-12-20	Chicago Land Operators Joint Labor Mgt PAC		6200 Joliet Rd	60525-3957	6000	IL		Countryside					pac
+2017-08-02	Chicago Sightseeing Company, Inc.		27 E Monroe St	60603-5647	500	IL		Chicago		Ste 515			realestate
+2018-09-14	Chicago Stadium Corporation		680 N Lake Shore Dr	60611-4546	5000	IL		Chicago					unclassified
+2018-03-30	Chicago's First Lady Cruises		PO Box 68	60078-0068	5000	IL		Palatine					unclassified
+2017-08-02	Chicago/Springfield Consultants, LLC		500 N Michigan Ave	60611-3754	200	IL		Chicago		Ste 600			unclassified
+2018-08-10	Chicagoland Apartment Association PAC		557 W Randolph St	60661-2220	5000	IL		Chicago		Ste 201			unclassified
+2018-09-28	Chicagoland Chamber of Commerce PAC		410 N Michigan Ave	60611-4241	2000	IL		Chicago		Ste 900			union
+2017-12-30	Christopoulos	Dimitri	414 N Orleans St	60654-4486	1000	IL	Attorney	Chicago	Christopoulos Law Group, LLC	Ste 602			Individual
+2018-09-28	Christopoulos	Dimitrios	414 N Orleans St	60654-4486	500	IL		Chicago		Ste 602			Individual
+2018-09-30	Ciota	Richard	500 N Franklin St	60654-4604	1000	IL	Managing Partner	Chicago	Gene & Georgetti				Individual
+2017-09-22	Citic	Shone	225 N Columbus Dr	60601-5257	500	IL		Chicago		Unit 5311			Individual
+2017-02-03	Citic	Shone	444 W Fullerton Pkwy	60614-2866	500	IL		Chicago					Individual
+2017-09-15	Citizens for Lindsay Huge		4925 N Magnolia Ave	60640-3506	250	IL		Chicago					candidate
+2017-06-16	Citizens for Tully		33 N Dearborn St	60602-3111	2500	IL		Chicago		Ste 2450			candidate
+2016-09-30	Cityfront Hotel Associations LP		301 E North Water St	60611-4534	5250	IL		Chicago		301 E North Water St			unclassified
+2018-07-20	Clark Street Investors, LLC		400 Skokie Blvd	60062-7908	4000	IL		Northbrook		Ste 800			unclassified
+2018-09-14	Clayco, Inc.		2199 Innerbelt Business Center Dr	63114-5721	1500	MO		Saint Louis					retail
+2017-12-08	Clear Channel Outdoor, Inc.		4000 S Morgan St	60609-2581	1000	IL		Chicago					retail
+2017-09-15	Cleveland Avenue, LLC		161 N Clark St	60601-3315	5000	IL		Chicago		Ste 4300			unclassified
+2017-09-22	Cohen	Meir	201 E 42nd St	10017-5737	500	NY		New York		Rm 2120			Individual
+2016-06-03	ComEd PAC		1 Financial Place	60605	250	IL		Chicago		33rd Floor			unclassified
+2018-03-30	Comcast Financial Agency Corporation		1701 John F Kennedy Blvd	19103-2838	3000	PA		Philadelphia					financial
+2018-03-30	Comprehensive Health Management Inc		PO Box 31390	33631-3390	1000	FL		Tampa					financial
+2018-09-18	Connell	Joshua	76 Riverside Dr	60015-4868	2000	IL		Deerfield					Individual
+2018-01-26	Connell	Joshua	6132 Oakton St	60053-2718	1500	IL	Owner	Morton Grove	Lakeshore Recycling Systems LLC				Individual
+2018-09-14	Consolidated Enterprises, Inc		680 N Lake Shore Dr	60611-4548	2500	IL		Chicago		Fl 19			retail
+2017-12-20	Construction And General Laborers' District Council of Chicago & Vicin		999 McClintock Dr	60527-0824	1500	IL		Burr Ridge		Ste 300			union
+2018-05-14	Cooper	Carey	150 Pine Point Dr	60035-5333	1000	IL		Highland Park		Ste 138			Individual
+2017-06-17	Cooper	Carey	600 Central Ave	60035-5604	2000	IL	CEO	Highland Park	L3 Hospitality Group	Ste 138			Individual
+2017-12-30	Costello	Daniel	6249 S Archer Ave	60638-2609	1500	IL	President	Chicago	Home Run Inn Pizza				Individual
+2017-02-03	Crown Imports		1 S Dearborn St	60603-2308	500	IL		Chicago		Ste 1700			unclassified
+2016-06-03	Cullen, Inc.		409 Jackson Pkwy	62704-1923	500	IL		Springfield					retail
+2017-06-30	Culloton	Dennis	200 E Illinois St	60611-6300	1500	IL	Public Relations Consultant	Chicago	Culloton Strategies	2405			Individual
+2018-06-30	Curran	John A.	723 7th Ave	10019-6832	2000	NY	Vice President & General MAnager	New York	Big Bus Tours				Individual
+2016-06-24	Cushing	Joseph X	420 W Huron St	60654-8475	1500	IL	Executive Vice President	Chicago	Cushing and Co				Individual
+2016-09-29	Cushing	Joseph X.	420 W Huron St	60654-8475	500	IL		Chicago					Individual
+2017-02-03	Cushing & Company		420 W Huron St	60654-8475	1500	IL		Chicago					unclassified
+2018-05-11	D&K Real Estate Service Corp		55 E Monroe St	60603-5710	500	IL		Chicago		Ste 3900			unclassified
+2017-03-31	D'Escoto	Federico	1965 N Marywood Ave	60505-1137	500	IL		Aurora					Individual
+2018-01-04	D'Onofrio	Richard	247 W Scott St	60610-5978	500	IL		Chicago		Apt 306			Individual
+2017-12-20	D.A. Realty		2664 Julian Ter	60171-1639	1000	IL		River Grove					unclassified
+2018-09-18	DEMAIO	MIKE	15 Estate Dr	60015-4861	1000	IL	Owner	Deerfield	River North Car Wash LLC				Individual
+2018-03-30	DLA Piper LLP (US)		6225 Smith Ave	21209-3635	4500	MD		Baltimore					propertyman
+2017-09-29	DOnofrio	Richard	247 W Scott St	60610-5978	950	IL		Chicago		Apt 306			Individual
+2018-03-30	Daley & Georges		20 S Clark St	60603-1835	3000	IL		Chicago		Ste 400			unclassified
+2018-09-18	Dandamudi	Rama	210 W Illinois St	60654-2686	500	IL		Chicago		Fl 2			Individual
+2018-05-14	Dandamudi	Sandya	2223 W Charleston St	60647-3208	500	IL		Chicago					Individual
+2018-05-14	Dangan, LLC DBA The Dearborn		145 N. Dearborn street	60602-1402	1000	IL		Chicago					developer
+2018-08-13	Davis	Bryan	407 Lincoln Rd	33139-3038	3000	FL	Real Estate Investor/ Developer	Miami Beach	Quadrum Global	Ste 304			Individual
+2017-03-31	De Rouin	Mike	912 W Lake St	60607-1707	200	IL		Chicago					Individual
+2018-05-14	DeMaio	Mike	15 Estate Dr	60015-4861	250	IL		Deerfield					Individual
+2017-06-16	DeVry Education Group		3005 Highland Pkwy	60515-5798	1000	IL		Downers Grove					developer
+2017-12-29	Debevic's LLC		600 W Jackson Blvd	60661-5636	5000	IL		Chicago		Ste 200			unclassified
+2016-12-22	Debevic's LLC		600 W Jackson Blvd	60661-6825	3000	IL		Chicago		Ste 200			unclassified
+2018-06-30	Deiana	Dante	450 E Waterside Dr	60601-4708	500	IL		Chicago		Unit 705			Individual
+2018-09-14	Distillers Distributing Company		680 N Lake Shore Dr	60611-4548	5000	IL		Chicago		Ste 1900			unclassified
+2018-01-26	Doerr	Pat	3023 N Clark St	60657-5200	500	IL		Chicago		# 276			unclassified
+2016-09-09	Donahue	Michael	154 W Hubbard St	60654-9225	1000	IL	Co-Founder/Chief Brand Officer	Chicago	Lyfe Kitchen	Unit 502			Individual
+2018-01-04	Donley	Patrick	3921 Rose Ave	60558-1029	1500	IL	Business Development - Construction	Western Springs	Power Construction				Individual
+2017-02-03	Donley	Patrick	130 N Garland Ct	60602-4757	1500	IL	Manager	Chicago	Power Construction	Apt 1110			Individual
+2018-09-30	Donofrio	Richard	247 W Scott St	60610-5978	200	IL		Chicago		Apt 306			Individual
+2016-06-24	Dougherty	Chris	8 W Monroe St	60603-2449	200	IL		Chicago		Apt 909			Individual
+2016-06-29	Draper and Kramer		55 E Monroe St	60603-5713	1500	IL		Chicago		Fl 39			unclassified
+2017-09-15	Draper and Kramer Incorporated		55 E Monroe St	60603-5403	1500	IL		Chicago		Ste 3900			unclassified
+2018-01-26	Duarte	Lisa	1361 N Ashland Ave	60622-2251	500	IL		Chicago		Apt 3D			Individual
+2016-06-17	Dublin #4, Inc.		345 E Ohio St	60611-3503	500	IL		Chicago		345 E. Ohio St.			financial
+2016-12-22	Duff	Tom	161 E Grand Ave	60611-3821	1750	IL	Advertising	Chicago	Optimus				unclassified
+2017-06-02	Duncan	Scott	224 S Michigan Ave	60604-2526	1000	IL	Partner	Chicago	Skidmore, Owings & Merrill LLP	Ste 1000			Individual
+2018-09-28	East Bellevue Owner, LLC		1015 N Rush St	60611-1207	1000	IL		Chicago					unclassified
+2017-09-08	Einoder	Camille	512 N McClurg Ct	60611-4178	200	IL		Chicago		Apt 4210			Individual
+2016-12-22	Entertainment Cruises		455 N Cityfront Plaza Dr	60611-5506	1500	IL		Chicago		Ste 2600			unclassified
+2017-06-16	Erie LaSalle Ventures LLC		1525 W Homer St	60642-1296	2500	IL		Chicago		Ste 401			unclassified
+2018-07-20	Essex Hotel Owner, LLC		800 S Michigan Ave	60605-2115	1500	IL		Chicago					unclassified
+2016-06-29	Essex Hotel Owner, LLC		800 S Michigan Ave	60605-7101	1666	IL		Chicago					unclassified
+2018-01-04	Ezgur	Michael	1030 W Chicago Ave	60642-5671	2000	IL	Attorney	Chicago	Acosta Ezgur, LLC	Ste 300			Individual
+2018-06-29	FRC Realty		600 W Jackson Blvd	60661-5677	5000	IL		Chicago		Ste 600			unclassified
+2016-07-22	Fado Chicago, LLC		100 W Grand Ave	60654-5206	1500	IL		Chicago		100 W. Grand Avenue			unclassified
+2018-06-30	Faier	James	566 W Adams St	60661-3632	560	IL		Chicago		Ste 600			Individual
+2018-09-14	Fair Chance Farm, Inc		680 N Lake Shore Dr	60611-4548	2500	IL		Chicago		Fl 19			retail
+2018-06-29	Fakhoury Property Management, Inc.		1010 Hillside Dr	60062-4654	1500	IL		Northbrook					propertyman
+2017-06-02	Faloon	Donald	972 Pine St	60093-2022	165	IL		Winnetka		Ste 4700			Individual
+2018-08-13	Farzad	Shane	73 E Lake St	60601-4804	400	IL		Chicago					Individual
+2018-05-11	Fidelity Consulting Group		9501 W Devon Ave	60018-4811	3000	IL		Rosemont					developer
+2016-12-22	Fidelity Consulting Group		511 Hunter Ln	60045-2788	1400	IL		Lake Forest					developer
+2017-03-31	First Hospitality Group Inc.		10275 W Higgins Rd	60018-3885	5500	IL		Rosemont		Ste 300			unclassified
+2017-06-17	Fitness Formula LTD.		619 W Jackson Blvd	60661-5606	3350	IL		Chicago					unclassified
+2017-12-29	FitzGerald Associates Architects		912 W Lake St	60607-1707	500	IL		Chicago					unclassified
+2018-03-30	Flatto	Adam	136 E 64th St	10065-7380	2500	NY	President	New York	The Georgetown Company, LLC	Apt 8E			Individual
+2018-10-29	Fletcher, O'Brien, Kasper & Nottage, PC		222 Merchandise Mart Plz	60654-1103	1087	IL		Chicago		PO Box 3590			unclassified
+2016-09-30	Flint	James	432 N Clark St	60654-4585	500	IL		Chicago		Ste 100			Individual
+2018-09-28	Flint	James W.	5060 N Marine Dr	60640-3213	250	IL		Chicago		Apt D7			Individual
+2017-09-11	Flint	James W.	436 N Clark St	60654-4517	500	IL		Chicago					Individual
+2018-06-29	Forde Law Offices, LLP		111 W Washington St	60602-2705	750	IL		Chicago		Ste 1100			propertyman
+2017-03-19	Forti	Michael	3530 N Lake Shore Dr	60657-1837	500	IL		Chicago		Apt 11B			Individual
+2018-08-13	Frank	Jim	666 Garland Pl	60016-4725	5000	IL	Executive	Des Plaines	FCE				unclassified
+2018-01-09	Frasca	Susan	400 N Wells St	60654-2760	1750	IL	President	Chicago	Kinzie Chophouse and Wine Huntress	Ste 210			Individual
+2017-12-20	Fred B. Barbara Investments		2300 S Archer Ave	60616-5426	1000	IL		Chicago					financial
+2018-09-14	Freiman	Samuel F.	400 E Randolph St	60601-7307	200	IL		Chicago		Apt 2617			Individual
+2017-06-30	Friedman	Albert	350 N Clark St	60654-4980	250	IL		Chicago		Ste 400			Individual
+2018-01-26	Friedman	Albert M	350 N Clark St	60654-4980	1500	IL	Attorney	Chicago	Friedman Properties	Ste 400			Individual
+2018-06-29	Friedman Properties		350 N Clark St	60654-4980	1000	IL		Chicago		Ste 400			propertyman
+2017-09-29	Friends of Gilbert Villegas		PO Box 390644	60639-0644	500	IL		Chicago					candidate
+2017-06-30	Fuchs	David	942 W Fisher Rd	62625-8728	200	IL		Cantrall					Individual
+2018-07-20	G-A Restaurant LLC		642 N Clark St	60654-3721	10500	IL		Chicago					retail
+2018-09-28	GNP Management Group, LLC		430 N Michigan Ave	60611-4011	5000	IL		Chicago					unclassified
+2017-09-29	GNP Management Group, LLC		430 N Michigan Ave	60611-4021	2500	IL		Chicago					unclassified
+2016-06-29	GNP Realty Partners, LLC		430 N Michigan Ave	60611-4021	500	IL		Chicago					propertyman
+2017-12-29	GNP Realty Partners, LLC		430 N Michigan Ave	60611-4078	5000	IL		Chicago					propertyman
+2017-12-08	GO Airport Express		1200 W 35th St	60609-1305	3000	IL		Chicago					unclassified
+2018-03-30	GO1NG Places, LLC		1343 N Wells St	60610-2440	1500	IL		Chicago					unclassified
+2017-06-17	Gagerman	Matthew	425 Huehl Rd	60062-2319	500	IL		Northbrook					Individual
+2018-09-30	Gagerman	Matthew	62 E Chicago Ave	60611-2026	500	IL		Chicago					Individual
+2018-03-30	Gallios	Aris	400 E Randolph St	60601-5038	3000	IL	Restaurant Owner	Chicago	Millers Pub &Restaurant	Apt 2506			Individual
+2016-09-28	Gamrath	Rob	300 N La Salle Dr	60654-3406	500	IL		Chicago					unclassified
+2018-05-11	Gamrath	Robert	1200 N Lake Shore Dr	60610-2370	250	IL		Chicago		M5-M6			Individual
+2017-03-31	Gamrath	Robert	300 N La Salle Dr	60654-3422	1500	IL	Attorney	Chicago	Self Employed - Quarles & Brady LLP	Ste 4000			Individual
+2018-03-30	Gavin	John	1000 W Adams St	60607-2931	250	IL		Chicago		Apt 310			Individual
+2018-01-04	Gavin	Paul	843 W Adams St	60607-3001	1100	IL	Finance	Chicago	ARB trading group	Apt 707			Individual
+2017-12-30	Gavin	Paul	843 W Adams St	60607-3029	500	IL		Chicago		707			Individual
+2018-07-20	Gavin	Vince	843 W Adams St	60607-3029	1000	IL	Investment Advisor	Chicago	Executive Hedge, Inc.	707			Individual
+2018-03-30	Geller Associates LLC		19 S La Salle St	60603-1423	3250	IL		Chicago		Ste 1100			unclassified
+2017-03-31	Gene & Georgetti		500 N Franklin St	60654-4669	2500	IL		Chicago					unclassified
+2017-12-08	Geneva Seal		112 E Oak St	60611-1204	1500	IL		Chicago					unclassified
+2018-06-30	George	Anthony	931 W 75th St	60565-1294	250	IL		Naperville					Individual
+2017-03-31	George	John J	709 48th St	60558-1751	1500	IL	Attorney	Western Springs	Akerman LLP	Ste 3700			Individual
+2016-06-03	George	Mary Jo	709 48th St	60558-1751	1000	IL	President	Western Springs	Circle of Friends				Individual
+2017-03-31	George	Meg	71 S Wacker Dr	60606-4637	500	IL		Chicago		Fl 46			unclassified
+2018-08-10	Georgetown Investors 1, LLC		500 Park Ave	10022-1606	1500	NY		New York		Fl 10			propertyman
+2018-01-26	Gerrie	Nancy	400 E South Water St	60601-4096	1000	IL		Chicago		Apt 4304			Individual
+2018-09-30	Ghazimoradi	Shay	420 N Clark St	60654-4502	10400	IL	President	Chicago	Washington Square Liquors, Inc				Individual
+2017-12-08	Gibsons LLC		1028 N Rush St	60611-1208	10000	IL		Chicago					unclassified
+2018-01-26	Glastris	William	1563 Sherman Ave	60201-4421	500	IL		Evanston		Ste 200			Individual
+2018-03-30	Golant	Robert	30 W Oak St	60610-8721	500	IL		Chicago					Individual
+2018-09-18	Goldman	Peter	211 N Stetson Ave	60601-7803	800	IL	Health Club Operator & Investor	Chicago	Lakeshore Sport & Fitness				Individual
+2018-05-14	Goldman	Peter	1320 W Fullerton Ave	60614-2129	250	IL		Chicago					Individual
+2017-08-02	Golub & Company LLC		625 N Michigan Ave	60611-3179	11000	IL		Chicago		Ste 2000			unclassified
+2017-02-03	Goodman	Mark	John Hancock Center 875 N. Michigan	60611	500	IL		Chicago		Ste 2710			Individual
+2016-12-22	Gordon	Brian D	48 Oxford Dr	60069-3147	5400	IL	Senior Vice President	Lincolnshire	Magellan Development Group				Individual
+2018-06-30	Gottfred	Robert B	345 N La Salle Dr	60654-6386	3000	IL	Owner	Chicago	Erie-LaSalle Body Shops	Apt 4402			Individual
+2018-01-26	Graham	Matt	535 N Michigan Ave	60611-3814	500	IL		Chicago		535 N. Michigan Avenue			Individual
+2018-01-04	Greenberg	Scott	250 Parkway Dr	60069-4340	2500	IL	Real Estate Development	Lincolnshire	SMASHotels	Ste 120			Individual
+2017-09-29	Greenberg Traurig, LLP		8400 NW 36th St	33166-6657	3000	FL		Doral		Ste 400			propertyman
+2017-06-02	Grisko	Carolyn	231 W Goethe St	60610-1809	250	IL		Chicago		Ste 400			Individual
+2018-07-20	Grossman	David	35 Shenandoah Rd	60015-4430	1900	IL	restaurant owners	Deerfield	Fresh Food Management				Individual
+2018-09-14	Group Fox, Inc		411 E Illinois St	60611-4317	20200	IL		Chicago		Ste 80			unclassified
+2017-06-16	Guevara	Eileen	1101 W Armitage Ave	60614-4155	750	IL	Associate Director	Chicago	bKL Architecture	Apt 209			Individual
+2018-06-29	HOB Entertainment, Inc.		2000 West Loop St South	77027	3000	TX		Houston		Suite 1300			retail
+2017-12-08	Harris & Harris, Ltd.		111 W Jackson Blvd	60604-4135	1500	IL		Chicago		Ste 400			unclassified
+2016-12-22	Harry Caray's Restaurant		33 W Kinzie St	60654-6333	5000	IL		Chicago					retail
+2017-06-17	Haughney	Daniel	925 Beverly Pl	60015-3443	1500	IL	Real Estate	Deerfield	LG Development				Individual
+2018-09-30	Hauser	Lynn E	950 N Michigan Ave	60611-7535	2000	IL	Retired	Chicago	none	Apt 5403			Individual
+2017-06-30	Haymes	David	640 N La Salle Dr	60654-3778	200	IL		Chicago		Ste 400			Individual
+2018-01-26	Hebson	Edmund	46 E Chicago Ave	60611-2047	500	IL		Chicago					Individual
+2017-09-22	Heffernan	Trevor	2420 S Halsted St	60608-5017	400	IL		Chicago					Individual
+2018-08-13	Heffron	Mark	1020 W Lawrence Ave	60640-5053	1500	IL	Developer	Chicago	Method Construction/ Cedar Street Co.	Ste 300			Individual
+2017-02-03	Heneghan Wrecking Company, Inc.		1321 W Concord Pl	60642-1507	3000	IL		Chicago					retail
+2017-12-29	Hines Interests Limited Partnership		1 S Dearborn St	60603-2307	3000	IL		Chicago		Ste 2000			unclassified
+2017-09-15	Hitchcock Design Group		225 W Jefferson Ave	60540-5312	1500	IL		Naperville					developer
+2016-06-24	Home Run Inn		1300 Internationale Pkwy	60517-4928	1500	IL		Woodridge					unclassified
+2018-09-14	Honeywell International PAC		101 Constitution Ave NW	20001-2133	2500	DC		Washington		Suite 500 West			unclassified
+2017-12-30	Houlihan	Michael	1100 N Lake Shore Dr	60611-1027	500	IL		Chicago		Apt 17B			Individual
+2017-06-02	Houlihan	Mike	1212 N Lake Shore Dr	60610-6680	1000	IL	Consultant	Chicago	All Circo	Apt 28CN			Individual
+2017-12-30	Hovey	Tara	630 Vernon Ave	60022-1684	1500	IL	President	Glencoe	Optima, Inc	Ste E			Individual
+2017-06-02	Hovey	Tara	401 N Wabash Ave	60611-3608	665	IL		Chicago		Unit 31I			Individual
+2018-06-30	Howlett	Michael	300 N State St	60654-3034	155	IL		Chicago		Apt 3833			Individual
+2016-12-22	Hub 51		51 W Hubbard St	60654-4603	2500	IL		Chicago					unclassified
+2017-06-30	Huge	Lindsay	4925 N Magnolia Ave	60640-3506	1150	IL		Chicago					Individual
+2016-09-09	Hyatt Shared Service Center Hyatt Regency Chicago		830 City Ave	73160-3806	5250	OK		Moore					unclassified
+2018-08-10	I.U.O.E. Local 150 Local Area Political Action Committee		6200 Joliet Rd	60525-3992	9500	IL		Countryside					union
+2016-06-03	Illinois BankPac		524 S 2nd St	62701-1749	250	IL		Springfield		Ste 600			retail
+2017-06-02	Illinois Hospital Association		700 S 2nd St	62704-2516	2000	IL		Springfield					unclassified
+2017-08-02	Illinois Hotel-Motel PAC		5 Lawrence Sq	62704-2585	10000	IL		Springfield		Ste A			union
+2018-03-30	Illinois Merchants PAC		19 S La Salle St	60603-1448	1000	IL		Chicago		Ste 300			retail
+2017-12-20	Illinois Realtors		PO Box 19451	62794-9451	5000	IL		Springfield					unclassified
+2018-06-29	Illinois Restaurateurs PAC		33 W Monroe St	60603-5327	4500	IL		Chicago		Ste 250			union
+2016-06-24	Illinois State AFL-CIO COPE		534 S 2nd St	62701-1762	500	IL		Springfield					union
+2018-09-14	Illinois State AFL-CIO COPE		534 S 2nd St	62701-1764	750	IL		Springfield		Ste 200			union
+2017-12-29	Infusion Management Group, Inc.		737 N Michigan Ave	60611-6653	3000	IL		Chicago		Ste 1520			financial
+2018-05-11	Interforum Holdings, Inc.		550 W Frontage Rd	60093-1221	1000	IL		Northfield		Ste 3700			retail
+2018-09-14	Ironworkers District Council of Chicago & Vicinity - P.A.C.		2700 S River Rd	60018-4104	1500	IL		Des Plaines		Ste 118			union
+2018-09-14	Ironworkers Local Union #1		7720 Industrial Dr	60130-2520	3000	IL		Forest Park					union
+2018-07-20	Italian Village		71 W Monroe St	60603-4910	4500	IL		Chicago					unclassified
+2018-08-10	Italian Wine Bar-626 N. State, LLC		1050 N State St	60610-7829	5000	IL		Chicago					propertyman
+2018-05-14	Ivey	Brandon	11128 John Galt Blvd	68137-6309	250	NE		Omaha					Individual
+2018-06-29	JB at River North LLC		149 W Kinzie St	60654-4514	1000	IL		Chicago					unclassified
+2017-12-20	JD Sales, Inc DBA James DeLeo & Associates		221 N La Salle St	60601-1509	1000	IL		Chicago		Ste 3800			retail
+2017-06-17	JDL Development LLC		11 E Walton St	60611-5442	10000	IL		Chicago					developer
+2016-06-24	JPMorgan Chase & Co. PAC		601 Pennsylvania Ave NW	20004-2601	1500	DC		Washington		Fl 7			unclassified
+2016-12-22	James DeLeo & Associates		221 N La Salle St	60601-1509	1500	IL		Chicago		Ste 3800			unclassified
+2017-12-20	James McHugh Construction Co.		1737 S Michigan Ave	60616-1211	3000	IL		Chicago					construction
+2018-09-18	Javors	Jay	520 W Erie St	60654-7110	5500	IL	Real estate	Chicago	Midwest property group ltd	Ste 430			unclassified
+2017-09-29	Johnson	Michael R.	17 N State St	60602-3293	200	IL		Chicago		Ste 1700			Individual
+2017-02-03	Julmy	Camille P	20 N Michigan Ave	60602-4828	500	IL		Chicago		Ste 400			Individual
+2017-09-29	Julmy	Camille P	540 N State St	60654-7230	250	IL		Chicago		Apt 5306			Individual
+2017-09-29	Jupiter Realty Company, LLC		401 N Michigan Ave	60611-4271	12000	IL		Chicago		Ste 1300			unclassified
+2018-09-18	Kadow Dougherty	Christine	8 W Monroe St	60603-2432	200	IL		Chicago		No 909			Individual
+2017-06-21	Kadow-Dougherty	Chris	8 W Monroe St	60603-2449	200	IL		Chicago		Apt 909			Individual
+2018-06-30	Kallas	James	216 W Diversey Ave	60126-1104	1500	IL	Division President	Elmhurst	Compass Group				Individual
+2018-03-30	Kalsi	Rahul	630 N State St	60654-5553	500	IL		Chicago		Apt 1806			Individual
+2018-06-30	Kaminski	Ronald	921 W Van Buren St	60607-3542	1500	IL	Owner	Chicago	HBK Engineering, LLC				Individual
+2018-09-21	Kaplan	Richard	350 N La Salle Dr	60654-5136	200	IL		Chicago		Ste 800			Individual
+2018-01-08	Karavites	Nicholas	1141 Tower Rd	60093-1851	10000	IL	Owner	Winnetka	McDonalds				Individual
+2017-09-11	Kay	Greg	1718 W Fullerton Ave	60614-1922	1000	IL	President	Chicago	Lightology/PureEdge Lighting				Individual
+2018-08-10	Keifer	Regina F	155 N Harbor Dr	60601-5000	500	IL		Chicago		Apt 1509			Individual
+2017-03-31	Kelly	Kim	225 N Columbus Dr	60601-7981	200	IL		Chicago		Ste 100			unclassified
+2018-09-21	Kerwin	Thomas	225 N Columbus Dr	60601-7981	1000	IL		Chicago		Ste 100			Individual
+2017-06-30	Khowaja	Karim	150 Yost Ave	60068-5550	200	IL		Park Ridge					Individual
+2018-06-29	Kicherer	Eric	5521 N Wayne Ave	60640-1318	2000	IL	Senior Advisor	Chicago	Flying Concessions				Individual
+2018-01-05	Kiley	Roger J.	130 N Garland Ct	60602-4856	3500	IL	Attorney	Chicago	Self Employed	Apt 4904			Individual
+2018-01-04	Kins	Arnis	530 N Lake Shore Dr	60611-7430	2700	IL	M&A advisory	Chicago	Cookma Advisory Services	Apt 1605			Individual
+2018-09-18	Kolata	David	2432 W Iowa St	60622-4607	1450	IL		Chicago					Individual
+2017-12-30	Kutrumanes	Dean	430 N Michigan Ave	60611-4011	2000	IL	CEO	Chicago	GNP Realty Partners				Individual
+2018-09-18	Kutrumanes	Dean	430 N Michigan Ave	60611-4073	1000	IL	Principal/CEO	Chicago	GNP Realty Partners	Frnt 2			Individual
+2018-07-20	L3 Capital LLC		410 N Michigan Ave	60611-4241	3000	IL		Chicago		Ste 850			financial
+2017-03-31	LEVI	Chuck	19 SOUTH WABASH IWAN RIES & CO	60603	250	IL		Chicago					Individual
+2017-09-08	LG Development		2234 W North Ave	60647-5443	11000	IL		Chicago					developer
+2017-12-30	LSC Development, LLC		777 Lake Zurich Rd	60010-3118	5000	IL		Barrington		Ste 200			developer
+2016-06-24	LaSalle Hotel Operating Partnership, L.P.		7550 Wisconsin Ave	20814-3573	1500	MD		Bethesda		Fl 10			unclassified
+2016-06-24	Labriola Cafe - Michigan Ave., LLC		3021 Butterfield Rd	60523-1172	1500	IL		Oak Brook					unclassified
+2018-09-30	Lahey	John	1500 W Sunnyside Ave	60640-5906	4000	IL	Architect	Chicago	Solomon Cordwell Buenz	Ste 800			Individual
+2018-05-14	Lampert	Lester	7 E Huron St	60611-2290	500	IL		Chicago					Individual
+2018-09-30	Landers	Gale	619 W Jackson Blvd	60661-5606	1000	IL		Chicago					Individual
+2017-12-30	Lawless	Billy	24 S Michigan Ave	60603-3301	4000	IL	Restauratuer	Chicago	The Gage				Individual
+2018-01-26	Leopardo	Gary M	333 W Wacker Dr	60606-2217	1000	IL	Vice President	Chicago	Leopardo Companies, Inc.	Ste 250			Individual
+2018-06-29	Leopardo Companies, Inc.		333 W Wacker Dr	60606-2217	1500	IL		Chicago					retail
+2017-08-02	LesterLampert, Inc.		57 E Oak St	60611-1201	1000	IL		Chicago					retail
+2018-09-30	Letchinger	James	9 W Walton St	60610-7324	5000	IL	CEO	Chicago	JDL Development				Individual
+2016-06-24	Letchinger	James	11 E Walton St	60611-5442	5000	IL	Principal	Chicago	JDL Development, LLC				Individual
+2018-09-18	Lev	Fred	111 E Chestnut St	60611-6030	250	IL		Chicago		Apt 52H			Individual
+2018-09-18	Levin	Donald	2301 Ravine Way	60025-7627	25000	IL	Executive	Glenview	DRL Enterprises				Individual
+2017-03-31	Levy	Lawrence	444 N Michigan Ave	60611-3902	4500	IL	Manager	Chicago	Levy Restaurants	Ste 3500			Individual
+2018-06-30	Levy	Lawrence F.	444 W Lake St	60606-0098	1000	IL	Executive	Chicago	Levy Family Partners	Ste 1900			Individual
+2017-09-29	Levy	Lawrence F.	444 N Michigan Ave	60611-3902	1000	IL	Manager	Chicago	LFP Management LLC	Ste 3500			Individual
+2018-01-26	Lewin	David	175 W Jackson Blvd	60604-2615	250	IL		Chicago		1404			Individual
+2017-06-02	Lewin	David	400 E Ohio St	60611-3322	250	IL		Chicago		1404			Individual
+2016-06-17	Lewin	David M.	400 E Ohio St	60611-4609	250	IL		Chicago		Apt 1404			Individual
+2018-05-14	Lewin Law Group PC		175 W Jackson Blvd	60604-2827	250	IL		Chicago					developer
+2017-09-11	Lewin Law Group PC		400 E Ohio St	60611-4609	250	IL		Chicago		Apt 1404			developer
+2018-06-30	Lewno	Jeremy	926 Forest Ave	60305-1360	1805	IL	Self Employed	River Forest	Cosmopolitan Bob Enterprises LLC				Individual
+2016-10-28	Lightology, LLC		1718 W Fullerton Ave	60614-1922	3000	IL		Chicago					unclassified
+2016-12-22	Linnane	Sean	1843 Hackberry Ln	60045-3517	5400	IL	Senior Vice President	Lake Forest	Magellan Development				Individual
+2016-06-24	Live Nation Worldwide		9348 Civic Center Dr	90210-3642	1500	CA		Beverly Hills					unclassified
+2017-09-29	Lizzie McNeill's		400 N McClurg Ct	60611-4323	1000	IL		Chicago					unclassified
+2016-10-28	Lizzie McNeill's		1058 W Albion Ave	60626-4612	3000	IL		Chicago					unclassified
+2018-03-30	Local #399 Political Education Fund		2260 S Grove St	60616-1823	2250	IL		Chicago		2260 S. Grove Street			union
+2018-06-29	Local 134 - PAC IBEW		2722 S Dr Martin Luther King Jr Dr	60616	2500	IL		Chicago					union
+2017-12-20	Local 134 - PAC IBEW		600 W Washington Blvd	60661-2491	3000	IL		Chicago					union
+2017-02-03	Lodge Management Group		8 W Division St	60610-2217	5500	IL		Chicago		Ste 200			propertyman
+2018-07-20	Lodge Management Group		8 W Division St	60610-2979	6250	IL		Chicago		Ste 200			propertyman
+2016-12-22	Loewenberg	James	179 E Lake Shore Dr	60611-1340	5400	IL	Co-CEO	Chicago	Magellan Development	Unit 22W			Individual
+2016-12-22	Loewenberg	Nancy	179 E Lake Shore Dr	60611-1900	5400	IL	Homemaker	Chicago	None	Unit 22W			Individual
+2018-09-21	LondonHouse Chicago LeaseCo, LLC		85 E Wacker Dr	60601-3703	6500	IL		Chicago					unclassified
+2016-06-03	Lowder	John	2301 Dunwich Dr	62702-3140	250	IL		Springfield					Individual
+2018-06-30	Lubeznik	Rod	1575 Adler Cir	46368-6408	5000	IN	CEO	Portage	Restaurant Management Corp.	Ste C			unclassified
+2017-09-22	Lund	Brian	430 W Erie St	60654-6918	500	IL		Chicago		Ste 400			Individual
+2016-06-24	Lynch	Brian	300 N State St	60654-3051	200	IL		Chicago		Apt 2809			Individual
+2017-03-31	M&R Development, L.L.C.		1 N Franklin St	60606-3422	3500	IL		Chicago		Ste 700			developer
+2016-06-29	MD's & We're Not Doctor's Inc. d/b/a Pizano's Pizza & Pasta		864 N State St	60610-8691	5000	IL		Chicago					retail
+2016-06-03	Macerich		500 N Michigan Ave	60611-3702	1500	IL		Chicago		Ste 550			unclassified
+2016-06-24	Magellan Development Group LLC		225 N Columbus Dr	60601-5228	3300	IL		Chicago		Ste 100			developer
+2018-03-30	Maher	John	1536 W Augusta Blvd	60642-3911	200	IL		Chicago		Apt 3			Individual
+2017-12-30	Malnati	Marc	850 W Adams St	60607-3096	3600	IL	Owner	Chicago	Malnati Organization	Apt 5A			Individual
+2017-12-30	Mancuso	Robert	833 N Clark St	60610-3425	1500	IL	Automobile Dealer	Chicago	Mancuso Motorsports	Unit 3001			Individual
+2017-03-17	Mann	Molly	2836 N Greenview Ave	60657-4040	5000	IL	Partner	Chicago	Lettuce Entertain You Enterprises				Individual
+2018-06-29	Maragos & Maragos, Ltd.		1 N La Salle St	60602-3912	6000	IL		Chicago		Ste 2200			unclassified
+2017-12-20	Maren Ronan Ltd		2915 N Clybourn Ave	60618-8281	250	IL		Chicago		Unit 417			unclassified
+2018-01-26	Marienthal	David	2200 N Leavitt St	60647-3204	500	IL		Chicago		# 3			Individual
+2016-06-03	Marks	George	600 W Jackson Blvd	60661-5680	2500	IL	President	Chicago	Mark IV Realty Group	Ste 615			Individual
+2016-06-03	Marks	Michael J.	2231 N Clybourn Ave	60614-3011	2500	IL	Senior Director	Chicago	Cushman & Wakefield				Individual
+2016-09-29	Martineau	Suzanne	2432 W Iowa St	60622-4607	250	IL		Chicago					Individual
+2017-09-22	Maurer	Myron	0S 352 Park St	60190	500	IL		Wing					Individual
+2018-09-18	Maurer	Myron	222 Merchandise Mart Plz	60654-1103	750	IL		Chicago					Individual
+2018-09-21	McCaffery Interests, Inc		875 N Michigan Ave	60611-1818	1000	IL		Chicago		Ste 1800			retail
+2016-06-03	McClain	Michael F.	701 Broadway St	62301-2708	250	IL		Quincy					Individual
+2017-02-03	McDonald	John & JoAnne	195 N Harbor Dr	60601-7529	500	IL		Chicago		Apt 1803			Individual
+2018-09-28	McKeaney	Lyn	1360 N Dearborn St	60610-2006	500	IL		Chicago		Lodge Management Group			unclassified
+2018-09-18	McKeaney	Lyn Z.	8 W Division St	60610-2979	2000	IL	President	Chicago	Lodge Managment Group	Ste 200			Individual
+2018-05-11	McKnight, Kitzinger, & Pravdic LLC		117 N Jefferson St	60661-2341	1000	IL		Chicago		Ste 301			unclassified
+2016-06-03	McLaughlin	Ryan	216 Broadway	62701-1125	250	IL		Springfield					Individual
+2018-08-10	McLinden	John T	909 Old Green Bay Rd	60093-1708	1500	IL	Managing Partner	Winnetka	Hubbard Street Group				Individual
+2018-06-30	McNeill	Brendan F	345 E Ohio St	60611-3375	2500	IL	Restaurant Owner	Chicago	D4 Irish Pub				Individual
+2017-12-30	McNeill	Brendan F	345 E Ohio St	60611-3503	500	IL		Chicago		Ste 1			Individual
+2018-09-18	McNeill	Brendan F	441 N McClurg Ct	60611-4327	1500	IL		Chicago					Individual
+2017-03-31	Mega Consulting, Inc.		1500 Fox Path Ct	60192-4523	500	IL		Hoffman Estates					retail
+2018-01-26	Meghie	Carrie	230 N Michigan Ave	60601-5906	2500	IL	Owner	Chicago	Becker Ventures	Fl 37			Individual
+2016-12-22	Melman	Martha	21 Locust Rd	60093-3725	5000	IL	Owner	Winnetka	Lettuce Entertain You Enterprises				Individual
+2018-09-14	Melman	Richard	5419 N Sheridan Rd	60640-1964	100000	IL	Founder & Chairman of the Board	Chicago	Lettuce Entertain You Enterprises				Individual
+2018-06-29	Mercury Sightseeing Boats Inc.		PO Box 68	60078-0068	3500	IL		Palatine					retail
+2017-02-03	Mesi	Philip	908 S Maple St	60056-4338	500	IL		Mount Prospect					Individual
+2016-06-24	MetraMarket Management, LLC		20 N Michigan Ave	60602-4828	1500	IL		Chicago		Ste 400			propertyman
+2017-03-17	Metropolitan Chicago Stadium Enterprises, Inc.		680 N Lake Shore Dr	60611-4546	1100	IL		Chicago					realestate
+2018-09-14	Metropolitan Chicago Stadium Enterprises, Inc.		680 N Lake Shore Dr	60611-4548	5000	IL		Chicago		Ste 1900			realestate
+2017-03-31	Michael R. Johnson PC		17 N State St	60602-3293	200	IL		Chicago		Ste 1700			unclassified
+2017-12-20	Mid-America Asset Management, Inc.		1 Parkview Plz	60181-4400	750	IL		Oakbrook Terrace		Fl 9			financial
+2017-12-20	Mid-America Real Estate Corp.		1 Parkview Plz	60181-4400	750	IL		Oakbrook Terrace		Fl 9			unclassified
+2018-09-14	Millennium Advisors, LLC		321 N Clark St	60654-4769	250	IL		Chicago		Ste 500			unclassified
+2018-09-21	MillerCoors		PO Box 482	53201-0482	4500	WI		Milwaukee					unclassified
+2018-03-30	Minaghan	Mary Kay	308 Circle Ave	60130-1610	3000	IL	President	Forest Park	MKM Services				Individual
+2018-01-05	Mizrachi	Adam	110 E 59th St	10022-1319	5000	NY	Real Estate	New York	Third Millennium Group	Rm 3201			Individual
+2017-02-03	Mizrachi	Joseph	540 W Madison St	60661-2513	1000	IL	Manager	Chicago	JLL	Ste 120			Individual
+2018-06-29	Moes River North, LLC		155 W Kinzie St	60654-4514	1000	IL		Chicago					unclassified
+2017-06-16	Moskus	Carl	4557 Woodland Ave	60558-1560	750	IL	Architect	Western Springs	bKL Architecture				Individual
+2018-07-20	Motorola Solutions		PO Box 68429	60168-0429	2500	IL		Schaumburg					unclassified
+2016-12-22	Mullen	Michael	1340 Ridgewood Dr	60062-3727	5000	IL	Semi-retired	Northbrook	Self				Individual
+2018-09-21	National Association of Realtors		430 N Michigan Ave	60611-4087	30500	IL		Chicago					realestate
+2018-01-26	Neal	Langdon	120 N La Salle St	60602-2465	2100	IL	Attorney	Chicago	Neal & Leroy, LLC	Ste 2600			Individual
+2018-09-30	Nelson	David B	146 Evergreen Ln	60093-3700	1000	IL	Portfolio Manager	Winnetka	DRW Holdings				Individual
+2016-06-24	Nelson	Jerry Lee	300 N State St	60654-5455	200	IL		Chicago		Apt 3801			Individual
+2018-05-14	Nelson	Kay	1 Parkview Plz	60181-4400	500	IL		Oakbrook Terrace		Fl 9			unclassified
+2016-06-03	New York Jewelers, Inc.		11 N Wabash Ave	60602-4717	1500	IL		Chicago					unclassified
+2017-06-02	Nicolay	John D	680 N Green St	60642-6083	250	IL		Chicago		# 680			Individual
+2018-07-20	Nicolay & Dart, LLC		121 W Wacker Dr	60601-1781	1500	IL		Chicago		Ste 1108			unclassified
+2018-06-29	Nicolay & Dart, LLC		980 N Michigan Ave	60611-7505	2500	IL		Chicago		Ste 1900			unclassified
+2016-06-24	Nitzberg	Stan	435 N Michigan Ave	60611-4066	1500	IL	Principal	Chicago	Mid-America Real Estate Corporation	Ste 2009			Individual
+2018-09-28	Nitzberg	Stanley	410 N Michigan Ave	60611-4213	500	IL		Chicago		Ste 1100			Individual
+2018-06-29	Nixon Peabody		70 W Madison St	60602-4224	1500	IL		Chicago		Ste 3500			unclassified
+2018-08-10	No. 7 - Zimmies, Inc.		22 E Bellevue Pl	60611-1111	1000	IL		Chicago		22 E. Bellevue Pl.			financial
+2017-09-22	Nora	Peter	332 S Michigan Ave	60604-4434	750	IL		Chicago		Ste 1120			Individual
+2016-09-30	Norfolk Southern Corporation		111 W Washington St	60602-2733	750	IL		Chicago		Ste 1120			financial
+2018-07-20	North Riverside Corporation		5215 Old Orchard Rd	60077-1094	4000	IL		Skokie		Ste 880			financial
+2017-08-02	Nunes	Marcus	7148 N Osceola Ave	60631-1047	250	IL		Chicago					Individual
+2016-06-03	O'Brien	Erin	300 W Grand Ave	60654-7861	250	IL		Chicago		Apt 311			Individual
+2017-12-30	O'Connor	Meredith L.	200 E Randolph St	60601-6436	2000	IL	Realtor	Chicago	JLL	200 East Randolph Street			Individual
+2018-08-10	O'Donnell	John	100 N Riverside Plz	60606-1532	11000	IL	CEO	Chicago	Riverside Investment & Development CO	Ste 2150			Individual
+2017-09-29	O'Malley	William S	1903 Schiller Ave	60091-2300	200	IL		Wilmette		Apt 2			Individual
+2016-06-24	OOS Investments LLC		1115 W Grand Ave	60642-5881	500	IL		Chicago					financial
+2016-06-29	OQ 168 NM Holdco, LLC		350 W Hubbard St	60654-5798	1666	IL		Chicago					propertyman
+2017-12-08	Oak Street Council		109 E Oak St	60611-1202	1500	IL		Chicago					union
+2016-06-29	Onni Contracting (Chicago), Inc.		200 N La Salle St	60601-1043	500	IL		Chicago		Ste 300			realestate
+2016-09-30	Opie	Brett	1479 N Clybourn Ave	60610-7220	250	IL		Chicago		Unit D			Individual
+2018-05-11	Optima Center Chicago II, LLC		630 Vernon Ave	60022-1684	2500	IL		Glencoe		Ste E			unclassified
+2018-01-26	Optimus		161 E Grand Ave	60611-3821	3000	IL		Chicago					unclassified
+2017-06-02	Ott	Philip M.	500 W Superior St	60654-8151	200	IL		Chicago		Unit 2308			Individual
+2018-08-10	Owen	Jeffrey	334 Ridge Ave	60093-3842	500	IL		Winnetka					Individual
+2016-06-29	Oxford 127 Huron Hotel Venture, LLC		350 W Hubbard St	60654-6900	1666	IL		Chicago		Ste 440			propertyman
+2017-12-20	PCG Consulting Inc.		100 N La Salle St	60602-3507	1000	IL		Chicago		Ste 510			retail
+2016-06-24	Pacific Langham Chicago Corp		330 N Wabash Ave	60611-3514	1500	IL		Chicago		330 N Wabash Ave			unclassified
+2018-08-10	Pacific Langham Chicago Corp		330 N Wabash Ave	60611-7768	1500	IL		Chicago		Lbby 1			unclassified
+2018-03-30	Park One Inc.		65 E Harrison St	60605-1614	5500	IL		Chicago					financial
+2017-12-20	Parrillo	Richard	1313 NW 167th St	33169-5739	1000	FL	CEO	Miami Gardens	United Automobile Insurance Group, Inc.				Individual
+2018-09-28	Parrinello	Vince	1139 W Schubert Ave	60614-1308	500	IL		Chicago					Individual
+2018-01-26	Parthe	Mary	104 S Michigan Ave	60603-5958	500	IL		Chicago		Ste 500			Individual
+2018-09-18	Patterson	Devon G.	2735 W Windsor Ave	60625-3821	250	IL		Chicago					Individual
+2016-09-30	Peoples Energy PAC		130 E Randolph St	60601-6207	250	IL		Chicago		Fl 18			unclassified
+2018-05-11	Pepsico		555 W Monroe St	60661-3605	4000	IL		Chicago		Ste 16-2			unclassified
+2018-09-14	Perillo BMW, Inc.		1035 N Clark St	60610-2809	7000	IL		Chicago					retail
+2017-09-22	Pfahler	Florian	116 N Aberdeen St	60607-2004	200	IL		Chicago		116 N. Abderdeen			Individual
+2017-12-29	Pfizer Inc		6730 Lenox Center Ct	38115-4289	500	TN		Memphis					retail
+2017-09-22	Pikat	Eero	111 W Wacker Dr	60601-1666	200	IL		Chicago		Apt 4210			Individual
+2018-06-30	Pinkowski	Carey	135 S La Salle St	60603-3331	1500	IL	Executive Race Director	Chicago	Bank of America Chicago Marathon	Ste 1160			Individual
+2016-06-03	Pivot Design		321 N Clark St	60654-4768	5000	IL		Chicago		Ste 600			unclassified
+2017-02-03	Plati	Enrico	110 E Delaware Pl	60611-1481	1000	IL		Chicago					Individual
+2017-02-03	Platt	Gary	1 S Franklin St	60606-4611	1000	IL	General Manager	Chicago	La Quinta Hotels				Individual
+2017-09-18	Plonka	Joseph	2528 N Fairfield Ave	60647-1808	250	IL		Chicago					Individual
+2018-09-30	Porcelli	Charles	55 E Erie St	60611-2260	200	IL		Chicago		Apt 4401			Individual
+2017-12-08	Portillo's Hot Dogs, LLC		2001 Spring Rd	60523-1903	1500	IL		Oak Brook		Ste 400			unclassified
+2016-12-22	Portillo's Hot Dogs, LLC		2001 Spring Rd	60523-3930	3000	IL		Oak Brook		Ste 500			unclassified
+2018-03-30	Power	Thomas M.	530 N Lake Shore Dr	60611-7430	2500	IL	Attorney	Chicago	Power,Rogers&Smith	Apt 1601			Individual
+2018-09-28	Prada	Philip	405 N Wabash Ave	60611-3529	1400	IL	Consultant	Chicago	Prada Governmental Solutions, Inc	Unit 5002			Individual
+2018-06-29	Prairie Management & Development, Inc.		333 N Michigan Ave	60601-3981	10000	IL		Chicago		Ste 1700			unclassified
+2018-09-28	Prestige Restaurant, Inc.		619 W Randolph St	60661-2203	500	IL		Chicago					retail
+2018-01-26	Preuett	Ryan J.	154 W Hubbard St	60654-8933	1250	IL	Real Estate Broker	Chicago	Jameson Sotheby's International Real Estate	Unit 304			Individual
+2016-12-22	Pugh	Donna	57 E Delaware Pl	60611-1619	250	IL		Chicago		Apt 2105			Individual
+2016-12-22	RPM Italian		52 W Illinois St	60654-4805	2500	IL		Chicago					unclassified
+2016-12-22	RPM Steak		66 W Kinzie St	60654-4627	2500	IL		Chicago					unclassified
+2017-03-19	Raizin	Lou	17 N State St	60602-3047	1000	IL	President	Chicago	Broadway In Chicago	Ste 810			unclassified
+2017-03-31	Rany Management		1950 W Montrose Ave	60613-1036	1000	IL		Chicago					propertyman
+2017-12-08	Razny Jewelers		1501 W Lake St	60101-6704	1500	IL		Addison					unclassified
+2018-06-29	Realtor Political Action Committee		PO Box 19451	62794-9451	9000	IL		Springfield					union
+2017-12-30	Rehayem	Roger	921 W Van Buren St	60607-3571	1500	IL	President	Chicago	HBK Engineering, LLC	Ste 100			Individual
+2018-07-09	Reilly	Brendan	222 W Erie St	60654-4839	100005	IL	Alderman	Chicago	City of Chicago	Apt 2501			Individual
+2018-05-14	Remer	Marc	166 W Washington St	60602-3589	200	IL		Chicago		Ste 750			Individual
+2017-06-16	Rench	Jennifer	811 N Wheaton Ave	60187-4136	1000	IL	Executive Account Manager/Vice President	Wheaton	Chicago Title Insurance Company				Individual
+2018-09-14	Reyes Kurson		328 S Jefferson St	60661-5634	500	IL		Chicago		Ste 909			unclassified
+2018-06-30	Rhoads	Alicia	1360 N Dearborn St	60610-2006	2060	IL	Executive Administrator	Chicago	Lodge Management Group	Lodge Management Group			Individual
+2018-01-05	Rhoads	Alicia	8 W Division St	60610-2979	2500	IL	Executive Administrator	Chicago	Lodge Managment Group	Ste 200			Individual
+2016-06-24	Rich	Trisha	1416 W Belmont Ave	60657-2111	250	IL		Chicago		Unit 201			Individual
+2016-06-24	Riley	James V.	PO Box 833	53147-0833	1500	WI	Retired	Lake Geneva	Retired				Individual
+2017-09-22	Riley	James V.	1500 N Lake Shore Dr	60610-6686	2000	IL	Retired	Chicago	Retired				Individual
+2018-06-30	Riley	Jim	1500 N Lake Shore Dr	60610-6686	1500	IL	Retired	Chicago	Retired	# 1C			unclassified
+2016-06-17	River North Hand Car Wash & Detailing, LLC		356 W Superior St	60654-3416	1000	IL		Chicago					unclassified
+2018-07-20	Riverside Investment & Development Company.		100 N Riverside Plz	60606-1532	10000	IL		Chicago		Ste 2150			developer
+2016-06-24	Riverside Investment & Development Company.		155 N Wacker Dr	60606-1774	10000	IL		Chicago		Ste 1690			developer
+2017-09-11	Robinson	Joey	630 W 41st St	60609-2642	500	IL		Chicago		Unit B			Individual
+2017-12-30	Rocha	Alicia	2952 N Stemmons Fwy	75247-6113	1500	TX	Executive	Dallas	Texas De Brazil	Apt 902			Individual
+2018-06-30	Roman	Rick	737 N Michigan Ave	60611-6653	1500	IL	CEO/Chairman	Chicago	The Signature Room at the 95th	Ste 1520			Individual
+2016-07-22	Ronan	John	420 W Huron St	60654-8475	300	IL		Chicago		420 W. Huron St.			Individual
+2017-12-20	Rooney	Phillip B	348 E 3rd St	60521-4242	1000	IL	Retired	Hinsdale	Retired				Individual
+2016-06-03	Roseberry	Tim	3361 S 1st St	62703-4601	250	IL		Springfield					unclassified
+2017-06-17	Rosenwasser	Sam	11 N Wabash Ave	60602-4717	1500	IL	President	Chicago	New York Jewelers				unclassified
+2018-03-30	Ross	Neil	950 N Michigan Ave	60611-7535	1000	IL	Retired	Chicago	Retired	Apt 5403			Individual
+2017-03-31	Ross	Stephen C	1060 Hohlfelder Rd	60022-1017	450	IL		Glencoe					Individual
+2018-06-29	Rossenwasser	Sam	11 N Wabash Ave	60602-4717	1500	IL	President	Chicago	New York Jewelers				unclassified
+2017-09-29	Rossi's Liquors, Inc.		412 N State St	60654-5608	1000	IL		Chicago					retail
+2018-03-02	Roszak	Thomas	116 W Illinois St	60654-2732	1500	IL	architect/developer	Chicago	Thomas Roszak Architecture	Ste 5E			Individual
+2018-09-14	Ruberry	Patrick J	1306 W Wrightwood Ave	60614-1226	4000	IL	Attorney	Chicago	Litchfield Cavo, LLP	Unit 2			Individual
+2017-02-03	Russell	Dan	455 N Cityfront Plaza Dr	60611-5506	500	IL		Chicago		Ste 2600			unclassified
+2018-01-26	Ryan	Jim	1 S Dearborn St	60603-2308	1000	IL	SVP, Corporate Affairs	Chicago	Constellation Brands, Inc.	Ste 1700			unclassified
+2017-12-08	SP Plus Corp		200 E Randolph St	60601-7702	1500	IL		Chicago		Ste 7700			unclassified
+2018-01-05	Salvi	Patrick	468 W Huron St	60654-3495	2500	IL	Attorney	Chicago	Salvi, Schostok & Pritchard PC				Individual
+2017-09-22	Sarwar	S. Saleem	412 N Clark St	60654-4750	3000	IL	Owner/M.D	Chicago	Havana restaurant/ Emery medical center				Individual
+2018-09-14	Sauk Development		680 N Lake Shore Dr	60611-4548	8900	IL		Chicago		Fl 19			developer
+2017-09-29	Scadron Outdoor Advertising		1015 W Grand Ave	60642-6677	500	IL		Chicago		Ste 2			unclassified
+2017-06-30	Scadron Outdoor Advertising		1015 W Grand Ave	60642-6692	2000	IL		Chicago					unclassified
+2017-02-03	Schain	Jerome	70 W Madison St	60602-4379	1000	IL	Attorney	Chicago	Schain Banks Kenny & Schwartz	Ste 5300			Individual
+2016-06-24	Schain Banks Kenny & Schwartz		70 W Madison St	60602-4379	250	IL		Chicago		Ste 5300			unclassified
+2018-09-18	Schapira	Samuel	500 N Michigan Ave	60611-3777	1500	IL	Owner	Chicago	500 N Michigan Ave				Individual
+2016-09-29	Schreiber	Michael	410 N Michigan Ave	60611-4213	1000	IL	Real Estate	Chicago	L3 Capital LLC	Ste 850			Individual
+2018-09-18	Schreyer	Lauren	55 E Erie St	60611-2799	1000	IL		Chicago		Apt 1504			Individual
+2016-09-30	Schreyer & Associates		55 E Erie St	60611-2799	500	IL		Chicago		Apt 1504			unclassified
+2016-12-22	Schwengel	Kristopher T	1 Blanchard Cir	60010-9515	5400	IL	Senior Vice President of Construction	South Barrington	Magellan				Individual
+2017-03-19	Seidman	AJ	400 E South Water St	60601-4094	200	IL		Chicago		Apt 4107			unclassified
+2017-12-20	Service Employees Local 1 Political Education Committee		111 E Wacker Dr	60601-3713	1500	IL		Chicago		Fl 25			union
+2018-06-30	Shah	Keyur	400 N Orleans St	60654-4406	500	IL		Chicago		Unit 4C			Individual
+2018-08-13	Shapack	Jeff	917 W Washington Blvd	60607-2203	1500	IL	Executive	Chicago	Shapack Partners	308			Individual
+2018-03-30	Shapack Partners		917 W Washington Blvd	60607-2203	1500	IL		Chicago		Ste 308			propertyman
+2018-01-26	Shoffner	Robin	233 E 13th St	60605-3247	950	IL		Chicago		Apt 1109			Individual
+2016-06-29	Shoreline Marine Company		474 N Lake Shore Dr	60611-6479	2500	IL		Chicago		Apt 3511			unclassified
+2018-07-20	Shoreline Sightseeing		474 N Lake Shore Dr	60611-6479	8500	IL		Chicago		Apt 3511			unclassified
+2017-12-08	Sianis	Sam A.	826 Park Plaine Ave	60068-2224	1500	IL	Proprietor	Park Ridge	Billy Goat Tavern and Grill				Individual
+2017-09-29	Sianis	Sam A.	430 N Michigan Ave	60611-4011	1000	IL		Chicago		Lower Level			Individual
+2016-09-30	Siegel & Moses , P.C.		444 N Michigan Ave	60611-3903	500	IL		Chicago		Ste 2600			unclassified
+2018-06-29	Siegel & Moses , P.C.		8700 W Bryn Mawr Ave	60631-3512	9000	IL		Chicago		Ste 720N			unclassified
+2017-02-03	Signh	Alpana	55 e bellvue	60605-2121	500	IL		Chicago					Individual
+2016-06-24	Silverman	Howard Scott	11 E Walton St	60611-5442	5000	IL	Investor	Chicago	Agman				Individual
+2017-02-07	Simon	Richard A.	1550 S Indiana Ave	60605-2857	2000	IL	Owner	Chicago	Self Employed				Individual
+2017-02-03	Singer	William S	300 N La Salle Dr	60654-3406	500	IL		Chicago		Fl 39			Individual
+2018-07-20	Six	Robert M.	222 N Columbus Dr	60601-7962	5000	IL	Realtor	Chicago	Zeller Realty Group	Apt 3310			Individual
+2016-09-29	Six	Robert M.	401 N Michigan Ave	60611-4271	500	IL		Chicago		Ste 1300			Individual
+2017-06-16	Skender Construction		200 W Madison St	60606-3454	6500	IL		Chicago		Ste 1300			unclassified
+2017-06-16	Skidmore, Owings & Merrill LLP		224 S Michigan Ave	60604-2526	1500	IL		Chicago		Ste 1000			propertyman
+2017-09-29	Smith	Joanne C.	807 The Pnes	60521-2846	1500	IL	President and CEO	Hinsdale	Shirley Ryan AbilityLab				Individual
+2017-06-30	Smith & Wollensky Restaurant Group		260 Franklin St	02110-3143	3000	MA		Boston		Ste 240			developer
+2017-09-11	Solis Russell	Michelle	2 W Delaware Pl	60610-3417	200	IL		Chicago		Unit 3107			Individual
+2018-09-18	Somji	Shehzad	810 S Spring St	90014-2908	1000	CA	Manager, Planning & Development	Los Angeles	Pacific Reach				Individual
+2018-09-14	Spectrum Real Estate Properties, Inc.		414 N Orleans St	60654-4486	10000	IL		Chicago		Ste 610			realestate
+2017-12-08	SpotHero, Inc		325 W Huron St	60654-3636	1500	IL		Chicago					retail
+2016-09-30	Stagehands Union Local 2		216 S Jefferson St	60661-5699	1000	IL		Chicago		Ste 400			union
+2018-05-14	Stefanini	Mario	21 W Goethe St	60610-2251	250	IL		Chicago		Ste 1A			Individual
+2017-12-20	Steven B. Pearlman & Associates		350 W Hubbard St	60654-6937	1000	IL		Chicago		Ste 630			unclassified
+2016-12-22	Stieber	Jay	400 Cherry Creek Ln	60070-1094	2500	IL	Attorney	Prospect Heights	Lettuce Entertain You Enterprises				unclassified
+2018-06-29	Sublett	Jeanette	1255 W Schubert Ave	60614-1246	1500	IL	Attorney	Chicago	Neal & Leroy				Individual
+2017-12-20	Sugar Factory Rosemont, LLC		5445 Park Pl	60018-3732	1000	IL		Rosemont					unclassified
+2018-01-03	Sullivan	Matt	125 S Clark St	60603-5200	500	IL		Chicago		1300			Individual
+2017-02-03	Symmetry Property Development II		1 Penn Plz	10119-0014	1000	NY		New York		Fl 50			developer
+2016-10-28	Symmetry Property Development II		1 Penn Plz	10119-0033	1000	NY		New York		Fl 49			developer
+2018-08-10	T-Mobile USA, Inc.		12920 SE 38th St	98006-7305	3500	WA		Bellevue					retail
+2018-03-30	Taft Stettinius & Hollister LLP		425 Walnut St	45202-3920	500	OH		Cincinnati		Ste 1800			propertyman
+2018-09-14	Take Out Inc.		21 W Goethe St	60610-2251	250	IL		Chicago		Ste 1A			retail
+2018-09-14	Takeda Pharmaceuticals USA, Inc		1 Takeda Pkwy	60015-5713	1500	IL		Deerfield					retail
+2017-12-20	Tavern on Rush		1031 N Rush St	60611-1227	7000	IL		Chicago					retail
+2016-12-22	Tebbe	Robin L	189 E Lake Shore Dr	60611-6314	5400	IL	Chief Marketing Officer	Chicago	Magellan	Ste 11E			Individual
+2017-09-22	Tenner	Sean C.	1005 W Buena Ave	60613-6407	200	IL		Chicago		Apt 3W			Individual
+2018-01-26	Terman	Jim	101 Belle Ave	60035-2503	500	IL		Highland Park					unclassified
+2018-06-30	Terman	Jim	730 N Franklin St	60654-7226	250	IL		Chicago		Ste 510			unclassified
+2018-09-28	Terroir Restaurant, Inc.		615 W Randolph St	60661-2239	500	IL		Chicago					retail
+2016-06-03	Texas De Brazil		3500 Maple Ave	75219-3960	5000	TX		Dallas					unclassified
+2018-09-21	The Boeing Company Political Action Committee		929 Long Bridge Dr	22202-4208	2000	VA		Arlington					pac
+2016-11-16	The Boeing Company Political Action Committee		1200 Wilson Blvd	22209-2300	1000	VA		Arlington					pac
+2016-06-24	The Eli's Cheesecake Company		6701 W Forest Preserve Ave	60634-1405	500	IL		Chicago					developer
+2018-07-20	The Fifty/50 Restaurant Group		1916 W Chicago Ave	60622-5540	15000	IL		Chicago					developer
+2018-05-11	The Habitat Company, LLC		350 W Hubbard St	60654-5739	4000	IL		Chicago		Ste 500			developer
+2018-09-14	The Haymarket Group Ltd.		500 N Dearborn St	60654-5801	1000	IL		Chicago		Ste 1150			developer
+2017-09-15	The Illinois Chamber Political Action Committee		215 E Adams St	62701-1145	1500	IL		Springfield					pac
+2017-06-30	The Kerryman Bar and Restaurant		661 N. Clark St	60654-3719	3000	IL		Chicago					retail
+2017-12-20	The Roosevelt Group		600 W Van Buren St	60607-3703	1000	IL		Chicago		Ste 909			developer
+2018-09-14	The Roosevelt Group		328 S Jefferson St	60661-5634	750	IL		Chicago		Ste 909			developer
+2018-09-18	Thomas	Daniel	410 N Michigan Ave	60611-4213	250	IL		Chicago		Ste 700N			Individual
+2018-03-30	Thomas	Daniel	355 E Ohio St	60611-5596	500	IL		Chicago		Unit 2007			Individual
+2018-08-10	Tortorello	Peter	642 S Madison St	60521-3967	1500	IL	Managing Director, Acquisitions	Hinsdale	Newcastle Limited				Individual
+2017-09-18	Trevino	Nickolas	931 W 75th St	60565-1294	500	IL		Naperville		Ste 137-258			Individual
+2018-03-30	Trott	Byron D	595 Sheridan Rd	60093-2321	750	IL	Chairman & CEO	Winnetka	BDT Capital Partners				Individual
+2018-09-30	Troyanovsky	Alex	1755 Braeside Ln	60062-5500	500	IL		Northbrook					Individual
+2016-06-24	Troynovsky	Alex	1755 Braeside Ln	60062-5500	500	IL		Northbrook					Individual
+2018-06-30	Tsaparas	Spiro	1200 W Lake St	60607-1653	1500	IL	CEO	Chicago	Centaur	Ste 200			Individual
+2018-06-30	Tully	Matthew	33 N Dearborn St	60602-3111	750	IL		Chicago		Ste 2450			Individual
+2017-09-18	Turner	Rick	1933 S Dearborn St	60616-1600	250	IL		Chicago		Ste 5W			Individual
+2017-09-29	U.S. National Title Services, LLC		10 S Riverside Plz	60606-3879	2250	IL		Chicago		Ste 1450			unclassified
+2018-03-30	UB Dogs Inc.		185 N Franklin St	60606-1930	500	IL		Chicago					retail
+2017-08-02	UFCW Local 881		10400 W Higgins Rd	60018-3705	500	IL		Rosemont		Ste 110			union
+2018-09-28	UPS PAC		55 Glenlake Pkwy	30328-3474	1000	GA		Atlanta					unclassified
+2017-07-24	US Treasury		PO Box 804521	45280-4521	382	OH		Cincinnati					unclassified
+2017-03-17	Union Pacific Railroad		101 N Wacker Dr	60606-1751	1000	IL		Chicago		Ste 1910			union
+2018-07-20	United Airlines PAC		233 S Wacker Dr	60606-7147	2250	IL		Chicago		HDQGV - 11th Floor			pac
+2018-09-14	United Brotherhood of Carpenters & Joiners Local 1		1327 W Washington Blvd	60607-1913	250	IL		Chicago		Ste 101			union
+2017-06-30	Unruh	Jeremy	1220 Hill Rd	60093-3717	1500	IL	Pharma Cann LLC	Winnetka	Attorney				Individual
+2017-03-31	Valet Parking Authority Limited		2342 N Damen Ave	60647-3322	200	IL		Chicago					unclassified
+2018-03-30	Verizon Good Government Club- Illinois		104 W Mulberry St	61761-2529	1000	IL		Normal					retail
+2018-06-30	Vlasic	Ron	171 W Randolph St	60601-3121	4000	IL	Vice President	Chicago	Kimpton Hotels Chicago				unclassified
+2017-06-17	Vlasic	Ron	6100 N Forest Glen Ave	60646-5016	1500	IL	V.P.	Chicago	Kimpton Hotels Chicago				unclassified
+2018-06-29	Volare Associates		201 E Grand Ave	60611-3311	2000	IL		Chicago					unclassified
+2017-03-31	Vorres	Anthony	822 Rosemont Ave	60068-5264	200	IL		Park Ridge					Individual
+2018-09-14	W Sports Media, LLC		680 N Lake Shore Dr	60611-4546	15000	IL		Chicago					unclassified
+2018-07-20	WEC Business Services LLC		PO Box 19800	54307-9501	1250	WI		Green Bay					unclassified
+2017-06-02	WEC Business Services LLC		130 E Randolph St	60601-6207	500	IL		Chicago		Fl 18			unclassified
+2018-05-11	Wabash Condominium, LLC		1101 W Monroe St	60607-2513	1750	IL		Chicago		Ste 200			unclassified
+2017-12-29	Walgreens		104 Wilmot Rd	60015-5121	2250	IL		Deerfield		Ms 1444			unclassified
+2017-06-16	Wanxiang America Real Estate Group, LLC		88 Airport Rd	60123-9324	2500	IL		Elgin					developer
+2018-06-30	Washington Square Liquors, Inc.		420 N Clark St	60654-4502	3500	IL		Chicago					retail
+2016-06-24	Water Tower LLC		845 N Michigan Ave	60611-2218	1500	IL		Chicago		Ste 987W			unclassified
+2017-03-19	Weiner	Scott	920 N Paulina St	60622-7756	1000	IL	Restaurant Operator	Chicago	Fifty/50 Management Group Inc				Individual
+2017-06-16	Wendella Sightseeing Company		400 N Michigan Ave	60611-4111	5000	IL		Chicago					unclassified
+2016-12-22	Wersching	Renee	641 W Willow St	60614-5174	5400	IL	Senior Vice President of Property Manage	Chicago	Magellan	Apt 148			Individual
+2017-12-08	Western Utility, LLC		2565 Palmer Ave	60484-3115	4500	IL		University Park					unclassified
+2017-06-30	Wight	Mark	2500 N Frontage Rd	60561-1515	3000	IL	Wight & Company	Darien	Wight & Company				Individual
+2016-06-24	William Kritt & Company LLC DBA Camins Tomasz Kritt		1659 W Hubbard St	60622-6352	250	IL		Chicago					unclassified
+2018-09-30	Wilson	Clayton	212 N Canal St	60606-1268	3000	IL	Owner	Chicago	The Clayton				Individual
+2018-06-29	Wine & Spirits Distributors of Illinois PAC		27 E Monroe St	60603-5672	1000	IL		Chicago		Ste 1200			union
+2018-09-14	Wislow	Robert	20 N Michigan Ave	60602-4828	1000	IL		Chicago		Ste 400			Individual
+2017-09-29	Wislow	Susan	20 N Michigan Ave	60602-4828	4500	IL	Homemaker	Chicago	Self	Fl 4			Individual
+2018-08-13	Wiznitzer	Leo	707 Skokie Blvd	60062-2841	1000	IL	Real Estate Development and Investments	Northbrook	The Lelyn Group, Inc.	Ste 600			unclassified
+2016-12-22	Wong	Thaddeus	212 E Ohio St	60611-3592	1500	IL	Co-Founder	Chicago	@ Properties				Individual
+2017-02-03	Yee	Lisa	505 N Lake Shore Dr	60611-3609	500	IL		Chicago		Apt 811			Individual
+2017-09-22	Zec	Maria	108 E Superior St	60611-2508	500	IL		Chicago					Individual
+2018-07-20	Zeller Realty Corporation		401 N Michigan Ave	60611-5616	4300	IL		Chicago		Ste 250			financial
+2018-03-30	bKL Architecture		225 N Columbus Dr	60601-7981	2500	IL		Chicago		Ste 100			unclassified
+	Non-itemized donations				26630						Non-itemized donations under $150	Donations under $175	unclassified
