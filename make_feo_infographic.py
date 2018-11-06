@@ -7,6 +7,7 @@ from html_safe import html_safe
 from alderman_info_list import alderman_info_list
 from since_last_election import since_last_election
 from add_not_itemized import add_not_itemized
+from web_json import make_web_json
 import donation_classifier as dc
 import urllib
 import pandas as pd
@@ -33,7 +34,7 @@ else:
     start_date = "Vaz6rTDHIxMrCObtEAAPgq%2fxFmcLN2ZQ"
 
 
-for alderman in alderman_info_list[1:2]:
+for alderman in alderman_info_list:
     print('Working on {} from ward {}.'.format(alderman[1], alderman[0]))
     ward = alderman[0]
     alderman_name = alderman[1]
@@ -53,6 +54,7 @@ for alderman in alderman_info_list[1:2]:
 ##    last_campaign = pis.add_donation_location(last_campaign, ward)
     last_campaign = add_not_itemized(last_campaign, boe_encrypted_committee_id, start_date, end_date)
     dc.add_class(last_campaign)
+    make_web_json(last_campaign,alderman[0])
     save_csv(last_campaign, ward, alderman_name)
 ##    last_campaign = html_safe(last_campaign)
 ##    save_json(last_campaign, ward, alderman_name)

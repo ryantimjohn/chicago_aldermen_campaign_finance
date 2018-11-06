@@ -1,8 +1,8 @@
-last_name	first_name	received_date	amount	occupation	employer	address1	address2	city	state	zipcode	donor_type	donation_size	donor_type_size	donation_location
-Chicago Land Operators Joint Labor-Management Pac		2017-11-22	5000			6200 Joliet Road		Countryside	IL	60525	Business	over $500	Business over $500	
-Friends of Michael J. Madigan		2018-10-17	1665			PO Box 3188		Chicago	IL	60654-0188	Political Group	over $500	Political Group over $500	
-Peoples Gas Light and Coke Co.		2018-03-01	1000			PO Box 19800		Green Bay	WI	54307	Business	over $500	Business over $500	
-Pfizer Inc.		2017-12-29	500			6730 Lenox Center Ct.		Memphis	TN	38115	Business	between $175 and $500	Business between $175 and $500	
-Stagehands Union Local Two Political Action Fund		2017-09-11	750			216 S. Jefferson, Ste. 400		Chicago	IL	60661	Political Group	over $500	Political Group over $500	
-United Airlines, Inc. Political Action Committee		2017-12-27	500			233 S. Wacker Dr.	11th Floor	Chicago	IL	60606	Political Group	between $175 and $500	Political Group between $175 and $500	
-Non-itemized donations			0										Donations under $175	Non-itemized donations under $150
+employer	city	state	last_name	amount	address1	address2	occupation	first_name	zipcode	received_date	donor_type_size	donation_location	classified_type
+	Countryside	IL	Chicago Land Operators Joint Labor-Management Pac	5000	6200 Joliet Road				60525	2017-11-22			pac
+	Chicago	IL	Friends of Michael J. Madigan	3821	PO Box 3188				60654-0188	2018-11-05			candidate
+	Green Bay	WI	Peoples Gas Light and Coke Co.	1000	PO Box 19800				54307	2018-03-01			construction
+	Memphis	TN	Pfizer Inc.	500	6730 Lenox Center Ct.				38115	2017-12-29			retail
+	Chicago	IL	Stagehands Union Local Two Political Action Fund	750	216 S. Jefferson, Ste. 400				60661	2017-09-11			union
+	Chicago	IL	United Airlines, Inc. Political Action Committee	500	233 S. Wacker Dr.	11th Floor			60606	2017-12-27			unclassified
+			Non-itemized donations	0							Donations under $175	Non-itemized donations under $150	unclassified

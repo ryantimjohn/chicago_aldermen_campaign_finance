@@ -7,7 +7,7 @@ from numpy import median
 
 
 
-sector_name_remap={'SECTOR financial':'financial sector','SECTOR candidate':'political candidates','SECTOR propertyman':'property management companies','SECTOR small donors':'small donors (< $150)','SECTOR developer':'property developers','SECTOR realestate':'real estate companies','SECTOR local individual ':'People in their ward','SECTOR pac':'PACs','SECTOR construction':'construction companies','SECTOR retail':'retail businesses','SECTOR unclassified local business':'Other business in their ward','SECTOR nonlocal individual ':'people from outside their ward','SECTOR union':'labor unions','SECTOR unclassified nonlocal business':'Other businesses outside their ward','SECTOR party':'Political parties'}
+sector_name_remap={'SECTOR financial':'financial sector','SECTOR candidate':'political candidates','SECTOR property_man':'property management companies','SECTOR small donors':'small donors (< $150)','SECTOR developer':'property developers','SECTOR realestate':'real estate companies','SECTOR local individual ':'People in their ward','SECTOR pac':'PACs','SECTOR construction':'construction companies','SECTOR retail':'retail businesses','SECTOR unclassified local business':'Other business in their ward','SECTOR nonlocal individual ':'people from outside their ward','SECTOR union':'labor unions','SECTOR unclassified nonlocal business':'Other businesses outside their ward','SECTOR party':'Political parties'}
 
 LAST_ELECTION=datetime.datetime(2015,2,24)
 INTERESTING_THRESHOLD=0.85
