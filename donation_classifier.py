@@ -17,13 +17,15 @@ def preprocess(datain): #preprocess data to be fed into the classifier
 
 
 def add_class(donations):
+    classes=[]
     for index in range(0,donations.shape[0]):
         row=donations.iloc[index]
         if len(str(row.first_name)) > 3:
             donation_type="Individual"
         else: #fall back on the bayesian classifier
             donation_type=bayesClassify(preprocess(row.last_name))
-        donations.loc[index,'classified_type']=donation_type #TODO: figure out why this converts to NaN when putting it in the dataframe
+        classes.append(donation_type)
+    donations['classified_type']=classes
     return donations
         
 def trainClassifier():    

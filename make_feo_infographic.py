@@ -33,7 +33,7 @@ else:
     start_date = "Vaz6rTDHIxMrCObtEAAPgq%2fxFmcLN2ZQ"
 
 
-for alderman in alderman_info_list:
+for alderman in alderman_info_list[1:2]:
     print('Working on {} from ward {}.'.format(alderman[1], alderman[0]))
     ward = alderman[0]
     alderman_name = alderman[1]
@@ -46,14 +46,14 @@ for alderman in alderman_info_list:
     if start_date == "lEtZ72ugJfwwp00kq6cDTaVGPuvjH3FH":
         last_campaign = since_last_election(last_campaign)
     last_campaign = pis.group_and_aggregate(last_campaign)
-    make_low_vs_high(last_campaign, boe_encrypted_committee_id, start_date, end_date, ward)
-    last_campaign = pis.ward_geo_lookup(last_campaign)
-    last_campaign = add_lat_long(last_campaign)
-    last_campaign['coord'] = tuple(zip(last_campaign['lng'],  last_campaign['lat']))
-    last_campaign = pis.add_donation_location(last_campaign, ward)
+##    make_low_vs_high(last_campaign, boe_encrypted_committee_id, start_date, end_date, ward)
+##    last_campaign = pis.ward_geo_lookup(last_campaign)
+##    last_campaign = add_lat_long(last_campaign)
+##    last_campaign['coord'] = tuple(zip(last_campaign['lng'],  last_campaign['lat']))
+##    last_campaign = pis.add_donation_location(last_campaign, ward)
     last_campaign = add_not_itemized(last_campaign, boe_encrypted_committee_id, start_date, end_date)
     dc.add_class(last_campaign)
-##    save_csv(last_campaign, ward, alderman_name)
+    save_csv(last_campaign, ward, alderman_name)
 ##    last_campaign = html_safe(last_campaign)
 ##    save_json(last_campaign, ward, alderman_name)
 
