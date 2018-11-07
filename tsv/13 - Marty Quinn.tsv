@@ -1,8 +1,8 @@
-received_date	last_name	first_name	address1	zipcode	amount	state	occupation	city	employer	address2	donation_location	donor_type_size	classified_type
-2017-11-22	Chicago Land Operators Joint Labor-Management Pac		6200 Joliet Road	60525	5000	IL		Countryside					pac
-2018-11-05	Friends of Michael J. Madigan		PO Box 3188	60654-0188	3821	IL		Chicago					candidate
-2018-03-01	Peoples Gas Light and Coke Co.		PO Box 19800	54307	1000	WI		Green Bay					construction
-2017-12-29	Pfizer Inc.		6730 Lenox Center Ct.	38115	500	TN		Memphis					retail
-2017-09-11	Stagehands Union Local Two Political Action Fund		216 S. Jefferson, Ste. 400	60661	750	IL		Chicago					union
-2017-12-27	United Airlines, Inc. Political Action Committee		233 S. Wacker Dr.	60606	500	IL		Chicago		11th Floor			unclassified
-	Non-itemized donations				0						Non-itemized donations under $150	Donations under $175	unclassified
+received_date	address2	last_name	occupation	address1	employer	zipcode	city	state	amount	first_name	donation_location	donor_type_size	classified_type
+2017-11-22		Chicago Land Operators Joint Labor-Management Pac		6200 Joliet Road		60525	Countryside	IL	5000				pac
+2018-11-05		Friends of Michael J. Madigan		PO Box 3188		60654-0188	Chicago	IL	3821				candidate
+2018-03-01		Peoples Gas Light and Coke Co.		PO Box 19800		54307	Green Bay	WI	1000				construction
+2017-12-29		Pfizer Inc.		6730 Lenox Center Ct.		38115	Memphis	TN	500				retail
+2017-09-11		Stagehands Union Local Two Political Action Fund		216 S. Jefferson, Ste. 400		60661	Chicago	IL	750				union
+2017-12-27	11th Floor	United Airlines, Inc. Political Action Committee		233 S. Wacker Dr.		60606	Chicago	IL	500				unclassified
+		Non-itemized donations							0		Non-itemized donations under $150	Donations under $175	unclassified

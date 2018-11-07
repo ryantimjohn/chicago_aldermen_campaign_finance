@@ -1,4 +1,4 @@
-received_date	last_name	first_name	address1	zipcode	amount	state	occupation	city	employer	address2	donation_location	donor_type_size	classified_type
-2016-07-31	McKnight/Treasurer	V. Gregory	c/o 1415 Diehl Road	60563	350	IL		Naperville		Suite 400			Individual
-2016-09-15	Shaw	John A	8270 E. Highpoint Rd	60560	1785	IL	Retired	Yorkville	none				Individual
-	Non-itemized donations				0						Non-itemized donations under $150	Donations under $175	unclassified
+received_date	address2	last_name	occupation	address1	employer	zipcode	city	state	amount	first_name	donation_location	donor_type_size	classified_type
+2016-07-31	Suite 400	McKnight/Treasurer		c/o 1415 Diehl Road		60563	Naperville	IL	350	V. Gregory			Individual
+2016-09-15		Shaw	Retired	8270 E. Highpoint Rd	none	60560	Yorkville	IL	1785	John A			Individual
+		Non-itemized donations							0		Non-itemized donations under $150	Donations under $175	unclassified

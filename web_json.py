@@ -4,6 +4,7 @@
 # the most when FEO is applied
 import pandas as pd
 import os
+pd.options.mode.chained_assignment = None  # turn off copy warning
 #this script is kinda judgemental
 BAD_PEOPLE=['financial','developer', 'candidate', 'pac', 'property_man', 'party', 'realestate'] #labels from the classifier that we want to highlight
 sector_name_remap={'financial':'Financial sector','candidate':'Political candidates','property_man':'Property management companies','small donors':'Small donors (< $175)','developer':'Property developers','realestate':'Real estate companies','local individual ':'People in their ward','pac':'PACs','construction':'Construction companies','retail':'Retail businesses','unclassified local business':'Other business in their ward','nonlocal individual ':'People from outside their ward','union':'Labor unions','unclassified nonlocal business':'Other businesses outside their ward','party':'Political parties'}
@@ -46,22 +47,18 @@ def make_web_json(donations,ward):
     if not os.path.isdir("web_json"):
         os.mkdir("web_json")
     before_feo=feo_effects[[0,1]]
-    before_feo.columns=["type","amount"]
-    before_feo.to_json(os.path.join("web_json","Ward{}_sector_before.json".format(ward)), orient='records')
+    before_feo['before_after']='before'
+    before_feo.columns=["type","amount","before_after"]
     after_feo=feo_effects[[0,2]]
-    after_feo.columns=["type","amount"]
-    after_feo.to_json(os.path.join("web_json","Ward{}_sector_after.json".format(ward)), orient='records')
+    after_feo['before_after']='after'
+    after_feo.columns=["type","amount","before_after"]
+    all_sector=before_feo.append(after_feo,ignore_index=True)
+    all_sector.to_json(os.path.join("web_json","Ward{}_sector.json".format(ward)), orient='records')
 
-
-#now create JSONS for the totals
-    before_feo_total = [['under_175', under_175_sum], ['over_500', over_500_sum]]
-    df_before = pd.DataFrame(before_feo_total, columns = ['type', 'amount'])
-    df_before.to_json(os.path.join( "web_json","Ward{}_totals_before.json".format(ward)), orient='records')
+    funding_data = [['Small donations (under $175)', under_175_sum,"before"], ['Large donations (over $500)', over_500_sum,"before"],['Small donations (under $175)', under_175_sum_after_feo,"after"], ['Large donations (over $500)', over_500_sum_after_feo,"after"]]
+    df_funding_data = pd.DataFrame(funding_data, columns = ['type', 'amount','before_after'])
+    df_funding_data.to_json(os.path.join( "web_json","Ward{}_totals.json".format(ward)), orient='records')
     
-    after_feo_total = [['under_175', under_175_sum_after_feo], ['over_500', over_500_sum_after_feo]]
-    df_after = pd.DataFrame(after_feo_total, columns = ['type', 'amount'])
-    df_after.to_json(os.path.join( "web_json","Ward{}_totals_after.json".format(ward)), orient='records')
-
     
         
 
