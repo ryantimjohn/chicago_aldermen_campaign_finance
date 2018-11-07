@@ -17,21 +17,15 @@ def make_low_vs_high(last_campaign, boe_encrypted_committee_id, start_date, end_
     not_itemized = not_itemized.replace(',','')
     not_itemized = int(float(not_itemized))
 
-    #get
     under_175_sum = last_campaign.loc[last_campaign['amount'] <= 175, 'amount'].sum()
     under_175_sum += not_itemized
     over_500_sum = last_campaign.loc[last_campaign['amount'] >= 500, 'amount'].sum()
-    data = [['under_175', under_175_sum], ['over_500', over_500_sum]]
-    df = pd.DataFrame(data, columns = ['type', 'amount'])
+    under_175_sum_after_feo = under_175_sum * 7
+    over_500_sum_after_feo = last_campaign.loc[last_campaign['amount'] >= 500, 'amount'].count() * (500 + (175 * 6))
+    data = [['under_175', under_175_sum, 'before'], ['over_500', over_500_sum, 'before'],['under_175', under_175_sum_after_feo, 'after'], ['over_500', over_500_sum_after_feo, 'after']]
+    df = pd.DataFrame(data, columns = ['type', 'amount', 'before_after'])
     if not os.path.isdir("json_low_high"):
         os.mkdir("json_low_high")
     df.to_json(os.path.join(
-                            "json_low_high",
-                            "Ward{}_before.json".format(ward)), orient='records')
-    under_175_sum_after_feo = under_175_sum * 7
-    over_500_sum_after_feo = last_campaign.loc[last_campaign['amount'] >= 500, 'amount'].count() * (500 + (175 * 6))
-    data_after_feo = [['under_175', under_175_sum_after_feo], ['over_500', over_500_sum_after_feo]]
-    df_after_feo = pd.DataFrame(data_after_feo, columns = ['type', 'amount'])
-    df_after_feo.to_json(os.path.join(
-                            "json_low_high",
-                            "Ward{}_after.json".format(ward)), orient='records')
+                    "json_low_high",
+                    "Ward{}_before_after.json".format(ward)), orient='records')
