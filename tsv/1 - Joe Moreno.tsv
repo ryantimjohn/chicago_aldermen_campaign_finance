@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 received_date	address2	last_name	occupation	address1	employer	zipcode	city	state	amount	first_name	donation_location	donor_type_size	classified_type
 2015-06-30	Suite 2041	1237 W, LLC.		1611 W. Division Street		60622	Chicago	IL	2500				propertyman
 2016-06-30		1540 N. Milwaukee Avenue, LLC.		1540 N. Milwaukee Avenue		60622	Chicago	IL	3500				propertyman
@@ -402,3 +403,409 @@ received_date	address2	last_name	occupation	address1	employer	zipcode	city	state
 2016-06-30		Yafai Liquors		2700 W. North Avenue		60647	Chicago	IL	1500				unclassified
 2016-02-26		Zwolinski		1545 W. Chestnut		60642	Chicago	IL	250	Robert			Individual
 		Non-itemized donations							5922		Non-itemized donations under $150	Donations under $175	unclassified
+=======
+last_name	first_name	received_date	amount	occupation	employer	address1	address2	city	state	zipcode	donor_type	donation_size	donor_type_size	donation_location
+1237 W, LLC.		2015-06-30	2500			1611 W. Division Street	Suite 2041	Chicago	IL	60622	Business	over $500	Business over $500	
+1540 N. Milwaukee Avenue, LLC.		2016-06-30	3500			1540 N. Milwaukee Avenue		Chicago	IL	60622	Business	over $500	Business over $500	
+1700 Division Operating LLC		2016-06-30	500			1200 N. Ashland Avenue	#300	Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+1735 N. Ashland Partners, LLP		2016-03-21	15000			2734 W. Superior Street		Chicago	IL	60612	Business	over $500	Business over $500	
+1910 N. Milwaukee Avenue, LLC.		2016-03-03	500			1910 N. Milwaukee Avenue		Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+1914 Building, LLC		2016-08-15	2500			4117 W. Oakton Street		Skokie	IL	60076	Business	over $500	Business over $500	
+1st Ward Independent Democratic Party		2018-04-21	17000			1330 N. Leavitt St.		Chicago	IL	60622	Political Group	over $500	Political Group over $500	
+2101 N. California, LLC.		2016-03-01	833			3124 W. Carroll		Chicago	IL	60612	Business	over $500	Business over $500	
+2239NMA, LLC		2017-09-29	2500			1611 W. Division St.		Chicago	IL	60622	Business	over $500	Business over $500	
+2516 Kedzie, LLC		2017-09-29	1000			3215 W. Fullerton		Chicago	IL	60647	Business	over $500	Business over $500	
+25th Ward Regular Democratic Organization		2015-09-23	10000			1645 S. Blue Island		Chicago	IL	60608	Political Group	over $500	Political Group over $500	
+2779 Milwaukee, LLC		2017-09-29	1500			3215 W. Fullerton		Chicago	IL	60647	Business	over $500	Business over $500	
+2808-14 N Avenue LLC		2016-02-01	1000			3009 W. Montrose Avenue		Chicago	IL	60618	Business	over $500	Business over $500	
+312 Pizza Ventures		2018-06-07	13500			642 N. Clark		Chicago	IL	60654	Business	over $500	Business over $500	
+AFSCME Illinois Council No. 31		2015-09-23	250			615 S. Second Street	PO Box 2328	Springfield	IL	62705	Business	between $175 and $500	Business between $175 and $500	
+AT&T Illinois Employee PAC		2017-12-14	2500			225 W. Randolph	27B	Chicago	IL	60606	Political Group	over $500	Political Group over $500	
+Aberdeen Development, Inc.		2018-06-15	6300			P.O. Box 5177		Chicago	IL	60680	Business	over $500	Business over $500	
+Abu-Ghazaleh	Walid	2016-12-23	3500	President	Van Wagner Chicago	1499 N. Clybourn Avenue	Unit A	Chicago, IL 60610	IL	60610	Individual	over $500	Individual over $500	
+Aces Inc.		2018-06-15	1500			2545 W. Diversey Ave		Chicago	IL	60647	Business	over $500	Business over $500	
+Acosta	Rolando	2016-10-25	1000	Attorney	Acosta, Kruse, & Zemindes, LLC	2949 W. Gregory		Chicago	IL	60625	Individual	over $500	Individual over $500	
+Acosta Ezgur, LLC.		2016-06-30	3000			217 N. Jefferson Street		Chicago	IL	60661	Business	over $500	Business over $500	
+Actblue.com		2017-12-14	480			366 Summer Street		Somerville	MA	02144-3132	Business	between $175 and $500	Business between $175 and $500	
+Allen	Peter	2018-03-01	500			1321 W. School St.		Chicago	IL	60657	Individual	between $175 and $500	Individual between $175 and $500	
+Alonso	Daniel Alejandro	2015-06-30	1000	best faith effort made	best faith effort made	220 N. Aberdeen Street	Suite 300	Chicago	IL	60607	Individual	over $500	Individual over $500	
+American Transportation Systems		2015-06-30	2500			317 W. Lake Street		Northlake	IL	60164	Business	over $500	Business over $500	
+Anderson & Moore P.C.		2016-06-30	500			111 W. Washington	Suite 1720	Chicago	IL	60602	Business	between $175 and $500	Business between $175 and $500	
+Ankin	Samuel	2016-12-23	1000	Managing Principal	Northpond Partners, LLC.	423 W. Wisconsin St		Chicago	IL	60614	Individual	over $500	Individual over $500	
+Architectural & Ornamental Iron Workers Union, Local 63		2015-12-04	500			2525 W. Lexington Street		Broadview	IL	60155	Political Group	between $175 and $500	Political Group between $175 and $500	
+Archway Builders, Inc		2018-03-01	500			250 Spruce Rd.		Northbrook	IL	60062	Business	between $175 and $500	Business between $175 and $500	
+Atlantic Plumbing S and W		2016-02-01	1000			628 N. Home Avenue		Park Ridge	IL	60068	Business	over $500	Business over $500	
+Augusta Gas		2016-12-23	1000			1949 W. Augusta		Chicago	IL	60622	Business	over $500	Business over $500	
+Authentaco		2015-06-30	500			1141 N. Ashland Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Axios Architects & Consultants, Ltd.		2016-02-01	500			188 N. Wells		Chicago	IL	60606	Business	between $175 and $500	Business between $175 and $500	
+BC Property MGMT, LLC		2016-06-30	500			1200 N. Ashland Avenue	#350	Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+BDMR LLC DBA Easy Bar		2016-06-30	1166			1944 W. Division Street		Chicago	IL	60622	Business	over $500	Business over $500	
+BHB Cafe Management, LLC.		2015-10-29	333			1916 W. Chicago Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+BRN Properties		2016-06-30	250			180 E. Pearson	#4003	Chicago	IL	60611	Business	between $175 and $500	Business between $175 and $500	
+Babel	Ross	2018-03-01	1500	best faith effort made	GNP Development	921 N. Damen		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Babel	Rostislav	2015-06-30	1000	best faith effort made	best faith effort made	1035 N. Dearborn		Chicago	IL	60610	Individual	over $500	Individual over $500	
+Bajaj	Michele	2015-05-27	1000	Best faith effort made	Best faith effort made	639 W. Wellington Avenue		Chicago	IL	60657	Individual	over $500	Individual over $500	
+Bakalar	Luke	2016-12-28	200			P.O. Box 221448		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Barrett	Mike	2018-03-01	500			3620 N Janssen Ave		Chicago	IL	60613	Individual	between $175 and $500	Individual between $175 and $500	
+Barry's Cut Rate Stores, Inc.		2015-06-30	250			1370 N. Milwaukee Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Battaglia	Bernadette	2016-06-30	2000	Owner	Blue Chicago	3153 N. Pine Grove		Chicago	IL	60657	Individual	over $500	Individual over $500	
+Battaglia	Gino	2017-09-29	1000	business owner	self employed	534 N. Clark St.		Chicago	IL	60654	Individual	over $500	Individual over $500	
+Baum	David	2016-10-24	250			1030 W. Chicago Avenue		Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+Baum Revision, LLC.		2017-11-10	1000			1030 W. Chicago Avenue		Chicago	IL	60642	Business	over $500	Business over $500	
+Beach	Charles	2016-10-25	1500	Attorney	Charles S. Beach, PC.	33 N. Dearborn	suite 1950	Chicago	IL	60602	Individual	over $500	Individual over $500	
+Belmont Bank and Trust		2016-02-01	1000			8250 W. Belmont Avenue		Chicago	IL	60634	Business	over $500	Business over $500	
+Bernshtam	Gene	2017-09-29	3500	President	Berns Auto Sales	1700 N. Western Avenue		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Bershtam	Gene	2016-06-14	1000	President	Berns Auto Sales	1700 N. Western Avenue		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Bhambra	Menjinder	2015-06-30	1000	Combined Oil Company	Owner	3650 Walters Avenue		Northbrook	IL	60062	Individual	over $500	Individual over $500	
+Big Star		2015-03-10	250			1531 N. Damen		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Bigoness	Kevin	2018-03-01	500			2812 W. Chicago Ave.	4	Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Bisbee	Michael	2016-06-30	5000	Owner	LGN Group	1334 W. Newport Avenue		Chicago	IL	60657	Individual	over $500	Individual over $500	
+Bisbee	Michael and Richard	2015-06-30	5000	best faith effort made	best faith effort made	2135 Kipling Ln.		Highland Park	IL	60035	Individual	over $500	Individual over $500	
+Bisceglie	Phyllis	2016-02-01	500			3316 New England		Chicago	IL	60634	Individual	between $175 and $500	Individual between $175 and $500	
+Black Bull Chicago		2017-06-26	1972			1721 W. Division Street		Chicago	IL	60622	Business	over $500	Business over $500	
+Brice	Coleman P.	2015-06-30	500			2942 N. Ridgeway Avenue	Unit 1	Chicago	IL	60618	Individual	between $175 and $500	Individual between $175 and $500	
+Brown	Josh	2016-02-26	250			1469 N. Milwaukee		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Brown, Jr.	Kevin J.	2016-06-30	2000	President & CEO	Lettuce Entertain You	431 Abbotsford Road		Kenilworth	IL	60043	Individual	over $500	Individual over $500	
+Bryant	Paul	2017-04-27	500			3636 N. Oakley Blvd.		Chicago	IL	60618	Individual	between $175 and $500	Individual between $175 and $500	
+Builders Corp		2017-09-29	1000			1633 S. Michigan		Chicago	IL	60616	Business	over $500	Business over $500	
+Burke, Jr.	Edward M.	2015-02-27	700	Government Worker	Cook County	628 Exmoor Road		Kenilworth	IL	60043	Individual	over $500	Individual over $500	
+CEDARst Companies	Alex	2016-12-23	1000			1025 W. Sunnyside Ave	Suite 300	Chicago	IL	60640	Individual	over $500	Individual over $500	
+Campana	Mark	2016-07-14	500			2056 N. Seminary Avenue		Chicago	IL	60614	Individual	between $175 and $500	Individual between $175 and $500	
+Cecola	Geralyn	2016-02-01	500			45 Lakeview LN		Barrington	IL	60010	Individual	between $175 and $500	Individual between $175 and $500	
+Chicago Association of Realtors		2016-07-14	250			200 S. Michigan Avenue	4th Floor	Chicago	IL	60604	Business	between $175 and $500	Business between $175 and $500	
+Chicago Bath House, LLC.		2016-02-01	500			4117 W. Oakton Street		Skokie	IL	60076	Business	between $175 and $500	Business between $175 and $500	
+Chicago Journeyman Plumbers Local Union 130 UA		2015-11-07	250			1340 W. Washington Blvd		Chicago	IL	60607	Political Group	between $175 and $500	Political Group between $175 and $500	
+Chicago Latino Public Affairs Committee		2018-06-15	1500			30 W. Monroe Street	Suite 630	Chicago	IL	60603	Political Group	over $500	Political Group over $500	
+Chicago Stonehenge, Inc.		2016-06-30	1100			1469 N. Milwaukee Avenue		Chicago	IL	60622	Business	over $500	Business over $500	
+Chicago's First Lady Cruises		2016-06-21	500			PO Box 68		Palatine	IL	60078	Business	between $175 and $500	Business between $175 and $500	
+Chicagoland Apartment Association		2016-07-14	1000			557 W. Randolph Street	2nd Floor	Chicago	IL	60661	Business	over $500	Business over $500	
+Citic	Nenad	2016-12-23	1000	Vice President	Regency Development Group, LLC.	1755 Breaside In		Northbrook	IL	60062	Individual	over $500	Individual over $500	
+Citizens for Danny Solis		2015-06-03	10000			1645 S. Blue Island Avenue		Chicago	IL	60608	Political Group	over $500	Political Group over $500	
+Citizens to Elect Committeeman William J P Banks Election Committee		2015-06-30	250			1838 N. Neva Avenue		Chicago	IL	60707	Political Group	between $175 and $500	Political Group between $175 and $500	
+Clark	Robert	2016-12-23	1000	CEO	Clayco	8039 Park Drive		St. Louis	MO	63117	Individual	over $500	Individual over $500	
+Claudio Law		2015-11-07	250			3125 W. Fullerton	Suite 421	Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+Cohen	Mark	2016-06-30	700	Self	Mark Ordower & Co.	501 S. Chester Avenue		Park Ridge	IL	60068	Individual	over $500	Individual over $500	
+Cohen	Mark	2016-11-08	500			2234 N. Elston Ave		Chicago	IL	60614	Individual	between $175 and $500	Individual between $175 and $500	
+Coleman	Brice	2016-07-14	500			2517 N. Avers		Chicago	IL	60647	Individual	between $175 and $500	Individual between $175 and $500	
+Colon Bruno, Inc. DBA The Owl Bar		2016-06-30	916			2521 N. Milwaukee Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+Columbia Metal Spinning		2017-09-29	2000			4351 N. Normandy Ave.		Chicago	IL	60634	Business	over $500	Business over $500	
+Comcast		2016-04-28	750			1701 JFK Boulevard		Philadelphia	PA	19103	Business	over $500	Business over $500	
+Comcast		2016-12-22	750			1255 W. North Avenue		Chicago	IL	60642	Business	over $500	Business over $500	
+Comet Development		2016-02-26	1000			2200 N. Damen		Chicago	IL	60647	Business	over $500	Business over $500	
+Committee to Elect Fredrick H. Bates		2016-02-26	1000			P.O. Box 64776		Chicago	IL	60664	Political Group	over $500	Political Group over $500	
+Committee to Elect Richard Cooke		2015-11-07	3000			2653 N. Kedzie Avenue		Chicago	IL	60647	Political Group	over $500	Political Group over $500	
+Concord Music Hall		2016-06-14	3000			400 N. May Street	Suite 202	Chicago	IL	60647	Business	over $500	Business over $500	
+Consortian Development, LLC		2016-06-30	500			3817 Chester Dr		Glenview	IL	60026	Business	between $175 and $500	Business between $175 and $500	
+Cornerstone Government Affairs, LLC.		2016-12-22	200			111 W. Washington St.	Suite 1100	Chicago	IL	60602	Business	between $175 and $500	Business between $175 and $500	
+Coyne	Michael	2017-10-18	250			2623 W. Attrill St.		Chicago	IL	60647	Individual	between $175 and $500	Individual between $175 and $500	
+Custom Co.		2016-08-15	5000			P.O. Box 2850		Northlake	IL	60164	Business	over $500	Business over $500	
+D'Escoto	Fred	2015-09-23	500			1965 N. Maywood Avenue		Aurora	IL	60505	Individual	between $175 and $500	Individual between $175 and $500	
+DAC Developments LLC		2017-12-14	1500			2150 S Canalport	#3B-1	Chicago	IL	60608	Business	over $500	Business over $500	
+DDMB 2, LLC.		2016-06-30	800			2918 S. Wentworth		Chicago	IL	60616	Business	over $500	Business over $500	
+DDMB 2, LLC.		2018-06-15	1200			2363 N. Milwaukee		Chicago	IL	60647	Business	over $500	Business over $500	
+DDMB Inc. DBA Emporium Arcade Bar		2015-06-30	500			1366 N. Milwaukee Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+DDMB M Inc		2015-11-07	1000			2066 N. Western Ave		Chicago	IL	60647	Business	over $500	Business over $500	
+DLA Piper, LLP.		2016-06-30	1500			6225 Smith Avenue		Baltimore	MD	21209	Business	over $500	Business over $500	
+Daley and Georges		2015-06-30	300			20 S. Clark Street	Suite 400	Chicago	IL	60603	Business	between $175 and $500	Business between $175 and $500	
+Dan Shomon, Inc.		2017-10-18	250			33 W. Monroe		Chicago	IL	60603	Business	between $175 and $500	Business between $175 and $500	
+Daniel G. Lauer & Assoc, P.C.		2017-09-29	4500			1424 W. Division		Chicago	IL	60622	Business	over $500	Business over $500	
+Darmofal	Sunny	2016-11-03	400			2321 N. Maplewood		Chicago	IL	60647	Individual	between $175 and $500	Individual between $175 and $500	
+Db Develops, Inc.		2016-02-01	500			2010 W. Fulton St	Suite F-239	Chicago	IL	60612	Business	between $175 and $500	Business between $175 and $500	
+DeWoskin	Paul	2016-06-30	1000	Real Estate	Michigan Avenue Real Estate Group	383 Lakeside Pl.		Highland Park	IL	60035	Individual	over $500	Individual over $500	
+DeWoskin	William	2016-06-30	500			1000 Lake Shore Plaza		Chicago	IL	60611	Individual	between $175 and $500	Individual between $175 and $500	
+Debonair Social Club		2018-06-15	500			1575 N. Milwaukee Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Del Galdo Law Group, LLC.		2017-06-26	1000			1441 S. Harlem Avenue		Berwyn	IL	60402	Business	over $500	Business over $500	
+Deleo	James	2016-02-01	500			8300 W. Grace		Chicago	IL	60634	Individual	between $175 and $500	Individual between $175 and $500	
+Delgado	Kent	2016-11-08	200			2300 W. Saint Paul Avenue		Chicago	IL	60647	Individual	between $175 and $500	Individual between $175 and $500	
+Denmax Corp.		2016-06-30	1000			2712 W. Chicago Avenue		Chicago	IL	60622	Business	over $500	Business over $500	
+Dolyva Development		2016-02-01	500			2853 N. Pulaski Rd	#C S	Chicago	IL	60641	Business	between $175 and $500	Business between $175 and $500	
+Doves Lunchenotte		2015-03-10	250			1543 N. Damen		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Downing	Michael	2018-03-01	1000	Real Estate Developer	Holiday Jones	360 E. Randolph St.	Apt. 1408	Chicago	IL	60601	Individual	over $500	Individual over $500	
+Dream Developers of Chicago, Inc.		2015-11-07	1000			1643 N. Albany Ave		Chicago	IL	60647	Business	over $500	Business over $500	
+Druk	Irina	2016-02-26	2000	President	Eco Development, Inc	815 N. Marshfield	701	Chicago	IL	60622	Individual	over $500	Individual over $500	
+Duarte	Jose	2015-12-04	250			3613 S. Union		Chicago	IL	60609	Individual	between $175 and $500	Individual between $175 and $500	
+Duggan	Brian	2016-12-23	2000	Entrepreneur	Self Employed	30 East Adams	Ste 158	Chicago	IL	60603	Individual	over $500	Individual over $500	
+Dunigan	Ryan	2015-11-07	250			630 N. State Street		Chicago	IL	60654	Individual	between $175 and $500	Individual between $175 and $500	
+Duty Free World, Inc.		2017-06-26	1500			12901 NW 113th Court		Medley	FL	33178	Business	over $500	Business over $500	
+ECO Development, Inc.		2015-06-30	1000			2052 W. North Avenue	Suite E	Chicago	IL	60647	Business	over $500	Business over $500	
+EZPAWN Illinois, Inc.		2015-03-31	1500			1901 Capital Parkway		Austin	TX	78746	Business	over $500	Business over $500	
+East Village Properties, LLC		2018-06-15	1400			PO Box 221536		Chicago	IL	60622	Business	over $500	Business over $500	
+Elias Strategy Group, LLC		2016-08-14	250			2201 N. Maplewood Avenue		Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+Ellis & Associates Consulting, LLC.		2016-06-30	300			611 S. Wells Street		Chicago	IL	60607	Business	between $175 and $500	Business between $175 and $500	
+Espinoza	Martha	2018-07-17	500			1008 N Wood St,		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Estelle's Cafe & Pub, LTD.		2016-06-30	1166			2013 W. North Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+Evil Olive		2015-11-07	500			1551 W. Division		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Ezgur	Michael	2017-06-26	1000	Attorney	Acosta Ezgur	1030 W. Chicago Ave		Chicago	IL	60642	Individual	over $500	Individual over $500	
+FSAR, LLC.		2016-07-14	500			2904 Greenleaf Avenue		Chicago	IL	60645	Business	between $175 and $500	Business between $175 and $500	
+Fako Research & Strategies Inc		2018-03-20	2650			1025 Wild Oak Dr		Lemont	IL	60439	Business	over $500	Business over $500	
+Federal LLC		2018-05-15	11250			2734 W. Superior St.		Chicago	IL	60612	Business	over $500	Business over $500	
+Fifield	Chris	2016-10-17	250			1921 W. Cornelia Avenue		Chicago	IL	60657	Individual	between $175 and $500	Individual between $175 and $500	
+Fifield	Steven	2015-06-30	1000	President & CEO	Fifield Realty	222 S. Riverside Plaza	Suite 600	Chicago	IL	60606	Individual	over $500	Individual over $500	
+Fifield Realty		2015-11-07	1000			600 W. Jackson	Suite 600	Chicago	IL	60661	Business	over $500	Business over $500	
+Finkel	Robert A.	2015-03-10	250			3400 N. Lake Shore Drive		Chicago	IL	60657	Individual	between $175 and $500	Individual between $175 and $500	
+Finkelman	Bruce	2016-10-24	500			1035 N. Western Avenue		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Fitz & Tallon LLC		2018-06-15	250			30 N. LaSalle St.	Suite 1510	Chicago	IL	60602	Business	between $175 and $500	Business between $175 and $500	
+Flanagan	Eric	2015-09-23	250			1920 W. North Avenue	Apt 3S	Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Fletcher, O'Brien, Kasper and Nottage, PC		2017-06-26	1000			222 N. LaSalle Street	Suite 300	Chicago	IL	60601	Business	over $500	Business over $500	
+Floersheimer	Scott	2016-10-17	1800	Managing Partner Restaurant	BBLL, Inc.	1935 W. Chicago Avenue		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Forde	Michael	2016-12-22	200			758 N. Larabee	#501	Chicago	IL	60654	Individual	between $175 and $500	Individual between $175 and $500	
+Fortech		2016-02-01	500			1040 Hohlfelder Rd		Glencoe	IL	60022	Business	between $175 and $500	Business between $175 and $500	
+Francis	Lorri	2016-06-14	1250	General Manager	Double Door	1321 N. Milwaukee Avenue	#425	Chicago	IL	60642	Individual	over $500	Individual over $500	
+Freiman	Jason	2016-06-30	300			1555 W. Pearson Street		Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+Friends of Carlos Claudio		2016-03-23	700			1803 N. California Avenue		Chicago	IL	60647	Political Group	over $500	Political Group over $500	
+Friends of Jacob Meister		2016-03-03	200			2129 N. Western Avenue		Chicago	IL	60647	Political Group	between $175 and $500	Political Group between $175 and $500	
+Friends of Joe Cook		2016-03-01	500			6918 N. Mendota Avenue		Chicago	IL	60646	Political Group	between $175 and $500	Political Group between $175 and $500	
+Friends of Rosa Silva		2016-03-21	300			1374 W. Taylor St.	#152	Chicago	IL	60607-4336	Political Group	between $175 and $500	Political Group between $175 and $500	
+Friends of Tom Greenhaw		2015-11-07	500			1 E. Scott St.	Apt 509	Chicago	IL	60610	Political Group	between $175 and $500	Political Group between $175 and $500	
+Friends to Elect Judge Stephanie Miller		2017-06-01	500			PO Box 1411		Chicago	IL	60647-1411	Political Group	between $175 and $500	Political Group between $175 and $500	
+Fullerton & Sacramento Service, Inc.		2016-07-14	500			2338 N. Sacramento Avenue		Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+GNP Development, Inc.		2016-02-26	3000			300 Red Oak Road		Northbrook	IL	60062	Business	over $500	Business over $500	
+Gaj	Mieczyslaw	2018-03-01	2000	Real Estate Agent	Self Employed	3614 W. George		Chicago	IL	60618	Individual	over $500	Individual over $500	
+Gallagher for Judge		2016-03-01	500			P.O. Box 6082		Evanston	IL	60204	Political Group	between $175 and $500	Political Group between $175 and $500	
+Gaska	Beata	2018-03-01	500			5946 N. Neva Ave.		Chicago	IL	60631	Individual	between $175 and $500	Individual between $175 and $500	
+Gaytan	Juan	2015-11-20	5500	Owner	Monterrey Security Consultants, Inc.	1 Bell Oak Lane		Lemont	IL	60439	Individual	over $500	Individual over $500	
+Gaytan	Juan	2016-07-14	5000	Monterrey Security	President & CEO	2232 S. Blue Island Avenue		Chicago	IL	60608	Individual	over $500	Individual over $500	
+Gibbons Property Management		2018-01-13	17500			867 W. Buckingham		Chicago	IL	60657	Business	over $500	Business over $500	
+Glascott	Kyle	2015-09-23	250			2156 N. Halsted St.		Chicago	IL	60614	Individual	between $175 and $500	Individual between $175 and $500	
+Global Parking Management, Inc.		2015-06-30	300			1829 N. Milwaukee Avenue		Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+Glorioso	Joseph	2015-11-07	500			2300 W. Erie Street		Chicago	IL	60612	Individual	between $175 and $500	Individual between $175 and $500	
+Gold Rush Amusements		2015-11-07	1000			399 Wall St	Unit H	Glendale Heights	IL	60139	Business	over $500	Business over $500	
+Goldman	Sam	2018-06-15	1250	President	Strategic Asset Management, Inc.	1356 N. Leavitt		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Goldman	Samuel	2016-10-17	250			1639 W. Huron	Apt 1R	Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Golin Family Trust		2018-06-15	600			1366 N. Milwaukee Ave.		Chicago	IL	60622	Business	over $500	Business over $500	
+Goltz	Mitch	2018-03-01	1000	Real Estate Developer	GW Properties	461 N. Clinton St.		Chicago	IL	60654	Individual	over $500	Individual over $500	
+Gomez	Roberto	2018-03-01	2500	Owner	Subterranean Bar	1804 W. Huron		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Goodman	Scott	2017-06-26	1500	Real Estate	Far Point Development	180 Beach		Highland Park	IL	60035	Individual	over $500	Individual over $500	
+Gordon & Pikarski		2015-11-07	250			55 W. Monroe Street	Suite 1700	Chicago	IL	60603	Business	between $175 and $500	Business between $175 and $500	
+Govedarica	Melissa	2018-03-01	1000			181 Ringneck Lane		Bloomingdale	IL	60108	Individual	over $500	Individual over $500	
+Grace Sergio Inc.		2016-02-01	1000			8206 W. Belmont		Chicago	IL	60634	Business	over $500	Business over $500	
+Green Grocer Chicago		2015-03-10	200			1402 W. Grand Avenue		Chicago	IL	60642	Business	between $175 and $500	Business between $175 and $500	
+Gutierrez for Congress		2016-12-23	1400			300 New Jersey Ave NW	Suite 900	Washington	DC	20001	Political Group	over $500	Political Group over $500	
+HMS Host		2016-06-30	2500			6905 Rockledge Drive		Bethesda	MD	20817	Business	over $500	Business over $500	
+HRG Realty Management, LLC		2015-12-04	500			1946 W. Lawrence		Chicago	IL	60640	Business	between $175 and $500	Business between $175 and $500	
+Hainault	Melissa	2015-09-23	1000	Realtor	Casey Wagner	1520 Lincoln St		Chicago	IL	60193	Individual	over $500	Individual over $500	
+Hanna	John	2018-03-01	3495	Managing Partner	Centrum Partners, LLC.	180 W. Washington		Chicago	IL	60602	Individual	over $500	Individual over $500	
+Harris and Harris		2016-06-30	1000			111 W. Jackson Blvd	Suite 400	Chicago	IL	60604	Business	over $500	Business over $500	
+Heisler Management		2016-07-14	3500			2001 W. Grand Avenue		Chicago	IL	60612	Business	over $500	Business over $500	
+Heneghan	Patrick	2016-02-22	500			1737 E. Ridgewood LN		Glenview	IL	60025	Individual	between $175 and $500	Individual between $175 and $500	
+Hinshaw and Culbertson, LLP.		2015-11-07	250			222 N. LaSalle Street	Suite 300	Chicago	IL	60601	Business	between $175 and $500	Business between $175 and $500	
+Hreben	Jeffrey	2016-11-08	500			1725 N. Burling Street		Chicago	IL	60614	Individual	between $175 and $500	Individual between $175 and $500	
+Humaideh	Aiman	2018-03-01	500			3823 N Keystone Ave		Chicago	IL	60641	Individual	between $175 and $500	Individual between $175 and $500	
+IUOE Local 399		2015-09-23	500			2260 S. Grove Street		Chicago	IL	60616	Political Group	between $175 and $500	Political Group between $175 and $500	
+Illinois Bankpac		2016-11-03	500			524 S. 2nd Street	Suite600	Springfield	IL	62701	Business	between $175 and $500	Business between $175 and $500	
+Illinois Government Consulting Group		2015-06-30	500			500 N. Dearborn	#1030	Chicago	IL	60654	Business	between $175 and $500	Business between $175 and $500	
+Illinois Governmental Consulting Group		2017-09-29	4000			500 N. Dearborn	#1030	Chicago	IL	60654	Business	over $500	Business over $500	
+Illinois Restauranteurs PAC		2016-06-30	500			33 W. Monroe	Suite 250	Chicago	IL	60603	Political Group	between $175 and $500	Political Group between $175 and $500	
+Ivankevych	Alex	2016-07-14	1000	Self-employed	Dream Develops, Inc.	1643 N. Albany Avenue		Chicago	IL	60647	Individual	over $500	Individual over $500	
+J. M. Victor Sign Corp.		2017-04-27	500			6206 N. Lakewood Ave		Chicago	IL	60660	Business	between $175 and $500	Business between $175 and $500	
+JP Morgan Chase and Co.		2016-02-01	500			601 Pennsylvania Avenue	NW 7th Floor	Washington	DC	20004	Business	between $175 and $500	Business between $175 and $500	
+JSA Jonathan Splitt Architects, Ltd.		2016-07-14	1000			4001 N. Ravenswood Avenue	Suite 601	Chicago	IL	60613	Business	over $500	Business over $500	
+Jaber	Krystyn	2015-09-23	500			1946 W. Lawrence		Chicago	IL	60640	Individual	between $175 and $500	Individual between $175 and $500	
+James McHugh Construction Co		2016-07-22	1000			1737 S. Michigan Ave.		Chicago	IL	60616	Business	over $500	Business over $500	
+Johnston	William	2015-03-10	200			2165 Westminster		Chicago	IL	60625	Individual	between $175 and $500	Individual between $175 and $500	
+KMS Development		2015-11-07	1000			300 N. Elizabeth	Suite 300C	Chicago	IL	60607	Business	over $500	Business over $500	
+Kaderbek	Stan-lee	2015-03-10	250			5722 N. West Circle Avenue		Chicago	IL	60631	Individual	between $175 and $500	Individual between $175 and $500	
+Karounos	Nick	2015-10-26	1000	Partner	Self-employed	400 N. May Street	Suite 202	Chicago	IL	60642	Individual	over $500	Individual over $500	
+Katten Muchin Rosenman		2016-06-30	1500			525 W. Monroe Street		Chicago	IL	60661	Business	over $500	Business over $500	
+Kearns	Lawrence P.	2015-03-10	250			330 S. Lombard Avenue		Oak Park	IL	60302	Individual	between $175 and $500	Individual between $175 and $500	
+Keribar	Alan	2015-09-23	500			2701 N. Mildred		Chicago	IL	60614	Individual	between $175 and $500	Individual between $175 and $500	
+Keribar	Alan	2016-12-28	200			5333 N. Lakewood Ave		Chicago	IL	60640	Individual	between $175 and $500	Individual between $175 and $500	
+Killian	Ari	2015-09-23	250			1032 W. Fulton Market	Ste. 300	Chicago	IL	60607	Individual	between $175 and $500	Individual between $175 and $500	
+Killian	Raffi	2015-11-07	250			524 N. Marshfield		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Kokalias	Bill	2018-03-01	500			188 N. Wells	Suite 300	Chicago	IL	60606	Individual	between $175 and $500	Individual between $175 and $500	
+Kolpak and Lerner		2016-06-14	250			6767 N. Milwaukee Avenue		Niles	IL	60714	Business	between $175 and $500	Business between $175 and $500	
+Kopka	Stephen	2016-10-24	1000			2403 W. Homer		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Kramer	Jerry	2018-07-17	500			1010 N Wood St		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Kulas	Julian	2015-06-30	250			2329 W. Chicago Avenue		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Kupiec	Mark	2016-06-30	1600	Attorney	Law Offices of Mark J. Kupiec	77 W. Washington Street	Suite 1801	Chicago	IL	60602-3184	Individual	over $500	Individual over $500	
+Kutak Rock, LLP. PAC		2016-03-21	1000			1650 Farnam Street		Omaha	NE	68102	Political Group	over $500	Political Group over $500	
+LG Construction Group		2015-06-30	2000			2234 W. North Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+LG Development		2016-06-30	1000			2234 W. North Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+LR Management CO, LLC.		2016-08-02	500			350 W. Hubbard	Suite 300	Chicago	IL	60654	Business	between $175 and $500	Business between $175 and $500	
+Land and Sea Dept		2016-03-01	750			P.O. Box 478370		Chicago	IL	60647	Business	over $500	Business over $500	
+Land and Sea Dept, LLC.		2015-11-07	333			2313 N. Kedzie Blvd.	Apt #2	Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+Latrides	Pete	2016-10-25	2000	Owner	Cozy Corner Restaurant	2294 N. Milwaukee Avenue		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Latrides	Peter	2016-11-08	500			605 S. Chester		Park Ridge	IL	60068	Individual	between $175 and $500	Individual between $175 and $500	
+Lauer	Dan	2018-03-01	2000	Attorney	Daniel G. Lauer & Assoc, P.C.	1424 W. Division Street		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Levitas	Gary	2016-12-23	2250	President	Northfield Group, LTD.	3610 Maple Avenue		Northbrook	IL	60062	Individual	over $500	Individual over $500	
+Leydon	john	2016-06-30	500			1745 W. Division Street		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Lim	John	2015-11-07	1000			3909 W. Lawrence	Suite 2F	Chicago	IL	60625	Individual	over $500	Individual over $500	
+Lin	Joe	2015-05-27	5400	Owner	The Shambles Chicago	1151 W. 15th Street	Unit 240	Chicago	IL	60608	Individual	over $500	Individual over $500	
+Live Nation		2015-09-23	1000			2000 W. Loop South	Suite 1300	Houston	TX	77027	Business	over $500	Business over $500	
+Logan Jones Limited Partnership		2016-06-30	20000			2734 W. Superior		Chicago	IL	60612	Business	over $500	Business over $500	
+Lopez	Gabriel	2015-03-10	250			3108 W. Irving Park Rd.		Chicago	IL	60618	Individual	between $175 and $500	Individual between $175 and $500	
+Lopez	Jose	2016-06-30	500			2112 W. Thomas		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Loulousis	Andrew	2017-05-25	250			2149 N. Stave St.		Chicago	IL	60647	Individual	between $175 and $500	Individual between $175 and $500	
+Loyfman	Alex	2016-12-23	1000	Owner	Red Square	1914 W. Division Street		Chicago	IN	60622	Individual	over $500	Individual over $500	
+Lozano	Fernando	2016-04-20	500			1322 W. Erie		Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+Lukowski	Art	2015-11-07	250			11515 Abbey Road		Mokena	IL	60448	Individual	between $175 and $500	Individual between $175 and $500	
+Lund	Brian	2016-06-30	500			2021 W. Moffat		Chicago	IL	60647	Individual	between $175 and $500	Individual between $175 and $500	
+Lund	Brian	2015-12-04	250			430 W. Erie Street		Chicago	IL	60654	Individual	between $175 and $500	Individual between $175 and $500	
+Lyft		2017-12-14	500			185 Berry Street		San Francisco	CA	94110	Business	between $175 and $500	Business between $175 and $500	
+M & G Investors, LLC.		2016-02-26	200			best faith effort		chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+M & J Consulting		2016-03-01	1250			1829 N. Milwaukee	Suite A	Chicago	IL	60647	Business	over $500	Business over $500	
+M. Fishman & Co.		2018-07-17	2500			3215 W. Fullerton Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+MEA Real Estate Advisors, Inc.		2017-04-27	500			630 Garden Court		Glenview	IL	60025	Business	between $175 and $500	Business between $175 and $500	
+MS-2013-2, LLC.		2017-09-29	2000			1200 N. Ashland Avenue	Suite 550	Chicago	IL	60622	Business	over $500	Business over $500	
+MZI Group		2018-08-11	2000			1937 W. Fulton		Chicago	IL	60612	Business	over $500	Business over $500	
+Mango Liquors, Inc.		2016-08-12	750			1458 N. Western Avenue		Chicago	IL	60622	Business	over $500	Business over $500	
+Marc 1659 Division Operating, LLC		2015-06-30	1000			55 E. Jackson	Suite 500	Chicago	IL	60604	Business	over $500	Business over $500	
+Mark Ordower and Co.		2016-06-30	1250			333 S. Desplaines St.	Apt207	Chicago	IL	60661	Business	over $500	Business over $500	
+Marks	Daniel	2015-11-07	500			1816 W. Division St.		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Martorina	Salvatore	2016-06-30	850	Architect	IPSA Architecture & Design	116 W. Grand Avenue		Chicago	IL	60654	Individual	over $500	Individual over $500	
+Masada of Chicago		2016-06-30	7500			2206 N. California Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+Mazzone	Anthony	2016-07-14	200			1346 W. Erie		Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+McGuire Woods		2017-12-22	750			800 East Canal Street		Richmond	VA	23219	Business	over $500	Business over $500	
+McGuire Woods One James Center		2015-02-27	250			901 East Cary St.		Richmond	VA	23219	Business	between $175 and $500	Business between $175 and $500	
+McLinden	Betsy	2016-06-30	1000	Not employed	Not employed	909 Old Green Bay		Winnetka	IL	60093	Individual	over $500	Individual over $500	
+McLinden	John	2015-12-04	5000	Investor	Self employed	225 W. Hubbard Street		Chicago	IL	60654	Individual	over $500	Individual over $500	
+McLinden	John T.	2015-06-30	1000	Executive	Centrum Properties	909 Greenbay Road		Winnetka	IL	60093	Individual	over $500	Individual over $500	
+Meister	Jacob J.	2015-02-27	170			2427 W. Charleston Street		Chicago	IL	60647	Individual	under $175	Individual under $175	
+Microsoft		2016-01-14	1000			One Lone Tree Rd		Fargo	ND	58104-3911	Business	over $500	Business over $500	
+Miller Coors		2015-11-23	250			P.O. Box 482		Milwaukee	WI	53201	Business	between $175 and $500	Business between $175 and $500	
+Milwaukee Ave., Inc. DBA Nick's		2016-06-30	1000			1516 N. Milwaukee Ave.		Chicago	IL	60622	Business	over $500	Business over $500	
+Milwaukee Lofts, LLC.		2016-06-30	500			1547 N. Milwaukee Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Mississippi Management LLC		2018-05-15	11250			2734 W. Superior St.		Chicago	IL	60612	Business	over $500	Business over $500	
+Moca		2018-06-15	1600			2847 W. Fullerton Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+Morand	Gregory	2018-03-01	500			1403 Westchester Rd.		Buffalo Grove	IL	60089	Individual	between $175 and $500	Individual between $175 and $500	
+Moreno, III	Proco Joseph	2016-10-03	92500	Alderman	City of Chicago	1330 N. Leavitt		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Mosky	Robert	2018-03-01	1000	Real Estate Developer	RDM Development	230 W, Division St.	Apt.1502	Chicago	IL	60610	Individual	over $500	Individual over $500	
+Motew	Kenneth	2015-09-23	1000	Real Estate	Self	2385 Woodpath Lane		Highland Park	IL	60035	Individual	over $500	Individual over $500	
+Motew	Kenneth	2016-12-23	1500	Real Estate	Mo2 Properties	709 N. Milwaukee		Chicago	IL	60642	Individual	over $500	Individual over $500	
+Motew	Michael	2016-02-26	1000	Real Estate	Self Employed	516 N. Ogden		Chicago	IL	60642	Individual	over $500	Individual over $500	
+Moyer	Michael	2016-12-23	2500	Investment	Self-employed	134 N. LaSalle	Suite 1220	Chicago	IL	60602	Individual	over $500	Individual over $500	
+NBM Development, LLC.		2016-06-30	2000			1035 N. Dearborn	#10E	Chicago	IL	60610	Business	over $500	Business over $500	
+NOCA 2340, LLC.		2017-12-14	3500			P.O. Box 101163		Chicago	IL	60610	Business	over $500	Business over $500	
+Neff	Steven	2016-06-30	200			2622 N. Magnolia		Chicago	IL	60614	Individual	between $175 and $500	Individual between $175 and $500	
+New Congress, LLC.		2015-11-07	1000			134 N. LaSalle St	Suite 1220	Chicago	IL	60602	Business	over $500	Business over $500	
+Newell	Kevin	2016-06-30	500			6512 N. Sayre Avenue		Chicago	IL	60631	Individual	between $175 and $500	Individual between $175 and $500	
+Newman	Terry	2015-06-30	250			525 W. Monroe Street	#1600	Chicago	IL	60661	Individual	between $175 and $500	Individual between $175 and $500	
+Noah Investment Member, Inc.		2017-09-29	2500			3009 W. Montrose		Chicago	IL	60618	Business	over $500	Business over $500	
+Noble North Elston, LP		2018-01-20	11100			2734 W. Superior Street		Chicago	IL	60612	Business	over $500	Business over $500	
+Norsman	Brent A.	2015-02-27	250			1729 W. Potomac Avenue		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+North and Kedzie Service, Inc.		2016-07-14	500			3142 W. North Avenue		Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+Northfield Group, LTD		2016-03-01	500			516 Milwaukee Avenue		Wheeling	IL	60090	Business	between $175 and $500	Business between $175 and $500	
+O'Connor	Michael	2016-02-01	250			1728 Princess Circle		Naperville	IL	60564-7140	Individual	between $175 and $500	Individual between $175 and $500	
+O'Toole	Mark	2015-04-23	1000	best faith effort made	best faith effort made	best faith effort made		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Ostrowski	James T.	2015-11-07	250			2044 N. Western Avenue	Suite #3	Chicago	IL	60647	Individual	between $175 and $500	Individual between $175 and $500	
+Otoole	Mark	2015-11-07	1000	best faith effort	best faith effort made	best faith effort made		best faith effort ma	IL	best faith	Individual	over $500	Individual over $500	
+Output Lounge		2015-11-07	500			1758 W. Grand Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+PHC Domain Group LLC		2018-01-13	5600			1415 W. Chicago Ave.		Chicago	IL	60642	Business	over $500	Business over $500	
+PLS Financial Services Inc		2015-03-31	1500			One South Wacker Drive	36th Floor	Chicago	IL	60606	Business	over $500	Business over $500	
+Palmer	Graham	2016-06-30	6000	Real Estate	Centrum Properties	335 Oakland Drive		Highland Park	IL	60035	Individual	over $500	Individual over $500	
+Panoptic Group Corp		2015-11-07	2000			2600 W. Grand Avenue		Chicago	IL	60612	Business	over $500	Business over $500	
+Parson's Chicken & Fish		2016-03-01	1083			2952 W. Armitage Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+Pearlman	Steven	2018-03-01	1000	Attorney	Steven B Pearlman & Associates	1500 Sheridan Rd.	Unit 7C	Wilmette	IL	60091	Individual	over $500	Individual over $500	
+Peoples Gas		2017-10-18	1000			200 E. Randolph		Chicago	IL	60601	Business	over $500	Business over $500	
+Peoples Gas Light and Coke Co		2018-09-29	750			PO Box 19800		Green Bay	WI	54307-9004	Business	over $500	Business over $500	
+Petryshyn	Michael	2015-09-23	500			1129 N. Mozart		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Pfizer Inc		2017-12-22	500			6730 Lenox Center Ct		Memphis	TN	38115	Business	between $175 and $500	Business between $175 and $500	
+Pieczka	Mark	2015-12-08	2500	best faith effort	best faith effort made	P.O. Box 46091		Chicago	IL	60646	Individual	over $500	Individual over $500	
+Pieczka	Mark	2016-11-08	500			6503 N. Le Mai Ave		Lincolnwood	IL	60712	Individual	between $175 and $500	Individual between $175 and $500	
+Piekarz	Ron	2016-10-24	3200	Architect	Self-employed	2880 N. Elston		Chicago	IL	60618	Individual	over $500	Individual over $500	
+Pikarski	Tom	2016-07-14	500			6256 N. Ionia		Chicago	IL	60646	Individual	between $175 and $500	Individual between $175 and $500	
+Piton	Walter	2015-11-07	300			1820 N. Central Avenue		Chicago	IL	60639	Individual	between $175 and $500	Individual between $175 and $500	
+Plati	Enrico	2016-06-30	3500	best faith effort made	best faith effort made	110 E. Delaware		Chicago	IL	60611	Individual	over $500	Individual over $500	
+Pollock	Adam	2018-09-10	1500	CFO	Grosvenor Holdings, LLC	172 W. Eugene		Chicago	IL	60614	Individual	over $500	Individual over $500	
+Pomaville	Tim	2015-02-27	250			P.O. Box 101093		Chicago	IL	60610	Individual	between $175 and $500	Individual between $175 and $500	
+Powers	Larry	2016-06-30	1000	Managing Partner	AGC West Town Owner, LLC.	1279 N. Milwaukee Avenue		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Powers	Lawrence	2015-12-04	5000	Real Estate	Centrum Partners, LLC.	225 S. Euclid		Oak Park	IL	60302	Individual	over $500	Individual over $500	
+Prairie Management & Development, Inc.		2018-06-15	2500			333 N. Michigan Ave.	Suite 1700	Chicago	IL	60601	Business	over $500	Business over $500	
+Prime Equity Management, LLC		2018-03-26	250			200 W. Adams St.	Suite 2500	Chicago	IL	60606	Business	between $175 and $500	Business between $175 and $500	
+Przyjemski	Bart	2018-03-01	1000	Real Estate Developer	Noah Properties	3009 W. Montrose		Chicago	IL	60618	Individual	over $500	Individual over $500	
+Quadex, LLC		2016-07-22	1500			4801 Crystal Hill Rd		North Little Rock	AR	72118	Business	over $500	Business over $500	
+Quinlan	Michael	2015-02-27	500			1259 W. Foster Avenue	#1	Chicago	IL	60640	Individual	between $175 and $500	Individual between $175 and $500	
+RBH Brewery, Inc.		2017-04-27	500			5500 Park Place		Chicago	IL	60018	Business	between $175 and $500	Business between $175 and $500	
+RS Greenview, LLC		2018-06-15	950			PO Box 221536		Chicago	IL	60622	Business	over $500	Business over $500	
+Rafalo Corporation		2017-06-26	2500			8053 N. Milwaukee Ave		Chicago	IL	60714	Business	over $500	Business over $500	
+Raines	Thomas	2018-06-15	1000	Attorney	Self-employed	20 N. Wacker St.	Suite 550	Chicago	IL	60606	Individual	over $500	Individual over $500	
+Real Simple Inc.		2016-02-26	1000			2050 W. Division Street		Chicago	IL	60622	Business	over $500	Business over $500	
+Revolution Brewery		2016-10-25	1000			2323 N. Milwaukee Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+Reyes Kurson		2016-03-23	1500			600 W. Van Buren	Suite 909	Chicago	IL	60607	Business	over $500	Business over $500	
+Ricciardi	Michael	2016-06-30	250			1755 Summit Ct.		Deefield	IL	60015	Individual	between $175 and $500	Individual between $175 and $500	
+Riesco	Julie	2016-06-14	200			543 N. Noble Street	2R	Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+Roger C. Marquardt & Co., Inc.		2016-12-23	2000			311 S. County Farm Rd		Wheaton	IL	60187	Business	over $500	Business over $500	
+Rohlfsen	Ryan	2016-06-21	200			1226 N. Wood Street		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Roldan	Hipolito	2016-07-14	500			1814 S. Calumet	Apt. 1601	Chicago	IL	60616	Individual	between $175 and $500	Individual between $175 and $500	
+Roots Pizza		2015-10-29	333			1924 W. Chicago Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+SAAJ Cafe, Inc. DBA Taxim		2017-12-14	800			1558 N. Milwaukee Avenue		Chicago	IL	60622	Business	over $500	Business over $500	
+Sabath	Joe	2016-11-08	2000			1516 N. Maplewood		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Santoy	Cesar	2015-12-04	500			329 W. 18th Street	Suite 904-A	Chicago	IL	60616	Individual	between $175 and $500	Individual between $175 and $500	
+Sayeef	Khurran	2015-06-30	260			808 N. Greenview Avenue	#4b	Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+Schneider	David	2016-06-30	200			1558 N. Milwaukee Avenue		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Schulter	Eugene	2016-10-28	500			4326 N. Bell Avenue		Chicago	IL	60618	Individual	between $175 and $500	Individual between $175 and $500	
+Schwartz	Michael	2016-10-25	1000	Real Estate	SNS Realty Group	2042 W. Belmont		Chicago	IL	60618	Individual	over $500	Individual over $500	
+Scime	John	2016-11-08	250			1824 W. Ellen		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Sergio	Grace	2016-06-14	2000	Real Estate	Sergio and Banks	56 East Bellevue		Chicago	IL	60601	Individual	over $500	Individual over $500	
+Shapack	Jeff	2017-06-26	1000	Shapack Partners	CEO	917 W. Washington		Chicago	IL	60607	Individual	over $500	Individual over $500	
+Sidel	Barry	2015-11-07	750			2030 W. Wabansia		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Skoulsky	Michael	2016-10-25	1000	Real Estate Developer	Stas Development, Inc.	1538 W. Fry Street	Apt. 2	Chicago	IL	60642	Individual	over $500	Individual over $500	
+Skyline Design		2016-02-26	500			1240 N. Homan Avenue		Chicago	IL	60651	Business	between $175 and $500	Business between $175 and $500	
+Slaven	Mike	2016-06-30	1000	Real Estate Developer	Centrum Partners	900 N. Kingsbury Street	#1075	Chicago	IL	60610	Individual	over $500	Individual over $500	
+Smithfield Properties, LLC.		2015-06-30	5000			400 W. Huron		Chicago	IL	60654	Business	over $500	Business over $500	
+Southern Glazer's Wine and Spirits, LLC		2018-09-29	500			2400 SW 145th Ave.		Miramar	FL	33027	Business	between $175 and $500	Business between $175 and $500	
+Splitt	Brian	2018-03-01	500			530 Longcommon Rd.		Riverside	IL	60546	Individual	between $175 and $500	Individual between $175 and $500	
+Staib	John R.	2015-03-10	250			2042 W. Potomac Avenue		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Steven B Pearlman & Associates		2016-02-01	500			350 W. Hubbard	Suite 630	Chicago	IL	60654	Business	between $175 and $500	Business between $175 and $500	
+Strategic Asset Management, Inc		2018-06-15	950			20 N. Wacker Dr.	Suite 3420	Chicago	IL	60606	Business	over $500	Business over $500	
+Strauss	Dale	2016-06-30	1000	Owner	Strauss Realty	4220 W. Montrose Avenue		Chicago	IL	60630	Individual	over $500	Individual over $500	
+Stros, LLC.		2015-11-13	500			4220 W. Montrose Avenue		Chicago	IL	60641	Business	between $175 and $500	Business between $175 and $500	
+Studio ARQ, LLC.		2016-06-30	500			329 W. 18th Street	904	Chicago	IL	60616	Business	between $175 and $500	Business between $175 and $500	
+Sundry	Arthur	2018-03-01	1000	Real Estate Developer	BigFin Properties	111 Longcommon Rd		Riverside	IL	60546	Individual	over $500	Individual over $500	
+Surestaff, Inc.		2016-03-01	1000			650 E. Devon Ave	Suite 154	Itasca	IL	60143	Business	over $500	Business over $500	
+Sustainbuild, LLC.		2015-11-13	1500			538 N. Western Avenue		Chicago	IL	60612	Business	over $500	Business over $500	
+Sutherland	Mark	2016-11-08	500			1517 W. Haddon		Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+Swiss Products		2018-08-11	500			4333 W. Division St.		Chicago	IL	60651	Business	between $175 and $500	Business between $175 and $500	
+The Blue Note, Inc.		2016-06-30	1000			1565 N. Milwaukee Avenue		Chicago	IL	60622	Business	over $500	Business over $500	
+The Domain Group LLC		2016-06-30	18800			1415 W. Chicago Avenue	Suite C	Chicago	IL	60642	Business	over $500	Business over $500	
+The Eagle Logan, LLC		2018-06-07	2000			1919 W 19th St	Unit 1B	Broadview	IL	60155	Business	over $500	Business over $500	
+The Fifty/50		2015-10-29	333			2047 W. Division Street		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+The Golin Family Trust		2016-06-30	800			1366 N. Milwaukee Avenue		Chicago	IL	60622	Business	over $500	Business over $500	
+The Habitat Company, LLC		2016-07-14	500			350 W. Hubbard	Suite 500	Chicago	IL	60654	Business	between $175 and $500	Business between $175 and $500	
+The Haymarket Group		2016-07-14	1300			500 N. Dearborn	Suite 1150	Chicago	IL	60654	Business	over $500	Business over $500	
+The Mutiny		2016-08-19	450			2418 N. Western Avenue		Chicago	IL	60647	Business	between $175 and $500	Business between $175 and $500	
+The Roosevelt Group, Inc.		2016-03-23	700			600 W. Van Buren	Suite 909	Chicago	IL	60607	Business	over $500	Business over $500	
+The Violet Hour		2015-03-10	250			1520 N. Damen		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Thomas J. Murphy, Attorneys at Law		2018-06-15	500			111 W. Washington	Suite 1920	Chicago	IL	60602	Business	between $175 and $500	Business between $175 and $500	
+Thompson Coburn LLP		2016-08-12	500			One US Bank Plaza		St. Louis	MO	63101	Business	between $175 and $500	Business between $175 and $500	
+Tice Inc. DBA Standard Bar & Grill		2016-07-14	500			1332 N. Milwaukee Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Toalson	Peter	2016-12-23	1050	Partner	Land and Sea Dept	2120 N. Kimball Ave		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Toltec Plumbing Contractors, LLC		2016-06-30	1350			4366 W. Ogden Ave		Chicago	IL	60623	Business	over $500	Business over $500	
+Torres	Jose O.	2018-03-01	500			7538 W. Cleveland Street		Niles	IL	60714	Individual	between $175 and $500	Individual between $175 and $500	
+Total Management Solutions		2018-01-13	12500			1611 W. Division Street		Chicago	IL	60622	Business	over $500	Business over $500	
+Travelers Wine Bar DBA J Patricks Bucktown		2015-06-30	300			1547 N. Milwaukee Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Travellers Wine Bar DBA J. Patricks Bucktown		2015-11-07	250			1547 N. Milwaukee Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Triliegi	Andreanna	2016-10-25	1000	Marketing Coordinator	LG Development Group	2234 W. North Avenue		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Tsaparas	Spyridon	2018-09-10	1500	CEO	Centaur Construction	1200 W. Lake St.	Suite 200	Chicago	IL	60607	Individual	over $500	Individual over $500	
+Tunney	Edward	2016-07-14	1000	best faith effort made	best faith effort made	3125 W. Fullerton Avenue		Chicago	IL	60647	Individual	over $500	Individual over $500	
+Tunney Group		2016-03-01	2500			3125 W. Fullerton Avenue	Apt. 521	Chicago	IL	60647	Business	over $500	Business over $500	
+Turner	Patrick	2016-10-17	200			33 N. LaSalle Street		CXhicago	IL	60602	Individual	between $175 and $500	Individual between $175 and $500	
+UFCW Local 881		2015-11-07	500			10400 W. Higgins Road	Suite 500	Rosemont	IL	60018	Political Group	between $175 and $500	Political Group between $175 and $500	
+UP Railroad, Co.		2018-05-04	2000			415 W. Kinzie Avenue		Chicago	IL	60654	Business	over $500	Business over $500	
+UPSPAC		2018-09-29	500			55 Glenlake Parkway NE		Atlanta	GA	30328	Political Group	between $175 and $500	Political Group between $175 and $500	
+US National Title Service		2015-11-07	250			301 N. Lake		Pasadena	CA	91101	Business	between $175 and $500	Business between $175 and $500	
+Ublasi	Jamie	2018-03-01	1000			7339 W. Lunt		Chicago	IL	60631	Individual	over $500	Individual over $500	
+United Airlines, Inc PAC		2018-08-11	250			233 S. Wacker Drive	11th Floor	Chicago	IL	60606	Political Group	between $175 and $500	Political Group between $175 and $500	
+VSOP Properties		2015-11-07	500			1 N. Bishop Street	Apt 13	Chicago	IL	60607	Business	between $175 and $500	Business between $175 and $500	
+Vari Architects		2016-06-30	500			P.O. Box 10481		Chicago	IL	60610	Business	between $175 and $500	Business between $175 and $500	
+Victor Sign Corp.		2018-01-20	10600			2734 W. Superior Street		Chicago	IL	60612	Business	over $500	Business over $500	
+View Chicago, LLC.		2016-12-23	1000			1000 E. 80th Place	Suite 700N	Merrillville	IN	46410	Business	over $500	Business over $500	
+Vittore	Nick	2016-11-08	250			1 West Dundee Rd		Buffalo Grove	IL	60089	Individual	between $175 and $500	Individual between $175 and $500	
+Voipwalker		2016-02-01	500			6825 Hobson Valley Dr.		Woodridge	IL	60517	Business	between $175 and $500	Business between $175 and $500	
+Volo Holdings, LLC.		2015-06-30	2000			803 N. Campbell	Unit B	Chicago	IL	60622	Business	over $500	Business over $500	
+Weiner	Scott	2017-09-29	1500	Owner	The Fifty/50	920 N. Paulina		Chicago	IL	60622	Individual	over $500	Individual over $500	
+Weiner	Scott	2016-07-14	1000	Owner	Restaurant	1803 N. California Avenue	#2SE	Chicago	IL	60647	Individual	over $500	Individual over $500	
+West on North		2017-11-22	284			2509 W. North Avenue		Chicago	IL	60622	Business	between $175 and $500	Business between $175 and $500	
+Western Avenue Partners		2015-06-30	1000			1810 Balsam		Highland Park	IL	60035	Business	over $500	Business over $500	
+Whipple	Maria	2016-06-30	500			1900 W. Chicago Avenue		Chicago	IL	60622	Individual	between $175 and $500	Individual between $175 and $500	
+Wilmot Construction, Inc.		2016-12-23	1000			1801-17 N. Humboldt Blvd.		Chicago	IL	60647	Business	over $500	Business over $500	
+Wine and Spirits Distributors of Illinois PAC		2018-06-15	500			27 E. Monroe	Suite 1200	Chicago	IL	60603	Political Group	between $175 and $500	Political Group between $175 and $500	
+Wladyslaw Kowynia, Inc.		2016-06-30	2500			1551 W. Division Street		Chicago	IL	60642	Business	over $500	Business over $500	
+Wober	John	2018-08-11	500			2026 W. Superior		Chicago	IL	60612	Individual	between $175 and $500	Individual between $175 and $500	
+Wynn	Sarah	2017-06-26	1000	best faith effort	best faith effort	120 W. Oak Street	Apt 5C	Chicago	IL	60610	Individual	over $500	Individual over $500	
+Wynn	Ted	2017-06-26	5000	Executive	Victor Sign Corporation	1602 Hunters Glen Court		Wheaton	IL	60189	Individual	over $500	Individual over $500	
+Wynn & Associates		2018-01-20	11100			2734 W. Superior Street		Chicago	IL	60612	Business	over $500	Business over $500	
+Yafai Liquors		2016-06-30	1500			2700 W. North Avenue		Chicago	IL	60647	Business	over $500	Business over $500	
+Zwolinski	Robert	2016-02-26	250			1545 W. Chestnut		Chicago	IL	60642	Individual	between $175 and $500	Individual between $175 and $500	
+Non-itemized donations			5922										Donations under $175	Non-itemized donations under $150
+>>>>>>> parent of 3d556dd... run script for Joe Moreno
