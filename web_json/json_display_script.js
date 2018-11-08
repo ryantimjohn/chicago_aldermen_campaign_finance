@@ -1,6 +1,4 @@
 
-
-  <script type="text/javascript">
         var totalSvg = dimple.newSvg("#totalChartContainer", 550, 400);
   var sectorSvg = dimple.newSvg("#sectorChartContainer", 550, 400);
 
@@ -61,6 +59,3 @@
 
               });
       }
-
-		
-</script>
