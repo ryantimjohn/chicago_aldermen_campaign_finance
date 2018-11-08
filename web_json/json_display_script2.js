@@ -7,7 +7,7 @@
         var maxAmount = d3.max(data, function(d){return d.amount;})
         data_before = data.filter(function(d) { return d.before_after == "before";});
         var myChart = new dimple.chart(totalSvg, data_before);
-       myChart.setBounds("35%","0%", "70%","80%");
+      myChart.setBounds("10%","0%", "20%","80%");
         var x = myChart.addMeasureAxis("x", "amount");
         x.overrideMax = maxAmount;
         var y = myChart.addCategoryAxis("y", "type");
@@ -37,7 +37,7 @@
         var maxAmount = d3.max(data, function(d){return d.amount;})
         data_before = data.filter(function(d) { return d.before_after == "before";});
         var myChart = new dimple.chart(sectorSvg, data_before);
-       myChart.setBounds("35%","0%", "70%","80%");
+       myChart.setBounds("10%","0%", "20%","80%");
         var x = myChart.addMeasureAxis("x", "amount");
         x.overrideMax = maxAmount;
         var y = myChart.addCategoryAxis("y", "type");
