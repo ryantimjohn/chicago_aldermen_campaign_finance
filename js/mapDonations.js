@@ -111,14 +111,14 @@ function loadMap(ward, request) {
     var content = '<div id="content">' +
       '<div id="siteNotice">' +
       '</div>' +
-      '<h1 id="firstHeading" class="firstHeading">' + obj[line]["first_name"] + " " + obj[line]["last_name"] + '</h1>' +
-      '<h2>$' + obj[line]["amount"] + ' donated since 2015 election</h2>' +
+      '<h3 id="firstHeading" class="firstHeading">' + obj[line]["first_name"] + " " + obj[line]["last_name"] + '</h3>' +
+      '<h4>$' + obj[line]["amount"] + ' donated since 2015 election</h4>' +
       '<div id="bodyContent">' +
       '<p><b>Donor type: </b>' + obj[line]["donor_type"] + "</p>" +
       '<p><b>Address: </b>' + obj[line]["full_address"] + "</p>" +
       '<p>Information obtained from Illinois Sunshine: <a href="' + committee_url_list[ward - 1][2] + '">' +
       committee_url_list[ward - 1][1] + '</a> ' +
-      '(last visited August 30, 2018).</p>' +
+      '</p>' +
       '</div>' +
       '</div>';
     if (obj[line]["coord"]) {
