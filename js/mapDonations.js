@@ -54,6 +54,11 @@ var committee_url_list = [
 function makeRequest(ward) {
   var requestURL = 'https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/json/Ward' + ward + '.json';
   var request = new XMLHttpRequest();
+
+  request.addEventListener("load", function(){
+    loadMap(ward, this);
+  });
+
   request.open('GET', requestURL);
   request.responseType = 'json';
   request.send();
@@ -73,13 +78,7 @@ function loadMap(ward, request) {
     zoom: 7,
     styles: myStyles,
   }
-  var i = 0;
-  while (request.readyState != 4) {
-    i++;
-    if (i > 10000000){
-      break;
-    }
-  }
+
   var obj = request.response;
   var map = new google.maps.Map(document.getElementById("map"), mapOptions);
   var infowindow = new google.maps.InfoWindow({
