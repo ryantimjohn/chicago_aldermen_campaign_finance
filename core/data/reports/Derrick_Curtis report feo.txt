@@ -1,0 +1,23 @@
+FEO ITEMIZED:0
+SECTORS
+SECTOR financial:$4000.0, 10.0% of total income. Higher than 22.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR candidate:$750.0, 2.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 38.0% in percent of funding
+SECTOR small donors:$124830.16, 319.0% of total income. Higher than 18.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR local individual :$4500.0, 11.0% of total income. Higher than 6.0% of aldermen in dollars and higher than 28.0% in percent of funding
+SECTOR pac:$1000.0, 3.0% of total income. Higher than 12.0% of aldermen in dollars and higher than 94.0% in percent of funding
+SECTOR retail:$1400.0, 4.0% of total income. Higher than 6.0% of aldermen in dollars and higher than 10.0% in percent of funding
+SECTOR unclassified local business:$1700.0, 4.0% of total income. Higher than 6.0% of aldermen in dollars and higher than 4.0% in percent of funding
+SECTOR nonlocal individual :$950.0, 2.0% of total income. Higher than 4.0% of aldermen in dollars and higher than 6.0% in percent of funding
+SECTOR union:$2500.0, 6.0% of total income. Higher than 6.0% of aldermen in dollars and higher than 54.0% in percent of funding
+SECTOR unclassified nonlocal business:$3000.0, 8.0% of total income. Higher than 8.0% of aldermen in dollars and higher than 56.0% in percent of funding
+SECTOR party:$1500.0, 4.0% of total income. Higher than 54.0% of aldermen in dollars and higher than 96.0% in percent of funding
+INTERESTING DONATIONS
+$1000.0 from norfolk southern corporation. (3.0% of total income. This is higher than 92.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from 18th ward democratic organization. (4.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+
+OTHER INTERESTING THINGS
+Alderman is in the 6.0th percentile for Total donations SLE with a value of 27183.88
+Alderman is in the 100.0th percentile for  median donation SLE with a value of 500.0
+Alderman is in the 2.0th percentile for percent itemized with a value of 0.652960504534

@@ -1,0 +1,132 @@
+	last_name	first_name	received_date	amount	occupation	employer	address1	address2	city	state	zipcode	donor_type	donation_size	full_address	coord	ward_if_chicago	donation_location
+0	1543/51 Partners, LP		2015-02-24	1500			1541 N Wells		Chicago	IL	60610-1037	Business	over 500	1541 N Wells, Chicago, IL 60610-1037			in_Chicago_outside_ward
+1	50th Ward Regular Democratic Organization		2017-09-28	1650			2949 W Devon		Chicago	IL	60659	Political Group	over 500	2949 W Devon, Chicago, IL 60659			in_Chicago_outside_ward
+2	AAIM Howard & Western LLC,   c/o MId-America Asset Mgmt		2018-06-19	1500			One Parkview Plaza, 9th Fl.		Oakbrook Terrace	IL	60181	Business	over 500	One Parkview Plaza, 9th Fl., Oakbrook Terrace, IL 60181			in_IL_outside_Chicago
+3	AFSME illinois Council No. 31		2016-09-11	500			615 S. Second St	PO Box 2328	Springfield	IL	62705-2328	Business	under 500	615 S. Second St, Springfield, IL 62705-2328			in_IL_outside_Chicago
+4	AIMM Howard & Western LLC		2016-09-11	500			One Parkview Plaza	9th Floor	Oakbrook Terrace	IL	60181	Business	under 500	One Parkview Plaza, Oakbrook Terrace, IL 60181			in_IL_outside_Chicago
+5	AJ Patel Food Service Inc.		2018-06-19	2500			3132 W. Devon		Chicago	IL	60645	Business	over 500	3132 W. Devon, Chicago, IL 60645			in_Chicago_outside_ward
+6	AT&T Illinois Employee PAC		2017-08-09	1000			225 W Randolph 27b		Chicago	IL	60606	Political Group	over 500	225 W Randolph 27b, Chicago, IL 60606			in_Chicago_outside_ward
+7	Aaron	Maurice & Ora	2018-08-10	2300	administrator	self	4024 Grove St		Skokie	IL	60076	Individual	over 500	4024 Grove St, Skokie, IL 60076	(42.044465, -87.728738)		in_IL_outside_Chicago
+8	Akerman LLP		2018-06-25	500			495 N Keller Rd	Ste 300	Maitland	FL	32751	Business	under 500	495 N Keller Rd, Maitland, FL 32751			outside_IL
+9	Aperion Care Inc		2017-08-04	500			4655 W. Chase		Lincolnwood	IL	60712	Business	under 500	4655 W. Chase, Lincolnwood, IL 60712			in_IL_outside_Chicago
+10	Aryeh	M. David	2016-09-22	500			6616 N Monticello		Chicago	IL	60659	Individual	under 500	6616 N Monticello, Chicago, IL 60659			in_Chicago_outside_ward
+11	Associated Beer Distributors of IL		2018-06-20	3500			100 W Cook		Springfield	IL	62704	Business	over 500	100 W Cook, Springfield, IL 62704	(39.795075, -89.655001)		in_IL_outside_Chicago
+12	Avalon Equities Western LLC		2018-06-25	250			3315 Algonquin Rd	Ste 600	Rolling Meadows	IL	60008	Business	under 500	3315 Algonquin Rd, Rolling Meadows, IL 60008			in_IL_outside_Chicago
+13	BDJ Trucking, Inc.		2018-08-19	1000			7400 N. Waukegan Rd #208		Niles	IL	60714	Business	over 500	7400 N. Waukegan Rd #208, Niles, IL 60714			in_IL_outside_Chicago
+14	Banks	William	2018-06-21	250			1838 N Neva		Chicago	IL	60707	Individual	under 500	1838 N Neva, Chicago, IL 60707			in_Chicago_outside_ward
+15	Banner Storage GroupLLC		2015-11-30	1000			500 Skokie Blvd Suite 600		Northbrook	IL	60062	Business	over 500	500 Skokie Blvd Suite 600, Northbrook, IL 60062			in_IL_outside_Chicago
+16	Barr Management, Lt		2018-06-19	1250			2400 W. Devon		Chicago	IL	60659	Business	over 500	2400 W. Devon, Chicago, IL 60659			in_Chicago_outside_ward
+17	Berger	"Menachem ""Mark"""	2016-09-11	500			6244 N Central Park		Chicago	IL	60659	Individual	under 500	6244 N Central Park, Chicago, IL 60659			in_Chicago_outside_ward
+18	Bitton	Tomer	2018-08-14	2360	Managing Director	Crescent Heights	2949 Greenleaf		Chicago	IL	60645	Individual	over 500	2949 Greenleaf, Chicago, IL 60645	(42.00900375, -87.7040756082836)		in_Chicago_outside_ward
+19	Cermak Produce No. 15, Inc		2016-12-12	2000			6623 N Damen		Chicago	IL	60645	Business	over 500	6623 N Damen, Chicago, IL 60645	(42.0024851, -87.6796389097253)		in_Chicago_outside_ward
+20	Cermak Produce No. 6 Inc.		2018-06-20	2000			4234 N. Kedzie		Chicago	IL	60618	Business	over 500	4234 N. Kedzie, Chicago, IL 60618	(41.9584952, -87.7085088084403)		in_Chicago_outside_ward
+21	Cheder Lubavitch Hebrew Day School Inc.		2018-06-21	180			5201 Howard		Skokie	IL	60077	Business	under 500	5201 Howard, Skokie, IL 60077	(42.01863385, -87.7584001260083)		in_IL_outside_Chicago
+22	Chicago Acceptance		2018-06-20	1000			6231 N. Western Ave		Chicago	IL	60659	Business	over 500	6231 N. Western Ave, Chicago, IL 60659	(41.9948758, -87.6894122372972)		in_Chicago_outside_ward
+23	Chicago Fire Fighters Union Local 2 PAC		2017-08-05	750			440 W. 43rd Stret		Chicago	IL	60609	Political Group	over 500	440 W. 43rd Stret, Chicago, IL 60609			in_Chicago_outside_ward
+24	Chicago Journeymen Plumber's LU130 PAC		2017-12-18	1000			1340 W Washington		Chicago	IL	60607	Political Group	over 500	1340 W Washington, Chicago, IL 60607			in_Chicago_outside_ward
+25	Chicago Land Operations Joint Labor-Management PAC		2017-11-16	5000			6200 Joliet Rd		Countryside	IL	60525	Political Group	over 500	6200 Joliet Rd, Countryside, IL 60525	(41.7803373, -87.8641296)		in_IL_outside_Chicago
+26	Chicago Regional Council of Carpenters PAC		2018-06-19	500			12 E Erie Street		Chicago	IL	60609	Political Group	under 500	12 E Erie Street, Chicago, IL 60609	(41.8941620561142, -87.6276323248222)		in_Chicago_outside_ward
+27	Citizens for Lou Lang		2017-07-26	1300			PO Box 1815		Skokie	IL	60076-1815	Political Group	over 500	PO Box 1815, Skokie, IL 60076-1815			in_IL_outside_Chicago
+28	City Fresh Market Inc		2016-12-12	500			3201 W Devpm		Chicago	IL	60659	Business	under 500	3201 W Devpm, Chicago, IL 60659			in_Chicago_outside_ward
+29	City Fresh Market, Inc.		2017-12-18	200			3201 W. Devon		Chicago	IL	60659	Business	under 500	3201 W. Devon, Chicago, IL 60659			in_Chicago_outside_ward
+30	Clark Street Investors LLC		2016-09-11	750			c/o Next Property	400 Skokie Blvd Ste 800	Northbrook	IL	60062	Business	over 500	c/o Next Property, Northbrook, IL 60062			in_IL_outside_Chicago
+31	Comcast Financial Agency Corporation		2018-08-27	4500			1701 JFK Blvd		Philadelphia	PA	19103-2838	Business	over 500	1701 JFK Blvd, Philadelphia, PA 19103-2838	(39.95471565, -75.1684998948392)		outside_IL
+32	Davis	Eli	2018-06-25	1000			6124 N Bernard		Chicago	IL	60659	Individual	over 500	6124 N Bernard, Chicago, IL 60659			in_Chicago_outside_ward
+33	Diversey Rockwell LLC		2018-06-19	200			6348 N Cicero		Chicago	IL	60646	Business	under 500	6348 N Cicero, Chicago, IL 60646	(41.9970753, -87.74885805)		in_Chicago_outside_ward
+34	Doerner	John	2018-06-19	500			1705 N Rutherford		Chicago	IL	60607-3942	Individual	under 500	1705 N Rutherford, Chicago, IL 60607-3942			in_Chicago_outside_ward
+35	Doerrer	John	2017-08-04	500			1705 N Rutherford		Chicago	IL	60707	Individual	under 500	1705 N Rutherford, Chicago, IL 60707	(41.9111179, -87.7933455740066)		in_Chicago_outside_ward
+36	Farooqui	Sana Khatoon	2017-08-29	500			1142 N  Yale	9th Floor	Villa Park	IL	60181	Individual	under 500	1142 N  Yale, Villa Park, IL 60181			in_IL_outside_Chicago
+37	Fatima	Asma	2017-08-25	500			2529 W Jerome B		Chicago	IL	60645	Individual	under 500	2529 W Jerome B, Chicago, IL 60645			in_Chicago_outside_ward
+38	Gefen Property Group LLC		2018-06-19	500			4600 W Touhy	Ste 200	Lincolnwood	IL	60712	Business	under 500	4600 W Touhy, Lincolnwood, IL 60712			in_IL_outside_Chicago
+39	Glencrest Nursing & Rehabiitation Center LTD		2016-09-11	500			2451 W. Touhy		Chicago	IL	60645	Business	under 500	2451 W. Touhy, Chicago, IL 60645	(42.0116308, -87.6921138258681)		in_Chicago_outside_ward
+40	Glenner	Sidney	2017-08-04	1000			2959 W Glenlake		Chicago	IL	60645	Individual	over 500	2959 W Glenlake, Chicago, IL 60645	(41.99198295, -87.7039549709307)		in_Chicago_outside_ward
+41	Goldfeder	Avrom	2018-06-19	1250			6030 N. Bernard		Chicago	IL	60659	Individual	over 500	6030 N. Bernard, Chicago, IL 60659	(41.9911817598443, -87.7153403344385)		in_Chicago_outside_ward
+42	Greystone Associates, Inc		2016-10-06	2000			7247 St Louis		Skokie	IL	60076	Business	over 500	7247 St Louis, Skokie, IL 60076			in_IL_outside_Chicago
+43	Grossinger Chevrolet		2017-07-27	300			151 E. :Lake Cook Rd		Palatine	IL	60074	Business	under 500	151 E. :Lake Cook Rd, Palatine, IL 60074	(42.1536986661818, -88.0435436348843)		in_IL_outside_Chicago
+44	Grossinger Honda		2016-09-11	900			6600 N Western		Chicago	IL	60645	Business	over 500	6600 N Western, Chicago, IL 60645			in_Chicago_outside_ward
+45	Haque	Mohammad W.	2017-08-29	1000			7207 N. Greenview		Chicago	IL	60626	Individual	over 500	7207 N. Greenview, Chicago, IL 60626	(42.01312585, -87.6677984402585)		in_Chicago_outside_ward
+46	Haque	Soofia	2015-11-12	500			7207 N. Greenview		Chicago	IL	60626	Individual	under 500	7207 N. Greenview, Chicago, IL 60626	(42.01312585, -87.6677984402585)		in_Chicago_outside_ward
+47	I.U.O.E. Local 150 LAPAC		2018-08-19	2500			6200 Joliet Rd		Countryside	IL	60625-2957	Political Group	over 500	6200 Joliet Rd, Countryside, IL 60625-2957	(41.7690102, -87.8895937)		in_IL_outside_Chicago
+48	IILPCC Inc		2016-12-12	500			6359 N. Maplewood		Chicago	IL	60659	Business	under 500	6359 N. Maplewood, Chicago, IL 60659			in_Chicago_outside_ward
+49	IPLCC Inc		2018-06-25	600			6359 N Maplewood Ave		Chicago	IL	60659	Business	over 500	6359 N Maplewood Ave, Chicago, IL 60659	(41.99737998, -87.6936461)		in_Chicago_outside_ward
+50	Illinois AFL-CIO Committee on Political Education		2018-05-29	500			534 S 2nd St	#200	Springield	IL	62701-1764	Political Group	under 500	534 S 2nd St, Springield, IL 62701-1764			in_IL_outside_Chicago
+51	Illinois Fire Sprinkler Contractors PAC		2015-11-24	500			62 Orland Square Drive		Orland Park	IL	60462-6559	Political Group	under 500	62 Orland Square Drive, Orland Park, IL 60462-6559	(41.616604433075, -87.8461393322355)		in_IL_outside_Chicago
+52	Illinois Hotel-Motel PAC		2017-08-11	1000			5A Lawrence Square		Springfield	IL	62704	Political Group	over 500	5A Lawrence Square, Springfield, IL 62704	(39.7944915, -89.6580291655027)		in_IL_outside_Chicago
+53	J.K. Kabab House		2016-09-11	400			6412 N Rockwell		Chicago	IL	60659	Business	under 500	6412 N Rockwell, Chicago, IL 60659			in_Chicago_outside_ward
+54	JD Sales Inc		2018-06-25	750			221 N LaSalle St	Ste 3800	Chicago	IL	60601	Business	over 500	221 N LaSalle St, Chicago, IL 60601	(41.886404, -87.632359)		in_Chicago_outside_ward
+55	KFT Services LLC		2018-08-14	1000			6633 N  Lincoln		Lincolnwood	IL	60712	Business	over 500	6633 N  Lincoln, Lincolnwood, IL 60712			in_IL_outside_Chicago
+56	Kalish	Yehiel Mark	2015-12-15	250			8707 Skokie Blvd  #204		Skokie	IL	60077	Individual	under 500	8707 Skokie Blvd  #204, Skokie, IL 60077			in_IL_outside_Chicago
+57	Khan	M. Hameedulla	2015-11-25	200			6340 N Mplewood,		Chicago	IL	60659	Individual	under 500	6340 N Mplewood,, Chicago, IL 60659			in_Chicago_outside_ward
+58	Khan	Mazher	2015-11-25	500			2805 W Rosemont	205	Chicago	IL	60659	Individual	under 500	2805 W Rosemont, Chicago, IL 60659			in_Chicago_outside_ward
+59	Khan	Shahida	2018-08-19	1000			23 Rolling Hills Dr		Barrington	IL	60010	Individual	over 500	23 Rolling Hills Dr, Barrington, IL 60010	(42.1190035221835, -88.2295203418535)		in_IL_outside_Chicago
+60	Klein	Michael	2017-07-26	300			2715 W Birchwood		Chicago	IL	60645	Individual	under 500	2715 W Birchwood, Chicago, IL 60645	(42.01735315, -87.6979530009618)		in_Chicago_outside_ward
+61	Kohn	Asher	2017-11-28	1000	businessman	self	6311 W. Gross Point Rd		Lincolnwood	IL	60714	Individual	over 500	6311 W. Gross Point Rd, Lincolnwood, IL 60714			in_IL_outside_Chicago
+62	Kolpak, Lerner & Grcic		2018-06-19	1800			6767 N Milwaukee #202		Niles	IL	60714	Business	over 500	6767 N Milwaukee #202, Niles, IL 60714			in_IL_outside_Chicago
+63	Limrah Inc		2018-06-25	650			2241 W Devon		Chicago	IL	50569	Business	over 500	2241 W Devon, Chicago, IL 50569			in_Chicago_outside_ward
+64	Local 134 State & Municipal PAC, IBEW		2018-06-20	1000			2722 S Martin Luther King Drive		Chicago	IL	60616	Political Group	over 500	2722 S Martin Luther King Drive, Chicago, IL 60616			in_Chicago_outside_ward
+65	Loskov	Marvin	2018-06-20	1000	accountant	retired	6833 N Kedzie	#115	Chicago	IL	60645	Individual	over 500	6833 N Kedzie, Chicago, IL 60645	(42.005519, -87.7085691524937)		in_Chicago_outside_ward
+66	Lyon Financial Services LLC		2016-09-22	500			7383 N Lincoln Ave		Lincolnwood	IL	60712	Business	under 500	7383 N Lincoln Ave, Lincolnwood, IL 60712	(42.0058502, -87.7320139)		in_IL_outside_Chicago
+67	MR 6834 Western LLC		2018-06-25	500			55 E Jackson Blvd, 5th Fl		Chicago	IL	60604	Business	under 500	55 E Jackson Blvd, 5th Fl, Chicago, IL 60604			in_Chicago_outside_ward
+68	Mary Kay Minaghan d/b/a MKM Services		2018-06-25	500			308 Circle Ave		Forest Park	IL	60130	Business	under 500	308 Circle Ave, Forest Park, IL 60130	(41.8811489573357, -87.8088524208768)		in_IL_outside_Chicago
+69	Mashiach	Shmuel & Talia	2015-12-05	500			2841 W Chase		Chicago	IL	60645	Individual	under 500	2841 W Chase, Chicago, IL 60645			in_Chicago_outside_ward
+70	Matanky & Matanky, Ltd		2016-12-12	500			200 N. LaSalle #2350		chicago	IL	60601-1044	Business	under 500	200 N. LaSalle #2350, chicago, IL 60601-1044			in_IL_outside_Chicago
+71	Matanky Realty Group, Inc.		2017-12-18	250			200 N LaSalle	#2350	Chicago	IL	60601	Business	under 500	200 N LaSalle, Chicago, IL 60601			in_Chicago_outside_ward
+72	McGuire Woods Federal PAC Fund		2018-06-25	250			One James Center	901 East Cary Street	Richmond	VA	23219-4030	Political Group	under 500	One James Center, Richmond, VA 23219-4030	(37.53661605, -77.4372639386795)		outside_IL
+73	Miguel A. Santiago Consulting Inc.		2018-06-29	300			7414 N Octavia Ave		Chicago	IL	60631-4335	Business	under 500	7414 N Octavia Ave, Chicago, IL 60631-4335	(42.0157675, -87.8093407640634)		in_Chicago_outside_ward
+74	Musa	Wasim	2017-08-29	500			6535 N Hoyne #2S		Chicago	IL	60645	Individual	under 500	6535 N Hoyne #2S, Chicago, IL 60645			in_Chicago_outside_ward
+75	Next Parrot Plaza, LLC		2017-08-10	1250			c/o Next Property	400 Skokie; Ste 800	Northbrook	IL	60062	Business	over 500	c/o Next Property, Northbrook, IL 60062			in_IL_outside_Chicago
+76	O'Brien	Peter J SR	2015-02-24	1500	manager	Mado Realty	1541 N Wells		Chicago	IL	60610	Individual	over 500	1541 N Wells, Chicago, IL 60610			in_Chicago_outside_ward
+77	Patel	Sarfaraz	2015-11-25	500			4842 W. Sherwin		Lincolnwood	IL	60712	Individual	under 500	4842 W. Sherwin, Lincolnwood, IL 60712	(42.0145847655829, -87.7489250039873)		in_IL_outside_Chicago
+78	Patel	Shabbir	2017-08-30	1500	Police Officer	Village of Schiller Park	9833 Garden Ct.		Schiller Park	IL	60176	Individual	over 500	9833 Garden Ct., Schiller Park, IL 60176	(41.95018672138, -87.8722712775364)		in_IL_outside_Chicago
+79	Patel	Yusuf	2015-11-12	1000	Teacher	CPS	4842 W. Sherwin		Lincolnwood	IL	60712	Individual	over 500	4842 W. Sherwin, Lincolnwood, IL 60712	(42.0145847655829, -87.7489250039873)		in_IL_outside_Chicago
+80	Patel	Zaheer	2015-11-25	500			4842 W. Sherwin		Lincolnwood	IL	60712	Individual	under 500	4842 W. Sherwin, Lincolnwood, IL 60712	(42.0145847655829, -87.7489250039873)		in_IL_outside_Chicago
+81	Peoples Gas		2016-12-13	500			130 E Randolph,#300		Chicago	IL	60601-6302	Business	under 500	130 E Randolph,#300, Chicago, IL 60601-6302			in_Chicago_outside_ward
+82	Peoples Gas Light & Coke		2017-12-05	250			PO Box 19800		Green Bay	WI	54307-9004	Business	under 500	PO Box 19800, Green Bay, WI 54307-9004			outside_IL
+83	Pepsico Inc.		2018-03-29	500			325 7th NW, Suite 400		Washington	DC	20004	Business	under 500	325 7th NW, Suite 400, Washington, DC 20004			outside_IL
+84	Perillo BMW		2017-08-01	300			1035 N Clark		Chicago	IL	60610	Business	under 500	1035 N Clark, Chicago, IL 60610			in_Chicago_outside_ward
+85	Pfizer Inc		2017-12-28	500			6730 Lennox Center		Memphis	TN	38115	Business	under 500	6730 Lennox Center, Memphis, TN 38115			outside_IL
+86	Prospect Resources, Inc.		2018-06-21	750			8170 McCormick, #107		Skokie	IL	60076	Business	over 500	8170 McCormick, #107, Skokie, IL 60076			in_IL_outside_Chicago
+87	Qureshi	Fazel	2017-08-09	1000			6234 N Paulina		Chicago	IL	60660	Individual	over 500	6234 N Paulina, Chicago, IL 60660	(41.99544015, -87.6721428186389)		in_Chicago_outside_ward
+88	Radio Advertising, Inc.		2018-06-25	1000			3312 W Peterson		Chicago	IL	60659	Business	over 500	3312 W Peterson, Chicago, IL 60659	(41.9905791, -87.7121778393897)		in_Chicago_outside_ward
+89	Raucci & Sulluvan Strategies, LLC		2016-09-11	500			3000 N. Sheridan Rd Suite 18C		Chicago	IL	60657	Business	under 500	3000 N. Sheridan Rd Suite 18C, Chicago, IL 60657			in_Chicago_outside_ward
+90	Regal Jewels Inc		2017-08-14	318			2625 W Devon		Chicago	IL	60659	Business	under 500	2625 W Devon, Chicago, IL 60659			in_Chicago_outside_ward
+91	Richard's Body Shop of Niles		2015-12-14	180			5759 Touhy		Niles	IL	60714	Business	under 500	5759 Touhy, Niles, IL 60714	(42.0118786, -87.801645)		in_IL_outside_Chicago
+92	Rothner	Eric	2016-09-13	1800	Manager	Extended Care	3125 W. Sherwin		Chicago	IL	60645	Individual	over 500	3125 W. Sherwin, Chicago, IL 60645			in_Chicago_outside_ward
+93	S&C Electric Company		2018-06-20	4000			6601 N Ridge		Chicago	IL	60626	Political Group	over 500	6601 N Ridge, Chicago, IL 60626	(41.9983973, -87.6600283)		in_Chicago_outside_ward
+94	S4 PAC		2017-07-31	500			8707 Skokie Blvd	Ste 204	Skokie	IL	60077	Political Group	under 500	8707 Skokie Blvd, Skokie, IL 60077	(42.0391111, -87.7466051246095)		in_IL_outside_Chicago
+95	Salem Village Nursing & Rehab Center		2017-07-27	250			1314 Rowell Ave		Joliet	IL	60433	Business	under 500	1314 Rowell Ave, Joliet, IL 60433	(41.5006754751358, -88.0614626233205)		in_IL_outside_Chicago
+96	Schain Banks Kenny  & Schwartz		2018-06-21	250			70 W Madison	Ste 5300	Chicago	IL	60602	Business	under 500	70 W Madison, Chicago, IL 60602			in_Chicago_outside_ward
+97	Schur	Baruch	2018-06-19	2000			7315 St Louis		Skokie	IL	60076	Individual	over 500	7315 St Louis, Skokie, IL 60076			in_IL_outside_Chicago
+98	Seleski	Samuel	2018-06-19	1150			2908 W. Lunt		Chicago	IL	60645	Individual	over 500	2908 W. Lunt, Chicago, IL 60645	(42.00856635, -87.7025975458094)		in_Chicago_outside_ward
+99	Service Employees Local 1 PEC		2017-02-15	500			111 E, Wacker, 21st Fl		Chicago	IL	60601-3713	Political Group	under 500	111 E, Wacker, 21st Fl, Chicago, IL 60601-3713			in_Chicago_outside_ward
+100	Seymour	Kyle	2016-09-11	500			8130 Margaret Lan		Cincinnati	OH	45242	Individual	under 500	8130 Margaret Lan, Cincinnati, OH 45242			outside_IL
+101	Shapiro	Gail	2017-07-24	910			3150 N Lake Shgore Drive	15C	Chicago	IL	60657	Individual	over 500	3150 N Lake Shgore Drive, Chicago, IL 60657			in_Chicago_outside_ward
+102	Shapiro	Maura	2018-06-19	250			7410 Lincoln		SKOKIE	IL	60076	Individual	under 500	7410 Lincoln, SKOKIE, IL 60076	(42.0166495503886, -87.7457810728644)		in_IL_outside_Chicago
+103	Siavelis	Wiliam	2018-06-19	200			2100 W Lunt		Chicago	IL	60645	Individual	under 500	2100 W Lunt, Chicago, IL 60645			in_Chicago_outside_ward
+104	Spuropoulos	Peter	2017-08-16	700			6955 N Karlov		Lincolnwood	IL	60712	Individual	over 500	6955 N Karlov, Lincolnwood, IL 60712	(42.0072850900624, -87.7309890895948)		in_IL_outside_Chicago
+105	Stern	Abraham	2017-07-26	750			9049 Karlov		Skokie	IL	60076	Individual	over 500	9049 Karlov, Skokie, IL 60076	(42.045237255425, -87.7299828530789)		in_IL_outside_Chicago
+106	Stern	Rena	2017-08-11	500			7415 Washtenaw		Chicago	IL	60645	Individual	under 500	7415 Washtenaw, Chicago, IL 60645	(42.0162354, -87.696952997889)		in_Chicago_outside_ward
+107	Stern	Sheldon	2018-06-19	500			7415 N Washtenaw		Chicago	IL	60645	Individual	under 500	7415 N Washtenaw, Chicago, IL 60645	(42.0162354, -87.696952997889)		in_Chicago_outside_ward
+108	Taft Stettinius & Hollister LLP		2018-06-29	500			111 E. Wacker Suite 2800		Chicago	IL	60601	Business	under 500	111 E. Wacker Suite 2800, Chicago, IL 60601			in_Chicago_outside_ward
+109	Tahoora Sweets & Bakery		2015-11-25	350			2345 W Devon		Chicago	IL	60659	Business	under 500	2345 W Devon, Chicago, IL 60659			in_Chicago_outside_ward
+110	Teamsters Local Union No. 700 PAC		2016-09-11	500			1300 W Higgins #2301		Psark Ridge	IL	60048	Political Group	under 500	1300 W Higgins #2301, Psark Ridge, IL 60048			in_IL_outside_Chicago
+111	Thomas J. Murphy P.C.		2018-06-19	200			111 W Washington		Chicago	IL	60602	Business	under 500	111 W Washington, Chicago, IL 60602			in_Chicago_outside_ward
+112	Thomas R. Raines Attorney At Law LLC		2018-08-10	1500			20 N Wabash #556		Chicago	IL	60606	Business	over 500	20 N Wabash #556, Chicago, IL 60606			in_Chicago_outside_ward
+113	Thompson Coburn LLP		2018-03-29	500			One US Bank Plaza		St Louis	MO	63101-1693	Business	under 500	One US Bank Plaza, St Louis, MO 63101-1693	(38.62999175, -90.1909562049669)		outside_IL
+114	Trachman	Samuel	2018-06-29	250			3401 W. Devon		Chicago	IL	60659	Individual	under 500	3401 W. Devon, Chicago, IL 60659			in_Chicago_outside_ward
+115	U&F Sons Inc.		2018-06-25	250			1210 S Highland Ave		Lombard	IL	60148	Business	under 500	1210 S Highland Ave, Lombard, IL 60148	(41.8588634520312, -88.0123281170795)		in_IL_outside_Chicago
+116	United Airlines Inc. PAC		2018-06-29	250			233 S. Wacker, 11th Fl		Chicago	IL	60606	Political Group	under 500	233 S. Wacker, 11th Fl, Chicago, IL 60606			in_Chicago_outside_ward
+117	Unitek Service		2017-08-29	1150			2459 W Devon		Chicago	IL	60659	Business	over 500	2459 W Devon, Chicago, IL 60659			in_Chicago_outside_ward
+118	Vaishnav Dhaba Inc. DBA Punjabi Dhabha		2017-08-03	400			2525 W Devon		Chicago	IL	60659	Business	under 500	2525 W Devon, Chicago, IL 60659			in_Chicago_outside_ward
+119	Vasilj	Nathalie & Davor	2018-06-25	500			4910 Conrad #2C		Skokie	IL	60077	Individual	under 500	4910 Conrad #2C, Skokie, IL 60077			in_IL_outside_Chicago
+120	Walgreens  (Corporate)		2018-01-23	750			104 Wilmot Rd	MS1444	Deerfield	IL	60015	Business	over 500	104 Wilmot Rd, Deerfield, IL 60015	(42.1550447, -87.8688434146683)		in_IL_outside_Chicago
+121	Weiss	Isaac Jacob	2018-06-25	250			6256 N Central Park		Chicago	IL	60659	Individual	under 500	6256 N Central Park, Chicago, IL 60659			in_Chicago_outside_ward
+122	Weiss Properties Inc		2017-08-11	500			PO Box 597875		Chicago	IL	60659	Business	under 500	PO Box 597875, Chicago, IL 60659			in_Chicago_outside_ward
+123	Wendy's International LLC		2017-08-08	3500			One Dave Thomas Blvd.		Dublin	OH	430147-545	Business	over 500	One Dave Thomas Blvd., Dublin, OH 430147-545			outside_IL
+124	Wengrow	Heshy	2018-06-19	2000			7400 N Francisco		Chicago	IL	60645	Individual	over 500	7400 N Francisco, Chicago, IL 60645	(42.015772, -87.702118)		in_Chicago_outside_ward
+125	Wheels of Chicago, Inc.		2017-07-26	1600			6229 N Western		Chicago	IL	60659	Business	over 500	6229 N Western, Chicago, IL 60659			in_Chicago_outside_ward
+126	Wine and Spirits Distributors of IL		2016-01-12	500			27 E Monroe	ste 1200	Chicago	IL	60603	Business	under 500	27 E Monroe, Chicago, IL 60603			in_Chicago_outside_ward
+127	Wolf	Isaac	2015-12-14	250			6521 N Mozart		Chicago	IL	60645	Individual	under 500	6521 N Mozart, Chicago, IL 60645	(42.00005575, -87.700654040024)		in_Chicago_outside_ward
+128	Wreck Roll Auto Body, Inc.		2018-06-19	1700			6652 N Western		Chicago	IL	60645	Business	over 500	6652 N Western, Chicago, IL 60645			in_Chicago_outside_ward
+129	Yafai	Nasser	2018-06-25	400			6129 N Karlov		Chicago	IL	60646	Individual	under 500	6129 N Karlov, Chicago, IL 60646	(41.99280125, -87.7310202740283)		in_Chicago_outside_ward
+130	Yaqoob	Mohamad	2018-08-20	1000			6413 N Oakley		Chicago	IL	60645	Individual	over 500	6413 N Oakley, Chicago, IL 60645		27	in_Chicago_outside_ward

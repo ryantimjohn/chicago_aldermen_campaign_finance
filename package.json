@@ -1,0 +1,30 @@
+{
+  "name": "chicago_alderman_campaign_finance",
+  "version": "1.0.0",
+  "description": "Creates infographics showing where aldermen's money is coming from.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryantimjohn/chicago_aldermen_campaign_finance.git"
+  },
+  "keywords": [
+    "election",
+    "finance",
+    "chicago"
+  ],
+  "author": "Reclaim Chicago - Fair Elections Task Force",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryantimjohn/chicago_aldermen_campaign_finance/issues"
+  },
+  "homepage": "https://github.com/ryantimjohn/chicago_aldermen_campaign_finance#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "nvm": "0.0.4"
+  }
+}

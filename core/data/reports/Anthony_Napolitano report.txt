@@ -1,0 +1,34 @@
+FEO ITEMIZED:0
+SECTORS
+SECTOR small donors:$64086.65, 22.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR financial:$200.0, 0.0% of total income. Higher than 20.0% of aldermen in dollars and higher than 20.0% in percent of funding
+SECTOR developer:$8450.0, 3.0% of total income. Higher than 60.0% of aldermen in dollars and higher than 80.0% in percent of funding
+SECTOR retail:$20695.0, 7.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 40.0% in percent of funding
+SECTOR party:$1000.0, 0.0% of total income. Higher than 60.0% of aldermen in dollars and higher than 40.0% in percent of funding
+SECTOR nonlocal individual :$13745.01, 5.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 60.0% in percent of funding
+SECTOR unclassified local business:$11110.0, 4.0% of total income. Higher than 20.0% of aldermen in dollars and higher than 20.0% in percent of funding
+SECTOR union:$61700.0, 21.0% of total income. Higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+SECTOR local individual :$41485.65, 14.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 60.0% in percent of funding
+SECTOR candidate:$6630.0, 2.0% of total income. Higher than 20.0% of aldermen in dollars and higher than 20.0% in percent of funding
+SECTOR unclassified nonlocal business:$19953.4, 7.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 40.0% in percent of funding
+SECTOR propertyman:$8175.0, 3.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 60.0% in percent of funding
+SECTOR realestate:$14150.0, 5.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 100.0% in percent of funding
+SECTOR pac:$8250.0, 3.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 60.0% in percent of funding
+SECTOR construction:$9650.0, 3.0% of total income. Higher than 40.0% of aldermen in dollars and higher than 60.0% in percent of funding
+INTERESTING DONATIONS
+$1500.0 from chicago teachers union pac. (1.0% of total income. This is higher than 80.0% of aldermen in dollars and higher than 80.0% in percent of funding
+$2000.0 from the burnham committee. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$2000.0 from wight  company. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1500.0 from afscme illinois council no 31. (1.0% of total income. This is higher than 60.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$1650.0 from ibew pac voluntary fund. (1.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+$10500.0 from seiu illinois council pac fund. (4.0% of total income. This is higher than 100.0% of aldermen in dollars and higher than 100.0% in percent of funding
+
+SIMILAR PEOPLE
+Anthony_Napolitano:236
+Ariel_Reboyas:24
+Anthony_Beale:21
+Ameya_Pawar:19
+aCarlos_Ramirez-Rosa:13
+
+OTHER INTERESTING THINGS
+Alderman is in the 100.0th percentile for  total not itemized with a value of 40772.32

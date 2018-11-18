@@ -1,0 +1,55 @@
+received_date	address2	last_name	occupation	address1	employer	zipcode	city	state	amount	first_name	donation_location	donor_type_size	classified_type
+2018-07-28		13th Ward Democratic Org		6500 S Pulaski		60629.0	Chicago	IL	2500				party
+2016-04-13		18th Ward Democratic Organization		8208 S Christiana		60652.0	Chgo	IL	4000				party
+2018-01-04		AFSCME Illinois Council No 31		615 S Second		62705.0	Springfield	IL	500				union
+2017-04-03		ATU Cope VoluntaryAccount		10000 New Hamphsire Ave		20903.0	Silver Springs	MD	500				unclassified
+2018-07-30		At&t Illinois Employee Pac		225 W Randolph 27B		60606.0	Chicago	IL	1250				pac
+2015-03-19		Billys Fountain and Grill		3711 W Columbus		60652.0	Chicago	IL	200				unclassified
+2015-04-02		Bowers		2316 W 80th Pl		60620.0	Chicago	IL	250	Clara			Individual
+2015-03-01		Byline Bank		1101 W 35th St		60609.0	Chicago	IL	1000				financial
+2016-11-07		CAR Political Action Comm		200 S Michigan		60604.0	Chicago	IL	250				union
+2018-07-28		Caribbean Jerk Palace		3792 W 79th St		60652.0	Chicago	IL	1000				unclassified
+2015-03-19		Carroll		10608 S Christiana		60655.0	Chicago	IL	500	Judge Thomas			Individual
+2018-07-30		Cash Loans by BMAC		8314 1/2 S Kedzie		60652.0	Chicago	IL	500				unclassified
+2015-03-19		Chapman		3252 W 85th Pl		60652.0	Chicago	IL	300	Bennie			Individual
+2016-11-21		Chicago Firefighters Local 2		440 W 43rd St		60609.0	Chicago	IL	500				union
+2015-04-06		Chicago Journeyman Plumbers LU 130		1340 W Washington		60603.0	Chicago	IL	250				union
+2017-11-24		Chicago Land Operators Joint Mangmnt		6200 Joliet Rd		60525.0	Countryside	IL	5000				pac
+2018-10-29		Chicago for Rahm Emanuel		P.O. Box 101121		60610.0	Chicago	IL	20000				candidate
+2016-11-07		Chicagoland Chamber of Commerce		410 N Michigan		60611.0	Chicago	IL	500				unclassified
+2015-04-02		Citizens for Jacqueline Collins		P.O.Box 209054		60620.0	Chicago	IL	250				candidate
+2017-04-01		Comcast		1701 JFK Boulevard		19103.0	Philadelphia	PA	1000				unclassified
+2015-03-19		Cooke		3142 W North Ave		60647.0	Chicago	IL	200	Richard			Individual
+2015-04-02		Culen	best effort made	2024 S Wabash	best effort made	60616.0	Chicago	IL	1000	Patrick			Individual
+2015-03-19		Cunningham & Cunningham		4001 W 95th St		60453.0	OakLawn	IL	250				unclassified
+2018-07-30	Apt 2B	Curtis		6 N Lind		60162.0	Hillside	IL	450	Rosemary			Individual
+2015-04-02		DMC Improvements		1439 W 103rd St		60643.0	Chicago	IL	1000				unclassified
+2018-07-28		Doerrer		1705 N Rutherford		60707.0	Chicago	IL	1000	John			Individual
+2018-07-28		Elim Christian Church		2735 W 79th St		60652.0	Chicago	IL	2000				unclassified
+2015-04-06		Flannery Construction		5347 S Mulligan		60638.0	Chicago	IL	1000				unclassified
+2018-09-14		Friends of Michael J Madigan		P.O. Box 3188		60654.0	Chicago	IL	480				candidate
+2015-04-06		Illinois Merchants Political Action		19 South LaSalle		60603.0	Chicago	IL	1000				union
+2016-08-31		Illinois Transport		20012 Arsenal Road		60481.0	Wilmington	IL	2000				retail
+2018-07-30		Iuoe Local 399		2260 Grove Street		60616.0	chicago	IL	500				union
+2018-10-23		JB For Governor Exploratory Comm		P.O. Box A3801		60690.0	Chicago	IL	5000				candidate
+2018-03-09		JB for Governor		P.O.Box A3801		60690.0	Chicago	IL	5000				candidate
+2018-07-28		Kates Detective Agency		7810 S Claremont		60620.0	Chicago	IL	1000				unclassified
+2015-03-19		Kruse		3932 W 85th St		60652.0	Chicago	IL	200	Noreen			Individual
+2018-07-28		Local 134		600 West Washington		60661.0	Chicago	IL	1500				union
+2015-03-19		Logan		7736 S Jefferey		60649.0	Chicago	IL	200	Cynthia			Individual
+2015-03-19		Mitchell		10728 S Hoyne		60643.0	Chicago	IL	500	Bridget			Individual
+2015-08-04		My Choice Motors		7301 S Western		60636.0	Chicago	IL	250				unclassified
+2017-12-20		Norfolk Southern		Three Comercial Place		23510.0	Norfolk	VA	1500				unclassified
+2016-11-07		Norfolk Southern Corporation		Three Commercial Place		23510.0	Norfolk	VA	2500				financial
+2015-03-19		Patterson		2548 W 79th Pl		60652.0	Chicago	IL	200	Frankie			Individual
+2018-07-30		RK Liquors		7104 S Western		60636.0	Chicago	IL	2500				unclassified
+2015-03-19		Reardon		3443 W 82nd St		60652.0	Chicago	IL	200	Eleanor			Individual
+2015-03-19		Rivers		8748 S Bennett		60617.0	Chicago	IL	250	Kristal			Individual
+2018-07-30		TGS Epsilon Inc		2155 W 80th St		60620.0	Chicago	IL	500				retail
+2018-07-30		The Childrens Center		7948-58 S Western		60620.0	Chicago	IL	500				developer
+2016-11-07		Tom		7976 S Kildare		60652.0	Chicago	IL	200	Darwin			Individual
+2015-03-19		Tyse		8542 S Wolcott		60620.0	Chicago	IL	500	Marie			Individual
+2015-03-19		Waldo Cooneys Inc		51st St		60632.0	Chicago	IL	400				retail
+2015-03-19		Williams		7822 S Keeler		60652.0	Chicago	IL	200	Christopher			Individual
+2015-04-06		Williams		9009 S Western		60643.0	Chicago	IL	200	Paul			Individual
+		Non-itemized donations							18383		Non-itemized donations under $150	Donations under $175	unclassified
