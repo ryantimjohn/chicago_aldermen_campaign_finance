@@ -1,4 +1,4 @@
-api*
-infographics*
-fonts*
-__pycache__*
+_site
+.sass-cache
+.jekyll-metadata
+node_modules/

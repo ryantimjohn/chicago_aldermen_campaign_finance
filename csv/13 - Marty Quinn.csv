@@ -1,6 +1,0 @@
-	last_name	first_name	received_date	amount	occupation	employer	address1	address2	city	state	zipcode	donor_type	donation_size	full_address	coord	ward_if_chicago	donation_location
-0	Chicago Land Operators Joint Labor-Management Pac		2017-11-22	5000			6200 Joliet Road		Countryside	IL	60525	Business	over 500	6200 Joliet Road, Countryside, IL 60525	(41.7803373, -87.8641296)		in_IL_outside_Chicago
-1	Peoples Gas Light and Coke Co.		2018-03-01	1000			PO Box 19800		Green Bay	WI	54307	Business	over 500	PO Box 19800, Green Bay, WI 54307			outside_IL
-2	Pfizer Inc.		2017-12-29	500			6730 Lenox Center Ct.		Memphis	TN	38115	Business	under 500	6730 Lenox Center Ct., Memphis, TN 38115	(35.0590424989683, -89.8386349995019)		outside_IL
-3	Stagehands Union Local Two Political Action Fund		2017-09-11	750			216 S. Jefferson, Ste. 400		Chicago	IL	60661	Political Group	over 500	216 S. Jefferson, Ste. 400, Chicago, IL 60661			in_Chicago_outside_ward
-4	United Airlines, Inc. Political Action Committee		2017-12-27	500			233 S. Wacker Dr.	11th Floor	Chicago	IL	60606	Political Group	under 500	233 S. Wacker Dr., Chicago, IL 60606	(41.8788763, -87.6359281579498)	42	in_Chicago_outside_ward
