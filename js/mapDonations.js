@@ -111,7 +111,7 @@ function loadMap(ward, request) {
     var content = '<div id="content">' +
       '<div id="siteNotice">' +
       '</div>' +
-      '<h3 id="firstHeading" class="firstHeading"> <a href="https://www.google.com/search?q='+ obj[line]["first_name"] + " " + obj[line]["last_name"] + '" >' + obj[line]["first_name"] + " " + obj[line]["last_name"] + '</a></h3>' +
+      '<h3 id="firstHeading" class="firstHeading"> <a href="https://www.google.com/search?q='+ obj[line]["first_name"] + " " + obj[line]["last_name"] + '" target="_blank">' + obj[line]["first_name"] + " " + obj[line]["last_name"] + '</a></h3>' +
       '<h4>$' + obj[line]["amount"] + ' donated since 2015 election</h4>' +
       '<div id="bodyContent">' +
       '<p><b>Donor type: </b>' + obj[line]["donor_type"] + "</p>" +
