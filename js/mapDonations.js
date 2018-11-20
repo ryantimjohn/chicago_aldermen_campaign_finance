@@ -55,7 +55,7 @@ function makeRequest(ward) {
   var requestURL = 'https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/json/Ward' + ward + '.json';
   var request = new XMLHttpRequest();
 
-  request.addEventListener("load", function(){
+  request.addEventListener("load", function() {
     loadMap(ward, this);
   });
 
@@ -112,7 +112,7 @@ function loadMap(ward, request) {
     var content = '<div id="content">' +
       '<div id="siteNotice">' +
       '</div>' +
-      '<h3 id="firstHeading" class="firstHeading"> <a href="https://www.google.com/search?q='+ obj[line]["first_name"] + " " + obj[line]["last_name"] + '" target="_blank">' + obj[line]["first_name"] + " " + obj[line]["last_name"] + '</a></h3>' +
+      '<h3 id="firstHeading" class="firstHeading"> <a href="https://www.google.com/search?q=' + obj[line]["first_name"] + " " + obj[line]["last_name"] + '" target="_blank">' + obj[line]["first_name"] + " " + obj[line]["last_name"] + '</a></h3>' +
       '<h4>$' + obj[line]["amount"] + ' donated since 2015 election</h4>' +
       '<div id="bodyContent">' +
       '<p><b>Donor type: </b>' + obj[line]["donor_type"] + "</p>" +
@@ -141,27 +141,28 @@ function loadMap(ward, request) {
   //add an event listener for zoom state
   google.maps.event.addListener(map, 'zoom_changed', function() {
 
-  var pixelSizeAtZoom0 = .00008; //the size of the icon at zoom level 0
-  var maxPixelSize = 350; //restricts the maximum size of the icon, otherwise the browser will choke at higher zoom levels trying to scale an image to millions of pixels
+    var pixelSizeAtZoom0 = .00008; //the size of the icon at zoom level 0
+    var maxPixelSize = 350; //restricts the maximum size of the icon, otherwise the browser will choke at higher zoom levels trying to scale an image to millions of pixels
 
-  var zoom = map.getZoom();
-  var relativePixelSize = Math.round(pixelSizeAtZoom0*Math.pow(2,zoom)); // use 2 to the power of current zoom to calculate relative pixel size.  Base of exponent is 2 because relative size should double every time you zoom in
+    var zoom = map.getZoom();
+    var relativePixelSize = Math.round(pixelSizeAtZoom0 * Math.pow(2, zoom)); // use 2 to the power of current zoom to calculate relative pixel size.  Base of exponent is 2 because relative size should double every time you zoom in
 
-  if(relativePixelSize > maxPixelSize) //restrict the maximum size of the icon
+    if (relativePixelSize > maxPixelSize) //restrict the maximum size of the icon
       relativePixelSize = maxPixelSize;
 
-  //change the size of the icon
-      for (var i=0, len = markers.length; i < len; i++) {
-     markers[i][0].setIcon(
-      new google.maps.MarkerImage(
-          markers[i][0].getIcon().url, //marker's same icon graphic
-          null,//size
-          null,//origin
-          null, //anchor
-          new google.maps.Size(markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize, markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize) //changes the scale
+    //change the size of the icon
+    for (var i = 0, len = markers.length; i < len; i++) {
+      if (markers[i][0]) {
+        markers[i][0].setIcon(
+          new google.maps.MarkerImage(
+            markers[i][0].getIcon().url, //marker's same icon graphic
+            null, //size
+            null, //origin
+            null, //anchor
+            new google.maps.Size(markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize, markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize) //changes the scale
+          }
+        )
       )
-       )
-      }
-}
-  );
+    }
+  });
 }
