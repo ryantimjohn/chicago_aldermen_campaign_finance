@@ -162,7 +162,7 @@ function loadMap(ward, request) {
             new google.maps.Size(markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize, markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize) //changes the scale
           )
         )
-      } catch (e if e instanceof TypeError) {}
+      } catch (e) {}
     }
   });
 }
