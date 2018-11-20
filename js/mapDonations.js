@@ -152,11 +152,7 @@ function loadMap(ward, request) {
 
     //change the size of the icon
     for (var i = 0, len = markers.length; i < len; i++) {
-<<<<<<< HEAD
-      try{
-=======
-      if (markers[i][0]) {
->>>>>>> 95fb6ce024ad84b912c9ff83a6c15c0bf9598d68
+      try {
         markers[i][0].setIcon(
           new google.maps.MarkerImage(
             markers[i][0].getIcon().url, //marker's same icon graphic
@@ -164,17 +160,9 @@ function loadMap(ward, request) {
             null, //origin
             null, //anchor
             new google.maps.Size(markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize, markers[i][1] * relativePixelSize < 8 ? 8 : markers[i][1] * relativePixelSize) //changes the scale
-<<<<<<< HEAD
+          )
         )
-      )
+      } catch (e if e instanceof TypeError) {}
     }
-    catch(TypeError){}
-    }
-=======
-          }
-        )
-      )
-    }
->>>>>>> 95fb6ce024ad84b912c9ff83a6c15c0bf9598d68
   });
 }
