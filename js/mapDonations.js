@@ -52,7 +52,7 @@ var committee_url_list = [
 ];
 
 function makeRequest(ward) {
-  var requestURL = 'https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/json/Ward' + ward + '.json';
+  var requestURL = 'https://ryantimjohn.github.io/chicago_aldermen_campaign_finance/json/Ward' + ward + '.json';
   var request = new XMLHttpRequest();
 
   request.addEventListener("load", function() {
