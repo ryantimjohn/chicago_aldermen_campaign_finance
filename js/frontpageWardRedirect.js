@@ -25,7 +25,7 @@ $(document).ready(function() {
     });
 
   var form = $('#test');
-  var cityscapeKey = 'SczeWBLnXE';
+  var cityscapeKey = "WwpHU6SLdp";
   console.log(form);
 
   if (form.length) {
