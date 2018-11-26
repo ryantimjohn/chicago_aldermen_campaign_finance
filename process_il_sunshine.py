@@ -34,7 +34,6 @@ def add_donor_type_size(last_campaign):
     #creating a donor_type column, filling all individuals
     last_campaign['donor_type'] = pd.Series('' * len(last_campaign['received_date']), index = last_campaign.index)
     last_campaign['donor_type'] = np.where((last_campaign['first_name'] != '') , 'Individual', '')
-
     #assigning Political Group and business
     political_words = ["PAC", "Friends", "Union", "Committee", "Orgn", " for ", "Local", "Citizen", "Elect", "Political", "LU", "Ward", "Democratic", "Organization"]
     for word in political_words:
@@ -59,15 +58,13 @@ def ward_geo_lookup(last_campaign):
 
     total = len(last_campaign.index)
     counts = 0
-
+    last_campaign.reset_index(drop=True, inplace=True)
     for index, row in last_campaign.iterrows():
         counts += 1
-        if row[8].strip() == "Chicago":
+        if last_campaign.loc[index, 'city'].strip().lower() == "chicago":
             print("Looking up row {} of {}".format(counts, total))
             response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(row[6], api_key))
             result = json.loads(response.text)
-
-
             try:
                 for entry in result["properties"]["boundaries"]:
                     if entry['type'] == 'ward':
@@ -77,10 +74,14 @@ def ward_geo_lookup(last_campaign):
                         break
             except (TypeError, KeyError, AssertionError) as e:
                 print("Error, here are the results: {}".format(result["properties"]["boundaries"]))
-            last_campaign.loc[index, 'lat'] = result["geometry"]["coordinates"][0]
-            last_campaign.loc[index, 'lng'] = result["geometry"]["coordinates"][1]
-            if last_campaign.loc[index, 'lat'] == -87.66063 and last_campaign.loc[index, 'lng'] == 41.87897:
-                last_campaign.loc[index, 'ward_if_chicago'] = ''
+            try:
+                last_campaign.loc[index, 'lat'] = result["geometry"]["coordinates"][0]
+                last_campaign.loc[index, 'lng'] = result["geometry"]["coordinates"][1]
+                if last_campaign.loc[index, 'lat'] == -87.66063 and last_campaign.loc[index, 'lng'] == 41.87897:
+                    last_campaign.loc[index, 'ward_if_chicago'] = ''
+            except KeyError as e:
+                pass
+
 
     return last_campaign
 
