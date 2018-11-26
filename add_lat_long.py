@@ -1,6 +1,7 @@
 from geopy.geocoders import Nominatim, GoogleV3
 from geopy.extra.rate_limiter import RateLimiter
 import pandas as pd
+import random
 
 geolocator = Nominatim(user_agent="alderman_donor_lookup", timeout=10)
 geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
