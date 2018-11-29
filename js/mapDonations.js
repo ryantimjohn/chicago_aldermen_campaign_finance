@@ -124,7 +124,7 @@ function loadMap(ward, request) {
       '</div>';
     if (obj[line]["coord"]) {
       var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(obj[line]["coord"][0], obj[line]["coord"][1]),
+        position: new google.maps.LatLng(obj[line]["lat"], obj[line]["lng"]),
         title: obj[line]["first_name"] + " " + obj[line]["last_name"],
         map: map,
         icon: image,
