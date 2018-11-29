@@ -62,16 +62,17 @@ def add_donor_type_size(df):
     df.loc[df['amount'] > 500.0, 'donation_size'] = 'over $500'
     df.loc[df['amount'] < 176.0, 'donation_size'] = 'under $175'
     df['donation_size'] = df['donation_size'].replace('','between $175 and $500')
-    df['donor_type_size'] = pd.Series('' * len(df['received_date']), index = df.index)
-    df.loc[df['donation_size'] == 'under 175', 'donor_type_size'] = 'Donations under $175'
+    df['donor_type_size'] = ''
+    df.loc[df['donation_size'] == 'under $175', 'donor_type_size'] = 'Donations under $175'
+    df.loc[df['donation_size'] == 'under $175', 'donor_type'] = 'Donations under $175'
     df['donor_type_size'] = df['donor_type_size'].replace('', df['donor_type'] + ' ' + df['donation_size'])
     return df
 
 def ward_geo_lookup(df):
     #ward stuff
     df['ward_if_chicago'] = ''
-    df['lat'] = -87.66063
-    df['lng'] = 41.87897
+    df['lat'] = 41.87897
+    df['lng'] = -87.66063
 
     total = len(df.index)
     counts = 0
@@ -80,7 +81,7 @@ def ward_geo_lookup(df):
         counts += 1
         if df.loc[index, 'city'].strip().lower() == "chicago":
             print("Looking up row {} of {}".format(counts, total))
-            response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(row[6], api_key))
+            response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(df.loc[index, 'address1'], api_key))
             result = json.loads(response.text)
             try:
                 for entry in result["properties"]["boundaries"]:
@@ -92,9 +93,9 @@ def ward_geo_lookup(df):
             except (TypeError, KeyError, AssertionError) as e:
                 print("Error, here are the results: {}".format(result["properties"]["boundaries"]))
             try:
-                df.loc[index, 'lat'] = result["geometry"]["coordinates"][0]
-                df.loc[index, 'lng'] = result["geometry"]["coordinates"][1]
-                if df.loc[index, 'lat'] == -87.66063 and df.loc[index, 'lng'] == 41.87897:
+                df.loc[index, 'lat'] = result["geometry"]["coordinates"][1]
+                df.loc[index, 'lng'] = result["geometry"]["coordinates"][0]
+                if df.loc[index, 'lat'] == 41.87897 and df.loc[index, 'lng'] == -87.66063:
                     df.loc[index, 'ward_if_chicago'] = ''
             except KeyError as e:
                 pass
@@ -113,7 +114,7 @@ def add_lat_long(df):
         counts += 1
         #if the coord is default, look up in Nominatim
         try:
-            if df.loc[index, 'lat'] == -87.66063 and df.loc[index, 'lng'] == 41.87897:
+            if df.loc[index, 'lat'] == 41.87897 and df.loc[index, 'lng'] == -87.66063:
                 print("Looking up row {} of {}".format(counts, total))
                 location = geolocator.geocode(df.loc[index, 'full_address'])
                 df.loc[index, 'lat'] = location.latitude
@@ -124,6 +125,7 @@ def add_lat_long(df):
             #if Openmaps doesn't have it, look up in GoogleV3
             try:
                 location = geolocator2.geocode(df.loc[index, 'full_address'])
+                #for some reason google switches lat and lng
                 df.loc[index, 'lat'] = location.latitude
                 df.loc[index, 'lng'] = location.longitude
                 print("Here are the lat and lng that Google came up with: {}, {}".format(
@@ -139,14 +141,14 @@ def add_lat_long(df):
 
 def add_donation_location(df, ward):
     #location of the donation
-    df['donation_location'] = pd.Series('' * len(df['received_date']), index = df.index)
+    df['donation_location'] = ''
 
     for index, row in df.iterrows():
-        if row[13] == ward:
+        if df.loc[index, 'ward_if_chicago'] == str(ward):
             df.loc[index, 'donation_location'] = 'within_ward'
-        elif row[8] == "Chicago":
+        elif df.loc[index, 'city'] == "Chicago":
             df.loc[index, 'donation_location'] = 'in_Chicago_outside_ward'
-        elif row[9] == "IL":
+        elif df.loc[index, 'state'] == "IL":
             df.loc[index, 'donation_location'] =  'in_IL_outside_Chicago'
         else:
             df.loc[index, 'donation_location'] = 'outside_IL'
@@ -166,21 +168,26 @@ def add_not_itemized(df, boe_encrypted_committee_id, start_date, end_date):
     m = p.findall(response.read().decode('utf-8'))[0]
     m = m.replace(',','')
     m = int(float(m))
-    not_itemized = {'last_name' : "Non-itemized donations",
+    not_itemized = {'last_name' : "Non-itemized donations under $150",
                     'amount' : m,
+                    'donor_type' : 'Donations under $175',
                     'donor_type_size' : 'Donations under $175',
-                    'donation_location' : 'Non-itemized donations under $150',}
+                    'donation_location' : 'Non-itemized donations under $150',
+                    'lat' : 41.8781,
+                    'lng' : -87.6298,
+                    'coord': [41.8781, -87.6298],
+                    }
     not_itemized_df = pd.DataFrame([not_itemized], columns=not_itemized.keys())
     df = pd.concat([df, not_itemized_df], axis = 0, sort=False)
     return df
 
-def save_csv(df, ward, name):
+def save_tsv(df, ward):
     df = df.reset_index(drop=True)
     if not os.path.isdir("tsv"):
         os.mkdir("tsv")
     df.to_csv(os.path.join(
                             "tsv",
-                            "{} - {}.tsv".format(ward, name)), sep = '\t',
+                            "Ward{}.tsv".format(ward)), sep = '\t',
                             index=False)
 
 def html_safe(df):

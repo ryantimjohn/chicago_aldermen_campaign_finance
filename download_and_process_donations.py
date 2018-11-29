@@ -6,7 +6,6 @@ import pandas as pd
 
 import utilities
 from alderman_info_list import alderman_info_list
-from make_low_vs_high import make_low_vs_high
 from web_json import make_web_json
 
 # TODO: output all entries with exactly the same address
@@ -36,14 +35,13 @@ for alderman in alderman_info_list:
         df = utilities.since_last_election(df)
     df = utilities.group_and_aggregate(df)
     df = utilities.add_donor_type_size(df)
-    make_low_vs_high(df, boe_encrypted_committee_id, start_date, end_date, ward)
     df = utilities.ward_geo_lookup(df)
     df = utilities.add_lat_long(df)
-    df['coord'] = tuple(zip(df['lng'],  df['lat']))
+    df['coord'] = tuple(zip(df['lat'],  df['lng']))
     df = utilities.add_donation_location(df, ward)
-    df = add_not_itemized(df, boe_encrypted_committee_id, start_date, end_date)
+    df = utilities.add_not_itemized(df, boe_encrypted_committee_id, start_date, end_date)
     # dc.add_class(df)
     # make_web_json(df,alderman[0])
-    utilities.save_csv(df, ward, alderman_name)
-    df = html_safe(df)
+    utilities.save_tsv(df, ward)
+    df = utilities.html_safe(df)
     utilities.save_json(df, ward, alderman_name)
