@@ -102,6 +102,8 @@ function loadMap(ward, request) {
       case "Political Group":
         url = "https://ryantimjohn.github.io/chicago_aldermen_campaign_finance/icons/g.svg";
         break;
+      default:
+        url = "https://ryantimjohn.github.io/chicago_aldermen_campaign_finance/icons/s.svg";
     }
     size = (0.23034542456 * Math.sqrt(obj[line]["amount"] - 150)) + 10
     var image = {
