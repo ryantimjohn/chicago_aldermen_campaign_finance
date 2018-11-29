@@ -169,7 +169,9 @@ def add_not_itemized(df, boe_encrypted_committee_id, start_date, end_date):
     m = m.replace(',','')
     m = int(float(m))
     not_itemized = {'last_name' : "Non-itemized donations under $150",
+                    'first_name': "",
                     'amount' : m,
+                    "Address": "Non-itemized",
                     'donor_type' : 'Donations under $175',
                     'donor_type_size' : 'Donations under $175',
                     'donation_location' : 'Non-itemized donations under $150',
