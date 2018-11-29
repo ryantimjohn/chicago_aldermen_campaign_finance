@@ -1,6 +1,9 @@
 import pandas as pd
 import numpy as np
 import matplotlib
+import os
+import re
+import json
 
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
@@ -12,7 +15,9 @@ from matplotlib import lines
 from matplotlib import font_manager as fm, rcParams
 import os
 
-def make_infographic(df, ward, alderman):
+def make_infographic(df, ward):
+    print(df.head())
+    print("Working on pie chart from ward {}".format(ward))
     matplotlib.rcParams['pdf.fonttype']= 42
     matplotlib.rcParams['ps.fonttype']=42
     plt.rc('text', usetex=True)
@@ -41,14 +46,13 @@ def make_infographic(df, ward, alderman):
 
     #dict for how to aggregate data, grouping with a count, aggregating
     pie_df = df
-    pie_df["donor_type_size"] = pie_df["donor_type"] + " " + pie_df["donation_size"]
     pie_df = pie_df.groupby(["donor_type_size"])
     pie_agg = {'amount':['sum'], 'donor_type_size':['count','max']}
     pie_df = pie_df.agg(pie_agg)
 
     #adding a range index
     pie_df.index = pd.RangeIndex(len(pie_df.index))
-
+    print(pie_df)
     #Totals for center of chart
     total_amount = df['amount'].sum()
     total_donors = df['amount'].count()
@@ -56,7 +60,7 @@ def make_infographic(df, ward, alderman):
     # The slices will be ordered and plotted counter-clockwise.
     labels = ["\\bf \Large \sffamily \${:,d}\n{} Donors".format(list(pie_df['amount']['sum'])[x],list(pie_df['donor_type_size']['count'])[x]) for x in range(len(pie_df.index))]
     sizes = list(pie_df['amount']['sum'])
-    colors = ['#122547','#0190EF','#6C0A0C','#D62259','#00865B','#00D9B8']
+    colors = ['#0190EF','#122547','#F3A712','#D62259','#6C0A0C','#00D9B8','#00865B']
 
     pie_chart.pie(sizes, labels=labels, colors=colors)
 
@@ -73,12 +77,12 @@ def make_infographic(df, ward, alderman):
          verticalalignment='center')
 
     plt.tight_layout()
-    plt.savefig(os.path.join('infographics', '{} - {} pie chart.png'.format(ward, alderman)), dpi=1000)
+    plt.savefig(os.path.join('infographics', 'ward_{}_pie.png'.format(ward)), dpi=1000)
     plt.close()
-   
+
 
     ### start bar graph ###
-
+    print("Working on bar graph from ward {}.".format(ward))
     """
     #Code to put everything on one chart
     bar_graph = fig.add_subplot(gs[10:38,41:78])
@@ -104,94 +108,95 @@ def make_infographic(df, ward, alderman):
 
     #loop to populate arrays
     for index, row in bar_df.iterrows():
-    	if row[13] == "within_ward":
-    		if row[11] == 'Individual':
-    			if row[12] == 'under 500':
-    				small_ind_cnt[0] += 1
-    				small_ind_amt[0] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_ind_cnt[0] += 1
-    				large_ind_amt[0] += float(row[3])
-    		elif row[11] == 'Business':
-    			if row[12] == 'under 500':
-    				small_bus_cnt[0] += 1
-    				small_bus_amt[0] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_bus_cnt[0] += 1
-    				large_bus_amt[0] += float(row[3])
-    		elif row[11] == 'Political Group':
-    			if row[12] == 'under 500':
-    				small_org_cnt[0] += 1
-    				small_org_amt[0] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_org_cnt[0] += 1
-    				large_org_amt[0] += float(row[3])
-    	elif row[13] == 'in_Chicago_outside_ward':
-    		if row[11] == 'Individual':
-    			if row[12] == 'under 500':
-    				small_ind_cnt[1] += 1
-    				small_ind_amt[1] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_ind_cnt[1] += 1
-    				large_ind_amt[1] += float(row[3])
-    		elif row[11] == 'Business':
-    			if row[12] == 'under 500':
-    				small_bus_cnt[1] += 1
-    				small_bus_amt[1] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_bus_cnt[1] += 1
-    				large_bus_amt[1] += float(row[3])
-    		elif row[11] == 'Political Group':
-    			if row[12] == 'under 500':
-    				small_org_cnt[1] += 1
-    				small_org_amt[1] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_org_cnt[1] += 1
-    				large_org_amt[1] += float(row[3])
-    	elif row[13] == 'in_IL_outside_Chicago':
-    		if row[11] == 'Individual':
-    			if row[12] == 'under 500':
-    				small_ind_cnt[2] += 1
-    				small_ind_amt[2] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_ind_cnt[2] += 1
-    				large_ind_amt[2] += float(row[3])
-    		elif row[11] == 'Business':
-    			if row[12] == 'under 500':
-    				small_bus_cnt[2] += 1
-    				small_bus_amt[2] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_bus_cnt[2] += 1
-    				large_bus_amt[2] += float(row[3])
-    		elif row[11] == 'Political Group':
-    			if row[12] == 'under 500':
-    				small_org_cnt[2] += 1
-    				small_org_amt[2] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_org_cnt[2] += 1
-    				large_org_amt[2] += float(row[3])
-    	elif row[13] == 'outside_IL':
-    		if row[11] == 'Individual':
-    			if row[12] == 'under 500':
-    				small_ind_cnt[3] += 1
-    				small_ind_amt[3] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_ind_cnt[3] += 1
-    				large_ind_amt[3] += float(row[3])
-    		elif row[11] == 'Business':
-    			if row[12] == 'under 500':
-    				small_bus_cnt[3] += 1
-    				small_bus_amt[3] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_bus_cnt[3] += 1
-    				large_bus_amt[3] += float(row[3])
-    		elif row[11] == 'Political Group':
-    			if row[12] == 'under 500':
-    				small_org_cnt[3] += 1
-    				small_org_amt[3] += float(row[3])
-    			elif row[12] == 'over 500':
-    				large_org_cnt[3] += 1
-    				large_org_amt[3] += float(row[3])
+        print(df.loc[index, 'donation_location'])
+        if df.loc[index, 'donation_location'] == "within_ward":
+            if df.loc[index, 'donor_type'] == 'Individual':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_ind_cnt[0] += 1
+                    small_ind_amt[0] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_ind_cnt[0] += 1
+                    large_ind_amt[0] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Business':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_bus_cnt[0] += 1
+                    small_bus_amt[0] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_bus_cnt[0] += 1
+                    large_bus_amt[0] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Political Group':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_org_cnt[0] += 1
+                    small_org_amt[0] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_org_cnt[0] += 1
+                    large_org_amt[0] += float(df.loc[index, 'amount'])
+        elif df.loc[index, 'donation_location'] == 'in_Chicago_outside_ward':
+            if df.loc[index, 'donor_type'] == 'Individual':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_ind_cnt[1] += 1
+                    small_ind_amt[1] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_ind_cnt[1] += 1
+                    large_ind_amt[1] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Business':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_bus_cnt[1] += 1
+                    small_bus_amt[1] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_bus_cnt[1] += 1
+                    large_bus_amt[1] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Political Group':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_org_cnt[1] += 1
+                    small_org_amt[1] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_org_cnt[1] += 1
+                    large_org_amt[1] += float(df.loc[index, 'amount'])
+        elif df.loc[index, 'donation_location'] == 'in_IL_outside_Chicago':
+            if df.loc[index, 'donor_type'] == 'Individual':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_ind_cnt[2] += 1
+                    small_ind_amt[2] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_ind_cnt[2] += 1
+                    large_ind_amt[2] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Business':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_bus_cnt[2] += 1
+                    small_bus_amt[2] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_bus_cnt[2] += 1
+                    large_bus_amt[2] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Political Group':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_org_cnt[2] += 1
+                    small_org_amt[2] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_org_cnt[2] += 1
+                    large_org_amt[2] += float(df.loc[index, 'amount'])
+        elif df.loc[index, 'donation_location'] == 'outside_IL':
+            if df.loc[index, 'donor_type'] == 'Individual':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_ind_cnt[3] += 1
+                    small_ind_amt[3] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_ind_cnt[3] += 1
+                    large_ind_amt[3] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Business':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_bus_cnt[3] += 1
+                    small_bus_amt[3] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_bus_cnt[3] += 1
+                    large_bus_amt[3] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Political Group':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_org_cnt[3] += 1
+                    small_org_amt[3] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_org_cnt[3] += 1
+                    large_org_amt[3] += float(df.loc[index, 'amount'])
 
 
     # The position of the bars on the x-axis
@@ -228,7 +233,7 @@ def make_infographic(df, ward, alderman):
         axis='both',          # changes apply to the x-axis
         which='both',      # both major and minor ticks are affected
         bottom=False,      # ticks along the bottom edge are off
-        top=False,	# ticks along the top edge are off
+        top=False,    # ticks along the top edge are off
         left=False)
 
     #spines
@@ -252,10 +257,18 @@ def make_infographic(df, ward, alderman):
 
     # Show graphic
     plt.tight_layout()
-    plt.savefig(os.path.join('infographics', '{} - {} bar graph.png'.format(ward, alderman)), dpi=1000)
+    plt.savefig(os.path.join('infographics', 'ward_{}_bar.png'.format(ward)), dpi=1000)
     plt.close()
 
     """
     #Code to put everything on one chart
     plt.savefig('{} - {}.pdf'.format(ward, alderman), dpi=1000, orientation='landscape', papertype='b0')
     """
+
+if __name__ == '__main__':
+    pattern = re.compile(r'Ward(\d+).tsv')
+    for file in os.listdir('tsv'):
+        if file.endswith('.tsv'):
+            df = pd.DataFrame.from_csv(os.path.join('tsv',file), sep='\t', header=0, index_col=None)
+            ward = re.match(pattern, file)[1]
+            make_infographic(df, ward)
