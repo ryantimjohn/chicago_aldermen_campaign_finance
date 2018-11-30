@@ -19,7 +19,7 @@ def make_infographic(df, ward):
     print("Working on pie chart from ward {}".format(ward))
     matplotlib.rcParams['pdf.fonttype']= 42
     matplotlib.rcParams['ps.fonttype']=42
-    plt.rc('text', usetex=False)
+    plt.rc('text', usetex=True)
 
     font = {'weight' : 'normal',
             'size'   : 10}
