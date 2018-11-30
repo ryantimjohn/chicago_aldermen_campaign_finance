@@ -20,7 +20,7 @@ def make_infographic(df, ward):
     print("Working on pie chart from ward {}".format(ward))
     matplotlib.rcParams['pdf.fonttype']= 42
     matplotlib.rcParams['ps.fonttype']=42
-    plt.rc('text', usetex=True)
+    plt.rc('text', usetex=False)
 
     font = {'weight' : 'normal',
             'size'   : 10}
@@ -51,7 +51,7 @@ def make_infographic(df, ward):
     pie_df = pie_df.agg(pie_agg)
 
     #adding a range index
-    pie_df.index = pd.RangeIndex(len(pie_df.index))
+    pie_df = pie_df.reset_index(drop=True)
     print(pie_df)
     #Totals for center of chart
     total_amount = df['amount'].sum()
@@ -59,6 +59,7 @@ def make_infographic(df, ward):
 
     # The slices will be ordered and plotted counter-clockwise.
     labels = ["\\bf \Large \sffamily \${:,d}\n{} Donors".format(list(pie_df['amount']['sum'])[x],list(pie_df['donor_type_size']['count'])[x]) for x in range(len(pie_df.index))]
+    labels[2] = re.sub(r'\d+ Donors', '*not itemized', labels[2])
     sizes = list(pie_df['amount']['sum'])
     colors = ['#0190EF','#122547','#F3A712','#D62259','#6C0A0C','#00D9B8','#00865B']
 
@@ -93,45 +94,23 @@ def make_infographic(df, ward):
 
     bar_df['amount'].replace('',0)
     #initialize arrays, order is within_ward, in_Chicago_outside_ward, in_IL_outside_Chicago, outside_IL
-    small_ind_amt = [0, 0, 0, 0]
-    large_ind_amt = [0, 0, 0, 0]
-    small_bus_amt = [0, 0, 0, 0]
-    large_bus_amt = [0, 0, 0, 0]
-    small_org_amt = [0, 0, 0, 0]
-    large_org_amt = [0, 0, 0, 0]
-    small_ind_cnt = [0, 0, 0, 0]
-    large_ind_cnt = [0, 0, 0, 0]
-    small_bus_cnt = [0, 0, 0, 0]
-    large_bus_cnt = [0, 0, 0, 0]
-    small_org_cnt = [0, 0, 0, 0]
-    large_org_cnt = [0, 0, 0, 0]
+    small_donations = [pie_df.iat[2, 0], 0, 0, 0, 0]
+    small_ind_amt = [0, 0, 0, 0, 0]
+    large_ind_amt = [0, 0, 0, 0, 0]
+    small_bus_amt = [0, 0, 0, 0, 0]
+    large_bus_amt = [0, 0, 0, 0, 0]
+    small_org_amt = [0, 0, 0, 0, 0]
+    large_org_amt = [0, 0, 0, 0, 0]
+    small_ind_cnt = [0, 0, 0, 0, 0]
+    large_ind_cnt = [0, 0, 0, 0, 0]
+    small_bus_cnt = [0, 0, 0, 0, 0]
+    large_bus_cnt = [0, 0, 0, 0, 0]
+    small_org_cnt = [0, 0, 0, 0, 0]
+    large_org_cnt = [0, 0, 0, 0, 0]
 
     #loop to populate arrays
     for index, row in bar_df.iterrows():
-        print(df.loc[index, 'donation_location'])
         if df.loc[index, 'donation_location'] == "within_ward":
-            if df.loc[index, 'donor_type'] == 'Individual':
-                if df.loc[index, 'donation_size'] == 'between $175 and $500':
-                    small_ind_cnt[0] += 1
-                    small_ind_amt[0] += float(df.loc[index, 'amount'])
-                elif df.loc[index, 'donation_size'] == 'over $500':
-                    large_ind_cnt[0] += 1
-                    large_ind_amt[0] += float(df.loc[index, 'amount'])
-            elif df.loc[index, 'donor_type'] == 'Business':
-                if df.loc[index, 'donation_size'] == 'between $175 and $500':
-                    small_bus_cnt[0] += 1
-                    small_bus_amt[0] += float(df.loc[index, 'amount'])
-                elif df.loc[index, 'donation_size'] == 'over $500':
-                    large_bus_cnt[0] += 1
-                    large_bus_amt[0] += float(df.loc[index, 'amount'])
-            elif df.loc[index, 'donor_type'] == 'Political Group':
-                if df.loc[index, 'donation_size'] == 'between $175 and $500':
-                    small_org_cnt[0] += 1
-                    small_org_amt[0] += float(df.loc[index, 'amount'])
-                elif df.loc[index, 'donation_size'] == 'over $500':
-                    large_org_cnt[0] += 1
-                    large_org_amt[0] += float(df.loc[index, 'amount'])
-        elif df.loc[index, 'donation_location'] == 'in_Chicago_outside_ward':
             if df.loc[index, 'donor_type'] == 'Individual':
                 if df.loc[index, 'donation_size'] == 'between $175 and $500':
                     small_ind_cnt[1] += 1
@@ -153,7 +132,7 @@ def make_infographic(df, ward):
                 elif df.loc[index, 'donation_size'] == 'over $500':
                     large_org_cnt[1] += 1
                     large_org_amt[1] += float(df.loc[index, 'amount'])
-        elif df.loc[index, 'donation_location'] == 'in_IL_outside_Chicago':
+        elif df.loc[index, 'donation_location'] == 'in_Chicago_outside_ward':
             if df.loc[index, 'donor_type'] == 'Individual':
                 if df.loc[index, 'donation_size'] == 'between $175 and $500':
                     small_ind_cnt[2] += 1
@@ -175,7 +154,7 @@ def make_infographic(df, ward):
                 elif df.loc[index, 'donation_size'] == 'over $500':
                     large_org_cnt[2] += 1
                     large_org_amt[2] += float(df.loc[index, 'amount'])
-        elif df.loc[index, 'donation_location'] == 'outside_IL':
+        elif df.loc[index, 'donation_location'] == 'in_IL_outside_Chicago':
             if df.loc[index, 'donor_type'] == 'Individual':
                 if df.loc[index, 'donation_size'] == 'between $175 and $500':
                     small_ind_cnt[3] += 1
@@ -197,15 +176,38 @@ def make_infographic(df, ward):
                 elif df.loc[index, 'donation_size'] == 'over $500':
                     large_org_cnt[3] += 1
                     large_org_amt[3] += float(df.loc[index, 'amount'])
+        elif df.loc[index, 'donation_location'] == 'outside_IL':
+            if df.loc[index, 'donor_type'] == 'Individual':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_ind_cnt[4] += 1
+                    small_ind_amt[4] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_ind_cnt[4] += 1
+                    large_ind_amt[4] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Business':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_bus_cnt[4] += 1
+                    small_bus_amt[4] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_bus_cnt[4] += 1
+                    large_bus_amt[4] += float(df.loc[index, 'amount'])
+            elif df.loc[index, 'donor_type'] == 'Political Group':
+                if df.loc[index, 'donation_size'] == 'between $175 and $500':
+                    small_org_cnt[4] += 1
+                    small_org_amt[4] += float(df.loc[index, 'amount'])
+                elif df.loc[index, 'donation_size'] == 'over $500':
+                    large_org_cnt[4] += 1
+                    large_org_amt[4] += float(df.loc[index, 'amount'])
 
 
     # The position of the bars on the x-axis
-    r = [0,1,2,3]
+    r = [0,1,2,3,4]
 
     # Names of group and bar width
-    names = ['Ward','Chicago','Illinois','United States']
+    names = ['Under $175','Ward','Chicago','Illinois','United States']
     barWidth = .6
 
+    bar_graph.bar(r, small_donations, color='#F3A712', width=barWidth)
     # Create small_ind_amt bars
     bar_graph.bar(r, small_ind_amt, color='#D62259', width=barWidth)
     # Create large_ind_amt
@@ -243,10 +245,11 @@ def make_infographic(df, ward):
     ax.spines['bottom'].set_color('#989898')
 
     #put labels on top of bars
-    heights = np.array([large_org_amt, small_org_amt, large_bus_amt, small_bus_amt, small_ind_amt, large_ind_amt]).sum(axis=0)
+    heights = np.array([small_donations, large_org_amt, small_org_amt, large_bus_amt, small_bus_amt, small_ind_amt, large_ind_amt]).sum(axis=0)
     donor_numbers = np.array([small_ind_cnt, large_ind_cnt,small_bus_cnt,large_bus_cnt,small_org_cnt, large_org_cnt]).sum(axis=0)
     labels = ["\\bf \Large \sffamily \${:,.0f}\n{} Donors".format(heights[i],donor_numbers[i]) for i in range(len(heights))]
-    xs = [0,1,2,3]
+    labels[0] = re.sub(r'\d+ Donors', '*not itemized', labels[0])
+    xs = [0,1,2,3,4]
     for height, label, x in zip(heights, labels, xs):
         ax.text(x, height+10, label, ha='center', va='bottom')
 
