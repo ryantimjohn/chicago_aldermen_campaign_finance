@@ -16,7 +16,6 @@ from matplotlib import font_manager as fm, rcParams
 import os
 
 def make_infographic(df, ward):
-    print(df.head())
     print("Working on pie chart from ward {}".format(ward))
     matplotlib.rcParams['pdf.fonttype']= 42
     matplotlib.rcParams['ps.fonttype']=42
@@ -52,7 +51,6 @@ def make_infographic(df, ward):
 
     #adding a range index
     pie_df = pie_df.reset_index(drop=True)
-    print(pie_df)
     #Totals for center of chart
     total_amount = df['amount'].sum()
     total_donors = df['amount'].count()
