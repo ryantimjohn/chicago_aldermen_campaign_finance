@@ -6,11 +6,13 @@ import random
 import re
 import urllib.request as request
 
+from geopy.exc import GeocoderTimedOut
 import numpy as np
 import pandas as pd
 import requests
 from geopy.extra.rate_limiter import RateLimiter
 from geopy.geocoders import GoogleV3, Nominatim
+
 
 geolocator = Nominatim(user_agent="alderman_donor_lookup", timeout=10)
 geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
@@ -49,7 +51,7 @@ def group_and_aggregate(df):
 
 def add_donor_type_size(df):
     #creating a donor_type column, filling all individuals
-    df['donor_type'] = pd.Series('' * len(df['received_date']), index = df.index)
+    df['donor_type'] = ''
     df['donor_type'] = np.where((df['first_name'] != '') , 'Individual', '')
     #assigning Political Group and business
     political_words = ["PAC", "Friends", "Union", "Committee", "Orgn", " for ", "Local", "Citizen", "Elect", "Political", "LU", "Ward", "Democratic", "Organization"]
@@ -58,7 +60,7 @@ def add_donor_type_size(df):
     df['donor_type'] = df['donor_type'].replace('', 'Business')
 
     #creating and assigning <= 500 >500
-    df['donation_size'] = pd.Series('' * len(df['received_date']), index = df.index)
+    df['donation_size'] = ''
     df.loc[df['amount'] > 500.0, 'donation_size'] = 'over $500'
     df.loc[df['amount'] < 176.0, 'donation_size'] = 'under $175'
     df['donation_size'] = df['donation_size'].replace('','between $175 and $500')
@@ -119,7 +121,7 @@ def add_lat_long(df):
                 location = geolocator.geocode(df.loc[index, 'full_address'])
                 df.loc[index, 'lat'] = location.latitude
                 df.loc[index, 'lng'] = location.longitude
-        except AttributeError:
+        except (AttributeError, GeocoderTimedOut):
             print("This address not found: {}".format(df.loc[index, 'full_address']))
 
             #if Openmaps doesn't have it, look up in GoogleV3
@@ -132,7 +134,7 @@ def add_lat_long(df):
                     df.loc[index, 'lat'],
                     df.loc[index, 'lng']
                 ))
-            except AttributeError:
+            except (AttributeError, GeocoderTimedOut):
                 print("Even Google couldn't find this address!")
                 df.loc[index, 'lat'] = df.loc[index, 'lat'] + (((random.random()*2)-1)*.01)
                 df.loc[index, 'lng'] = df.loc[index, 'lng'] + (((random.random()*2)-1)*.01)
