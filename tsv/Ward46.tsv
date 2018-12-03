@@ -1,0 +1,4 @@
+last_name	first_name	received_date	amount	occupation	employer	address1	address2	city	state	zipcode	donor_type	donation_size	donor_type_size	ward_if_chicago	lat	lng	full_address	coord	donation_location	Address
+McKnight/Treasurer	V. Gregory	2016-07-31	350			c/o 1415 Diehl Road	Suite 400	Naperville	IL	60563	Individual	between $175 and $500	Individual between $175 and $500		41.8006737	-88.1911508	c/o 1415 Diehl Road, Naperville, IL 60563	(41.8006737, -88.1911508)	in_IL_outside_Chicago	
+Shaw	John A	2016-09-15	1785	Retired	none	8270 E. Highpoint Rd		Yorkville	IL	60560	Individual	over $500	Individual over $500		41.5983563	-88.4664056	8270 E. Highpoint Rd, Yorkville, IL 60560	(41.5983563, -88.4664056)	in_IL_outside_Chicago	
+Non-itemized donations under $150			0								Donations under $175		Donations under $175		41.8781	-87.6298		[41.8781, -87.6298]	Non-itemized donations under $150	Non-itemized
