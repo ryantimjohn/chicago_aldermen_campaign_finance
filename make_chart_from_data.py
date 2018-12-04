@@ -202,7 +202,7 @@ def make_infographic(df, ward):
     r = [0,1,2,3,4]
 
     # Names of group and bar width
-    names = ['Under $175','Ward','Chicago','Illinois','United States']
+    names = ['Under \$175','Ward','Chicago','Illinois','United States']
     barWidth = .6
 
     bar_graph.bar(r, small_donations, color='#F3A712', width=barWidth)
