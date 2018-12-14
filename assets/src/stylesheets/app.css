@@ -35,7 +35,6 @@ p{
 #main-nav ul{
     margin-left: 0px;
     margin-bottom: 0px;
-    display: flex;
 }
 #main-nav ul li a{
     color: rgb(15, 41, 51);
@@ -135,6 +134,7 @@ input{
     font-family: Raleway;
     font-weight: 300;
     padding:15px !important;
+    width:100% !important;
 }
 #mc_embed_signup .button:hover,
 #mc_embed_signup .button:active
@@ -163,12 +163,31 @@ input{
     text-transform: uppercase;
     border: 2px solid #222 !important;
     -webkit-appearance: none;
+    width:100% !important;
     transition: all .3s ease-in-out;
 }
 #mc-embedded-subscribe{
     margin-left:10px !important;
 }
-
+#mce-error-response{
+    position: relative;
+}
+#mc_embed_signup div.response{
+    width: 100%;
+}
+#mce-success-response{
+    font-weight: 300 !important;
+    text-align: center;
+}
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error{
+    display: block;
+    margin-bottom: 12px;
+    padding: 8px 10px;
+    background: #fed9db;
+    color: #f23d3d;
+    font-size: 12px;
+    line-height: normal;
+}
 .mc-field-group.newsletter{
     max-width: 480px;
     margin:40px auto 0 auto;
