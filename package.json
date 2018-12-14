@@ -25,6 +25,7 @@
     "gulp": "^4.0.0"
   },
   "dependencies": {
+    "foundation-sites": "^6.5.1",
     "nvm": "0.0.4"
   }
 }
