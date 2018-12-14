@@ -1,0 +1,34 @@
+footer {
+  padding-bottom: 150px;
+  padding-top: 150px;
+  p a {
+    color: #c60000;
+    text-decoration: underline;
+    transition: all .3s ease-in-out;
+  }
+  .social {
+    a {
+      color: rgb(15, 41, 51);
+    }
+    display: block;
+    margin: 0 auto;
+    list-style: none;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 0px;
+    li {
+      display: inline-block;
+      margin-right: 15px;
+      font-size: 19px;
+      &:last-child {
+        margin-right: 0px;
+      }
+    }
+  }
+  hr {
+    margin-bottom: 50px;
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
