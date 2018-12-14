@@ -1,6 +1,10 @@
 footer {
   padding-bottom: 150px;
   padding-top: 150px;
+  @include mobile {
+    padding-bottom: 80px;
+    padding-top:80px;
+  }
   p a {
     color: #c60000;
     text-decoration: underline;

@@ -34,6 +34,9 @@
     -webkit-appearance: none;
     width: 100% !important;
     transition: all .3s ease-in-out;
+    @include mobile {
+      font-size: 14px;
+    }
   }
 }
 
@@ -70,5 +73,8 @@
   }
   .submit-button {
     padding-left: 10px;
+    @include mobile {
+      padding-left:0px;
+    }
   }
 }

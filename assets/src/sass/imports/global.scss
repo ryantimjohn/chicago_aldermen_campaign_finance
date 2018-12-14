@@ -18,6 +18,9 @@ body{
 }
 p{
   font-size: 18px;
+  @include mobile {
+    font-size: 16px;
+  }
 }
 .section{
   padding-left:20px;
@@ -46,4 +49,13 @@ input{
   font-weight: 300;
   padding:15px !important;
   width:100% !important;
+  @include mobile {
+    font-size: 14px !important;
+  }
+}
+.main.wrapper{
+  padding-top: 40px;
+}
+.main p{
+  line-height: 40px;
 }

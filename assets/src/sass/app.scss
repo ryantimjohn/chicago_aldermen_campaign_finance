@@ -4,6 +4,19 @@
 
 // Importing Sass/SCSS partials
 @import "settings";
+@import "mixins";
+
+//global and base
 @import "global";
+
+//components
+
+//layout
+@import "header";
+@import "newsletter";
 @import "footer";
-@import "footer";
+
+//pages
+
+
+//vendors
