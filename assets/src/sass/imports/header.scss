@@ -39,9 +39,32 @@
       &.search {
         width: 50%;
       }
-      //&:last-child {
-      //  padding-right: 0px;
-      //}
+    }
+  }
+  .dropdown.menu > li.is-dropdown-submenu-parent > a::after{
+    display: none;
+  }
+  .dropdown.menu > li.is-dropdown-submenu-parent > a{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  .dropdown.menu > li > a {
+    padding: 0;
+    margin-bottom: 10px;
+  }
+  .dropdown.menu > li:last-child a{
+    margin-bottom: 0px;
+  }
+  .is-dropdown-submenu{
+    background: $white;
+    //border-color: #dddddd;
+    border:none;
+    li{
+      padding-right: 0px;
+      text-align: left;
+      a{
+        padding: 0.4rem 1rem;
+      }
     }
   }
 }

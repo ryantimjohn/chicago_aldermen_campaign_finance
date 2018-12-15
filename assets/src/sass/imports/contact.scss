@@ -1,0 +1,74 @@
+#contact{
+  .map{
+    margin-top: 40px;
+    @include tablet{
+      margin-top: 30px;
+    }
+    @include mobile{
+      margin-top: 20px;
+    }
+  }
+  .detail{
+    margin-bottom: 40px;
+    @include tablet{
+      margin-bottom: 30px;
+    }
+    @include mobile{
+      margin-bottom: 30px;
+    }
+    &:last-child{
+      margin-bottom: 0px;
+    }
+  }
+  .address, .operation{
+    p{
+      line-height: 1;
+    }
+  }
+  .email{
+    a{
+      font-size: 18px;
+      font-family: $theme-font;
+      letter-spacing: .5px;
+      @include tablet{
+        font-size: 16px;
+      }
+      @include mobile{
+        font-size: 14px;
+        word-break: break-all;
+      }
+    }
+  }
+  .lead{
+    font-family: $theme-font;
+    font-size: 24px;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+    @include tablet{
+      font-size: 21px;
+      margin-bottom: 30px;
+    }
+    @include mobile{
+      font-size: 19px;
+      margin-bottom: 20px;
+    }
+  }
+  .contact-section{
+    @include mobile{
+      margin-bottom: 30px;
+    }
+  }
+}
+#gmaps{
+  iframe{
+    height: 500px;
+    @include tablet{
+      height: 350px;
+      width:100%;
+    }
+    @include mobile{
+      height: 280px;
+      width:100%;
+    }
+  }
+}
