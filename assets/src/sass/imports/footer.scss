@@ -9,10 +9,17 @@ footer {
     color: $red;
     text-decoration: underline;
     transition: all .3s ease-in-out;
+    &:hover, &:focus{
+      color: rgba(198,0,0,.6);
+    }
   }
   .social {
     a {
       color: rgb(15, 41, 51);
+      transition: color .3s ease-in-out;
+      &:hover, &:focus{
+        color: $red;
+      }
     }
     display: block;
     margin: 0 auto;
