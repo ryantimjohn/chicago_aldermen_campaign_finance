@@ -1,0 +1,43 @@
+.find-your-alderman{
+  margin-top: 20px;
+  h2{
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: $theme-font;
+    @include tablet{
+      font-size: 16px;
+    }
+  }
+  p.description{
+    font-size: 14px;
+    opacity: .7;
+    display: block;
+    white-space: pre-wrap;
+    line-height: 1.2;
+    @include tablet{
+      line-height: 1.3;
+    }
+  }
+  input[type="text"]{
+    margin-top:40px;
+  }
+  button{
+    margin-top:10px;
+    line-height: 1;
+  }
+  .callout.alert{
+    color: $red;
+    font-size: 14px;
+    display: none;
+  }
+}
+
+#search-loading{
+  width: 80px;
+  display: block;
+  visibility: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100%);
+}

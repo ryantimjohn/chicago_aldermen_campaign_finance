@@ -17,9 +17,11 @@
     }
     line-height: 1;
     border-width: 1px;
+    font-family: $theme-font;
     -webkit-box-shadow: inset 0px 0px 0px 1px #222;
     -moz-box-shadow: inset 0px 0px 0px 1px #222;
     box-shadow: inset 0px 0px 0px 1px #222;
+    font-weight: 500;
     background: transparent;
     color: #222;
     border-radius: 3px;

@@ -21,7 +21,7 @@
       }
       a {
         color: rgb(15, 41, 51);
-        font-weight: 500;
+        font-weight: 400;
         text-transform: uppercase;
         font-size: 15px;
         letter-spacing: 1.8px;
@@ -55,14 +55,14 @@
     color: #000000;
     font-family: $theme-font-secondary;
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 19px;
     transition: color .3s ease-in-out;
     outline: 0;
     &:hover, &:focus{
       color: $red;
     }
     @include breakpoint(400px){
-      font-size: 20px;
+      font-size: 16px;
     }
   }
   .menu.vertical{
@@ -73,20 +73,20 @@
           content: '«';
           border: none;
           display: inline;
-          top: -3px;
+          top: -2px;
           position: relative;
         }
         @include breakpoint(401px){
-          top: -2px;
+          top: -1px;
         }
       }
     }
-    li{
-      padding-bottom: 8px;
-      @include breakpoint(400px){
-        padding-bottom: 4px;
-      }
-    }
+    //li{
+    //  padding-bottom: 4px;
+    //  @include breakpoint(400px){
+    //    padding-bottom: 2px;
+    //  }
+    //}
   }
   .drilldown .js-drilldown-back > a::before{
     border-color: transparent #000000 transparent transparent;
