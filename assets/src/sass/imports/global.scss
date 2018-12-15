@@ -1,7 +1,14 @@
+html{
+  background: $light-blue;
+}
 body{
-  border: 25px solid #e0f3fc;
-  font-family: Raleway;
+  border: 25px solid $light-blue;
+  font-family: $theme-font;
   color: rgb(15, 41, 51);
+  background: $white;
+  @include mobile{
+    border: 15px solid #e0f3fc;
+  }
 }
 .a11y-hidden{
   position: absolute;
@@ -21,10 +28,17 @@ p{
   @include mobile {
     font-size: 16px;
   }
+  @include breakpoint(400px){
+    font-size: 14px;
+  }
 }
 .section{
   padding-left:20px;
   padding-right: 20px;
+  @include mobile{
+    padding-left:15px;
+    padding-right: 15px;
+  }
 }
 hr{
   border-color: #eeeeee;
@@ -45,7 +59,7 @@ input{
   box-shadow: none !important;
   height: 50px !important;
   border-radius: 0px !important;
-  font-family: Raleway;
+  font-family: $theme-font;
   font-weight: 300;
   padding:15px !important;
   width:100% !important;
@@ -55,7 +69,28 @@ input{
 }
 .main.wrapper{
   padding-top: 40px;
+  @include mobile{
+    padding-top: 20px;
+  }
 }
 .main p{
   line-height: 40px;
+  @include mobile{
+    line-height: 35px;
+  }
+  @include breakpoint(400px){
+    line-height: 30px;
+  }
 }
+
+.main{
+   a{
+     color: $red;
+     text-decoration: underline;
+     transition: all .3s ease-in-out;
+     &:hover, &:focus{
+       color: rgba(198,0,0,.6);
+       border-color: rgba(198,0,0,.15);
+     }
+   }
+ }

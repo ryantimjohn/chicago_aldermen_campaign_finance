@@ -6,27 +6,143 @@
     margin: 0 auto;
     display: block;
     max-width: 185px;
+    @include mobile(){
+
+    }
   }
   ul {
     margin-left: 0px;
     margin-bottom: 0px;
+    text-align: center;
     li {
+      @include breakpoint(1100px){
+        width: 100%;
+        display: block;
+      }
       a {
         color: rgb(15, 41, 51);
         font-weight: 500;
         text-transform: uppercase;
         font-size: 15px;
         letter-spacing: 1.8px;
+        @include tablet(){
+          font-size: 14px;
+        }
       }
       display: inline;
-      padding-right: 30px;
+      padding-right: 20px;
       position: relative;
       &.search {
         width: 50%;
       }
-      &:last-child {
-        padding-right: 0px;
+      //&:last-child {
+      //  padding-right: 0px;
+      //}
+    }
+  }
+}
+
+#mobile-menu{
+  background: $yellow;
+  position: fixed;
+  overflow: auto;
+  a{
+    background: $yellow;
+    color: #000000;
+    font-family: $theme-font-secondary;
+    text-transform: uppercase;
+    font-size: 24px;
+    transition: color .3s ease-in-out;
+    outline: 0;
+    &:hover, &:focus{
+      color: $red;
+    }
+    @include breakpoint(400px){
+      font-size: 20px;
+    }
+  }
+  .menu.vertical{
+    background: $yellow;
+    .submenu{
+      a[tabindex="0"]{
+        &::before{
+          content: '«';
+          border: none;
+          display: inline;
+          top: -3px;
+          position: relative;
+        }
+        @include breakpoint(401px){
+          top: -2px;
+        }
+      }
+    }
+    li{
+      padding-bottom: 8px;
+      @include breakpoint(400px){
+        padding-bottom: 4px;
       }
     }
   }
+  .drilldown .js-drilldown-back > a::before{
+    border-color: transparent #000000 transparent transparent;
+    display: none;
+  }
+  .drilldown .is-drilldown-submenu-parent > a::after {
+    border-color: transparent transparent transparent #000000;
+    display: none;
+  }
+  .menu-wrapper{
+    margin-top: 20px;
+    padding-left: 20px;
+  }
+}
+
+#mobile-menu-trigger{
+  cursor: pointer;
+  display: block;
+  margin-left:auto;
+  margin-right: 0px;
+  @include mobile(){
+    padding: 10px 0 10px 10px;
+    margin-bottom: 20px;
+  }
+  div {
+    width: 30px;
+    height: 2px;
+    background-color: black;
+    margin: 6px 0;
+    transition: background-color .3s ease-in-out;
+  }
+  &:hover, &:focus{
+    div{
+      background-color: $red;
+    }
+  }
+}
+.mobile-overlay-close{
+  cursor: pointer;
+  position: relative;
+  background-color: #fff;
+  transition: background-color .3s ease-in-out;
+  height: 60px;
+  width:60px;
+  line-height: 60px;
+  font-size: 52px;
+  font-weight: 100;
+  span{
+    position: absolute;
+    left:0;
+    right:0;
+    top: 47%;
+    transform: translateY(-50%);
+  }
+  &:hover{
+    background-color: #000000;
+    color: #ffffff;
+  }
+}
+
+.js-off-canvas-overlay{
+  background: rgba(0, 0, 0, 0.8);
 }

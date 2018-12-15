@@ -2,10 +2,13 @@
   h2 {
     font-size: 15px;
     color: #7d7d7d;
-    font-family: Raleway;
+    font-family: $theme-font;
     text-align: center;
     letter-spacing: 0.54px;
     font-weight: 300;
+  }
+  form{
+    padding: 10px 0 10px 0;
   }
   .button {
     &:hover, &:active #mc_embed_signup .button:focus {

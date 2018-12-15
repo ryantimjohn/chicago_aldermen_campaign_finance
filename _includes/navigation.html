@@ -1,18 +1,47 @@
+<div class="off-canvas-absolute position-right" id="mobile-menu" data-off-canvas>
+    <button class="mobile-overlay-close" aria-label="Close menu" type="button" data-close>
+        <span>×</span>
+    </button>
+    <div class="menu-wrapper">
+        <ul class="vertical menu drilldown" data-drilldown>
+            <li><a href="">About</a></li>
+            <li><a href="">Volunteer</a></li>
+            <li><a href="">Donate</a></li>
+            <li>
+                <a href="#">Wards »</a>
+                <ul class="menu vertical nested">
+                    {% for ward in site.ward %}
+                    <li><a href="{{ ward.url }}">{{ ward.ward_number }} - {{ ward.alderman_first_name }} {{ ward.alderman_last_name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
+            <li><a href="">Contact</a></li>
+            <li><a href="">Search</a></li>
+        </ul>
+    </div>
+</div>
 <header class="section">
     <nav id="main-nav">
         <div class="grid-container">
             <div class="grid-x grid-margin-x align-center-middle">
-                <div class="cell small-4 medium-4 large-4">
+                <div class="cell small-4 medium-4 large-4 hide-for-small-only">
                     <ul>
                         <li><a href="">About</a></li>
                         <li><a href="">Volunteer</a></li>
                         <li><a href="">Donate</a></li>
                     </ul>
                 </div>
-                <div class="cell small-4 medium-4 large-4">
-                    <img src="{{site.url}}/assets/src/images/global/logo.png" alt="">
+                <div class="cell small-12 medium-4 large-4 show-for-small-only">
+                    <button  data-toggle="mobile-menu" id="mobile-menu-trigger">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </button>
                 </div>
-                <div class="cell small-4 medium-4 large-4">
+                <div class="cell small-8 medium-4 large-4">
+                    <a href="{{site.url}}"><img src="{{site.url}}/assets/src/images/global/logo.png" alt="Reclaim Fair Elections"></a>
+                </div>
+                <div class="cell small-4 medium-4 large-4 hide-for-small-only">
                     <ul>
                         <li><a href="">Wards</a></li>
                         <li><a href="">Contact</a></li>
