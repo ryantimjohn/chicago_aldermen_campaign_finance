@@ -25,7 +25,7 @@ function create_chart(data) {
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
   myChart.draw();
-
+  x.shapes.selectAll("text").attr("transform", "rotate(-45)"); //rotate text to not go off the screen
   d3.select("#totalBtn").on("click", function() {
     if (clicked) {
       clicked = false;
