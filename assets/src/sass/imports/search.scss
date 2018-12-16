@@ -1,0 +1,32 @@
+#search{
+  .input-group{
+    border-left:none;
+    button{
+      cursor: pointer;
+      background: #ffffff;
+    }
+  }
+  input.input-group-field{
+      border-right:none !important;
+  }
+}
+
+#search-container{
+  .cell:nth-child(1){
+    margin-right:5px;
+    @include mobile{
+      margin-right: 0.625rem;
+    }
+  }
+  .cell:nth-child(2){
+    margin-left:5px;
+    @include mobile{
+      margin-left: 0.625rem;
+    }
+  }
+  .button-container{
+    button{
+      width:100%;
+    }
+  }
+}

@@ -8,7 +8,9 @@ description: [
     " I want to live in a world where politicians take the needs of families like mine more seriously than the wants of wealthy campaign donors and developers."
 ]
 twitter:
-website: https://ryantimjohn.com/
+website:
+    url: https://ryantimjohn.com/
+    text: ryantimjohn.com
 facebook: ryantimjohn
 linkedin:
 email:

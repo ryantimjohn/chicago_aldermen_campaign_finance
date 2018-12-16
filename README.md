@@ -112,6 +112,12 @@ The image must have a jpg file extension.
 3. add image to `assets/src/images/partners` of the partners. Title the image `[partners name here].jpg`
 The image must have a jpg file extension.
 
+### Edit a partner
+
+1. Navigate to the  `_partners` directory and find the team member you want to edit
+
+2. Edit the partners's information in the YAML header
+
 
 ## Deployment
 TBD after release

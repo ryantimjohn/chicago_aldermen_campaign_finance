@@ -1,26 +1,368 @@
+.reveal.about{
+  width: 85% !important;
+  max-width: 900px;
+  padding:0px !important;
+  outline: 0;
+  border: none;
+  background: transparent;
+  overflow: hidden;
+  margin-bottom: 60px;
+  transition: all .3s ease-in-out;
+  @include tablet{
+    width: 95% !important;
+  }
+  @include mobile{
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    height: auto;
+  }
+  .container{
+    background: #ffffff;
+  }
+  .close-button{
+    z-index: 5;
+    transition: all .3s ease-in-out;
+    position: relative;
+    top: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: 0px;
+    display: block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+    margin-bottom: 10px;
+    @include tablet{
+      font-size: 16px;
+    }
+    @include mobile{
+      font-size: 14px;
+    }
+  }
+  h3{
+    margin-bottom: 2px;
+    font-weight: 400;
+    @include tablet{
+      font-size: 24px;
+    }
+    @include mobile{
+      font-size: 21px;
+    }
+  }
+  h4{
+    font-size: 16px;
+    color: #555555;
+    font-weight: 400;
+    @include tablet{
+      font-size: 14px;
+    }
+    @include mobile{
+      font-size: 13px;
+    }
+  }
+  .links{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    @include mobile{
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    a{
+      display: inline-block;
+      color: $dark-blue;
+      transition: all .3s ease-in-out;
+      padding-right:11px;
+      font-size: 15px;
+      @include mobile{
+        font-size: 14px;
+      }
+      &:last-child{
+        padding-left: 0px;
+      }
+      &:hover, &:focus{
+        color: darken($dark-blue, 20%);
+      }
+      i{
+        padding-right:3px;
+      }
+    }
+  }
+  .cell, .grid-x{
+    position: relative;
+  }
+  .content{
+    position: relative;
+    height: 500px;
+    @include tablet{
+      height: 450px;
+    }
+    @include mobile{
+      height: auto;
+    }
+    margin-right: 0px;
+    &:before {
+      content:'';
+      width:100%;
+      height:50px;
+      position:absolute;
+      left:-20px;
+      background:linear-gradient(transparent -50px, white);
+      bottom:0;
+      @include tablet{
+        left:-10px;
+      }
+    }
+  }
+  .copy{
+    overflow: auto;
+    height: 500px;
+    padding:60px 20px !important;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+    &::-webkit-scrollbar {
+      width: 0px;
+      background: transparent; /* make scrollbar transparent */
+    }
+    @include tablet{
+      padding:40px 10px !important;
+      height: 450px;
+    }
+    @include mobile{
+      height: auto;
+      padding: 30px 20px !important
+    }
+    p{
+      @include tablet{
+        font-size: 14px;
+      }
+    }
+  }
+  .bio{
+    padding:0 !important;
+    min-height: 500px;
+    margin-right:0px !important;
+    @include tablet{
+      min-height: 450px;
+    }
+    @include mobile{
+      min-height: 300px;
+    }
+    @include breakpoint(400px){
+      min-height: 220px;
+    }
+    .bio-pic{
+      background-size: cover;
+      background-position: top center;
+      background-repeat: no-repeat;
+      position: relative;
+      height: 100%;
+      width:100%;
+      z-index:3;
+      @include mobile{
+        background-repeat: initial;
+      }
+    }
+
+  }
+}
+#about{
+  .header{
+    margin-bottom: 60px;
+    @include tablet{
+      margin-bottom: 40px;
+    }
+    @include mobile{
+      margin-bottom: 30px;
+    }
+  }
+  h2{
+    margin-bottom: 10px;
+    text-align: center;
+    @include tablet{
+      font-size: 32px;
+    }
+  }
+  .share-this-tool{
+    margin-top: 20px;
+    &.xtra-pad{
+      margin-top: 40px;
+    }
+  }
+}
 .team-member{
   margin-bottom: 30px;
+  a{
+    outline: 0;
+    &:hover, &:focus{
+      .pic{
+        -webkit-filter:  grayscale(0);
+        filter: grayscale(0);
+      }
+    }
+  }
   .pic{
     width:100%;
-    height: 230px;
+    height: 180px;
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
+    transition: filter .3s ease-in-out;
+    -webkit-filter:  grayscale(100);
+    filter: grayscale(100);
     @include tablet{
       height: 300px;
     }
-    @include breakpoint(850px){
-      height: 250px;
+    @include breakpoint(1200px){
+      height: 150px;
+    }
+    @include tablet(){
+      height: 210px;
+    }
+    @include breakpoint(930px){
+      height: 170px;
+    }
+    @include breakpoint(790px){
+      height: 150px;
+    }
+    @include breakpoint(700px){
+      height: 130px;
     }
     @include mobile{
       height: 180px;
     }
-    @include breakpoint(400px){
+    @include breakpoint(480px){
       height: 130px;
+    }
+    @include breakpoint(380px){
+      height: 120px;
+    }
+    @include breakpoint(300px){
+      height: 80px;
     }
   }
   .title{
-    font-size: 16px;
+    font-size: 14px;
     margin-top: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+.intro.about{
+  p.lead{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 24px;
+    letter-spacing: 1px;
+    @include tablet{
+      font-size: 21px;
+    }
+    @include mobile{
+      font-size: 18px;
+    }
+  }
+  .copy{
+    margin-top:60px;
+    @include tablet{
+      margin-top: 50px;
+    }
+    @include mobile{
+      margin-top: 40px;
+    }
+  }
+}
+.internal-section{
+  margin-top:130px;
+  @include tablet{
+    margin-top: 100px;
+  }
+  @include mobile{
+    margin-top: 80px;
+  }
+  &:first-child{
+    margin-top: 0px;
+  }
+}
+.callout-section{
+  margin-bottom: 20px;
+  p{
+    font-weight: 400;
+    font-size: 1.5em;
+    line-height: 1.5;
+    @include tablet{
+      font-size: 1.2em;
+    }
+    @include mobile{
+      font-size: 1em;
+      margin-bottom: 25px;
+    }
+
+  }
+}
+.iframe{
+  iframe{
+    margin-top:40px;
+    width:100% !important;
+    height: 450px !important;
+    @include tablet{
+      height: 400px !important;
+      margin-top:30px;
+    }
+    @include breakpoint(850px){
+      height: 320px !important;
+    }
+    @include mobile{
+      height: 280px !important;
+      margin-top:15px;
+    }
+    @include breakpoint(500px){
+      height: 260px !important;
+    }
+    @include breakpoint(400px){
+      height: 210px !important;
+    }
+    @include breakpoint(330px){
+      height: 150px !important;
+    }
+  }
+}
+
+.partner{
+  margin-bottom: 90px;
+  &:last-child{
+    margin-bottom: 0px;
+  }
+  .button{
+    @include tablet{
+      margin-top: 30px;
+    }
+    @include mobile{
+      margin-top: 20px;
+    }
+  }
+  .logo{
+    @include tablet{
+      margin-bottom: 20px;
+    }
+    @include mobile{
+      margin-bottom: 15px;
+    }
+  }
+  a.title{
+    color: $black;
+    text-decoration: none;
+    margin-bottom: 20px;
+    &:hover, &:focus{
+      color: $red;
+    }
+    @include tablet{
+      display: none;
+    }
+    @include mobile{
+      display: none;
+      margin-bottom: 20px;
+    }
   }
 }

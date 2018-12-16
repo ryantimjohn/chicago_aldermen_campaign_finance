@@ -5,43 +5,53 @@ title: About
 
 <div class="main wrapper section">
     <h1 class="a11y-hidden">Contact</h1>
-    <div class="grid-container" id="contact">
+    <div class="grid-container" id="about">
         <div class="grid-x grid-margin-x align-center-middle">
-            <div class="cell small-11 medium-10 large-8">
-                <h1>Reclaim Fair Elections Task Force</h1>
-                <img src="{{site.url}}/assets/src/images/about/reclaimteam.jpg" alt="Reclaim Fair Elections Task Force">
-
-                <p class="lead">End pay-to-play in chicago</p>
-                <p>As we work to pass the Fair Elections Ordinance in the city of Chicago, our task force does research to connect the dots between the pay-to-play system in Chicago and the real life consequences for the people who reside here. We communicate these connections through talking to people at the doors, hosting political education workshops, and through this website. We work with partner organizations and supportive legislators to strategize around ending the corruption that results in economic, racial, and environmental injustice through strengthening campaign finance law.</p>
+            <div class="cell small-11 medium-10 large-9 about intro internal-section">
+                <h1 class="a11y-hidden">About</h1>
+                <div class="text-center">
+                    <div class="header">
+                        <h2>Reclaim Fair Elections Task Force</h2>
+                    </div>
+                    <img src="{{site.url}}/assets/src/images/about/reclaimteam.jpg" alt="Reclaim Fair Elections Task Force">
+                </div>
+                <div class="copy">
+                    <p class="lead">End pay-to-play in chicago</p>
+                    <p>As we work to pass the Fair Elections Ordinance in the city of Chicago, our task force does research to connect the dots between the pay-to-play system in Chicago and the real life consequences for the people who reside here. We communicate these connections through talking to people at the doors, hosting political education workshops, and through this website. We work with partner organizations and supportive legislators to strategize around ending the corruption that results in economic, racial, and environmental injustice through strengthening campaign finance law.</p>
+                </div>
             </div>
-            <div class="cell small-11 medium-10 large-8 share-this-tool">
+            <div class="cell small-11 medium-10 large-9 share-this-tool">
                 <div class="addthis_inline_share_toolbox"></div>
             </div>
-            <div class="cell small-11 medium-10 large-8">
-                <h2>Fair Elections Ordinance</h2>
-                <div class="grid-x grid-margin-x expand">
-                    <div class="cell small-11 medium-6 large-6">
+            <div class="cell small-11 medium-10 large-9 internal-section">
+                <div class="text-center header">
+                    <h2>Fair Elections Ordinance</h2>
+                </div>
+                <div class="grid-x grid-margin-x expand align-center-middle callout-section">
+                    <div class="cell small-11 medium-6 large-6 small-order-2 medium-order-1 large-order-1">
                         <img src="{{site.url}}/assets/src/images/about/SmallDonorMatching.png" alt="6:1 Small donor matching">
                     </div>
-                    <div class="cell small-11 medium-6 large-6">
+                    <div class="cell small-11 medium-6 large-6 small-order-1 medium-order-2 large-order-2">
                         <p>Our campaign finance system is broken. Campaigns have become far too expensive: in the 2015 Chicago municipal election, more than $40 million was spent on the mayoral race alone.</p>
                     </div>
                 </div>
             </div>
-            <div class="cell small-11 medium-10 large-8">
+            <div class="cell small-11 medium-10 large-9 iframe">
                 <p>79% of Chicago voters supported the 2015 ballot question calling for a small donor match campaign finance program. The Fair Elections fund will provide for each candidate a $6-to-$1 match on each individual contribution up to $175 as long as candidates do not accept any donations more than $500 from one individual source. This means that a small donor's donation of $175 would give the candidate $1050.</p>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ri-ahvNBcJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="cell small-11 medium-10 large-8 share-this-tool">
+            <div class="cell small-11 medium-10 large-9 share-this-tool">
                 <div class="addthis_inline_share_toolbox"></div>
             </div>
 
-            <div class="cell small-11 medium-10 large-8 team">
-                <h2>The Team</h2>
+            <div class="cell small-11 medium-10 large-9 team internal-section">
+                <div class="text-center header">
+                    <h2>The Team</h2>
+                </div>
                 <div class="grid-x grid-margin-x expand">
                     {% assign sorted_team = site.team | sort:'last_name' %}
                     {% for team_member in sorted_team %}
-                        <div class="cell small-6 medium-6 large-4">
+                        <div class="cell small-6 medium-4 large-3">
                             <div class="team-member">
                                 <a href="Javascript:void(0)" data-open="{{team_member.first_name}}"><div class="pic" style="background-image: url('{{site.url}}/assets/src/images/team/{{team_member.first_name | downcase}}-{{team_member.last_name | downcase}}.jpg')"></div></a>
                                 <h3 class="title">
@@ -51,35 +61,48 @@ title: About
                                 </h3>
                             </div>
                         </div>
-                        <div class="reveal" id="{{team_member.first_name}}" data-reveal>
-                            <div class="grid-x grid-margin-x expand">
-                                <div class="cell small-6 medium-6 large-6">
-                                    <img src="{{site.url}}/assets/src/images/team/{{team_member.first_name | downcase}}-{{team_member.last_name | downcase}}.jpg" alt="{{team_member.name}}">
+                        <div class="reveal about" id="{{team_member.first_name}}" data-animation-in="fade-in" data-animation-out="fade-out" data-reveal>
+                            <button class="close-button" data-close aria-label="Close modal" type="button">
+                                <span aria-hidden="true">close</span>
+                            </button>
+                            <div class="grid-x grid-margin-x expand container">
+                                <div class="cell small-12 medium-6 large-5 bio">
+                                    <div class="bio-pic" style="background-image: url('{{site.url}}/assets/src/images/team/{{team_member.first_name | downcase}}-{{team_member.last_name | downcase}}.jpg')"></div>
                                 </div>
-                                <div class="cell small-6 medium-6 large-6">
-                                    <h3>{{team_member.name}}</h3>
-                                    <h4>{{team_member.contribution}}</h4>
-                                    {% if team_member.twitter_handle %}
-                                        <a href="https://twitter.com/{{team_member.twitter_handle}}" target="_blank"><i class="fab fa-twitter"></i> @{{team_member.twitter_handle}}</a>
-                                    {% endif %}
+                                <div class="cell small-12 medium-6 large-7 content" >
+                                    <div class="copy">
+                                        <h3>{{team_member.name}}</h3>
+                                        <h4>{{team_member.contribution}}</h4>
+                                        <div class="links">
+                                            {% if team_member.twitter_handle.size  %}
+                                                {% for handle in team_member.twitter_handle %}
+                                                    <a href="https://twitter.com/{{handle.id}}" target="_blank"><i class="fab fa-twitter"></i> {{handle.id}}</a>
+                                                {% endfor %}
+                                            {% endif %}
 
-                                    {% if team_member.linkedin %}
-                                        <a href="{{team_member.linkedin}}" target="_blank"><i class="fab fa-linkedin-in"></i> {{team_member.name}}</a>
-                                    {% endif %}
+                                            {% if team_member.linkedin %}
+                                                <a href="{{team_member.linkedin}}" target="_blank"><i class="fab fa-linkedin-in"></i> {{team_member.name}}</a>
+                                            {% endif %}
 
-                                    {% if team_member.facebook %}
-                                        <a href="https://www.facebook.com/{{team_member.facebook}}" target="_blank"><i class="fab fa-facebook-f"></i> @{{team_member.facebook}}</a>
-                                    {% endif %}
+                                            {% if team_member.facebook %}
+                                                <a href="https://www.facebook.com/{{team_member.facebook}}" target="_blank"><i class="fab fa-facebook-f"></i> {{team_member.facebook}}</a>
+                                            {% endif %}
 
-                                    {% if team_member.website %}
-                                        <a href="{{team_member.website}}" target="_blank"><i class="fas fa-globe"></i> {{team_member.name}}</a>
-                                    {% endif %}
+                                            {% if team_member.website.size > 2 %}
+                                                {% for website in team_member.website %}
+                                                    <a href="{{website.url}}" target="_blank"><i class="fas fa-link"></i> {{website.text}}</a>
+                                                {% endfor %}
+                                            {% endif %}
+                                            {% if team_member.website.size == 2 %}
+                                                <a href="{{team_member.website.url}}" target="_blank"><i class="fas fa-link"></i> {{team_member.website.text}}</a>
+                                            {% endif %}
 
-                                    {% if team_member.email %}
-                                        <a href="mailto:{{team_member.email}}" target="_blank"><i class="fas fa-envelope"></i> {{team_member.email}}</a>
-                                    {% endif %}
-
-                                    <p>{{team_member.description}}</p>
+                                            {% if team_member.email %}
+                                                <a href="mailto:{{team_member.email}}" target="_blank"><i class="fas fa-envelope"></i> {{team_member.email}}</a>
+                                            {% endif %}
+                                        </div>
+                                        <p>{{team_member.description}}</p>
+                                    </div>
                                 </div>
                             </div>
 
@@ -87,18 +110,19 @@ title: About
                     {% endfor %}
                 </div>
             </div>
-            <div class="cell small-11 medium-10 large-8 partners">
-                <h2>The Partners</h2>
-                <p>The following groups make the work of the Fair Elections Taskforce possible. This is filler text.</p>
-
+            <div class="cell small-11 medium-10 large-9 partners internal-section">
+                <div class="text-center header">
+                    <h2>The Partners</h2>
+                    <p>The following groups make the work of the Fair Elections Taskforce possible.</p>
+                </div>
                 {% assign sorted_partners = site.partners | sort:'last_name' %}
                 {% for partner in sorted_partners %}
                     <div class="grid-x grid-margin-x partner expand">
-                        <div class="cell small-12 medium-4 large-5">
-                            <img src="{{site.url}}/assets/src/images/partners/{{partner.name | downcase}}.jpg" alt="{{partner.name}}">
+                        <div class="cell small-12 medium-12 large-5">
+                            <a target="_blank" href="{{partner.website}}"><img class="logo" src="{{site.url}}/assets/src/images/partners/{{partner.name | downcase}}.jpg" alt="{{partner.name}}"></a>
                         </div>
-                        <div class="cell small-12 medium-8 large-7">
-                            <h3>{{partner.name}}</h3>
+                        <div class="cell small-12 medium-12 large-7">
+                            <a target="_blank" class="title" href="{{partner.website}}"><h3>{{partner.name}}</h3></a>
                             <div class="description">
                                 <p>{{partner.description}}</p>
                                 <a target="_blank" href="{{partner.website}}" class="button yellow fill">{{partner.button}}</a>
@@ -107,7 +131,7 @@ title: About
                     </div>
                 {% endfor %}
             </div>
-            <div class="cell small-11 medium-10 large-8 share-this-tool">
+            <div class="cell small-11 medium-10 large-9 share-this-tool xtra-pad">
                 <div class="addthis_inline_share_toolbox"></div>
             </div>
         </div>

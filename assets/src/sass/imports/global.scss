@@ -21,6 +21,12 @@ body{
   min-width: 125px;
   font-size: 13px;
   padding: 15px 20px 14px 20px;
+  @include mobile{
+    font-size: 12px;
+  }
+  @include breakpoint(350px){
+    font-size: 10px;
+  }
   &:hover, &:focus, &:active{
     background: $black;
   }
@@ -123,7 +129,7 @@ input{
     line-height: 35px;
   }
   @include breakpoint(400px){
-    line-height: 30px;
+    line-height: 25px;
   }
 }
 
@@ -151,3 +157,15 @@ input, select{
 .share-this-tool{
   margin-top: 20px;
 }
+.grid-container{
+  max-width: 105em;
+}
+
+.reveal-overlay{
+  background-color: rgba(10, 10, 10, 0.8);
+}
+
+body.is-reveal-open {
+  overflow: visible;
+}
+

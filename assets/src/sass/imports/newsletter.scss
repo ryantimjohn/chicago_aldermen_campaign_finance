@@ -6,6 +6,12 @@
     text-align: center;
     letter-spacing: 0.54px;
     font-weight: 300;
+    @include mobile{
+      font-size: 14px;
+    }
+  }
+  .mc-field-group{
+    padding-bottom: 10px !important;
   }
   form{
     padding: 10px 0 10px 0;
