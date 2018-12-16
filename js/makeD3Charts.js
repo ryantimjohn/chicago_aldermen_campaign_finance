@@ -1,10 +1,7 @@
-var totalSvg = dimple.newSvg("#totalChartContainer", "80%", 450);
+var totalSvg = dimple.newSvg("#totalChartContainer", "100%", 450);
 var sectorSvg = dimple.newSvg("#sectorChartContainer", 800, 400);
 var myChart;
-window.onresize = function () {
-                totalSvg = dimple.newSvg("#totalChartContainer", "80%", 450);
-				myChart.draw();
-            };
+
 //create small donor vs large donor chart
 function create_chart(data) {
   var clicked = false;
