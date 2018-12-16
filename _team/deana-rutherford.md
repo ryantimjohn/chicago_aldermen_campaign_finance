@@ -9,5 +9,4 @@ website: https://www.deanarutherford.com/
 facebook:
 linkedin:
 email:
-img_src:
 ---

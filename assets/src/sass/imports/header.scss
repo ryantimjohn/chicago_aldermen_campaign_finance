@@ -50,7 +50,9 @@
   }
   .dropdown.menu > li > a {
     padding: 0;
-    margin-bottom: 10px;
+    @include breakpoint(1100px){
+      margin-bottom: 10px;
+    }
   }
   .dropdown.menu > li:last-child a{
     margin-bottom: 0px;

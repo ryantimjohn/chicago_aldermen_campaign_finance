@@ -9,5 +9,4 @@ website: https://www.facebook.com/CordobaChi/
 facebook:
 linkedin:
 email:
-img_src:
 ---

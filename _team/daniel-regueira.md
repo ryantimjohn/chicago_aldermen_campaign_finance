@@ -9,5 +9,4 @@ website: https://regueira.soy/disenador/
 facebook:
 linkedin:
 email:
-img_src:
 ---

@@ -88,12 +88,30 @@ Teams at Reclaim Chicago's Fair Elections Taskforce have been working to pass a 
     img_src:
     ---
     ```
+3. add image to `assets/src/images/team` of the team member. Title the image `[first name here]-[last name here].jpg`
+The image must have a jpg file extension.
 
 ### Edit a team member
 
 1. Navigate to the  `_team` directory and find the team member you want to edit
 
 2. Edit the team member's information in the YAML header
+
+### Add a partner
+1. Create a mark down file in `_partners` directory and name as with the team partners's name
+
+2. Add YAML header at the start of the file and fill in the values for the following keys if appropriate
+    ```
+    ---
+    name:
+    website:
+    button:
+    description:
+    ---
+    ```
+3. add image to `assets/src/images/partners` of the partners. Title the image `[partners name here].jpg`
+The image must have a jpg file extension.
+
 
 ## Deployment
 TBD after release

@@ -33,7 +33,7 @@ permalink: pretty
 
 collections:
   team:
-    output: true
+  partners:
   ward:
     output: true
 

@@ -9,5 +9,4 @@ website:
 facebook:
 linkedin:
 email:
-img_src:
 ---

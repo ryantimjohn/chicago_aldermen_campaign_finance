@@ -32,6 +32,23 @@ body{
       color: $white;
     }
   }
+  &.yellow{
+    border:2px solid $yellow;
+    color: $black;
+    text-decoration: none;
+    &:hover, &:focus, &:active{
+      background: $yellow;
+      color: $white;
+    }
+    &.fill{
+      background: $yellow;
+      &:hover, &:focus, &:active{
+        background: none;
+        border-color: $black;
+        color: $black;
+      }
+    }
+  }
 }
 .a11y-hidden{
   position: absolute;
