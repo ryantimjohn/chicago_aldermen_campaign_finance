@@ -1,0 +1,11 @@
+#volunteer{
+  .form{
+    margin-top: 30px;
+    @include mobile{
+      margin-top: 20px;
+    }
+    .cell{
+      margin-bottom: 15px;
+    }
+  }
+}
