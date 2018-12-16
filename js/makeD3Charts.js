@@ -1,5 +1,5 @@
 var totalSvg = dimple.newSvg("#totalChartContainer", "100%", 450);
-var sectorSvg = dimple.newSvg("#sectorChartContainer", 800, 400);
+var sectorSvg = dimple.newSvg("#sectorChartContainer", "100%", 450);
 var myChart;
 
 //create small donor vs large donor chart
@@ -16,6 +16,7 @@ function create_chart(data) {
   myChart.setBounds("22%", "0%", "40%", "80%");
   var x = myChart.addMeasureAxis("x", "amount");
   x.overrideMax = maxAmount;
+  x.ticks=2; //only draw two tick lines to avoid stuff running into itself
   var y = myChart.addCategoryAxis("y", "type");
   y.addOrderRule("amount", false);
   y.title = "";
