@@ -30,7 +30,7 @@ function create_chart(data) {
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
   //testing using a legend on the right side of the chart for mobile devices where the small display leads to label cutoff
-  myChart.addLegend("80%",1,"20%","20%"); //I am legend
+  myChart.addLegend("60%",1,"20%","20%"); //I am legend
   myChart.draw();
 y.titleShape.remove();
 
