@@ -50,15 +50,14 @@ if($("#search-button").length > 0){
                     if(ward === null){
                         display_error();
                     }else{
-                        alert.css('display', 'block');
+                        alert.css('display', 'none');
                         window.location.href = "../ward/" + ward;
                     }
+
                 }
             }).fail(function(error){
-            display_error();
-        }).catch(function(error){
-            display_error();
-        });
+                display_error();
+            });
 
     });
 
