@@ -24,10 +24,10 @@ function create_chart(data) {
   y.fontSize = "12px";
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
-  titleHandle=y.titleShape();
+  titleHandle=y.titleShape;
   myChart.draw();
   //titleHandle.attr("transform","rotate(-45)");
-  titlehandle.remove();
+  titleHandle.remove();
   d3.select("#totalBtn").on("click", function() {
     if (clicked) {
       clicked = false;
