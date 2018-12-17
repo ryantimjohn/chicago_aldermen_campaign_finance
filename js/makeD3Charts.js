@@ -1,4 +1,5 @@
 var totalSvg = dimple.newSvg("#totalChartContainer", "100%", 450);
+alert(""+totalSvg.getBBox());
 var sectorSvg = dimple.newSvg("#sectorChartContainer", "100%", 450);
 var myChart;
 
