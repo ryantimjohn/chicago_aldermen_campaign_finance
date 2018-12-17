@@ -13,7 +13,7 @@ function create_chart(data) {
   });
   var myChart = new dimple.chart(totalSvg, data_before);
 
-  myChart.setBounds("22%", "0%", "40%", "80%");
+  myChart.setBounds("30%", "0%", "40%", "80%");
   var x = myChart.addMeasureAxis("x", "amount");
   x.overrideMax = maxAmount;
   x.ticks=2; //only draw two tick lines to avoid stuff running into itself
