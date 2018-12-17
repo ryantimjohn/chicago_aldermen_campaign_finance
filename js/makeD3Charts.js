@@ -13,7 +13,7 @@ function create_chart(data) {
   });
   var myChart = new dimple.chart(totalSvg, data_before);
 
-  myChart.setBounds("30%", "0%", "40%", "80%");
+  myChart.setBounds("22%", "0%", "40%", "80%");
   var x = myChart.addMeasureAxis("x", "amount");
   x.overrideMax = maxAmount;
   x.ticks=2; //only draw two tick lines to avoid stuff running into itself
@@ -24,8 +24,9 @@ function create_chart(data) {
   y.fontSize = "12px";
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
+  titleHandle=y.titleShape();
   myChart.draw();
-  x.shapes.selectAll("text").attr("transform", "rotate(-45)"); //rotate text to not go off the screen
+  titleHandle.attr("transform","rotate(-45)");
   d3.select("#totalBtn").on("click", function() {
     if (clicked) {
       clicked = false;
