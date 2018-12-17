@@ -29,7 +29,7 @@ function create_chart(data) {
   y.fontSize = "12px";
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
-  myChart.addlegend(1,1,"20%","20%"); //I am legend
+  myChart.addLegend(1,1,"20%","20%"); //I am legend
   myChart.draw();
 y.titleShape.remove();
 
