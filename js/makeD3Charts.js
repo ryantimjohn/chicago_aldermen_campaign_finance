@@ -19,13 +19,15 @@ function create_chart(data) {
   x.ticks=2; //only draw two tick lines to avoid stuff running into itself
 
   var y = myChart.addCategoryAxis("y", "type");
+  y.fontSize = "12px";
     if (window.innerWidth <= 1400) { //minimum needed to avoid axis titles running off screen
-	  y.title=null;
 	  myChart.addLegend("60%",1,"20%","20%"); //I am legend
+	  y.fontSize="0px"; //make the labels invissible since they would be cut off anyway
   }
+  y.title="";
   y.addOrderRule("amount", false);
   y.noFormats = true;
-  y.fontSize = "12px";
+  
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
   
