@@ -26,7 +26,8 @@ function create_chart(data) {
   myChart.addSeries("type", dimple.plot.bar)
   titleHandle=y.titleShape();
   myChart.draw();
-  titleHandle.attr("transform","rotate(-45)");
+  //titleHandle.attr("transform","rotate(-45)");
+  titlehandle.remove();
   d3.select("#totalBtn").on("click", function() {
     if (clicked) {
       clicked = false;
