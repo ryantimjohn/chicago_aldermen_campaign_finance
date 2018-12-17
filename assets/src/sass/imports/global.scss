@@ -196,4 +196,26 @@ body.is-reveal-open {
   color: $red;
   font-size: 14px;
   display: none;
+  @include mobile{
+    font-size: 12px;
+  }
+}
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+  color: $red !important;
+  background: #f7e4e1 !important;
+}
+.parsley-errors-list.filled{
+  margin-left:0px;
+  color: $red !important;
+  background: #f7e4e1 !important;
+  list-style: none;
+  padding:5px 10px;
+  font-size: 14px;
+  @include mobile{
+    font-size: 12px;
+  }
+}
+
+.callout.success{
+  color:#27ae60;
 }

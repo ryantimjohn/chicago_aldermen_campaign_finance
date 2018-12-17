@@ -15,4 +15,16 @@
       margin-bottom: 15px;
     }
   }
+  .callout.success{
+    display: none;
+  }
+}
+
+#volunteer-loading{
+  width: 80px;
+  display: block;
+  visibility: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100%);
 }

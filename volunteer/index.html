@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: volunteer
 title: Volunteer
 ---
 
@@ -7,37 +7,46 @@ title: Volunteer
     <h1 class="a11y-hidden">Volunteer</h1>
     <div class="grid-container" id="volunteer">
         <div class="grid-x grid-margin-x align-center-middle">
-            <div class="cell small-11 medium-11 large-8">
+            <div class="cell small-12 medium-11 large-8">
                 <h1>Volunteer</h1>
-                <p>Please fill out the form below and an organizer will contact you about volunteering.</p>
+                <p class="onsuccess-hide">Please fill out the form below and an organizer will contact you about volunteering.</p>
             </div>
-            <div class="cell small-11 medium-11 large-8 form">
-                <div class="grid-x grid-margin-x">
-                    <div class="cell small-11 medium-6 large-6">
-                        <label for="firstname">First Name *</label>
-                        <input id="firstname" name="firstname"  type="text">
+            <div class="cell small-12 medium-11 large-8 form onsuccess-hide">
+                    <form action="" id="volunteer-form">
+                    <div class="grid-x grid-margin-x">
+                            <div class="cell small-11 medium-6 large-6">
+                                <label for="firstname">First Name *</label>
+                                <input id="firstname" name="firstname"  type="text" required="">
+                            </div>
+                            <div class="cell small-11 medium-6 large-6">
+                                <label for="lastname">Last Name *</label>
+                                <input id="lastname" name="lastname"  type="text" required="">
+                            </div>
+                            <div class="cell small-11 medium-12 large-12">
+                                <label for="email">Email *</label>
+                                <input id="email" name="email" type="email" required="">
+                            </div>
+                            <div class="cell small-11 medium-12 large-12">
+                                <label for="phone">Phone</label>
+                                <input id="phone" data-parsley-pattern="^[\d\+\-\.\(\)\/\s]*$" name="phone" type="text">
+                            </div>
+                            <div class="cell small-11 medium-12 large-12">
+                                <label  for="message">Message</label>
+                                <small>Let us know about your interests in fair elections and skills you can contribute!</small>
+                                <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                            </div>
+                            <div class="cell small-11 medium-12 large-12">
+                                <div class="callout alert">An error occurred, please try again later or email: ReclaimFairElections@gmail.com</div>
+                            </div>
+                            <div class="cell small-11 medium-12 large-12">
+                                <div class="callout success">
+                                    Thank you for signing up to volunteer! We will be in touch with you soon!
+                                </div>
+                                <img src="{{site.url}}/assets/src/images/global/loading.gif" id="volunteer-loading" alt="Loading">
+                                <button class="button red" id="volunteer-signup" type="button">Submit</button>
+                            </div>
                     </div>
-                    <div class="cell small-11 medium-6 large-6">
-                        <label for="lastname">Last Name *</label>
-                        <input id="lastname" name="lastname"  type="text">
-                    </div>
-                    <div class="cell small-11 medium-12 large-12">
-                        <label for="email">Email *</label>
-                        <input id="email" name="email" type="email">
-                    </div>
-                    <div class="cell small-11 medium-12 large-12">
-                        <label for="phone">Phone</label>
-                        <input id="phone" name="phone" type="text">
-                    </div>
-                    <div class="cell small-11 medium-12 large-12">
-                        <label id="message" for="">Message</label>
-                        <small>Let us know about your interests in fair elections and skills you can contribute!</small>
-                        <textarea name="message" id="message" cols="30" rows="10"></textarea>
-                    </div>
-                    <div class="cell small-11 medium-12 large-12">
-                        <button class="button red">Submit</button>
-                    </div>
-                </div>
+                </form>
             </div>
         </div>
     </div>
