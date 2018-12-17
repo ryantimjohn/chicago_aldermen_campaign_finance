@@ -1,5 +1,4 @@
 var totalSvg = dimple.newSvg("#totalChartContainer", "100%", 450);
-alert(""+totalSvg.getBBox());
 var sectorSvg = dimple.newSvg("#sectorChartContainer", "100%", 450);
 var myChart;
 
@@ -18,14 +17,19 @@ function create_chart(data) {
   var x = myChart.addMeasureAxis("x", "amount");
   x.overrideMax = maxAmount;
   x.ticks=2; //only draw two tick lines to avoid stuff running into itself
+
   var y = myChart.addCategoryAxis("y", "type");
+    if (window.innerWidth <= 1400) { //minimum needed to avoid axis titles running off screen
+	  y.title=null;
+	  
+  }
   y.addOrderRule("amount", false);
   y.title = "";
   y.noFormats = true;
   y.fontSize = "12px";
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
-
+  myChart.addlegend(1,1,"20%","20%"); //I am legend
   myChart.draw();
 y.titleShape.remove();
 
