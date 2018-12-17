@@ -21,18 +21,17 @@ function create_chart(data) {
   var y = myChart.addCategoryAxis("y", "type");
     if (window.innerWidth <= 1400) { //minimum needed to avoid axis titles running off screen
 	  y.title=null;
-	  
+	  myChart.addLegend("60%",1,"20%","20%"); //I am legend
   }
   y.addOrderRule("amount", false);
-  y.title = "";
   y.noFormats = true;
   y.fontSize = "12px";
   x.fontSize = "12px";
   myChart.addSeries("type", dimple.plot.bar)
-  //testing using a legend on the right side of the chart for mobile devices where the small display leads to label cutoff
-  myChart.addLegend("60%",1,"20%","20%"); //I am legend
+  
+  
   myChart.draw();
-y.titleShape.remove();
+
 
   d3.select("#totalBtn").on("click", function() {
     if (clicked) {
