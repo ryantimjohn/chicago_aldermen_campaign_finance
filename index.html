@@ -14,10 +14,10 @@ title: Home
             <div class="cell small-11 medium-10 large-8 find-your-alderman">
                 <h2>Find your alderman</h2>
                 <p class="description">Enter your street address here to find your alderman. Do not enter apartment number, city, state or zip code. (For example, enter only "1659 W Hubbard St" to find your alderman.)</p>
-                <input placeholder="Street Address" type="text" name="search">
+                <input placeholder="Street Address" id="streetAddress" type="text" name="search">
                 <div class="callout alert">An error occurred, we are unable to find your alderman. Please try again or try entering your street address another way.</div>
                 <img src="{{site.url}}/assets/src/images/global/loading.gif" id="search-loading" alt="Loading">
-                <button type="button" class="button red">Submit</button>
+                <button type="button" id="search-button" class="button red">Submit</button>
             </div>
             <div class="cell small-11 medium-10 large-8 share-this-tool">
                 <div class="addthis_inline_share_toolbox"></div>

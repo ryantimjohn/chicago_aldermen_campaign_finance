@@ -138,7 +138,6 @@ input{
   width:100% !important;
   @include mobile {
     font-size: 14px !important;
-    height: 35px !important;
   }
 }
 .main.wrapper{
@@ -193,6 +192,8 @@ body.is-reveal-open {
   overflow: visible;
 }
 
-label{
-  margin-bottom: 3px;
+.callout.alert{
+  color: $red;
+  font-size: 14px;
+  display: none;
 }

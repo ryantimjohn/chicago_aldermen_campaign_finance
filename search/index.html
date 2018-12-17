@@ -10,14 +10,18 @@ title: Search
                 <p>Enter your street address here to find your alderman. Do not enter apartment number, city, state or zip code. (For example, enter only "1659 W Hubbard St" to find your alderman.)</p>
                 <div class="grid-x grid-margin-x expand" id="search-container">
                     <div class="cell small-12 medium-8 large-9">
-                        <input name="search" placeholder="Street Address" type="text">
+                        <input name="streetAddress" id="streetAddress" placeholder="Street Address" type="text">
                     </div>
                     <div class="cell small-12 medium-4 large-3 button-container">
-                        <button type="button" class="button">Search</button>
+                        <button type="button" id="search-button" class="button">Search</button>
+                    </div>
+                    <div class="cell small-12">
+                        <div class="callout alert">An error occurred, we are unable to find your alderman. Please try again or try entering your street address another way.</div>
                     </div>
                 </div>
-                <div class="input-group">
-                </div>
+            </div>
+            <div class="cell small-11 medium-10 large-8">
+                <img src="{{site.url}}/assets/src/images/global/loading.gif" id="search-loading" alt="Loading">
             </div>
         </div>
     </div>

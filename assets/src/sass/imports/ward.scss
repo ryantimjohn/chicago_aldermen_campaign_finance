@@ -1,0 +1,74 @@
+#map{
+  background: #eeeeee;
+  height: 450px;
+  width: 100%;
+  @include mobile{
+    height: 300px;
+  }
+}
+.graph{
+  background: #eeeeee;
+  margin-bottom: 20px;
+}
+#ward{
+  .header{
+    margin-bottom:60px;
+    @include mobile{
+      text-align: center;
+    }
+  }
+  .footer-nav{
+    margin-top: 90px;
+    @include tablet{
+      margin-top: 60px;
+    }
+    @include mobile{
+      margin-top: 40px;
+      .cell{
+        text-align: center !important;
+      }
+    }
+    a{
+      font-size: 18px;
+      text-decoration: none;
+      font-family: $theme-font;
+      margin-bottom: 10px;
+      @include tablet{
+        font-size: 16px;
+      }
+    }
+  }
+}
+.ward-container{
+  margin-top:120px;
+  h3{
+    margin-bottom: 20px;
+    font-size: 38px;
+    @include mobile{
+      font-size: 24px;
+    }
+    @include breakpoint(380px){
+      font-size: 21px;
+    }
+    @include breakpoint(340px){
+      font-size: 19px;
+    }
+  }
+  .lead{
+    font-size: 24px;
+    font-weight:400;
+    margin-bottom: 20px;
+    @include mobile{
+      font-size: 18px;
+    }
+    @include breakpoint(380px){
+      font-size: 16px;
+    }
+    @include breakpoint(340px){
+      font-size: 14px;
+    }
+  }
+  .graphs{
+    margin-bottom: 30px;
+  }
+}

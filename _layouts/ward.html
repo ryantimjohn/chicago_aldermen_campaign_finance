@@ -1,8 +1,61 @@
 {% include header.html %}
 {% include navigation.html %}
-
-{{ content }}
+<div class="main wrapper section">
+    <div class="grid-container" id="ward">
+        <div class="grid-x grid-margin-x align-top align-center">
+            <div class="cell small-11 medium-10 large-9 header">
+                <div class="grid-x grid-margin-x expand">
+                    <div class="cell small-11 medium-6 large-6 small-order-2 medium-order-1 large-order-1">
+                        <img src="{{site.url}}/assets/src/images/aldermen/{{page.ward_number}}.jpg" alt="{{ page.alderman_first_name }} {% if page.alderman_middle_name %} {{ page.alderman_middle_name }} {% endif %} {{ page.alderman_last_name }}">
+                    </div>
+                    <div class="cell small-11 medium-6 large-6 small-order-1 medium-order-2 large-order-2">
+                        <h1>{{ page.alderman_first_name }}
+                            {% if page.alderman_middle_name %} {{ page.alderman_middle_name }} {% endif %}
+                            {{ page.alderman_last_name }}
+                        </h1>
+                        <h2>Ward {{ page.ward_number }}</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="cell small-11 medium-10 large-9 text-center">
+                <p>All campaign donations, mapped.</p>
+            </div>
+            <div class="cell small-11 medium-10 large-9">
+                <div id="map"></div>
+            </div>
+            <div class="cell small-11 medium-10 large-9 ward-container">
+                <div class="grid-x grid-margin-x expand align-top">
+                    <div class="cell small-12 medium-12 large-7 small-order-2 medium-order-2 large-order-1 align-center">
+                        <h3>{{ page.headline }}</h3>
+                        <p class="lead">{{ page.lead }}</p>
+                        <div class="grid-x grid-margin-x expand align-top align-center">
+                            <div class="cell small-12 medium-12 large-12">
+                                {{ content }}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell small-12 medium-12 large-5 small-order-1 medium-order-1 large-order-2 graphs">
+                        <div id="sectorChartContainer" class="graph"></div>
+                        <div id="totalChartContainer" class="graph"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="cell small-11 medium-6 large-6 footer-nav">
+                <div class="grid-x grid-margin-x expand align-top align-center">
+                    <div class="cell small-12 medium-6 large-6 text-left">
+                        {% if page.previous.url %}
+                            <a class="" href="{{page.previous.url}}">{{page.previous.title}}</a>
+                        {% endif %}
+                    </div>
+                </div>
+                    <div class="cell small-12 medium-6 large-6 text-right">
+                        {% if page.next.url %}
+                            <a class="" href="{{page.next.url}}">{{page.next.title}}</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
 
 {% include ward-footer.html %}
-
-<!--https://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html-->

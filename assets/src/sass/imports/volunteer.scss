@@ -4,6 +4,13 @@
     @include mobile{
       margin-top: 20px;
     }
+    small{
+      font-family: $theme-font;
+      font-weight: 400;
+      margin-top: 0px;
+      margin-bottom: 5px;
+      display: block;
+    }
     .cell{
       margin-bottom: 15px;
     }

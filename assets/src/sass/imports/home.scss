@@ -26,18 +26,5 @@
     margin-top:10px;
     line-height: 1;
   }
-  .callout.alert{
-    color: $red;
-    font-size: 14px;
-    display: none;
-  }
 }
 
-#search-loading{
-  width: 80px;
-  display: block;
-  visibility: hidden;
-  margin-left: auto;
-  margin-right: auto;
-  filter: grayscale(100%);
-}

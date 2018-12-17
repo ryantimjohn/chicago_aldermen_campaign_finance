@@ -81,11 +81,13 @@ Teams at Reclaim Chicago's Fair Elections Taskforce have been working to pass a 
     contribution:
     description:
     twitter_handle:
+        - id: Cam__Cunningham
     website:
+        url: https://www.facebook.com/CordobaChi/
+        text: Cordoba
     facebook:
     linkedin:
     email:
-    img_src:
     ---
     ```
 3. add image to `assets/src/images/team` of the team member. Title the image `[first name here]-[last name here].jpg`

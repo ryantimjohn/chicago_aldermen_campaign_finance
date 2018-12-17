@@ -16,6 +16,9 @@
   form{
     padding: 10px 0 10px 0;
   }
+  input[type=submit]{
+    line-height: 2px !important;
+  }
   .button {
     &:hover, &:active #mc_embed_signup .button:focus {
       background-color: #222 !important;
