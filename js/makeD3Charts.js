@@ -21,7 +21,7 @@ function create_chart(data) {
   var y = myChart.addCategoryAxis("y", "type");
   y.fontSize = "12px";
     if (window.innerWidth <= 1400) { //minimum needed to avoid axis titles running off screen
-	  myChart.addLegend(1,1,"10%","30%"); //I am legend
+	  myChart.addLegend("60%",1,"50px","100%"); //I am legend
 	  y.fontSize="0px"; //make the labels invissible since they would be cut off anyway
   }
   y.title="";
