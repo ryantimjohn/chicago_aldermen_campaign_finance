@@ -15,6 +15,7 @@ function getWard(wards, point) {
 }
 
 $(document).ready(function() {
+
   var wards;
   $.ajax({
       url: 'https://data.cityofchicago.org/api/geospatial/sp34-6z76?method=export&format=GeoJSON'
@@ -26,9 +27,16 @@ $(document).ready(function() {
 
   var form = $('#test');
   var cityscapeKey = "WwpHU6SLdp";
-  console.log(form);
 
-  if (form.length) {
+  if (form.length) { // I.e if we're on the front page
+    // Set handler for submitting the form when someone hits the enter key
+    form.keypress(function(event){
+      if(event.key === 'Enter'){
+        console.log('enter!');
+        form.submit();
+      }
+    });
+
     form.submit(function(event) {
       event.preventDefault();
 
