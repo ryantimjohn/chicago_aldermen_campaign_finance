@@ -4,7 +4,7 @@ function getWard(wards, point) {
     var wardToCheck = wards.features[i];
     var collection = turf.featureCollection([point]);
     var points = turf.pointsWithinPolygon(turf.point(point), wardToCheck);
-    console.log(points);
+    
     if (points.features.length) {
       ward = wardToCheck.properties.ward;
       break;
@@ -32,7 +32,6 @@ $(document).ready(function() {
     // Set handler for submitting the form when someone hits the enter key
     form.keypress(function(event){
       if(event.key === 'Enter'){
-        console.log('enter!');
         form.submit();
       }
     });
@@ -42,7 +41,7 @@ $(document).ready(function() {
 
       var address = encodeURIComponent(form.find('#address-field').val());
       var url = 'https://www.chicagocityscape.com/api/index.php?address=' + address + '&city=Chicago&state=IL&key=' + cityscapeKey;
-      console.log(url);
+      
       $.ajax({
           url: url
         })
