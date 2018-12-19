@@ -25,7 +25,7 @@ $(document).ready(function() {
       console.log(wards);
     });
 
-  var form = $('#test');
+  var form = $('#search-by-address');
   var cityscapeKey = "WwpHU6SLdp";
 
   if (form.length) { // I.e if we're on the front page
