@@ -31,7 +31,6 @@ $(document).ready(function() {
   if (form.length) { // I.e if we're on the front page
     // Set handler for submitting the form when someone hits the enter key
     form.keypress(function(event){
-      console.log(event.key);
       if(event.key === 'Enter'){
         form.submit();
       }
