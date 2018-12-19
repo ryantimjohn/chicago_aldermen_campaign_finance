@@ -103,6 +103,11 @@ function create_sector_chart(data) {
   y.title = "";
   y.addOrderRule("amount", false);
   y.fontSize = "12px";
+  if (window.innerWidth <= 1400) { //minimum needed to avoid axis titles running off screen
+	  sectorChart.addLegend("43%",1,"50px","100%"); //I am legend
+	  y.fontSize="0px"; //make the labels invissible since they would be cut off anyway
+	  sectorlChart.setBounds("10%", "0%", "40%", "80%"); //there are no axis labels anymore so we can scoot the chart farther to the left
+  }
   x.fontSize = "12px";
   sectorChart.addSeries("type", dimple.plot.bar);
   sectorChart.draw();
