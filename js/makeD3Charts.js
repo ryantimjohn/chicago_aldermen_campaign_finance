@@ -99,6 +99,7 @@ function create_sector_chart(data) {
   sectorChart.setBounds("20%", "0%", "40%", "80%");
   var x = sectorChart.addMeasureAxis("x", "amount");
   x.overrideMax = maxAmount;
+  x.ticks=2; //limit to 2 ticks to avoid them running into each other
   var y = sectorChart.addCategoryAxis("y", "type");
   y.title = "";
   y.addOrderRule("amount", false);
