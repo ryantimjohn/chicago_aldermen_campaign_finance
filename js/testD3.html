@@ -1,0 +1,40 @@
+<head>
+<script src="https://d3js.org/d3.v3.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ryantimjohn/chicago_aldermen_campaign_finance/js_libs/dimple.v2.0.0.min.js"></script>
+
+</head>
+<body>
+<h3>
+  Donation amounts
+</h3>  
+<div id="graphExplanationText">This is where the alderman got their money since the last aldermanic election in 2015.</div>
+<button id="toggler" onclick="toggleFEO()">Show with Fair Elections Ordinance</button>
+<button id="sectorToggle" style="display: none;"> </button>
+  <div id="sectorChartContainer"></div>
+<div id="totalChartContainer"></div>
+
+
+
+
+
+
+    <script type="text/javascript">
+     
+	locSplit=window.location.href.split("/");
+    wardID=locSplit[locSplit.length-1];
+    if (wardID.length < 1) { //trailing slash is present
+      wardID=locSplit[locSplit.length-2];
+    }
+	
+      d3.json("https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/web_json/Ward"+wardID+"_totals.json", function(data){
+        create_chart(data,false);
+		d3.json("https://raw.githubusercontent.com/ryantimjohn/chicago_aldermen_campaign_finance/master/web_json/Ward"+wardID+"_sector.json", function(data){
+        create_sector_chart(data,false);
+		
+      });
+      });
+		
+</script>
+
+<script src="makeD3Charts.js"> </script>
+</body>
