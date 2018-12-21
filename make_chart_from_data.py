@@ -19,6 +19,7 @@ def make_infographic(df, ward):
     print("Working on pie chart from ward {}".format(ward))
     matplotlib.rcParams['pdf.fonttype']= 42
     matplotlib.rcParams['ps.fonttype']=42
+    matplotlib.rcParams['text.latex.preamble'] = [r'\usepackage{lmodern}']
     plt.rc('text', usetex=True)
 
     font = {'weight' : 'normal',
@@ -76,7 +77,7 @@ def make_infographic(df, ward):
          verticalalignment='center')
 
     plt.tight_layout()
-    plt.savefig(os.path.join('infographics', 'ward_{}_pie.png'.format(ward)), dpi=1000)
+    plt.savefig(os.path.join('infographics', 'ward_{}_pie.pdf'.format(ward)), dpi=1000)
     plt.close()
 
 
@@ -258,7 +259,7 @@ def make_infographic(df, ward):
 
     # Show graphic
     plt.tight_layout()
-    plt.savefig(os.path.join('infographics', 'ward_{}_bar.png'.format(ward)), dpi=1000)
+    plt.savefig(os.path.join('infographics', 'ward_{}_bar.pdf'.format(ward)), dpi=1000)
     plt.close()
 
     """
