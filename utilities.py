@@ -70,7 +70,7 @@ def add_donor_type_size(df):
     df['donor_type_size'] = df['donor_type_size'].replace('', df['donor_type'] + ' ' + df['donation_size'])
     return df
 
-def ward_geo_lookup(df):
+def ward_geo_lookup(df, ward_):
     #ward stuff
     df['ward_if_chicago'] = ''
     df['lat'] = 41.87897
@@ -82,7 +82,7 @@ def ward_geo_lookup(df):
     for index, row in df.iterrows():
         counts += 1
         if df.loc[index, 'city'].strip().lower() == "chicago":
-            print("Looking up row {} of {}".format(counts, total))
+            print("Ward {} - Looking up row {} of {}".format(ward_, counts, total))
             response = requests.get(r"https://www.chicagocityscape.com/api/index.php?address={}&city=Chicago&state=IL&key={}".format(df.loc[index, 'address1'], api_key))
             result = json.loads(response.text)
             try:
@@ -103,7 +103,7 @@ def ward_geo_lookup(df):
                 pass
     return df
 
-def add_lat_long(df):
+def add_lat_long(df, ward_):
     df['full_address'] = (df['address1'] + ', ' +
             df['city'] + ', ' +
             df['state'] + ' ' +
@@ -117,7 +117,7 @@ def add_lat_long(df):
         #if the coord is default, look up in Nominatim
         try:
             if df.loc[index, 'lat'] == 41.87897 and df.loc[index, 'lng'] == -87.66063:
-                print("Looking up row {} of {}".format(counts, total))
+                print("Ward {} - Looking up row {} of {}".format(ward_, counts, total))
                 location = geolocator.geocode(df.loc[index, 'full_address'])
                 df.loc[index, 'lat'] = location.latitude
                 df.loc[index, 'lng'] = location.longitude
